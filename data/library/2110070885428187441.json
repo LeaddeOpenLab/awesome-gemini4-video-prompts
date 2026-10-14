@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:31.220Z",
+  "model": "gemini4",
+  "prompt": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square",
+  "promptTranslations": {
+    "en": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square"
+  },
+  "summary": "Gemini 4 Argon and Claude Opus 5.5 are given the prompt to build a 3D AAA-style pigeon game in Trafalgar Square, showing the code-writing phase and gameplay screen recording.",
+  "summaryEn": "London Pigeon 3D Game Generation with Gemini 4 Argon",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110070885428187441",
+    "canonicalUrl": "https://x.com/asmirkn/status/2110070885428187441",
+    "author": {
+      "username": "asmirkn",
+      "displayName": "Asmir",
+      "profileUrl": "https://x.com/asmirkn"
+    },
+    "publishedAt": "2026-10-13T18:11:16.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "i gave the new gemini 4 argon and opus 5.5 the same challenge\n\n\"build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square\"\n\nwhich one would you play? https://t.co/VBr59ur03T",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/asmirkn/status/2110070885428187441",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110070682281218048/img/YtDOAET0dStC-__U.jpg",
+        "analysisUrl": "https://x.com/asmirkn/status/2110070885428187441"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 2436
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/asmirkn/status/2110070885428187441",
+        "text": "Asmir on X: \"i gave the new gemini 4 argon and opus 5.5 the same challenge\n\n\"build me a triple A level 3d game where i&#x27;m a london pigeon stealing chips off tourists in trafalgar square\"\n\nwhich one would you play?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAsmir on X: \"i gave the new gemini 4 argon and opus 5.5 the same challenge\n\n\"build me a triple A level 3d game where i&#x27;m a london pigeon stealing chips off tourists in trafalgar square\"\n\nwhich one would you play?\"\n\n\n\nAsmir\n\n@asmirkn\n\n\n\n\ni gave the new gemini 4 argon and opus 5.5 the same challenge\n\n\"build me a triple A level 3d game where i&#x27;m a london pigeon stealing chips off tourists in trafalgar square\"\n\nwhich one would you play?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:11 PM · Oct 13, 2026·2,451\nViews\n\n\n\n\n\n4\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAsmir@asmirknFollow\nbuilding an ai cofounder that says no when you’re avoiding the real work + documenting what i learn\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsmir\n\n@asmirkn\n\n\n\n\ni gave the new gemini 4 argon and opus 5.5 the same challenge\n\n\"build me a triple A level 3d game where i&#x27;m a london pigeon stealing chips off tourists in trafalgar square\"\n\nwhich one would you play?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:11 PM · Oct 13, 2026·2,451\nViews\n\n\n\n\n\n4\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "asmirkn"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/asmirkn/status/2110070885428187441",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110070682281218048/img/YtDOAET0dStC-__U.jpg",
+  "coverPath": "covers/2110070885428187441.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110070682281218048",
+    "x-post:2110070885428187441"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "London Pigeon 3D Game Generation with Gemini 4 Argon",
+      "summary": "Gemini 4 Argon and Claude Opus 5.5 are given the prompt to build a 3D AAA-style pigeon game in Trafalgar Square, showing the code-writing phase and gameplay screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "i gave the new gemini 4 argon and opus 5.5 the same challenge"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square",
+        "englishText": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays the live generation of the code followed by playable 3D gameplay of 'Beak & Chip: Trafalgar Square Heist' created by Gemini 4 Argon side-by-side with Claude Opus 5.5.",
+        "textualResultQuote": "Same prompt. One shot each. Gemini 4 Argon Build time 4m 41s, Code written (tokens) 34,690"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D web graphics library used to render the game world and pigeon flight mechanics",
+          "evidence": "Writing the game and rendering in 3D canvas environment via API calls",
+          "status": "inferred"
+        },
+        {
+          "name": "Web Browser",
+          "role": "Execution runtime for the generated interactive 3D game",
+          "evidence": "Interactive gameplay canvas rendered with UI overlays and controls",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "London Pigeon Trafalgar Square 3D Game",
+        "topic": "games-interactive",
+        "tags": [
+          "3d-game",
+          "three.js",
+          "gemini-4",
+          "canvas-interactive",
+          "pigeon"
+        ]
+      },
+      "targetModelRole": "Generates the complete 3D game source code one-shot based on the natural language instruction.",
+      "outputSource": "Web browser canvas rendering the Gemini-generated JavaScript/Three.js code",
+      "divisionEvidence": "Screen shows 'Writing the Game' code generation stage followed by 'Beak & Chip' game execution with 3D controls and interactive elements.",
+      "video": {
+        "shots": "Single continuous side-by-side split-screen comparison recording ending on a comparison stats graphic",
+        "duration": "32s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The post explicitly documents Gemini 4 Argon generating code for an interactive 3D playable game scene, shares the verbatim prompt, and provides a screen recording of the resulting output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/asmirkn/status/2110070885428187441",
+        "start": 64,
+        "end": 171
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/asmirkn/status/2110070885428187441",
+        "author": "asmirkn",
+        "postId": "2110070885428187441",
+        "publishedAt": "2026-10-13T18:11:16.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:40.726Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon and Claude Opus 5.5 are given the prompt to build a 3D AAA-style pigeon game in Trafalgar Square, showing the code-writing phase and gameplay screen recording.",
+    "summaryEn": "London Pigeon 3D Game Generation with Gemini 4 Argon",
+    "originalPrompt": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square",
+    "sourceRange": {
+      "start": 64,
+      "end": 171
+    },
+    "translations": {
+      "zh": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square",
+      "en": "build me a triple A level 3d game where i'm a london pigeon stealing chips off tourists in trafalgar square"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "London Pigeon Trafalgar Square 3D Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays the live generation of the code followed by playable 3D gameplay of 'Beak & Chip: Trafalgar Square Heist' created by Gemini 4 Argon side-by-side with Claude Opus 5.5."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

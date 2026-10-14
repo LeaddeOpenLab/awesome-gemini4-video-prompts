@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:30.093Z",
+  "model": "gemini4",
+  "prompt": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible.",
+  "promptTranslations": {
+    "en": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible."
+  },
+  "summary": "Comparison of Gemini 4 Pro and Opus 5 generating an interactive 3D dragon with Three.js on a white background.",
+  "summaryEn": "Gemini 4 Pro 3D Dragon in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101439985136136239",
+    "canonicalUrl": "https://x.com/AIBoticssq/status/2101439985136136239",
+    "author": {
+      "username": "AIBoticssq",
+      "displayName": "AIBotics",
+      "profileUrl": "https://x.com/AIBoticssq"
+    },
+    "publishedAt": "2026-09-19T22:35:09.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "🚨 GEMINI 4 PRO IS GOING HEAD-TO-HEAD WITH OPUS 5.\n\nI gave both models the exact same prompt:\n\n“Create a 3D dragon using Three.js. Use a white background so the main object stays visible.”\n\nOpus 5 was running at Max effort.\n\nGemini 4 Pro still managed to keep up.\n\nAnd that’s the interesting part.\n\nThis isn’t a benchmark score. It’s the actual output side by side, built from the same prompt.\n\nGemini 4 Pro is starting to look seriously competitive for complex visual coding.\n\nWhich one would you pick?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIBoticssq/status/2101439985136136239",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101439794840502272/img/w8Vu4To72O8FweuO.jpg",
+        "analysisUrl": "https://x.com/AIBoticssq/status/2101439985136136239"
+      }
+    ],
+    "metrics": {
+      "likeCount": 29,
+      "repostCount": 2,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1300
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AIBoticssq/status/2101439985136136239",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101439794840502272/img/w8Vu4To72O8FweuO.jpg",
+  "coverPath": "covers/2101439985136136239.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101439794840502272",
+    "x-post:2101439985136136239"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Pro 3D Dragon in Three.js",
+      "summary": "Comparison of Gemini 4 Pro and Opus 5 generating an interactive 3D dragon with Three.js on a white background.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Pro",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "🚨 GEMINI 4 PRO IS GOING HEAD-TO-HEAD WITH OPUS 5. I gave both models the exact same prompt"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible.",
+        "englishText": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows side-by-side screen captures of animated 3D dragons rendered with Three.js on white backgrounds.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL rendering engine",
+          "evidence": "“Create a 3D dragon using Three.js. Use a white background so the main object stays visible.”",
+          "sourceUrl": "https://x.com/AIBoticssq/status/2101439985136136239",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D WebGL Dragon Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "dragon",
+          "interactive-3d",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates 3D scene script using Three.js",
+      "outputSource": "Web browser executing generated Three.js script",
+      "divisionEvidence": "Gemini 4 Pro generated code to construct the 3D dragon scene, rendered live in the browser.",
+      "video": {
+        "shots": "1",
+        "duration": "00:33",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Includes explicit Gemini 4 declaration, complete original prompt, and screen recording of the rendered 3D animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIBoticssq/status/2101439985136136239",
+        "start": 96,
+        "end": 187
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIBoticssq/status/2101439985136136239",
+        "author": "AIBoticssq",
+        "postId": "2101439985136136239",
+        "publishedAt": "2026-09-19T22:35:09.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:31.172Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison of Gemini 4 Pro and Opus 5 generating an interactive 3D dragon with Three.js on a white background.",
+    "summaryEn": "Gemini 4 Pro 3D Dragon in Three.js",
+    "originalPrompt": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible.",
+    "sourceRange": {
+      "start": 96,
+      "end": 187
+    },
+    "translations": {
+      "zh": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible.",
+      "en": "Create a 3D dragon using Three.js. Use a white background so the main object stays visible."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D WebGL Dragon Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows side-by-side screen captures of animated 3D dragons rendered with Three.js on white backgrounds."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

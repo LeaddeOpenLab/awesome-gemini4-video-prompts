@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:30.651Z",
+  "model": "gemini4",
+  "prompt": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.",
+  "promptTranslations": {
+    "en": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel."
+  },
+  "summary": "Gemini 4 Argon generated a full 3D WebGL village simulation with procedural chiptune music, a cartoon ice cream van, and an animated chasing weasel from a single text prompt.",
+  "summaryEn": "Gemini 4 Argon 3D Village Weasel Chase Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110118088482095364",
+    "canonicalUrl": "https://x.com/kerstov/status/2110118088482095364",
+    "author": {
+      "username": "kerstov",
+      "displayName": "Kerstov",
+      "profileUrl": "https://x.com/kerstov"
+    },
+    "publishedAt": "2026-10-13T21:18:51.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "One prompt. 12 minutes. One weasel with absolutely zero chill. 🦦🍦\n\nGemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes.\nPlay it, then compare 23 AI takes on the exact same prompt:\n\nhttps://t.co/57nkW23o7v https://t.co/atRwlFWsVJ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kerstov/status/2110118088482095364",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110117833493319680/img/Nbl8JmM_RUIuesiQ.jpg",
+        "analysisUrl": "https://x.com/kerstov/status/2110118088482095364"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 33
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://yellow-hill-0a2889b03.7.azurestaticapps.net/?experiment=argon#experiment",
+        "text": "\n\n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Bifteki Crew — AI Experiments\n    \n    \n  \n  \n    \n      \n        \n          \n          BIFTEKI\nCREW\n        \n        Independent experiments\nin machine-made play\n\n        \n      \n\n      \n        \n          AI EXPERIMENTSISSUE 001 · 2026\n\n          \n            One prompt.\n            23 weasels.\n          \n\n          \n            The same prompt. Twenty-three AI takes on a village, an ice-cream van, and a very determined weasel. Pick one and play.\n\n            LIVE WEBGLPROCEDURAL MUSICONE PROMPT ↗\n\n          \n\n        \n\n        \n          \n            The weasel run / 001\n\n            \n\n          \n\n          \n\n          CHOOSE A WORLD\n          \n          \n            \n              \n\n              \n                Kimi K3 · Weazel Chase!\n\n                \n                  EXPERIMENT · EST. 16 JUL 2026\n                  /\n                  MODEL OUT · 16 JUL 2026 ↗\n                \n\n              \n\n              COPY LINKOPEN FULL ↗\n\n            \n\n            \n              \n              LIVE / 01\n\n            \n\n          \n\n\n          \n            Choose a world23\n\n            EXPERIMENT DATE · OLDEST FIRST\n\n            Find a model\n          \n            \n              01\n              KIMI K3Maximum sugar rush\n              ↗\n            \n            \n              02\n              GPT 5.6 SOLGraphic design brain\n              ↗\n            \n            \n              03\n              CLAUDE FABLE 5Sunset storyteller\n              ↗\n            \n            \n              04\n              GLM 5.2Simulation purist\n              ↗\n            \n            \n              05\n              GEMINI 3.5 FLASHControl-room maximalist\n              ↗\n            \n            \n              06\n              GROK 4.5Cinematic charmer\n              ↗\n            \n            \n              07\n              DEEPSEEK V4 PROVillage gardener\n              ↗\n            \n            \n              08\n              SONNET 5 · MAXPatient self-critic\n              ↗\n            \n            \n              09\n              OPUS 5 · HIGHToon-world builder\n              ↗\n            \n            \n              10\n              QWEN 3.8Pixel-postcard maker\n              ↗\n            \n            \n              11\n              GROK 4.6Clay-daydream director\n              ↗\n            \n            \n              12\n              QWEN3.8-27B · LOCALOne-GPU island maker\n              ↗\n            \n            \n              13\n              CLAUDE FABLE 5.1Chase-film choreographer\n              ↗\n            \n            \n              14\n              CHATGPT 6 ASTRAProduct-design optimist\n              ↗\n            \n            \n              15\n              DEEPSEEK V4.1 FLASHTerrain-synth adventurer\n              ↗\n            \n            \n              16\n              GROK 4.7 · HIGHCharacter-comedy director\n              ↗\n            \n            \n              17\n              OPUS 5.5Stunt-show showrunner\n              ↗\n            \n            \n              18\n              MIMO 2.6Neon-arcade instigator\n              ↗\n            \n            \n              19\n              GPT-6 SOLScenic-route designer\n              ↗\n            \n            \n              20\n              SONNET 5.5Living-village composer\n              ↗\n            \n            \n              21\n              HAIKU 5.5Golden-hour chaser\n              ↗\n            \n            \n              22\n              MUSE WONDERCandy-village sprinter\n              ↗\n            \n            \n              23\n              GEMINI 4 ARGONStunt-filled village\n              ↗\n            \n          \n\n            No models match. Try another name.\n\n          \n          \n\n          Original outputs, running live. Click inside for sound.\nSwitch worlds to compare. Every selection has a shareable link.\n\n        \n\n        \n          \n            \n              THE COLLECTION\nA closer look.\n\n\n              Explore the worlds, trace the timeline, or see how each was built.\n\n            \n\n            \n\n            \n              \n                \n                  THE EXPERIMENT LEDGER / 2026\n\n                  When each world began.\n\n                \n\n                Experiment dates alongside each model’s first public announcement.\n\n              \n\n              \n                \n                  Chronology\n                  Provider lanes\n                \n\n                APR — OCT 2026 · 23 RUNS\n              \n\n               MODEL RELEASE EXPERIMENTExperiment dates are file-based estimates; model dates use first public announcements, which can precede app access.\n\n              \n\n              \n\n            \n\n            \n            FIRST 8 OF 23\nSHOW ALL 23 ↓\n\n            \n              \n                01 / KIMI K3THREE.JS\n\n                \n                  \n\n\n\n                  \n\n\n                \n\n                \n                  THE ARCADE TAKE\n\n                  Weazel\nChase!\n\n                  Bright, toy-box energy. A bold game-like HUD, bouncing title treatment, and a sugar-fuelled orbit around the village.\n\n                  VibeSaturday morning chaos\nSignatureBig playful UI\n\n                  LAUNCH KIMI’S WORLD ↗\n                \n\n              \n\n              \n                02 / GPT 5.6 SOLTHREE.JS\n\n                \n                  WILD\nWHISTLE\nVILLAGE\n\n                  \n\n\n                \n\n                \n                  THE EDITORIAL TAKE\n\n                  Wild Whistle\nVillage\n\n                  Confident art direction with restrained low-poly forms, a typographic poster layout, and a warm, tactile palette.\n\n                  VibeIndie design annual\nSignatureStrong composition\n\n                  LAUNCH GPT’S WORLD ↗\n                \n\n              \n\n              \n                03 / CLAUDE FABLE 5RAW WEBGL\n\n                \n                  \n✦　·　✦　·\n\n                  🍦\n\n\n                \n\n                \n                  THE CINEMATIC TAKE\n\n                  Mr. Swirly\n& the Weasel\n\n                  A dreamy evening round built without a 3D library—custom geometry, shaders, lighting, and music, all in one HTML file.\n\n                  VibeBedtime story gone rogue\nSignatureFrom-scratch rendering\n\n                  LAUNCH CLAUDE’S WORLD ↗\n                \n\n              \n\n              \n                04 / GLM 5.2THREE.JS\n\n                \n                  \n\n\n\n                  \n⌂　⌂\n　⌂\n\n                \n\n                \n                  THE SIMULATION TAKE\n\n                  Weazel\nVillage Sim\n\n                  Direct and simulation-first. A broad low-poly diorama, an oval road, an endlessly orbiting camera, and a chase always in frame.\n\n                  VibePlayable tabletop model\nSignatureClear simulation loop\n\n                  LAUNCH GLM’S WORLD ↗\n                \n\n              \n\n              \n                05 / GEMINI 3.5 FLASHTHREE.JS\n\n                \n                  \n\n                  \n\n                  SPEED45RAGE87%\n\n                  🍦\n⚡\n\n                \n\n                \n                  THE CONTROL-ROOM TAKE\n\n                  Weasel Chase\nSimulator\n\n                  The maximalist one: live metrics, four cameras, day/night and speed controls, prop spawning, particles, rage attacks, and reactive audio.\n\n                  VibeArcade command center\nSignatureDeep interactive controls\n\n                  LAUNCH GEMINI’S WORLD ↗\n                \n\n              \n\n              \n                06 / GROK 4.5THREE.JS\n\n                \n                  \n\n\n\n                  ♪\n\n\n                  FOLLOW　·　CINEMA\n\n                \n\n                \n                  THE ROAD-MOVIE TAKE\n\n                  Weazel Chase\nIce Van Village\n\n                  Warm, polished, and cinematic. Detailed procedural scenery, playful status quips, musical flourishes, and carefully choreographed camera modes.\n\n                  VibeCandy-colored road movie\nSignatureCamera choreography\n\n                  LAUNCH GROK’S WORLD ↗\n                \n\n              \n\n              \n                07 / DEEPSEEK V4 PROTHREE.JS\n\n                \n                  \n\n\n                  \n\n\n                  ⌂　⌂\n　⌂　⌂\n\n                  ♠　♠　♠\n　♠　♠\n\n                  \n\n                \n\n                \n                  THE DIORAMA TAKE\n\n                  Weazel\nVillage\n\n                  A generous, garden-like world packed with trees, flowers, bushes, crop rows, houses, and a looping road—presented with almost no interface at all.\n\n                  VibeSunlit model railway\nSignatureDense village detail\n\n                  LAUNCH DEEPSEEK’S WORLD ↗\n                \n\n              \n\n              \n                08 / SONNET 5 · MAXTHREE.JS\n\n                \n                  \n\n\n\n                  ♣　♣　♣　♣\n\n                  \n\n                  \n\n                  🐿️ CHASE CAM\n\n                \n\n                \n                  THE CAREFUL TAKE\n\n                  Weasel Chase\nA Tiny Village\n\n                  Polished toon shading, hand-built characters, canvas textures, lively banking, and a chase camera—refined through an unusually patient self-checking pass.\n\n                  VibeSaturday cartoon road trip\nSignatureSelf-corrected direction\n\n                  LAUNCH SONNET’S WORLD ↗\n                \n\n              \n\n              \n                09 / OPUS 5 · HIGHTHREE.JS\n\n                \n                  \n\n\n\n                  ⌂　⌂　⌂\n\n\n                  🍦\n\n\n                  CAM: CHASE\nGAP: 4.2M\n♪ CHIPTUNE ON\n\n                \n\n                \n                  THE WORLD-BUILDER TAKE\n\n                  Ice Scream\nVillage\n\n                  A lavish toon-shaded simulation with villagers, fields, ponds, shops, a windmill, five cameras, daylight shifts, speed controls, particles, and reactive chase audio.\n\n                  VibeToy-town chase epic\nSignatureDeep village systems\n\n                  LAUNCH OPUS’S WORLD ↗\n                \n\n              \n\n              \n                10 / QWEN 3.8THREE.JS\n\n                \n                  \n\n\n\n                  ⌂　⌂　⌂\n♪　♫\n\n                  🍦\n\n\n                  WEAZEL CHASE ♪\n\n                \n\n                \n                  THE PIXEL-POSTCARD TAKE\n\n                  Weazel\nChase ♪\n\n                  A warm low-poly postcard with a custom gradient sky, rolling terrain, chimney smoke, floating music notes, lively character animation, and restrained arcade framing.\n\n                  VibeGolden-hour cartridge\nSignatureAtmospheric simplicity\n\n                  LAUNCH QWEN’S WORLD ↗\n                \n\n              \n\n              \n                11 / GROK 4.6THREE.JS + FX\n\n                \n                  \n\n\n\n                  \n⌁　⌁\n\n                  🍦\n\n\n                  SCOOOOOOP!\n\n                \n\n                \n                  THE CLAY-DAYDREAM TAKE\n\n                  Weazel Chase\nIce Cream Village\n\n                  A soft golden-hour world with toon ramps, wind-bent crops, portrait-led UI, birds and bugs, speech bubbles, three cameras, bloom, and a full eight-bar chiptune.\n\n                  VibePastel clay road movie\nSignatureAtmosphere + post FX\n\n                  LAUNCH GROK 4.6’S WORLD ↗\n                \n\n              \n\n              \n                12 / QWEN3.8-27B · LOCALTHREE.JS\n\n                \n                  \n\n\n                  \n\n\n                  ⌂　⌂\n　⌂　♜\n\n                  🍦\n\n\n                  1 × RTX 4090\n\n                \n\n                \n                  THE ONE-GPU TAKE\n\n                  Weazel\nVillage\n\n                  A cheerful floating-island diorama with houses, crops, pond life, a windmill, drifting clouds, butterflies, orbit and follow cameras, speed control, smoke, and a custom chiptune.\n\n                  VibeStorybook sky island\nSignatureLocal 27B · one 4090\n\n                  LAUNCH LOCAL QWEN’S WORLD ↗\n                \n\n              \n\n              \n                13 / CLAUDE FABLE 5.1THREE.JS\n\n                \n                  \n                  CUTS ON THE BAR\n\n                  WEAZELTON · 19:00\n\n                \n\n                \n                  THE CHOREOGRAPHED TAKE\n\n                  WEAZEL\nCHASE\n\n                  A painterly golden-hour valley with toon characters, soft gouache terrain, a music-quantized camera director, reactive chase events, three camera modes, and a deeply layered procedural song and SFX engine.\n\n                  VibeGolden-hour chase film\nSignatureBar-line camera cuts\n\n                  LAUNCH FABLE 5.1’S WORLD ↗\n                \n\n              \n\n              \n                14 / CHATGPT 6 ASTRAREACT + THREE.JS\n\n                \n                  AN ENDLESS SUMMER AFTERNOON\n\n                  scoop\n& scoot.\n\n                  PISTACHIO VILLAGE · 24°\n\n                  ◐♪1×\n\n                \n\n                \n                  THE PRODUCT-DESIGN TAKE\n\n                  scoop\n& scoot.\n\n                  A polished orthographic diorama with a day/night transition, lap tracking, pause and speed controls, a follow camera, responsive HUD, birds, fireflies, dust, and a four-part chiptune.\n\n                  VibePistachio travel poster\nSignaturePolished control dock\n\n                  LAUNCH ASTRA’S WORLD ↗\n                \n\n              \n\n              \n                15 / DEEPSEEK V4.1 FLASHTHREE.JS\n\n                \n                  \n\n\n\n                  ✣\n⌂　⌂　⌂\n\n                  🍦\n\n\n                  SUNNY TOUR / 142 BPM\n\n                \n\n                \n                  THE TERRAIN-SYNTH TAKE\n\n                  Ice Cream\nRun\n\n                  A richly faceted playground with noise-built terrain, a shader sky, toon ramps, fields, flowers, birds, a windmill, two cameras, and three switchable procedural chiptunes.\n\n                  VibeSunlit procedural playground\nSignatureNoise-built landscape\n\n                  LAUNCH DEEPSEEK 4.1’S WORLD ↗\n                \n\n              \n\n              \n                16 / GROK 4.7 · HIGHTHREE.JS\n\n                \n                  \n\n\n\n                  SCOOP\nCHASE\n\n                  ♪\n\n\n                  TAIL HIGH. PLANS NONEXISTENT.\n\n                \n\n                \n                  THE CHARACTER-COMEDY TAKE\n\n                  Scoop\nChase\n\n                  A pastel village comedy starring Whippy and Nib, with four shifting chase states, click-triggered honks and yelps, animated wildlife, shader water and sky, and a beat-reactive soundtrack.\n\n                  VibePastel slapstick road movie\nSignatureChase-state choreography\n\n                  LAUNCH GROK 4.7’S WORLD ↗\n                \n\n              \n\n              \n                17 / OPUS 5.5THREE.JS\n\n                \n                  \n\n⌂　⌂　⌂\n\n                  WEAZEL\nCHASE\n\n                  !\n\n\n                  BACKFLIP!\nHONKS 04 · STUNTS 07\n\n                \n\n                \n                  THE MOOD-MACHINE TAKE\n\n                  Weazel Chase\nLittle Whipford\n\n                  A full cartoon stunt show with seven weasel moods, reactive honks and jingles, speech bubbles, an automatic shot director, four camera modes, live chase stats, and a time-of-day scrubber.\n\n                  VibePlayable cartoon broadcast\nSignatureSeven-state stunt cycle\n\n                  LAUNCH OPUS 5.5’S WORLD ↗\n                \n\n              \n\n              \n                18 / MIMO 2.6THREE.JS\n\n                \n                  \n\n\n\n                  WEAZEL\nCHASE\n\n                  🍦\n\n\n                  WEAZEL RAGE\n93%\nSPACE / HYPE\n\n                \n\n                \n                  THE NEON-ARCADE TAKE\n\n                  Weazel Chase\nIce Cream Run\n\n                  A scanlined countryside cartridge with rage and lap telemetry, three cameras, speed control, a chaos-boosting hype button, sparkling particles, frantic character animation, and a crunchy chiptune.\n\n                  VibeNeon countryside cartridge\nSignatureHype-button chaos\n\n                  LAUNCH MIMO’S WORLD ↗\n                \n\n              \n\n              \n                19 / GPT-6 SOLTHREE.JS\n\n                \n                  \n\n\n\n                  \n⌂　⌂　⌂\n\n                  scoop &\nscoot.\n\n                  🍦\n\n\n                  SUNNYVALE · SCENIC ROUTE\n\n                \n\n                \n                  THE SCENIC-ROUTE TAKE\n\n                  Scoop\n& Scoot\n\n                  A broad countryside with a river, bridge, farms, sheep, birds and windmill. Three lighting states, free and follow cameras, speed controls, a timed sugar rush, and an eight-bar chiptune invite a longer wander.\n\n                  VibeSunday drive with mischief\nSignatureRiver-and-bridge world\n\n                  LAUNCH GPT-6 SOL’S WORLD ↗\n                \n\n              \n\n              \n                20 / SONNET 5.5THREE.JS + FX\n\n                \n                  \n                  32-BAR SONG · 3 CAMERAS\n                  SPRINKLE HOLLOW\n                \n\n                \n                  THE LIVING-VILLAGE TAKE\n\n                  Sprinkle\nHollow\n\n                  A busy pastel valley with a river, bridge, villagers and animals. A beat-synced chase, day/night cycle, three cameras, bloom, tilt-shift, photo mode, and a full synth soundtrack give it room to breathe.\n\n                  VibePastel village spectacular\nSignatureBeat-synced village life\n\n                  LAUNCH SONNET 5.5’S WORLD ↗\n                \n\n              \n\n              \n                21 / HAIKU 5.5THREE.JS · CDN\n\n                \n                  \n                  GOLDEN HOUR · 3 CAMERAS\n                  ICE VAN CHASE\n                \n\n                \n                  THE GOLDEN-HOUR TAKE\n\n                  Ice Van\nChase\n\n                  A toy-like pastel village with cottages, fields, a church, pond, and windmill. The van loops a curved road with a weasel in pursuit; lap-and-gap readouts, three cameras, a honk, and an eight-bar synth tune complete the ride.\n\n                  VibeCandy-colored country loop\nSignatureLap-and-gap chase HUD\n\n                  LAUNCH HAIKU 5.5’S WORLD ↗\n                \n\n              \n              \n                22 / MUSE WONDERTHREE.JS · CDN\n\n                \n                  \n\n\n\n                  \n\n\n\n\n                  3m 20s · $0.39 REPORTED\n                \n\n                \n                  THE CANDY-COLORED TAKE\n\n                  Weasel Whip\nVillage\n\n                  A bright, hand-coded village with fields, pond, clock tower, and flower-strewn hills. The van and weasel loop through four camera views; a chiptune, honk, speed slider, and clickable sprinkle burst invite you to play.\n\n                  VibePastel roadside joyride\nSignatureWeasel-Cam and sprinkle bursts\n\n                  LAUNCH MUSE WONDER’S WORLD ↗\n                \n\n              \n              \n                23 / GEMINI 4 ARGONTHREE.JS · CDN\n\n                \n                  \n\n\n\n                  \n\n\n                  \n\n\n\n                  ANTIGRAVITY · “WORKED FOR 12M”\n                \n\n                \n                  THE TOYBOX-STUNT TAKE\n\n                  Frosty Swirl\n& The Crazy Weasel\n\n                  A bright pastel village with a winding river, cartoon van and weasel, manual driving, four cameras, four lighting moods, stunt buttons, and a four-channel chiptune deck.\n\n                  VibePlayable candyland chase\nSignatureStunts + manual drive\n\n                  LAUNCH ARGON’S WORLD ↗\n                \n\n              \n            \n\n\n            \n            \n            \n              \n                \n                41 MIN 23 SEC · STILL CHECKING\n              \n              \n                PROCESS NOTE / CLAUDE 5\n\n                Two 50-minute runs. Two toon-shaded villages.\n\n                Sonnet 5 Max and Opus 5 High each ran for almost 50 minutes. Sonnet used that time to catch and fix its own backwards-facing actors; Opus invested it in a broader simulation with hand-built geometry, village life, five cameras, lighting states, particles, and layered audio.\n\n                SONNET · MAX · ≈50 MINOPUS · HIGH · ≈50 MINNO FOLLOW-UPS\n\n              \n\n            \n\n            \n              \n                \n                  RUN LOG / SONNET 5.5\n\n                  A long build, in the model’s own numbers.\n\n                  Claude Code reported “Crunched for 1h 7m 50s.” Its Usage tab showed different API and wall durations; those are separate measurements, not interchangeable timers.\n\n                \n\n                USER-SUPPLIED SNAPSHOT\nCLAUDE CODE · USAGE\n              \n\n              \n                CRUNCHED1h 7m 50s\n\n                API DURATION1h 0m 13s\n\n                WALL DURATION2h 19m 25s\n\n                SESSION COST$15.43\n\n              \n\n              The capture also reports 7,189 lines added and 152 removed; 448.6k Sonnet 5.5 output tokens; 43.7m cache-read tokens; and 116 main prompt-cache requests. These are Claude Code session figures, not independent measurements by this site.\n\n              \n                \n                  \n                \n                CLAUDE CODE USAGE CAPTURE · OPEN FULL SIZE ↗\n              \n            \n\n            \n              \n                \n                  RUN LOG / HAIKU 5.5\n\n                  A shorter run, by the session’s own clock.\n\n                  The supplied Claude Code snapshot reports API and active time separately. These are the tool’s labels, not a measured wall-clock total for the experiment.\n\n                  \n                    SESSION COST$0.94\n\n                    API TIME13m 42s\n\n                    ACTIVE TIME14m 11s\n\n                    CACHE HIT98%\n\n                  \n\n                  The capture also lists 1,582 lines added and 49 removed. Its Haiku 5.5 breakdown reads: input 100, output 540, cache read 10.8M, and cache write 216.6k. These are user-supplied session figures, not independently measured by this site.\n\n                \n\n                \n                  \n                    \n                  \n                  CLAUDE CODE SESSION CAPTURE · OPEN FULL SIZE ↗\n                \n              \n\n            \n            \n              \n                RUN NOTE / MUSE WONDER\n\n                A tiny world in just over three minutes.\n\n                OpenCode reported this Muse Wonder run via OpenRouter at 3m 20s and $0.39. These are user-supplied run figures, not independently measured by this site.\n\n              \n\n              \n                REPORTED RUN TIME3m 20s\n\n                OPENROUTER COST$0.39\n\n              \n\n            \n            \n              \n                RUN NOTE / GEMINI 4 ARGON\n\n                Twelve minutes, by Antigravity’s clock.\n\n                Antigravity reported “Worked for 12m” for this run. No token, cost, or more detailed timing breakdown was supplied.\n\n              \n\n              \n                REPORTED WORK TIME12m\n\n              \n\n            \n            \n\n        \n          \n            \n              UNDER THE HOOD\n\n              Different machinery.\n\n            \n\n            Every model built the village assets procedurally and synthesized its soundtrack in the browser. The meaningful split is how much rendering infrastructure each one brought along.\n\n          \n\n\n          \n            23/23CODE-BUILT\n3D ASSETS\n\n            23/23PROCEDURAL\nWEB AUDIO\n\n            16THREE.JS\nFROM A CDN\n\n            1RAW WEBGL\nRENDERER\n\n          \n\n\n          \n            \n              MODEL3D FOUNDATIONASSET STRATEGYMUSICRUNTIME EXTERNALS\n              \n                01Kimi K3Three.js LOCALProcedural primitivesWeb Audio synthNone\n                02GPT 5.6 SolThree.js BUNDLEDProcedural primitivesWeb Audio synthGoogle Fonts\n                03Claude Fable 5Raw WebGL + custom shaders OWN CODECustom geometry buildersWeb Audio synthNone\n                04GLM 5.2Three.js 0.160 CDNProcedural primitivesWeb Audio synthThree.js · unpkg\n                05Gemini 3.5 FlashThree.js 0.152 + OrbitControls CDNProcedural modules + spawnerSequencer + visualizerThree.js · Google Fonts\n                06Grok 4.5Three.js 0.170 + OrbitControls CDNProcedural primitivesCustom chiptune engineThree.js · Google Fonts\n                07DeepSeek V4 ProThree.js 0.160 + OrbitControls CDNProcedural primitives + pathsWeb Audio synthThree.js · unpkg\n                08Sonnet 5 · MaxThree.js latest + OrbitControls CDNPrimitives + canvas texturesCustom chiptune engineThree.js · Google Fonts\n                09Opus 5 · HighThree.js 0.160 + custom cameras CDNPrimitives + custom geometryChiptune + SFX engineThree.js · jsDelivr\n                10Qwen 3.8Three.js 0.160 + custom orbit CDNPrimitives + canvas signsWeb Audio chiptuneThree.js · Google Fonts\n                11Grok 4.6Three.js 0.170 + postprocessing CDNProcedural world + UI portraits8-bar chiptune engineThree.js · Google Fonts\n                12Qwen3.8-27B · LocalThree.js 0.160 + OrbitControls CDNPrimitives + canvas signageChiptune + echo engineThree.js · jsDelivr\n                13Claude Fable 5.1Three.js 0.160 + custom director CDNProcedural meshes + canvas texturesSong + reactive SFX engineThree.js · Google Fonts\n                14ChatGPT 6 AstraThree.js 0.185 + OrbitControls BUNDLEDPrimitives + merged geometry4-part 112 BPM chiptuneNone\n                15DeepSeek V4.1 FlashThree.js 0.160 + custom cameras CDNNoise terrain + procedural primitives3-song chiptune engineThree.js · unpkg\n                16Grok 4.7 · HighThree.js 0.170 + custom camera LOCALProcedural meshes + canvas textures8-bar chiptune + reactive SFXGoogle Fonts\n                17Opus 5.5Three.js r128 + custom director CDNProcedural geometry + ink outlines140 BPM song + reactive SFXThree.js · Google Fonts\n                18MIMO 2.6Three.js 0.165 + OrbitControls CDNProcedural primitives + particles64-step 148 BPM chiptuneThree.js · unpkg\n                19GPT-6 SolThree.js 0.180 + OrbitControls LOCALProcedural meshes + instancing8-bar 112 BPM chiptuneGoogle Fonts\n                20Sonnet 5.5Three.js 0.180 + postprocessing BUNDLEDMerged meshes + instanced vegetation132 BPM song + reactive SFXNone\n                21Haiku 5.5Three.js 0.160 + toon shading CDNProcedural meshes + instanced trees8-bar 124 BPM synth + SFXThree.js · Google Fonts\n                22Muse WonderThree.js 0.160 + OrbitControls CDNProcedural meshes + instanced flowersWeb Audio chiptune + honk SFXThree.js · Google Fonts\n                23Gemini 4 ArgonThree.js r128 + custom cameras CDNProcedural meshes + canvas textures3-track, 4-channel Web Audio synthThree.js · Google Fonts\n              \n            \n          \n\n          “Runtime externals” means resources fetched after the page opens. Bundled or locally shipped libraries are counted as self-hosted.\n\n        \n\n        \n          \n            THE ONLY INPUT\n\n            54 WORDS\nZERO FOLLOW-UPS\nONE TYPO\n          \n\n          \n            The whole brief.\n\n            “Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.”\n            The typo stayed. The weasels multiplied.\n\n            REPORTED RUN SETTINGS High where available · Sonnet 5 on Max · Opus 5 on High · Qwen3.8-27B local via OpenCode + LM Studio on 1× RTX 4090 · no follow-up prompts\n\n          \n\n        \n          \n\n        \n\n        \n          \n            BIFTEKI CREW / AI EXPERIMENTS\n\n            Small experiments. Big personality.\n\n            MAIN SITE DESIGNED + BUILT WITH GPT‑5.6 SOL© 2026 BIFTEKI CREW\n\n          \n\n        \n      \n    \n\n  \n\n",
+        "kind": "linked_public_material",
+        "author": "kerstov"
+      },
+      {
+        "url": "https://x.com/kerstov/status/2110118088482095364",
+        "text": "Kerstov on X: \"One prompt. 12 minutes. One weasel with absolutely zero chill. 🦦🍦\n\nGemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes.\nPlay it, then compare 23 AI takes on the exact same prompt:\n\nhttps://t.co/57nkW23o7v\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKerstov on X: \"One prompt. 12 minutes. One weasel with absolutely zero chill. 🦦🍦\n\nGemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes.\nPlay it, then compare 23 AI takes on the exact same prompt:\n\nhttps://t.co/57nkW23o7v\"\n\n\n\nKerstov\n\n@kerstov\n\n\n\n\nOne prompt. 12 minutes. One weasel with absolutely zero chill. 🦦🍦\n\nGemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes.\nPlay it, then compare 23 AI takes on the exact same prompt:\n\n…-hill-0a2889b03.7.azurestaticapps.net/?experiment=ar…\n\n\n00:00\n\n\n\n\n\n\n\n\n9:18 PM · Oct 13, 2026·33\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKerstov@kerstovFollow\nProgramming, thinking, dreaming, visualizing and composing.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKerstov\n\n@kerstov\n\n\n\n\nOne prompt. 12 minutes. One weasel with absolutely zero chill. 🦦🍦\n\nGemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes.\nPlay it, then compare 23 AI takes on the exact same prompt:\n\n…-hill-0a2889b03.7.azurestaticapps.net/?experiment=ar…\n\n\n00:00\n\n\n\n\n\n\n\n\n9:18 PM · Oct 13, 2026·33\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kerstov"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kerstov/status/2110118088482095364",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110117833493319680/img/Nbl8JmM_RUIuesiQ.jpg",
+  "coverPath": "covers/2110118088482095364.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110117833493319680",
+    "x-post:2110118088482095364"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon 3D Village Weasel Chase Simulation",
+      "summary": "Gemini 4 Argon generated a full 3D WebGL village simulation with procedural chiptune music, a cartoon ice cream van, and an animated chasing weasel from a single text prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": "Antigravity",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon built this 3D village chase—with chiptunes, turbo boosts, and weasel tornadoes. Play it, then compare 23 AI takes on the exact same prompt"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.",
+        "englishText": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the complete 3D WebGL environment containing a village with trees, fields, river, procedural chiptune audio, an ice cream van, and a chasing weasel with multi-camera views and stunts.",
+        "textualResultQuote": "A bright pastel village with a winding river, cartoon van and weasel, manual driving, four cameras, four lighting moods, stunt buttons, and a four-channel chiptune deck."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Antigravity",
+          "role": "Agent orchestration and coding environment",
+          "evidence": "Antigravity reported 'Worked for 12m' for this run. No token, cost, or more detailed timing breakdown was supplied.",
+          "sourceUrl": "https://yellow-hill-0a2889b03.7.azurestaticapps.net/?experiment=argon#experiment",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D WebGL rendering engine (r128 via CDN)",
+          "evidence": "Gemini 4 Argon: Three.js r128 + custom cameras CDN | Procedural meshes + canvas textures | 3-track, 4-channel Web Audio synth | Three.js · Google Fonts",
+          "sourceUrl": "https://yellow-hill-0a2889b03.7.azurestaticapps.net/?experiment=argon#experiment",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Web Audio API",
+          "role": "In-browser procedural chiptune synthesis and sound effects",
+          "evidence": "3-track, 4-channel Web Audio synth",
+          "sourceUrl": "https://yellow-hill-0a2889b03.7.azurestaticapps.net/?experiment=argon#experiment",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D WebGL interactive village chase simulation with procedural audio",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini-4",
+          "threejs",
+          "webgl",
+          "procedural-audio",
+          "chiptune",
+          "interactive-simulation"
+        ]
+      },
+      "targetModelRole": "Gemini 4 Argon synthesized the complete client-side JavaScript code implementing Three.js geometry, lighting, cameras, logic, controls, and Web Audio chiptune soundtrack.",
+      "outputSource": "Browser WebGL runtime via Three.js r128",
+      "divisionEvidence": "Gemini 4 Argon generated the code in Antigravity; execution and rendering are handled natively in the browser via Three.js r128 and Web Audio API.",
+      "video": {
+        "shots": "Multiple dynamic camera angles including chase cam, side stunt cam, and overhead diorama cam",
+        "duration": "26s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit Gemini 4 Argon version confirmed by author, complete verbatim prompt provided, accompanied by full screen recording of the resulting interactive 3D WebGL application.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://yellow-hill-0a2889b03.7.azurestaticapps.net/?experiment=argon#experiment",
+        "start": 26884,
+        "end": 27182
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kerstov/status/2110118088482095364",
+        "author": "kerstov",
+        "postId": "2110118088482095364",
+        "publishedAt": "2026-10-13T21:18:51.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:31.988Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a full 3D WebGL village simulation with procedural chiptune music, a cartoon ice cream van, and an animated chasing weasel from a single text prompt.",
+    "summaryEn": "Gemini 4 Argon 3D Village Weasel Chase Simulation",
+    "originalPrompt": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.",
+    "sourceRange": {
+      "start": 26884,
+      "end": 27182
+    },
+    "translations": {
+      "zh": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel.",
+      "en": "Can you create a fun a really cool looking web page, showing a 3d world, a small simulation, of a village with trees and fields around it, nice lighting, all webgl, stylized looks, nice lighting and a cool chiptune music and then a cartoony ice van driving around there, followed by a crazy weazel."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D WebGL interactive village chase simulation with procedural audio",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates the complete 3D WebGL environment containing a village with trees, fields, river, procedural chiptune audio, an ice cream van, and a chasing weasel with multi-camera views and stunts."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

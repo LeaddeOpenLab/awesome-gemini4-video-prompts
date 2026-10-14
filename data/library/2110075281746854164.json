@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:31.596Z",
+  "model": "gemini4",
+  "prompt": "build a 3D particle galaxy.",
+  "promptTranslations": {
+    "en": "build a 3D particle galaxy."
+  },
+  "summary": "Interactive WebGL 3D particle galaxy simulation generated via a single Cursor prompt with parameter sliders and camera orbit.",
+  "summaryEn": "Interactive 3D Particle Galaxy in WebGL",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110075281746854164",
+    "canonicalUrl": "https://x.com/tayyare1/status/2110075281746854164",
+    "author": {
+      "username": "tayyare1",
+      "displayName": "tayyare79",
+      "profileUrl": "https://x.com/tayyare1"
+    },
+    "publishedAt": "2026-10-13T18:28:45.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "Gave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy.\n\nIt came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera. https://t.co/rDkVaKmvvy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/tayyare1/status/2110075281746854164",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110075231784353792/img/v1sX5WJW23frOPA9.jpg",
+        "analysisUrl": "https://x.com/tayyare1/status/2110075281746854164"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 306
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/tayyare1/status/2110075281746854164",
+        "text": "tayyare79 on X: \"Gave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy.\n\nIt came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\ntayyare79 on X: \"Gave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy.\n\nIt came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera.\"\n\n\n\ntayyare79\n\n@tayyare1\n\n\n\n\nGave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy.\n\nIt came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:28 PM · Oct 13, 2026·306\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\ntayyare79@tayyare1Follow\nE.Ü.T.F , MD, CS Fan, EV Driver\n\nhttps://t.co/9cxEjCsYZ5\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntayyare79\n\n@tayyare1\n\n\n\n\nGave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy.\n\nIt came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:28 PM · Oct 13, 2026·306\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\nWukong\n\n@WukongNumber1\n8h\n\n\none prompt to a live webgl galaxy at 120fps is kinda nuts. gemini in cursor cooking rn fr\n\n\n\n\n1\n18\n\n\n\n\n\n\n\n\n\n\n\nDynamics_01（大冰美式版\n\n@harden_369741\n9h\n\n\nOne-prompt WebGL is my favorite party trick test too. I ran the same style of prompt on the last launch and got a black screen with extra steps. When it actually renders, that is the demo.\n\n\n\n\n1\n12\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "tayyare1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/tayyare1/status/2110075281746854164",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110075231784353792/img/v1sX5WJW23frOPA9.jpg",
+  "coverPath": "covers/2110075281746854164.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110075231784353792",
+    "x-post:2110075281746854164"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Particle Galaxy in WebGL",
+      "summary": "Interactive WebGL 3D particle galaxy simulation generated via a single Cursor prompt with parameter sliders and camera orbit.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": "Cursor",
+        "authorUseConfirmed": true,
+        "evidence": "Gave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "build a 3D particle galaxy.",
+        "englishText": "build a 3D particle galaxy.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Specific styling instructions for German UI labels and custom shader engine configurations."
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording displays a live WebGL 2.0 particle galaxy with interactive sliders for particle count, arms, rotation speed, and color schemes at 120 FPS.",
+        "textualResultQuote": "It came back with a live WebGL app. 85,000 particles at 120 FPS, sliders for arms, rotation speed and color scheme, mouse to orbit the camera."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Cursor",
+          "role": "AI code development environment",
+          "evidence": "Gave Gemini 4 Argon one prompt in Cursor",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGL 2.0",
+          "role": "Rendering engine for particle simulation",
+          "evidence": "WEBGL 2.0 // CUSTOM SHADER ENGINE",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Particle Galaxy Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgl",
+          "particles",
+          "interactive",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates complete WebGL application code based on text instruction.",
+      "outputSource": "Live WebGL browser canvas captured via screen recording.",
+      "divisionEvidence": "Gave Gemini 4 Argon one prompt in Cursor: build a 3D particle galaxy. It came back with a live WebGL app.",
+      "video": {
+        "shots": "Single continuous interactive screen recording",
+        "duration": "01:02",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit author-confirmed Gemini 4 model generating code for a verified interactive WebGL video demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/tayyare1/status/2110075281746854164",
+        "start": 42,
+        "end": 69
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/tayyare1/status/2110075281746854164",
+        "author": "tayyare1",
+        "postId": "2110075281746854164",
+        "publishedAt": "2026-10-13T18:28:45.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:58.264Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Interactive WebGL 3D particle galaxy simulation generated via a single Cursor prompt with parameter sliders and camera orbit.",
+    "summaryEn": "Interactive 3D Particle Galaxy in WebGL",
+    "originalPrompt": "build a 3D particle galaxy.",
+    "sourceRange": {
+      "start": 42,
+      "end": 69
+    },
+    "translations": {
+      "zh": "build a 3D particle galaxy.",
+      "en": "build a 3D particle galaxy."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Particle Galaxy Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Specific styling instructions for German UI labels and custom shader engine configurations."
+      ],
+      "evidence": "Screen recording displays a live WebGL 2.0 particle galaxy with interactive sliders for particle count, arms, rotation speed, and color schemes at 120 FPS."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

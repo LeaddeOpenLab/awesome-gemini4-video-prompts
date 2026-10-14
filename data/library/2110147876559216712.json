@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:29.922Z",
+  "model": "gemini4",
+  "prompt": "If I asked you to blow my mind, what would you make?",
+  "promptTranslations": {
+    "en": "If I asked you to blow my mind, what would you make?"
+  },
+  "summary": "The author prompted Gemini 4 Argon (High) to create a mind-blowing creation, resulting in an animated 3D spiky orb with orbiting energy rings.",
+  "summaryEn": "Gemini 4 Argon Generative 3D Sphere Visualizer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110147876559216712",
+    "canonicalUrl": "https://x.com/rohit3a/status/2110147876559216712",
+    "author": {
+      "username": "rohit3a",
+      "displayName": "rohit",
+      "profileUrl": "https://x.com/rohit3a"
+    },
+    "publishedAt": "2026-10-13T23:17:13.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon (High): \"If I asked you to blow my mind, what would you make?\" https://t.co/hea9yL1YAV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rohit3a/status/2110147876559216712",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110147748351873024/img/wJAhC6GTmZtiGS4g.jpg",
+        "analysisUrl": "https://x.com/rohit3a/status/2110147876559216712"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 541
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ]
+  },
+  "xUrl": "https://x.com/rohit3a/status/2110147876559216712",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110147748351873024/img/wJAhC6GTmZtiGS4g.jpg",
+  "coverPath": "covers/2110147876559216712.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110147748351873024",
+    "x-post:2110147876559216712"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Generative 3D Sphere Visualizer",
+      "summary": "The author prompted Gemini 4 Argon (High) to create a mind-blowing creation, resulting in an animated 3D spiky orb with orbiting energy rings.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon (High)",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon (High): \"If I asked you to blow my mind, what would you make?\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "If I asked you to blow my mind, what would you make?",
+        "englishText": "If I asked you to blow my mind, what would you make?",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "target framework or execution runtime",
+          "generated source code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates an intricate, pulsating 3D organic spiky sphere with revolving glowing rings and ambient particle effects.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Generative 3D Orb Visualizer",
+        "topic": "3d-scenes",
+        "tags": [
+          "gemini-4",
+          "creative-coding",
+          "3d-scenes",
+          "procedural-animation"
+        ]
+      },
+      "targetModelRole": "Generated the underlying creative animation code/shader logic.",
+      "outputSource": "Screen recording of the running animation output.",
+      "divisionEvidence": "Author stated in thread: \"Sorry Argon, you seem to have good game. I still won't use you for real coding though.\"",
+      "video": {
+        "shots": "Single continuous rotating 3D view with camera zoom",
+        "duration": "01:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": false,
+      "reason": "While the author explicitly cites Gemini 4 Argon (High) and includes the original conversational prompt with a video recording, the generated code and specific execution environment/renderer are omitted, making exact reproduction impossible.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rohit3a/status/2110147876559216712",
+        "start": 24,
+        "end": 76
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rohit3a/status/2110147876559216712",
+        "author": "rohit3a",
+        "postId": "2110147876559216712",
+        "publishedAt": "2026-10-13T23:17:13.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:21.018Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified",
+          "outside_repository_scope"
+        ]
+      }
+    },
+    "summary": "The author prompted Gemini 4 Argon (High) to create a mind-blowing creation, resulting in an animated 3D spiky orb with orbiting energy rings.",
+    "summaryEn": "Gemini 4 Argon Generative 3D Sphere Visualizer",
+    "originalPrompt": "If I asked you to blow my mind, what would you make?",
+    "sourceRange": {
+      "start": 24,
+      "end": 76
+    },
+    "translations": {
+      "zh": "If I asked you to blow my mind, what would you make?",
+      "en": "If I asked you to blow my mind, what would you make?"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Generative 3D Orb Visualizer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "target framework or execution runtime",
+        "generated source code"
+      ],
+      "evidence": "The video demonstrates an intricate, pulsating 3D organic spiky sphere with revolving glowing rings and ambient particle effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
