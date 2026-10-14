@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:51:16.549Z",
+  "model": "gemini4",
+  "prompt": "Create a motion video for Trezio app",
+  "promptTranslations": {
+    "en": "Create a motion video for Trezio app"
+  },
+  "summary": "Motion graphics promo video for Trezio app generated using Gemini 4 Argon.",
+  "summaryEn": "Trezio App Motion Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110261415915213121",
+    "canonicalUrl": "https://x.com/agonaliu_/status/2110261415915213121",
+    "author": {
+      "username": "agonaliu_",
+      "displayName": "Agon Aliu",
+      "profileUrl": "https://x.com/agonaliu_"
+    },
+    "publishedAt": "2026-10-14T06:48:22.000Z",
+    "collectedAt": "2026-10-14T11:28:38.168Z",
+    "language": "en",
+    "originalText": "Asked Gemini 4 Argon the same prompt I did with Opus 5.5 \n\n\"Create a motion video for Trezio app\"\n\nHere is its result: https://t.co/kcNsQzvnHz",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/agonaliu_/status/2110261415915213121",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110261390447386624/img/NRrr6uF5E-GtYJSH.jpg",
+        "analysisUrl": "https://x.com/agonaliu_/status/2110261415915213121"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 81
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/agonaliu_/status/2110261415915213121",
+        "text": "Agon Aliu on X: \"Asked Gemini 4 Argon the same prompt I did with Opus 5.5 \n\n\"Create a motion video for Trezio app\"\n\nHere is its result:\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAgon Aliu on X: \"Asked Gemini 4 Argon the same prompt I did with Opus 5.5 \n\n\"Create a motion video for Trezio app\"\n\nHere is its result:\"\n\n\n\nAgon Aliu\n\n@agonaliu_\n\n\n\n\nAsked Gemini 4 Argon the same prompt I did with Opus 5.5 \n\n\"Create a motion video for Trezio app\"\n\nHere is its result:\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n6:48 AM · Oct 14, 2026·81\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAgon Aliu@agonaliu_Follow\nEx Head of finance of a 100+ employee software company. 2x Dad.\n\nNow building and scaling my own apps to $10k MRR\n\n@openpaga @trezioapp @orbitaleapp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgon Aliu\n\n@agonaliu_\n\n\n\n\nAsked Gemini 4 Argon the same prompt I did with Opus 5.5 \n\n\"Create a motion video for Trezio app\"\n\nHere is its result:\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n6:48 AM · Oct 14, 2026·81\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\nE_genius\n\n@yevloop\n3h\n\n\nsame prompt comparisons are the only reviews i trust. argon&#x27;s motion timing here looks really solid\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\nTrezio\n@trezioapp\n3h\n\n\nNeedless to say, this doesn&#x27;t make any sense...\n\nThe workflow is the culprit.\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "agonaliu_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/agonaliu_/status/2110261415915213121",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110261390447386624/img/NRrr6uF5E-GtYJSH.jpg",
+  "coverPath": "covers/2110261415915213121.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110261390447386624",
+    "x-post:2110261415915213121"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Trezio App Motion Video",
+      "summary": "Motion graphics promo video for Trezio app generated using Gemini 4 Argon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Gemini 4 Argon the same prompt I did with Opus 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a motion video for Trezio app",
+        "englishText": "Create a motion video for Trezio app",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video showcases animated UI dashboard screens, floating 3D elements, and ends with Trezio branding.",
+        "textualResultQuote": "Here is its result:"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "App Motion Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "app-promo",
+          "trezio"
+        ]
+      },
+      "targetModelRole": "Video generation and animation orchestration",
+      "outputSource": "Gemini 4 Argon",
+      "divisionEvidence": "Asked Gemini 4 Argon the same prompt I did with Opus 5.5",
+      "video": {
+        "shots": "Multiple camera sweeps across 3D dashboards and logo reveal",
+        "duration": "0:09",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Author shares direct prompt and accompanying video result generated with Gemini 4 Argon.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/agonaliu_/status/2110261415915213121",
+        "start": 60,
+        "end": 96
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/agonaliu_/status/2110261415915213121",
+        "author": "agonaliu_",
+        "postId": "2110261415915213121",
+        "publishedAt": "2026-10-14T06:48:22.000Z"
+      },
+      "checkedAt": "2026-10-14T11:42:26.799Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Motion graphics promo video for Trezio app generated using Gemini 4 Argon.",
+    "summaryEn": "Trezio App Motion Video",
+    "originalPrompt": "Create a motion video for Trezio app",
+    "sourceRange": {
+      "start": 60,
+      "end": 96
+    },
+    "translations": {
+      "zh": "Create a motion video for Trezio app",
+      "en": "Create a motion video for Trezio app"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "other-animation",
+    "useCase": "App Motion Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video showcases animated UI dashboard screens, floating 3D elements, and ends with Trezio branding."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

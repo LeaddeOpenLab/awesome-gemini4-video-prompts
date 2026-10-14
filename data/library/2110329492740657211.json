@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:51:15.729Z",
+  "model": "gemini4",
+  "prompt": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible",
+  "promptTranslations": {
+    "en": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible"
+  },
+  "summary": "Screen recording demonstrating a 3D Earth simulation generated using Gemini 4 Argon and Blender, featuring an orbiting Moon, ISS, and zoomable landmark locations.",
+  "summaryEn": "Realistic Earth Simulation with Moon, ISS, and Landmarks",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110329492740657211",
+    "canonicalUrl": "https://x.com/badboyfoxy/status/2110329492740657211",
+    "author": {
+      "username": "badboyfoxy",
+      "displayName": "badboyfoxy",
+      "profileUrl": "https://x.com/badboyfoxy"
+    },
+    "publishedAt": "2026-10-14T11:18:53.000Z",
+    "collectedAt": "2026-10-14T11:28:38.168Z",
+    "language": "en",
+    "originalText": "i asked Gemini 4 argon to “ make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible\"\n\nit took about 1hr 32min and cost about $90 made some corrections for better result  \n\ni could not compare with opus i am almost out of weekly usage 😭( can afford to run out mid week ) \n\nbut so far its good at 3d but not opus level yet but as good as astra \n\nit for well with building the earth and moon but not the best at details ( the land mark were not impressive )\n\nbut overall Gemini 4 argon is a cook not",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/badboyfoxy/status/2110329492740657211",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110329158119145472/img/71skmKRru1o-cYCQ.jpg",
+        "analysisUrl": "https://x.com/badboyfoxy/status/2110329492740657211"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 2,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 285
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1",
+      "group:gemini:en:Latest:part2"
+    ]
+  },
+  "xUrl": "https://x.com/badboyfoxy/status/2110329492740657211",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110329158119145472/img/71skmKRru1o-cYCQ.jpg",
+  "coverPath": "covers/2110329492740657211.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110329158119145472",
+    "x-post:2110329492740657211"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Realistic Earth Simulation with Moon, ISS, and Landmarks",
+      "summary": "Screen recording demonstrating a 3D Earth simulation generated using Gemini 4 Argon and Blender, featuring an orbiting Moon, ISS, and zoomable landmark locations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "i asked Gemini 4 argon to “ make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible",
+        "englishText": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Subsequent interactive corrections mentioned by the author",
+          "Exact scripts or scene setup instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D Earth simulation in an interactive viewport with realistic orbit paths for the Moon and the ISS, as well as landmark view jumps (Pyramids, Colosseum, Mount Fuji).",
+        "textualResultQuote": "it for well with building the earth and moon but not the best at details ( the land mark were not impressive )"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene construction and rendering/simulation environment",
+          "evidence": "with blender",
+          "sourceUrl": "https://x.com/badboyfoxy/status/2110329492740657211",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Earth and Satellite Orbit Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "earth-simulation",
+          "blender",
+          "iss",
+          "space",
+          "3d"
+        ]
+      },
+      "targetModelRole": "Gemini generated the simulation logic, 3D asset generation instructions, and Blender orchestration code.",
+      "outputSource": "Rendered and displayed via 3D simulation software/viewer.",
+      "divisionEvidence": "Author specified asking Gemini 4 Argon to produce the simulation using Blender.",
+      "video": {
+        "shots": "Single interactive screen recording navigating through Earth views, ISS flyby, and landmark positions.",
+        "duration": "02:18",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Author shares an explicit prompt requesting a 3D Earth simulation via Gemini 4 Argon and Blender with a corresponding screen recording showcasing the result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/badboyfoxy/status/2110329492740657211",
+        "start": 28,
+        "end": 213
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/badboyfoxy/status/2110329492740657211",
+        "author": "badboyfoxy",
+        "postId": "2110329492740657211",
+        "publishedAt": "2026-10-14T11:18:53.000Z"
+      },
+      "checkedAt": "2026-10-14T11:22:23.379Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Screen recording demonstrating a 3D Earth simulation generated using Gemini 4 Argon and Blender, featuring an orbiting Moon, ISS, and zoomable landmark locations.",
+    "summaryEn": "Realistic Earth Simulation with Moon, ISS, and Landmarks",
+    "originalPrompt": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible",
+    "sourceRange": {
+      "start": 28,
+      "end": 213
+    },
+    "translations": {
+      "zh": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible",
+      "en": "make me a stimulations of the earth realistic  with blender with the moon orbiting the around the  earth add notable land marks and the ISS orbiting it too make it realistic as possible"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "blender",
+    "useCase": "Interactive 3D Earth and Satellite Orbit Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Subsequent interactive corrections mentioned by the author",
+        "Exact scripts or scene setup instructions"
+      ],
+      "evidence": "The video shows a 3D Earth simulation in an interactive viewport with realistic orbit paths for the Moon and the ISS, as well as landmark view jumps (Pyramids, Colosseum, Mount Fuji)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

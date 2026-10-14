@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:51:15.958Z",
+  "model": "gemini4",
+  "prompt": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+  "promptTranslations": {
+    "en": "Create an ecosystem simulator running in a single HTML file without external libraries, featuring quadtree spatial partitioning, genetic algorithms, and predator physics."
+  },
+  "summary": "Demonstration of Gemini 4 generating an interactive browser ecosystem simulator using quadtree partitioning and genetic algorithms in a single HTML file.",
+  "summaryEn": "Gemini 4 Single-HTML Ecosystem Simulator",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110276716870647921",
+    "canonicalUrl": "https://x.com/sakashiiiii/status/2110276716870647921",
+    "author": {
+      "username": "sakashiiiii",
+      "displayName": "🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢",
+      "profileUrl": "https://x.com/sakashiiiii"
+    },
+    "publishedAt": "2026-10-14T07:49:11.000Z",
+    "collectedAt": "2026-10-14T11:28:38.168Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argon、ちょっと次元が違いすぎ\n\n「ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って」と指示したら、1,800行のガチなコードが一発で動いてしまった。\n\n青い草食魚が群れで逃げて、赤い捕食者が未来位置を予測して追い詰める。\n（詳細はリプ欄へ↓）",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sakashiiiii/status/2110276716870647921",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110275819977465856/img/YMhhSP1hb9wUI66O.jpg",
+        "analysisUrl": "https://x.com/sakashiiiii/status/2110276716870647921"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 539
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/sakashiiiii/status/2110278938744561988",
+        "text": "@Deli_Atelier 昔のモデル、どんどん使えなくなってますよね😂\n気付いたら動いてないワークフローとかがあって困ってます",
+        "author": "sakashiiiii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/sakashiiiii/status/2110277762963644817",
+        "text": "@Deli_Atelier geminiはお茶目なドラゴンですからね・・・",
+        "author": "sakashiiiii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/sakashiiiii/status/2110276976254832836",
+        "text": "@Deli_Atelier Ultraプランで初めてクォータが減っていくのを見ましたw",
+        "author": "sakashiiiii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/sakashiiiii/status/2110276718837846126",
+        "text": "何がエグいって、中身のアルゴリズムが全部本物：\n\n・数百体の近傍判定をQuadtree（四分木）で空間分割し、重い総当たり計算を90%削減\n・個体ごとに最高速度・視野・旋回力・体格のDNAを持ち、過酷な環境で生き残った遺伝子だけが世代交代で引き継がれる\n・速度を上げすぎると代謝コストで餓死しやすくなる「進化のトレードオフ」まで数学的に整合してる\n\nこれだけの複雑な依存関係を途中で破綻させず、1つのHTMLにまとめ上げる推理力は本物。",
+        "author": "sakashiiiii"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sakashiiiii/status/2110276716870647921",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110275819977465856/img/YMhhSP1hb9wUI66O.jpg",
+  "coverPath": "covers/2110276716870647921.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110275819977465856",
+    "x-post:2110276716870647921"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Single-HTML Ecosystem Simulator",
+      "summary": "Demonstration of Gemini 4 generating an interactive browser ecosystem simulator using quadtree partitioning and genetic algorithms in a single HTML file.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon、ちょっと次元が違いすぎ"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+        "englishText": "Create an ecosystem simulator running in a single HTML file without external libraries, featuring quadtree spatial partitioning, genetic algorithms, and predator physics.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full prompt parameters",
+          "UI/dashboard specifications",
+          "Generated source code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the running simulation with quadtree grid overlays, flocking prey, hunting predators, and evolutionary trait graphs matching the prompt fragment.",
+        "textualResultQuote": "1,800行のガチなコードが一発で動いてしまった。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / Vanilla JavaScript",
+          "role": "Execution runtime for the generated single-file simulation",
+          "evidence": "ライブラリなし単一HTMLだけで",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Ecosystem Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini-4",
+          "canvas",
+          "simulation",
+          "quadtree",
+          "genetic-algorithm"
+        ]
+      },
+      "targetModelRole": "Code generation agent producing standalone HTML/JS",
+      "outputSource": "Web Browser Canvas",
+      "divisionEvidence": "Gemini 4 generated the code; the browser rendered the interactive simulation recorded on screen.",
+      "video": {
+        "shots": "Single screen capture",
+        "duration": "01:01",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Gemini 4 generating runnable interactive canvas code accompanied by screen recording proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sakashiiiii/status/2110276716870647921",
+        "start": 29,
+        "end": 87
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sakashiiiii/status/2110276716870647921",
+        "author": "sakashiiiii",
+        "postId": "2110276716870647921",
+        "publishedAt": "2026-10-14T07:49:11.000Z"
+      },
+      "checkedAt": "2026-10-14T11:36:48.454Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Demonstration of Gemini 4 generating an interactive browser ecosystem simulator using quadtree partitioning and genetic algorithms in a single HTML file.",
+    "summaryEn": "Gemini 4 Single-HTML Ecosystem Simulator",
+    "originalPrompt": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+    "sourceRange": {
+      "start": 29,
+      "end": 87
+    },
+    "translations": {
+      "zh": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+      "en": "Create an ecosystem simulator running in a single HTML file without external libraries, featuring quadtree spatial partitioning, genetic algorithms, and predator physics."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Ecosystem Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full prompt parameters",
+        "UI/dashboard specifications",
+        "Generated source code"
+      ],
+      "evidence": "Screen recording demonstrates the running simulation with quadtree grid overlays, flocking prey, hunting predators, and evolutionary trait graphs matching the prompt fragment."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:51:16.160Z",
+  "model": "gemini4",
+  "prompt": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and",
+  "promptTranslations": {
+    "en": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and"
+  },
+  "summary": "Comparison benchmark screen recording of Gemini 4 Argon generating an interactive Three.js 3D diorama with a surfing rooster.",
+  "summaryEn": "Interactive 3D Jelly Island Diorama in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110047989280670072",
+    "canonicalUrl": "https://x.com/Adidotdev/status/2110047989280670072",
+    "author": {
+      "username": "Adidotdev",
+      "displayName": "Adit_Yah ☄️",
+      "profileUrl": "https://x.com/Adidotdev"
+    },
+    "publishedAt": "2026-10-13T16:40:18.000Z",
+    "collectedAt": "2026-10-14T11:28:38.168Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )\n\nArgon took  10 mins and  ~1.5% of weekly quota\n\nOpus took 15 mins and  4% of weekly quota ( tested by maxt3chno ) https://t.co/KPhRqkSnmo",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Adidotdev/status/2110047989280670072",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110047947220221952/img/xPDgcTz604S6eSIG.jpg",
+        "analysisUrl": "https://x.com/Adidotdev/status/2110047989280670072"
+      }
+    ],
+    "metrics": {
+      "likeCount": 411,
+      "repostCount": 23,
+      "replyCount": 38,
+      "quoteCount": 5,
+      "viewCount": 70814
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110318016059895903",
+        "text": "@AiwithVinay why !&gt;",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110187837039804557",
+        "text": "@Amaz1ngly Yup",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110085093683523789",
+        "text": "@Mo_htth high",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110082376030384552",
+        "text": "@iruletheworldmo I'm in the early access program of Gemini 4 argon and  still have access",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110081006854410249",
+        "text": "@its_ahmadnasir Agree",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110059291025805788",
+        "text": "@TreeCityWes extra quota help it to improve the quality",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110052924923801814",
+        "text": "@knowixbuilds no doubt but  if argon used 3% of weekly quota there a huge difference",
+        "author": "Adidotdev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Adidotdev/status/2110049554074943673",
+        "text": "@md_kasif_uddin Early access",
+        "author": "Adidotdev"
+      },
+      {
+        "url": "https://x.com/Adidotdev/status/2110047989280670072",
+        "text": "Adit_Yah ☄️ on X: \"Gemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )\n\nArgon took  10 mins and  ~1.5% of weekly quota\n\nOpus took 15 mins and  4% of weekly quota ( tested by maxt3chno )\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAdit_Yah ☄️ on X: \"Gemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )\n\nArgon took  10 mins and  ~1.5% of weekly quota\n\nOpus took 15 mins and  4% of weekly quota ( tested by maxt3chno )\"\n\n\n\nAdit_Yah ☄️\n\n@Adidotdev\n\n\n\n\nGemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )\n\nArgon took  10 mins and  ~1.5% of weekly quota\n\nOpus took 15 mins and  4% of weekly quota ( tested by maxt3chno )\n\n\n00:00\n\n\n\n\n\n\n\n\n4:40 PM · Oct 13, 2026·70.8K\nViews\n\n\n\n38\n23\n411\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAdit_Yah ☄️@AdidotdevFollow\nDeveloper | AI News & testing  | Startups  & SaaS  |  DM for Collabs ☄\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdit_Yah ☄️\n\n@Adidotdev\n\n\n\n\nGemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )\n\nArgon took  10 mins and  ~1.5% of weekly quota\n\nOpus took 15 mins and  4% of weekly quota ( tested by maxt3chno )\n\n\n00:00\n\n\n\n\n\n\n\n\n4:40 PM · Oct 13, 2026·70.8K\nViews\n\n\n\n38\n23\n411\n121\n\n\n\n\n\n\n\n\n\nAdit_Yah ☄️\n\n@Adidotdev\n18h\n\n\n\n\n\nMax\n\n@maxt3chno\nOct 7\n\nReplying to @maxt3chno\nPROMPT \n\n# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and Show more\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6\n5.1K\n\n\n\n\n\n\n\n\n\n\n\nAdit_Yah ☄️\n\n@Adidotdev\n16h\n\n\n\n\n\nAdit_Yah ☄️\n\n@Adidotdev\n16h\n\nAnother output form GEMINI 4 ARGON 🔥\n\nTook 13 mins  ~2% of weekly quota , \nthe model is really fast . loving it \n\nprompt in comment\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n3\n3.5K\n\n\n\n\n\n\n\n\n\n\n\nKnowix\n\n@knowixbuilds\n18h\n\n\nOpus still has its crown here, it outperformed Argon\n\n\n3\n\n23\n4.3K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Adidotdev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Adidotdev/status/2110047989280670072",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110047947220221952/img/xPDgcTz604S6eSIG.jpg",
+  "coverPath": "covers/2110047989280670072.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110047947220221952",
+    "x-post:2110047989280670072"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Jelly Island Diorama in Three.js",
+      "summary": "Comparison benchmark screen recording of Gemini 4 Argon generating an interactive Three.js 3D diorama with a surfing rooster.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon Vs Opus 5.5 \n\ngave same prompt to both models ( prompt in cmt )"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and",
+        "englishText": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remaining specification truncated after 'and'"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video shows the interactive 3D diorama rendered with Three.js featuring animated jelly water, controls, and a surfing rooster.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL renderer",
+          "evidence": "Build a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr",
+          "sourceUrl": "https://x.com/Adidotdev/status/2110047989280670072",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D WebGL Diorama",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "interactive",
+          "creative-coding",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Generates complete self-contained HTML/JS Three.js application code",
+      "outputSource": "Web browser executing the AI-generated Three.js script",
+      "divisionEvidence": "Build a single self-contained `index.html` (no build step) using **three.js r165**",
+      "video": {
+        "shots": "Single continuous screen capture displaying dual side-by-side interactive viewports",
+        "duration": "0:40",
+        "aspectRatio": "994:1130",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production case demonstrating interactive 3D WebGL code generation with video screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Adidotdev/status/2110047989280670072",
+        "start": 1540,
+        "end": 1807
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Adidotdev/status/2110047989280670072",
+        "author": "Adidotdev",
+        "postId": "2110047989280670072",
+        "publishedAt": "2026-10-13T16:40:18.000Z"
+      },
+      "checkedAt": "2026-10-14T11:30:57.717Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Comparison benchmark screen recording of Gemini 4 Argon generating an interactive Three.js 3D diorama with a surfing rooster.",
+    "summaryEn": "Interactive 3D Jelly Island Diorama in Three.js",
+    "originalPrompt": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and",
+    "sourceRange": {
+      "start": 1540,
+      "end": 1807
+    },
+    "translations": {
+      "zh": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and",
+      "en": "# Task: Build \"Island Jelly\", an interactive 3D diorama with a plush surfing rooster\n\nBuild a single self-contained `index.html` (no build step) using **three.js r165** via an importmap from jsDelivr (`three` + `three/addons/`). Use OrbitControls, RoomEnvironment and"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D WebGL Diorama",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remaining specification truncated after 'and'"
+      ],
+      "evidence": "Video shows the interactive 3D diorama rendered with Three.js featuring animated jelly water, controls, and a surfing rooster."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

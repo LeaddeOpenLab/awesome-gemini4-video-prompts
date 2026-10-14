@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:51:16.348Z",
+  "model": "gemini4",
+  "prompt": "マリオのゲーム作って。",
+  "promptTranslations": {
+    "en": "Make a Mario game."
+  },
+  "summary": "Gemini 4 Argon generated a playable browser-based Mario clone from a simple prompt.",
+  "summaryEn": "Browser Mario Game via Gemini 4 Argon",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110268248411541904",
+    "canonicalUrl": "https://x.com/komorin_ai/status/2110268248411541904",
+    "author": {
+      "username": "komorin_ai",
+      "displayName": "こもりん",
+      "profileUrl": "https://x.com/komorin_ai"
+    },
+    "publishedAt": "2026-10-14T07:15:31.000Z",
+    "collectedAt": "2026-10-14T11:28:38.168Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。\n\nブラウザで動くマリオ風ゲームになった。 https://t.co/0LWu4t7YnD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/komorin_ai/status/2110268248411541904",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110268051581267968/img/nMPtdqe1i6QIo2f7.jpg",
+        "analysisUrl": "https://x.com/komorin_ai/status/2110268248411541904"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 104
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/komorin_ai/status/2110268248411541904",
+        "text": "こもりん on X: \"Gemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。\n\nブラウザで動くマリオ風ゲームになった。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nこもりん on X: \"Gemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。\n\nブラウザで動くマリオ風ゲームになった。\"\n\n\n\nこもりん\n\n@komorin_ai\n\n\n\n\nShow translation\nGemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。\n\nブラウザで動くマリオ風ゲームになった。\n\n\n00:00\n\n\n\n\n\n\n\n\n7:15 AM · Oct 14, 2026·104\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nこもりん@komorin_aiFollow\n29卒｜東京大学・松尾研発スタートアップ インターン｜学生AIコミュニティ運営｜デジタル人材育成学会役員｜全統AI S1 取得｜E資格｜松尾研MACCメンバー\nAI映像\nInstagram：https://t.co/Sg5Pe4r9M8\nTikTok：https://t.co/IoO6qosDCM\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nこもりん\n\n@komorin_ai\n\n\n\n\nShow translation\nGemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。\n\nブラウザで動くマリオ風ゲームになった。\n\n\n00:00\n\n\n\n\n\n\n\n\n7:15 AM · Oct 14, 2026·104\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "komorin_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/komorin_ai/status/2110268248411541904",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110268051581267968/img/nMPtdqe1i6QIo2f7.jpg",
+  "coverPath": "covers/2110268248411541904.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110268051581267968",
+    "x-post:2110268248411541904"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Browser Mario Game via Gemini 4 Argon",
+      "summary": "Gemini 4 Argon generated a playable browser-based Mario clone from a simple prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argonに「マリオのゲーム作って。」と頼んで、できたのがこれ。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "マリオのゲーム作って。",
+        "englishText": "Make a Mario game.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates a working Mario clone running in a web browser with controls and physics.",
+        "textualResultQuote": "ブラウザで動くマリオ風ゲームになった。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser",
+          "role": "Runtime environment",
+          "evidence": "ブラウザで動くマリオ風ゲームになった。",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Mario Game",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini4",
+          "canvas",
+          "game-dev",
+          "mario"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive game",
+      "outputSource": "Web Browser Canvas/DOM",
+      "divisionEvidence": "Gemini generated the game code; the browser rendered and executed it.",
+      "video": {
+        "shots": "Single interactive capture",
+        "duration": "8s",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Gemini 4 generating an interactive browser game, documented with video evidence and verbatim prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/komorin_ai/status/2110268248411541904",
+        "start": 16,
+        "end": 27
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/komorin_ai/status/2110268248411541904",
+        "author": "komorin_ai",
+        "postId": "2110268248411541904",
+        "publishedAt": "2026-10-14T07:15:31.000Z"
+      },
+      "checkedAt": "2026-10-14T11:36:15.747Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a playable browser-based Mario clone from a simple prompt.",
+    "summaryEn": "Browser Mario Game via Gemini 4 Argon",
+    "originalPrompt": "マリオのゲーム作って。",
+    "sourceRange": {
+      "start": 16,
+      "end": 27
+    },
+    "translations": {
+      "zh": "マリオのゲーム作って。",
+      "en": "Make a Mario game."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Mario Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates a working Mario clone running in a web browser with controls and physics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
