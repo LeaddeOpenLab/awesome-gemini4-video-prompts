@@ -3,8 +3,12 @@ on:
   push:
     branches: [main]
     paths:
-      - "site/**"
+      - "collection/**"
       - "data/**"
+      - "site/**"
+      - "prompts/**"
+      - "covers/**"
+      - ".github/scripts/organize-files.py"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 permissions:
@@ -22,18 +26,20 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Organize incoming files
+        run: python3 .github/scripts/organize-files.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Build static pages
         env:
           GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
           GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
-        run: python3 site/build.py
+        run: python3 collection/site/build.py
       - name: Check pages and local links
-        run: python3 site/check.py
+        run: python3 collection/site/check.py
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: collection/_site
   deploy:
     needs: build
     runs-on: ubuntu-latest

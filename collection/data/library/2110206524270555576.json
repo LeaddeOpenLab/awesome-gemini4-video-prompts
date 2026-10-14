@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:29.032Z",
+  "model": "gemini4",
+  "prompt": "电影级低角度跟拍镜头，一辆极具未来感的银色跑车在夜晚的赛博朋克城市街道上疾驰。刚刚下过雨的柏油路面上积水倒映着绚丽的粉蓝色霓虹灯牌和全息广告。镜头从贴地视角捕捉轮胎飞溅起水花的慢动作细节，随后平滑拉升，展现高耸入云的摩天大楼和空中穿梭的飞行器。体积雾，高对比度光影，8K超高清，照片级真实感。",
+  "promptTranslations": {
+    "en": "A cinematic low-angle tracking shot of a sleek futuristic silver sports car speeding through a cyberpunk city street at night. Wet asphalt reflects vibrant neon pink and cyan signs and holographic billboards. The camera captures slow-motion water splashes from the tires at ground level, then smoothly cranes up to reveal towering skyscrapers and flying vehicles in the misty sky. Volumetric fog, dramatic lighting, 8k resolution, photorealistic."
+  },
+  "summary": "Demonstration of Gemini 4 Argon generating a 10-second cyberpunk vehicle video directly in chat from a text prompt.",
+  "summaryEn": "Gemini 4 Cyberpunk Vehicle Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110206524270555576",
+    "canonicalUrl": "https://x.com/7ai_Life/status/2110206524270555576",
+    "author": {
+      "username": "7ai_Life",
+      "displayName": "七乂",
+      "profileUrl": "https://x.com/7ai_Life"
+    },
+    "publishedAt": "2026-10-14T03:10:15.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "zh",
+    "originalText": "Gemini 4 Argon可以直接做做视频了！！！\n\n速度是真快，10秒的视频就几秒钟完成了\n\n亲测了一下，可以在聊天中直接让它做视频，目前能做最长10秒。\n\n提示词我放评论了。↓ https://t.co/zLLg4dl11Z",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/7ai_Life/status/2110206524270555576",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110205740325695488/img/kapBbosbDBgcGqPo.jpg",
+        "analysisUrl": "https://x.com/7ai_Life/status/2110206524270555576"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HUj1nAkaEAApZ4L.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HUj1nAkaEAApZ4L.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 45
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/7ai_Life/status/2110206876839534696",
+        "text": "3. 奇幻概念与跨维度运镜（展现：空间转换、粒子特效、超现实想象力）\n\n中文提示词：一镜到底的无缝穿梭镜头。画面从一间古典昏暗的图书馆开始，桌上一本古老的魔法书自动翻开，书页间散发着金色的发光粒子。镜头快速推近并直接穿入书页上的插画中，瞬间置身于一片壮丽的奇幻山脉上空。一条半透明的发光星云巨龙在漂浮的岛屿和瀑布之间翱翔，金色的夕阳照亮云海。史诗感，流体粒子特效，大师级构图。\n\nEnglish Prompt: A seamless single-take fly-through shot. Starting in a dimly lit vintage library, an ancient magic book on a wooden desk opens by itself, emitting glowing golden particles from its pages. The camera rapidly zooms into an illustration on the page, transitioning directly into the sky above a breathtaking fantasy mountain range. A translucent dragon made of starry nebula soars between floating islands and cascading waterfalls under a golden sunset. Epic scale, fluid particle effects, masterpiece composition.",
+        "author": "7ai_Life"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/7ai_Life/status/2110206758044193098",
+        "text": "2. 微距自然与流体细节（展现：毛发纹理、水滴张力、景深变化）\n\n中文提示词：极度特写微距镜头，清晨的阳光穿过茂密的热带雨林，一滴晶莹剔透的露珠从翠绿的蕨类植物叶片尖端缓缓滑落，正好滴在一只色彩斑斓的微小树蛙背上。水滴撞击瞬间迸发出细小的水珠，树蛙眨了眨金色的大眼睛，身体纹理和皮肤上的水分清晰可见。浅景深，背景是梦幻的金色散景光斑，丁达尔效应，国家地理纪录片画质。\n\nEnglish Prompt: Extreme macro close-up shot. Morning sunlight filters through a lush tropical rainforest as a crystal-clear dewdrop slowly slides off the tip of a vibrant green fern leaf, landing gently on the back of a tiny, colorful tree frog. The impact creates microscopic water droplets in slow motion. The frog blinks its large golden eyes, showcasing intricate skin textures and moisture. Shallow depth of field, dreamy golden bokeh background, Tyndall effect, National Geographic documentary style.",
+        "author": "7ai_Life"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/7ai_Life/status/2110206670194495802",
+        "text": "1. 赛博朋克与光影物理（展现：反射、雨滴物理、动态运镜）\n\n中文提示词：电影级低角度跟拍镜头，一辆极具未来感的银色跑车在夜晚的赛博朋克城市街道上疾驰。刚刚下过雨的柏油路面上积水倒映着绚丽的粉蓝色霓虹灯牌和全息广告。镜头从贴地视角捕捉轮胎飞溅起水花的慢动作细节，随后平滑拉升，展现高耸入云的摩天大楼和空中穿梭的飞行器。体积雾，高对比度光影，8K超高清，照片级真实感。\n\nEnglish Prompt: A cinematic low-angle tracking shot of a sleek futuristic silver sports car speeding through a cyberpunk city street at night. Wet asphalt reflects vibrant neon pink and cyan signs and holographic billboards. The camera captures slow-motion water splashes from the tires at ground level, then smoothly cranes up to reveal towering skyscrapers and flying vehicles in the misty sky. Volumetric fog, dramatic lighting, 8k resolution, photorealistic.",
+        "author": "7ai_Life"
+      },
+      {
+        "url": "https://x.com/7ai_Life/status/2110206524270555576",
+        "text": "七乂 on X: \"Gemini 4 Argon可以直接做做视频了！！！\n\n速度是真快，10秒的视频就几秒钟完成了\n\n亲测了一下，可以在聊天中直接让它做视频，目前能做最长10秒。\n\n提示词我放评论了。↓\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\n七乂 on X: \"Gemini 4 Argon可以直接做做视频了！！！\n\n速度是真快，10秒的视频就几秒钟完成了\n\n亲测了一下，可以在聊天中直接让它做视频，目前能做最长10秒。\n\n提示词我放评论了。↓\"\n\n\n\n七乂\n\n@7ai_Life\n\n\n\n\nShow translation\nGemini 4 Argon可以直接做做视频了！！！\n\n速度是真快，10秒的视频就几秒钟完成了\n\n亲测了一下，可以在聊天中直接让它做视频，目前能做最长10秒。\n\n提示词我放评论了。↓\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMade with AI\n\n3:10 AM · Oct 14, 2026·56\nViews\n\n\n\n5\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n七乂@7ai_LifeFollow\n七乂（qī ài）｜AI 实践者\n分享 AI 工具、Agent、自动化、SEO 建站与独立项目实践\n用 AI，换一点生活的自由。🌍 https://t.co/xlWh8J0xY0\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n七乂\n\n@7ai_Life\n\n\n\n\nShow translation\nGemini 4 Argon可以直接做做视频了！！！\n\n速度是真快，10秒的视频就几秒钟完成了\n\n亲测了一下，可以在聊天中直接让它做视频，目前能做最长10秒。\n\n提示词我放评论了。↓\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMade with AI\n\n3:10 AM · Oct 14, 2026·56\nViews\n\n\n\n5\n\n2\n\n\n\n\n\n\n\n\n\n\n七乂\n\n@7ai_Life\n9m\n\n\n1. 赛博朋克与光影物理（展现：反射、雨滴物理、动态运镜） Show more\n\n\n\n\n1\n9\n\n\n\n\n\n\n\n\n\n\n\n七乂\n\n@7ai_Life\n9m\n\n\n2. 微距自然与流体细节（展现：毛发纹理、水滴张力、景深变化） Show more\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n七乂\n\n@7ai_Life\n8m\n\n\n3. 奇幻概念与跨维度运镜（展现：空间转换、粒子特效、超现实想象力） Show more\n\n\n\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n智勇双全甜甜\n\n@dao_wan73049\n1m\n\n\n这速度 我提示词还没打完\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "7ai_Life"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/7ai_Life/status/2110206524270555576",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110205740325695488/img/kapBbosbDBgcGqPo.jpg",
+  "coverPath": "collection/data/covers/2110206524270555576.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110205740325695488",
+    "x-image:/media/HUj1nAkaEAApZ4L",
+    "x-post:2110206524270555576"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Cyberpunk Vehicle Scene",
+      "summary": "Demonstration of Gemini 4 Argon generating a 10-second cyberpunk vehicle video directly in chat from a text prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": "Gemini",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon可以直接做做视频了！！！"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "电影级低角度跟拍镜头，一辆极具未来感的银色跑车在夜晚的赛博朋克城市街道上疾驰。刚刚下过雨的柏油路面上积水倒映着绚丽的粉蓝色霓虹灯牌和全息广告。镜头从贴地视角捕捉轮胎飞溅起水花的慢动作细节，随后平滑拉升，展现高耸入云的摩天大楼和空中穿梭的飞行器。体积雾，高对比度光影，8K超高清，照片级真实感。",
+        "englishText": "A cinematic low-angle tracking shot of a sleek futuristic silver sports car speeding through a cyberpunk city street at night. Wet asphalt reflects vibrant neon pink and cyan signs and holographic billboards. The camera captures slow-motion water splashes from the tires at ground level, then smoothly cranes up to reveal towering skyscrapers and flying vehicles in the misty sky. Volumetric fog, dramatic lighting, 8k resolution, photorealistic.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a low-angle tracking shot of a silver car splashing puddle water, then cranes up into cyberpunk skyscrapers with flying crafts.",
+        "textualResultQuote": "您的视频已准备就绪！"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Cyberpunk City Car Chase",
+        "topic": "3d-scenes",
+        "tags": [
+          "cyberpunk",
+          "cinematic",
+          "sci-fi",
+          "sports-car"
+        ]
+      },
+      "targetModelRole": "Native end-to-end video generator in chat interface.",
+      "outputSource": "Gemini 4 Argon chat interface",
+      "divisionEvidence": "可以在聊天中直接让它做视频，目前能做最长10秒。",
+      "video": {
+        "shots": "Single-take tracking shot craning up",
+        "duration": "10s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Explicit Gemini 4 confirmation, full verbatim prompt, and matching video output provided by the original creator.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/7ai_Life/status/2110206670194495802",
+        "start": 37,
+        "end": 183
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/7ai_Life/status/2110206524270555576",
+        "author": "7ai_Life",
+        "postId": "2110206524270555576",
+        "publishedAt": "2026-10-14T03:10:15.000Z"
+      },
+      "checkedAt": "2026-10-14T04:00:11.056Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Demonstration of Gemini 4 Argon generating a 10-second cyberpunk vehicle video directly in chat from a text prompt.",
+    "summaryEn": "Gemini 4 Cyberpunk Vehicle Scene",
+    "originalPrompt": "电影级低角度跟拍镜头，一辆极具未来感的银色跑车在夜晚的赛博朋克城市街道上疾驰。刚刚下过雨的柏油路面上积水倒映着绚丽的粉蓝色霓虹灯牌和全息广告。镜头从贴地视角捕捉轮胎飞溅起水花的慢动作细节，随后平滑拉升，展现高耸入云的摩天大楼和空中穿梭的飞行器。体积雾，高对比度光影，8K超高清，照片级真实感。",
+    "sourceRange": {
+      "start": 37,
+      "end": 183
+    },
+    "translations": {
+      "zh": "电影级低角度跟拍镜头，一辆极具未来感的银色跑车在夜晚的赛博朋克城市街道上疾驰。刚刚下过雨的柏油路面上积水倒映着绚丽的粉蓝色霓虹灯牌和全息广告。镜头从贴地视角捕捉轮胎飞溅起水花的慢动作细节，随后平滑拉升，展现高耸入云的摩天大楼和空中穿梭的飞行器。体积雾，高对比度光影，8K超高清，照片级真实感。",
+      "en": "A cinematic low-angle tracking shot of a sleek futuristic silver sports car speeding through a cyberpunk city street at night. Wet asphalt reflects vibrant neon pink and cyan signs and holographic billboards. The camera captures slow-motion water splashes from the tires at ground level, then smoothly cranes up to reveal towering skyscrapers and flying vehicles in the misty sky. Volumetric fog, dramatic lighting, 8k resolution, photorealistic."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "external-video-model",
+    "useCase": "Cyberpunk City Car Chase",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a low-angle tracking shot of a silver car splashing puddle water, then cranes up into cyberpunk skyscrapers with flying crafts."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

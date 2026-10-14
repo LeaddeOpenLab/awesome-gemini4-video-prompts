@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:30.271Z",
+  "model": "gemini4",
+  "prompt": "伏見稲荷大社をBlenderで作って",
+  "promptTranslations": {
+    "en": "Make Fushimi Inari Taisha in Blender"
+  },
+  "summary": "Gemini 4 Argon generated a procedural 3D model of Fushimi Inari Shrine in Blender via iterative code generation and visual self-critique over six loops.",
+  "summaryEn": "Blender Procedural Fushimi Inari Shrine Generation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110178222524731701",
+    "canonicalUrl": "https://x.com/ai_prompt1/status/2110178222524731701",
+    "author": {
+      "username": "ai_prompt1",
+      "displayName": "YU｜🍎ローカルLLM",
+      "profileUrl": "https://x.com/ai_prompt1"
+    },
+    "publishedAt": "2026-10-14T01:17:48.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた⛩️\n\n自分でレンダリング→画像を見て批評→コード修正、を6周。\n千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。\n\nAPI費用は約$7.5（約1,100円）。 https://t.co/Zjeotjmrb3",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ai_prompt1/status/2110178222524731701",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110177838997581824/img/6pxVELovb2d5Icqq.jpg",
+        "analysisUrl": "https://x.com/ai_prompt1/status/2110178222524731701"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 131
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ai_prompt1/status/2110178222524731701",
+        "text": "YU｜🍎ローカルLLM on X: \"Gemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた⛩️\n\n自分でレンダリング→画像を見て批評→コード修正、を6周。\n千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。\n\nAPI費用は約$7.5（約1,100円）。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nYU｜🍎ローカルLLM on X: \"Gemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた⛩️\n\n自分でレンダリング→画像を見て批評→コード修正、を6周。\n千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。\n\nAPI費用は約$7.5（約1,100円）。\"\n\n\n\nYU｜🍎ローカルLLM\n\n@ai_prompt1\n\n\n\n\nShow translation\nGemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた⛩️\n\n自分でレンダリング→画像を見て批評→コード修正、を6周。\n千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。\n\nAPI費用は約$7.5（約1,100円）。\n\n\n00:00\n\n\n\n\n\n\n\n\n1:17 AM · Oct 14, 2026·132\nViews\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nYU｜🍎ローカルLLM@ai_prompt1Follow\nAIを作る・動かす・仕事で使う。Mac🍎で動かすローカルLLM。192/128/128/64の合計512GBで運用。生成AI映像・画像は @ailike586860 へ。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYU｜🍎ローカルLLM\n\n@ai_prompt1\n\n\n\n\nShow translation\nGemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた⛩️\n\n自分でレンダリング→画像を見て批評→コード修正、を6周。\n千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。\n\nAPI費用は約$7.5（約1,100円）。\n\n\n00:00\n\n\n\n\n\n\n\n\n1:17 AM · Oct 14, 2026·132\nViews\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ai_prompt1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ai_prompt1/status/2110178222524731701",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110177838997581824/img/6pxVELovb2d5Icqq.jpg",
+  "coverPath": "collection/data/covers/2110178222524731701.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110177838997581824",
+    "x-post:2110178222524731701"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Blender Procedural Fushimi Inari Shrine Generation",
+      "summary": "Gemini 4 Argon generated a procedural 3D model of Fushimi Inari Shrine in Blender via iterative code generation and visual self-critique over six loops.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4 Argon",
+        "platform": "Google AI Studio / Gemini API",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argonに「伏見稲荷大社をBlenderで作って」と頼んでみた"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "伏見稲荷大社をBlenderで作って",
+        "englishText": "Make Fushimi Inari Taisha in Blender",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "agent orchestration harness",
+          "visual self-critique prompt instructions",
+          "Python code refinement system prompts"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates the multi-iteration 3D scene in Blender showcasing the torii tunnel, Romon gate, Honden, and fox statue holding a key.",
+        "textualResultQuote": "千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene renderer and Python execution environment",
+          "evidence": "伏見稲荷大社をBlenderで作って",
+          "sourceUrl": "https://x.com/ai_prompt1/status/2110178222524731701",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Python",
+          "role": "Blender automation scripting language",
+          "evidence": "外部素材ゼロのPythonスクリプトだけで生成",
+          "sourceUrl": "https://x.com/ai_prompt1/status/2110178222524731701",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Fushimi Inari Shrine Procedural 3D Model",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "python",
+          "fushimi-inari",
+          "procedural-generation"
+        ]
+      },
+      "targetModelRole": "Writing Blender Python code and visually critiquing rendered image outputs across 6 iterative loops",
+      "outputSource": "Blender rendering engine",
+      "divisionEvidence": "自分でレンダリング→画像を見て批評→コード修正、を6周。千本鳥居、楼門、本殿、鍵をくわえた狐まで、外部素材ゼロのPythonスクリプトだけで生成。",
+      "video": {
+        "shots": "Multiple camera flythroughs and showcases of the torii tunnel, Romon gate, and shrine grounds",
+        "duration": "0:25",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": false,
+      "reason": "The author provides only a high-level fragment describing the iterative prompt loop rather than the complete runnable prompts or orchestration code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ai_prompt1/status/2110178222524731701",
+        "start": 16,
+        "end": 34
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ai_prompt1/status/2110178222524731701",
+        "author": "ai_prompt1",
+        "postId": "2110178222524731701",
+        "publishedAt": "2026-10-14T01:17:48.000Z"
+      },
+      "checkedAt": "2026-10-14T04:00:20.758Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified",
+          "outside_repository_scope"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a procedural 3D model of Fushimi Inari Shrine in Blender via iterative code generation and visual self-critique over six loops.",
+    "summaryEn": "Blender Procedural Fushimi Inari Shrine Generation",
+    "originalPrompt": "伏見稲荷大社をBlenderで作って",
+    "sourceRange": {
+      "start": 16,
+      "end": 34
+    },
+    "translations": {
+      "zh": "伏見稲荷大社をBlenderで作って",
+      "en": "Make Fushimi Inari Taisha in Blender"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "blender",
+    "useCase": "Fushimi Inari Shrine Procedural 3D Model",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "agent orchestration harness",
+        "visual self-critique prompt instructions",
+        "Python code refinement system prompts"
+      ],
+      "evidence": "The video demonstrates the multi-iteration 3D scene in Blender showcasing the torii tunnel, Romon gate, Honden, and fox statue holding a key."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

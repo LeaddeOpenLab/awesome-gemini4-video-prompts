@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:55.542Z",
+  "model": "gemini4",
+  "prompt": "creame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG",
+  "promptTranslations": {
+    "en": "create an animation of a pelican using a phone while riding a bicycle made in SVG"
+  },
+  "summary": "Interactive web app and SVG animation of a pelican riding a bike while using a phone, created from a single prompt.",
+  "summaryEn": "Interactive SVG Pelican Cyclist Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100602176787587240",
+    "canonicalUrl": "https://x.com/Cryptoalterno/status/2100602176787587240",
+    "author": {
+      "username": "Cryptoalterno",
+      "displayName": "CryptoAlterno",
+      "profileUrl": "https://x.com/Cryptoalterno"
+    },
+    "publishedAt": "2026-09-17T15:06:00.000Z",
+    "collectedAt": "2026-10-14T05:41:21.121Z",
+    "language": "es",
+    "originalText": "Testing Gemini 4 Pro\n\nUn solo prompt, si de verdad esto es gemini 4 pro, y sale más barato que Astra y Fable, pues fue divertido mientras duró el chatgpt https://t.co/BqW6Y4PrRM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Cryptoalterno/status/2100602176787587240",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100601590499495936/img/OmgwhKrXPD7nKxn1.jpg",
+        "analysisUrl": "https://x.com/Cryptoalterno/status/2100602176787587240"
+      }
+    ],
+    "metrics": {
+      "likeCount": 115,
+      "repostCount": 2,
+      "replyCount": 9,
+      "quoteCount": 1,
+      "viewCount": 26643
+    },
+    "matchedRuleIds": [
+      "group:gemini:es:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Cryptoalterno/status/2100602176787587240",
+        "text": "CryptoAlterno on X: \"Testing Gemini 4 Pro\n\nUn solo prompt, si de verdad esto es gemini 4 pro, y sale más barato que Astra y Fable, pues fue divertido mientras duró el chatgpt\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nCryptoAlterno on X: \"Testing Gemini 4 Pro\n\nUn solo prompt, si de verdad esto es gemini 4 pro, y sale más barato que Astra y Fable, pues fue divertido mientras duró el chatgpt\"\n\n\n\nCryptoAlterno\n@Cryptoalterno\n\n\n\n\nShow translation\nTesting Gemini 4 Pro\n\nUn solo prompt, si de verdad esto es gemini 4 pro, y sale más barato que Astra y Fable, pues fue divertido mientras duró el chatgpt\n\n\n00:00\n\n\n\n\n\n\n\n\n3:06 PM · Sep 17, 2026·26.6K\nViews\n\n\n\n9\n2\n115\n16\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCryptoAlterno@CryptoalternoFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCryptoAlterno\n@Cryptoalterno\n\n\n\n\nShow translation\nTesting Gemini 4 Pro\n\nUn solo prompt, si de verdad esto es gemini 4 pro, y sale más barato que Astra y Fable, pues fue divertido mientras duró el chatgpt\n\n\n00:00\n\n\n\n\n\n\n\n\n3:06 PM · Sep 17, 2026·26.6K\nViews\n\n\n\n9\n2\n115\n16\n\n\n\n\n\n\n\n\n\nCryptoAlterno\n@Cryptoalterno\nSep 17\n\n\nPrompt:\n\ncreame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG\n\n\n\n\n1\n1.2K\n\n\n\n\n\n\n\n\n\n\n\nErWilly\n@ErWilly3\nSep 17\n\n\nSiempre y cuando no cueste 10/50$ y se consuma la cuota en horas, triunfara.\n\n\n1\n\n3\n956\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Cryptoalterno"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Cryptoalterno/status/2100602176787587240",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100601590499495936/img/OmgwhKrXPD7nKxn1.jpg",
+  "coverPath": "collection/data/covers/2100602176787587240.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100601590499495936",
+    "x-post:2100602176787587240"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive SVG Pelican Cyclist Animation",
+      "summary": "Interactive web app and SVG animation of a pelican riding a bike while using a phone, created from a single prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Testing Gemini 4 Pro"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "creame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG",
+        "englishText": "create an animation of a pelican using a phone while riding a bicycle made in SVG",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive SVG cyclist animation matching the prompt description.",
+        "textualResultQuote": "El Pelícano Ciclista En Vivo"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "SVG / Web Browser",
+          "role": "Renders interactive SVG graphics and execution runtime.",
+          "evidence": "hecha en SVG",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Pelican Cyclist Interactive Animation",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini-4",
+          "svg-animation",
+          "creative-coding",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Generates interactive SVG, HTML, and JavaScript code.",
+      "outputSource": "Web browser rendering generated SVG and script code.",
+      "divisionEvidence": "creame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG",
+      "video": {
+        "shots": "Single UI screen recording",
+        "duration": "00:44",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Includes Gemini 4 attribution, full original prompt, and video demonstration of the interactive SVG result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Cryptoalterno/status/2100602176787587240",
+        "start": 1316,
+        "end": 1412
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Cryptoalterno/status/2100602176787587240",
+        "author": "Cryptoalterno",
+        "postId": "2100602176787587240",
+        "publishedAt": "2026-09-17T15:06:00.000Z"
+      },
+      "checkedAt": "2026-10-14T06:10:23.342Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      }
+    },
+    "summary": "Interactive web app and SVG animation of a pelican riding a bike while using a phone, created from a single prompt.",
+    "summaryEn": "Interactive SVG Pelican Cyclist Animation",
+    "originalPrompt": "creame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG",
+    "sourceRange": {
+      "start": 1316,
+      "end": 1412
+    },
+    "translations": {
+      "zh": "creame una animación de un pelicano usando el telefono mientras va en una bicicleta hecha en SVG",
+      "en": "create an animation of a pelican using a phone while riding a bicycle made in SVG"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Pelican Cyclist Interactive Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the interactive SVG cyclist animation matching the prompt description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

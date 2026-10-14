@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:29.742Z",
+  "model": "gemini4",
+  "prompt": "生成一个svg动画：[鹈鹕骑自行车 / 斑马骑自行车 / 秦始皇骑北极熊]，用H5给我展示下",
+  "promptTranslations": {
+    "en": "Generate an SVG animation: [Pelican riding a bicycle / Zebra riding a bicycle / Qin Shi Huang riding a polar bear], display it to me in H5"
+  },
+  "summary": "Blind testing Gemini 4 Argon with bare prompts for SVG animations in HTML5, showcasing autonomous 2-bone IK solver implementation and interactive state controls.",
+  "summaryEn": "Gemini 4 Argon Interactive SVG Bicycle & Creature Rigging Blind Test",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110168263623938143",
+    "canonicalUrl": "https://x.com/servasyy_ai/status/2110168263623938143",
+    "author": {
+      "username": "servasyy_ai",
+      "displayName": "huangserva",
+      "profileUrl": "https://x.com/servasyy_ai"
+    },
+    "publishedAt": "2026-10-14T00:38:13.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "zh",
+    "originalText": "Gemini 4 Argon测“鹈鹕骑车”怎么样？\n\n我干脆开了三个完全空白的会话做了一次裸 Prompt 盲测，顺手还加了一道“秦始皇骑北极熊”😂\n\n以前拿这类题测模型，基本只能画出一堆散架的几何色块，腿脚和踏板永远是脱节穿模的。\n\n这次跑完三个盲测，看明白 Argon 为什么效果稳了：\n\n默认用双连杆逆运动学（2-Bone IK）替代手写关键帧\n哪怕 Prompt 里一个字没提物理和骨骼，它也会默认在代码里写一段余弦定理解算器。\n\n每一帧根据曲柄角度实时反推膝盖坐标，把脚掌死死锁在踏板圆周上，甚至还会主动留一个「IK 骨骼透视」开关用来验收。\n\n自带微物理反馈与场景状态机\n第一段鹈鹕给了柔性喉囊物理和颠鱼互动；\n第二段斑马自己加上了飞行员墨镜、昼夜切换和翘头特技。\n最逗的是第三段“秦始皇骑北极熊”，只给了一句短\n  Prompt，它自己画出了会随步伐晃动的十二旒冕冠、定秦剑和北极极光，右上角还做了一枚能点击盖章的传国玉玺，支持切换巡游、冲锋和巨熊人立咆哮。\n\n与其说它只是画图变准了，不如说现在的 Coding 模型在后训练阶段，已经把“几何约束 + 物理反馈 + 交互控制台”内化成写前端的默认工程习惯了。\n\n三个测试全是同一句裸 Prompt：\n生成一个svg动画：[鹈鹕骑自行车 / 斑马骑自行车 / 秦始皇骑北极熊]，用H5给我展示下👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/servasyy_ai/status/2110168263623938143",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110167753139384320/img/O729CMXjuaO8GY4J.jpg",
+        "analysisUrl": "https://x.com/servasyy_ai/status/2110168263623938143"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 1,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 2431
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/servasyy_ai/status/2110168263623938143",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110167753139384320/img/O729CMXjuaO8GY4J.jpg",
+  "coverPath": "collection/data/covers/2110168263623938143.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110167753139384320",
+    "x-post:2110168263623938143"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Interactive SVG Bicycle & Creature Rigging Blind Test",
+      "summary": "Blind testing Gemini 4 Argon with bare prompts for SVG animations in HTML5, showcasing autonomous 2-bone IK solver implementation and interactive state controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon测“鹈鹕骑车”怎么样？我干脆开了三个完全空白的会话做了一次裸 Prompt 盲测"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "生成一个svg动画：[鹈鹕骑自行车 / 斑马骑自行车 / 秦始皇骑北极熊]，用H5给我展示下",
+        "englishText": "Generate an SVG animation: [Pelican riding a bicycle / Zebra riding a bicycle / Qin Shi Huang riding a polar bear], display it to me in H5",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates all three interactive HTML5/SVG animations matching the prompt: pelican pedaling with IK toggles, zebra cruising with stunt controls, and Qin Shi Huang riding an animated polar bear.",
+        "textualResultQuote": "默认用双连杆逆运动学（2-Bone IK）替代手写关键帧...每一帧根据曲柄角度实时反推膝盖坐标...第一段鹈鹕给了柔性喉囊物理和颠鱼互动；第二段斑马自己加上了飞行员墨镜、昼夜切换和翘头特技。最逗的是第三段“秦始皇骑北极熊”...画出了会随步伐晃动的十二旒冕冠、定秦剑和北极极光，右上角还做了一枚能点击盖章的传国玉玺"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / SVG / JS",
+          "role": "Frontend runtime environment executing and rendering the model-generated procedural SVG animation and UI controls",
+          "evidence": "用H5给我展示下",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Procedural SVG Animation",
+        "topic": "games-interactive",
+        "tags": [
+          "svg-animation",
+          "inverse-kinematics",
+          "gemini-4-argon",
+          "interactive-demo"
+        ]
+      },
+      "targetModelRole": "Generates complete self-contained HTML5/SVG/JavaScript code implementing 2-bone IK kinematics solvers and interactive control dashboards",
+      "outputSource": "Web browser rendering HTML5 code generated by Gemini 4 Argon",
+      "divisionEvidence": "现在的 Coding 模型在后训练阶段，已经把“几何约束 + 物理反馈 + 交互控制台”内化成写前端的默认工程习惯了。",
+      "video": {
+        "shots": "3 interactive demo recordings (Pelican, Zebra, Qin Shi Huang)",
+        "duration": "00:27",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Gemini 4 Argon, complete reproducible prompts, and a screen recording verifying the interactive code results.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/servasyy_ai/status/2110168263623938143",
+        "start": 534,
+        "end": 580
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/servasyy_ai/status/2110168263623938143",
+        "author": "servasyy_ai",
+        "postId": "2110168263623938143",
+        "publishedAt": "2026-10-14T00:38:13.000Z"
+      },
+      "checkedAt": "2026-10-14T04:00:16.948Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified"
+        ]
+      }
+    },
+    "summary": "Blind testing Gemini 4 Argon with bare prompts for SVG animations in HTML5, showcasing autonomous 2-bone IK solver implementation and interactive state controls.",
+    "summaryEn": "Gemini 4 Argon Interactive SVG Bicycle & Creature Rigging Blind Test",
+    "originalPrompt": "生成一个svg动画：[鹈鹕骑自行车 / 斑马骑自行车 / 秦始皇骑北极熊]，用H5给我展示下",
+    "sourceRange": {
+      "start": 534,
+      "end": 580
+    },
+    "translations": {
+      "zh": "生成一个svg动画：[鹈鹕骑自行车 / 斑马骑自行车 / 秦始皇骑北极熊]，用H5给我展示下",
+      "en": "Generate an SVG animation: [Pelican riding a bicycle / Zebra riding a bicycle / Qin Shi Huang riding a polar bear], display it to me in H5"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Procedural SVG Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates all three interactive HTML5/SVG animations matching the prompt: pelican pedaling with IK toggles, zebra cruising with stunt controls, and Qin Shi Huang riding an animated polar bear."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

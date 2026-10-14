@@ -1,7 +1,7 @@
 """Build Leadde-style README cards and category indexes from the video catalog."""
 from pathlib import Path
-import json,html,sys,re
-ROOT=Path(__file__).resolve().parents[2]
+import json,html,sys,re,posixpath
+ROOT=Path(__file__).resolve().parents[2] / "collection"
 sys.path.insert(0,str(ROOT/'site'))
 from catalog import CATEGORY_NAMES, FEATURED, TIPS, REPOSITORY
 videos=json.loads((ROOT/'data/videos.json').read_text());by_id={v['id']:v for v in videos}
@@ -44,15 +44,19 @@ for zh in [False,True]:
         f'[{"浏览全部" if zh else "Browse all"} {len(group)} →](data/categories/{key}.md)']
  lines+=['','## '+('使用方法' if zh else 'How to use'),'','1. '+('打开案例，观看视频并阅读原帖。' if zh else 'Open a creation, watch the video and read the original post.'),'2. '+('复制作者公开的提示词，按需要替换主题、参考图和模板占位符。' if zh else 'Copy a public prompt and replace the subject, reference images or template placeholders.'),'3. '+('按作者要求准备工具与素材，预览并迭代结果。' if zh else 'Prepare the tools and inputs described by the creator, then preview and refine.'),'','## '+('作者与权利' if zh else 'Creators & rights'),'','Videos, prompts and quoted posts belong to their original creators. See [media rights](data/docs/MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.','','[Catalog](data/videos.json) · [Selection notes](data/featured.json) · [Engagement snapshot](data/engagement.json)','']
  text='\n'.join(lines)
- if zh:
-  # The Chinese edition lives three directories below the repository root.
-  text=re.sub(r'(\]\(|(?:href|src)=")([^"\s\)]+)',
-              lambda m: m.group(1)+(m.group(2) if m.group(2).startswith(('http:', 'https:', '#')) else '../../../'+m.group(2)),text)
- (ROOT/('data/docs/translations/README.zh-CN.md' if zh else 'README.md')).write_text(text)
+ # Templates use collection-relative paths; the English README remains at root.
+ def readme_link(m):
+  value=m.group(2)
+  if value.startswith(('http:', 'https:', '#')): return m.group(0)
+  if value=='README.md': value='../README.md'
+  return m.group(1)+posixpath.normpath(('../../../' if zh else 'collection/')+value)
+ text=re.sub(r'(\]\(|(?:href|src)=")([^"\s\)]+)', readme_link, text)
+ target=ROOT/'data/docs/translations/README.zh-CN.md' if zh else ROOT.parent/'README.md'
+ target.write_text(text)
 folder=ROOT/'data/categories';folder.mkdir(exist_ok=True)
 for key,(en,cn) in CATEGORY_NAMES.items():
  group=[v for v in videos if v['category']==key]
- (folder/(key+'.md')).write_text(f'# {en}\n\n[← Back to the collection](../../README.md) · [{cn} · Website]({base}collections/{key}/)\n\n{len(group)} creations. Prompt availability is shown on each entry.\n\n'+cards(group,prefix='../../')+'\n')
+ (folder/(key+'.md')).write_text(f'# {en}\n\n[← Back to the collection](../../../README.md) · [{cn} · Website]({base}collections/{key}/)\n\n{len(group)} creations. Prompt availability is shown on each entry.\n\n'+cards(group,prefix='../../')+'\n')
 print(f'Built two README pages and {len(CATEGORY_NAMES)} category indexes.')
 
 # Keep each original prompt intact and refresh only the editorial callout.

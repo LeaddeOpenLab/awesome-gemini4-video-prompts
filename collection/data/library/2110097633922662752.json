@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:30.836Z",
+  "model": "gemini4",
+  "prompt": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+  "promptTranslations": {
+    "en": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video."
+  },
+  "summary": "Gemini 4 Argon autonomously authored 3D models, materials, animation, and multi-camera cinematography for a space station scene rendered in Mixar/Cycles.",
+  "summaryEn": "Autonomous 3D Space Station Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110097633922662752",
+    "canonicalUrl": "https://x.com/_satyam_ai/status/2110097633922662752",
+    "author": {
+      "username": "_satyam_ai",
+      "displayName": "Satyam Kumar",
+      "profileUrl": "https://x.com/_satyam_ai"
+    },
+    "publishedAt": "2026-10-13T19:57:34.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "An AI agent built this entire space station.\n\nModeling, materials, animation, cameras: all done by Gemini 4 Argon inside Mixar (an AI-native Blender fork). \n\nI didn't touch the mouse once.\n\nIt's not an AI video. It's real 3D geometry, rendered in 4K.\n\nPrompt and clay breakdown in the replies 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/_satyam_ai/status/2110097633922662752",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110094250113413120/img/QRBRSSC3BeGDgznF.jpg",
+        "analysisUrl": "https://x.com/_satyam_ai/status/2110097633922662752"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 3,
+      "replyCount": 10,
+      "quoteCount": 6,
+      "viewCount": 1620
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110172913177350223",
+        "text": "@Eliopyr Yes, its super cool. 😎",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110139462202335533",
+        "text": "@catmanyau It worked from the existing scene. The agent kept editing the same scene across passes, adding the camera setup and animation on top of the existing geometry and materials.",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110138803122041335",
+        "text": "@mindofstephen Haha, nice observation. This is more of a visual exploration than an engineering-ready design. The goal here was to see how far an AI agent could go in building a complete 3D scene autonomously.",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110126399080272253",
+        "text": "@catmanyau I have the timelapse for the first 30–40 minutes, but unfortunately, it doesn’t cover the entire build because the recording stopped midway.",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110126069928071542",
+        "text": "@catmanyau The agent was editing a shared scene. It generated the geometry and materials in the first pass. Then I asked it to add more geometric detail and refine the materials. Finally, I asked it to handle camera placement and animation.",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110110798425330125",
+        "text": "@catmanyau Exactly. The video is just the final render. The actual 3D scene, geometry, materials, animation, and cameras were all created by the agents.",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110104710262702274",
+        "text": "@skbdps_sk indeed",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110103610684215471",
+        "text": "@nickdatle Mixar, check this out at \nhttps://t.co/2cckHlsTRR",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110101515377746342",
+        "text": "The prompt I started with:\n\n\"Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.\"\n\nAfter that it was a few rounds of direction: shot order, sharpening and a Cycles render.",
+        "author": "_satyam_ai"
+      },
+      {
+        "url": "https://x.com/_satyam_ai/status/2110101105820705079",
+        "text": "Satyam Kumar on X: \"Same frames with the materials stripped off. Every truss, panel and robot arm is real geometry.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nSatyam Kumar on X: \"Same frames with the materials stripped off. Every truss, panel and robot arm is real geometry.\"\n\n\n\nSatyam Kumar\n\n@_satyam_ai\n\n\n\n\nSame frames with the materials stripped off. Every truss, panel and robot arm is real geometry.\n\n\n00:00\n\n\n\n\n\n\n\n\n8:11 PM · Oct 13, 2026·84\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSatyam Kumar@_satyam_aiFollow\nChief AI Officer @mixie3d · building an AI inside Blender · 3D Graphics, VLMs · I post what breaks 🛠️ · IIT Gandhinagar 🎓\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSatyam Kumar\n\n@_satyam_ai\n7h\n\n\nAn AI agent built this entire space station.\n\nModeling, materials, animation, cameras: all done by Gemini 4 Argon inside Mixar (an AI-native Blender fork). \n\nI didn&#x27;t touch the mouse once.\n\nIt&#x27;s not an AI video. It&#x27;s real 3D geometry, rendered in 4K.\n\nPrompt and clay breakdown in Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n10\n3\n28\n1.6K\n\n\n\n\n\n\n\n\n\n\nSatyam Kumar\n\n@_satyam_ai\n\n\n\n\nSame frames with the materials stripped off. Every truss, panel and robot arm is real geometry.\n\n\n00:00\n\n\n\n\n\n\n\n\n8:11 PM · Oct 13, 2026·84\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nSatyam Kumar\n\n@_satyam_ai\n7h\n\n\nThe prompt I started with:\n\n\"Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles Show more\n\n\n\n1\n1\n83\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110100243803209798",
+        "text": "@Raj_Sahani_ Definitely 💯",
+        "author": "_satyam_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/_satyam_ai/status/2110100113301369078",
+        "text": "@IndependentEco Yess!",
+        "author": "_satyam_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/2cckHlsTRR"
+    ]
+  },
+  "xUrl": "https://x.com/_satyam_ai/status/2110097633922662752",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110094250113413120/img/QRBRSSC3BeGDgznF.jpg",
+  "coverPath": "collection/data/covers/2110097633922662752.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110094250113413120",
+    "x-post:2110097633922662752"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Autonomous 3D Space Station Animation",
+      "summary": "Gemini 4 Argon autonomously authored 3D models, materials, animation, and multi-camera cinematography for a space station scene rendered in Mixar/Cycles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": "Mixar",
+        "authorUseConfirmed": true,
+        "evidence": "Modeling, materials, animation, cameras: all done by Gemini 4 Argon inside Mixar (an AI-native Blender fork)."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+        "englishText": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Subsequent conversational refinement prompts covering shot order adjustments, sharpening, and Cycles render settings"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video exhibits 10 cinematic camera angles showcasing the detailed torus station, solar panels, interior garden, docking shuttle, and Earth sunrise.",
+        "textualResultQuote": "It's not an AI video. It's real 3D geometry, rendered in 4K."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Mixar",
+          "role": "AI-native Blender fork host platform and Cycles render engine",
+          "evidence": "inside Mixar (an AI-native Blender fork)",
+          "sourceUrl": "https://t.co/2cckHlsTRR",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Space Station 3D Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "gemini4",
+          "blender",
+          "cycles",
+          "space",
+          "agentic-3d"
+        ]
+      },
+      "targetModelRole": "Autonomous agent responsible for 3D modeling, texturing, animation, and multi-camera placement.",
+      "outputSource": "Mixar / Blender Cycles 3D renderer",
+      "divisionEvidence": "Modeling, materials, animation, cameras: all done by Gemini 4 Argon inside Mixar... The video is just the final render.",
+      "video": {
+        "shots": "10 cinematic passes",
+        "duration": "50s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Gemini 4 generating procedural 3D scene geometry, animation, and cinematic cameras inside Blender fork with accompanying video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/_satyam_ai/status/2110101515377746342",
+        "start": 29,
+        "end": 622
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/_satyam_ai/status/2110097633922662752",
+        "author": "_satyam_ai",
+        "postId": "2110097633922662752",
+        "publishedAt": "2026-10-13T19:57:34.000Z"
+      },
+      "checkedAt": "2026-10-14T03:58:44.312Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon autonomously authored 3D models, materials, animation, and multi-camera cinematography for a space station scene rendered in Mixar/Cycles.",
+    "summaryEn": "Autonomous 3D Space Station Animation",
+    "originalPrompt": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+    "sourceRange": {
+      "start": 29,
+      "end": 622
+    },
+    "translations": {
+      "zh": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+      "en": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "blender",
+    "useCase": "Space Station 3D Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Subsequent conversational refinement prompts covering shot order adjustments, sharpening, and Cycles render settings"
+      ],
+      "evidence": "Video exhibits 10 cinematic camera angles showcasing the detailed torus station, solar panels, interior garden, docking shuttle, and Earth sunrise."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

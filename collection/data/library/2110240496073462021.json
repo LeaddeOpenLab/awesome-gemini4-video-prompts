@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:20.527Z",
+  "model": "gemini4",
+  "prompt": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+  "promptTranslations": {
+    "en": "build a cinematic 3D animation that explains how a Tesla-style electric motor works"
+  },
+  "summary": "Gemini 4 Argon side-by-side benchmark against Opus 5.5 generating a cinematic 3D electric motor explanation animation.",
+  "summaryEn": "Tesla-Style Electric Motor 3D Explainer Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110240496073462021",
+    "canonicalUrl": "https://x.com/WojakTheDev/status/2110240496073462021",
+    "author": {
+      "username": "WojakTheDev",
+      "displayName": "Wojak | AI × Web3 Dev",
+      "profileUrl": "https://x.com/WojakTheDev"
+    },
+    "publishedAt": "2026-10-14T05:25:15.000Z",
+    "collectedAt": "2026-10-14T05:41:06.408Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works\n\nwhich one did better? https://t.co/Lf2yngUrc9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/WojakTheDev/status/2110240496073462021",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110240440197029888/img/oSMqHbJtkHJso9aF.jpg",
+        "analysisUrl": "https://x.com/WojakTheDev/status/2110240496073462021"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 124
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/WojakTheDev/status/2110240496073462021",
+        "text": "Wojak | AI × Web3 Dev on X: \"Opus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works\n\nwhich one did better?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nWojak | AI × Web3 Dev on X: \"Opus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works\n\nwhich one did better?\"\n\n\n\nWojak | AI × Web3 Dev\n\n@WojakTheDev\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works\n\nwhich one did better?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:25 AM · Oct 14, 2026·128\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nWojak | AI × Web3 Dev@WojakTheDevFollow\nJust a Wojak writing code. Daily AI, Web3, and building in public.\n\nBuilt: https://t.co/Pc2bZiRujO\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWojak | AI × Web3 Dev\n\n@WojakTheDev\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works\n\nwhich one did better?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:25 AM · Oct 14, 2026·128\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "WojakTheDev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/WojakTheDev/status/2110240496073462021",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110240440197029888/img/oSMqHbJtkHJso9aF.jpg",
+  "coverPath": "collection/data/covers/2110240496073462021.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110240440197029888",
+    "x-post:2110240496073462021"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Tesla-Style Electric Motor 3D Explainer Comparison",
+      "summary": "Gemini 4 Argon side-by-side benchmark against Opus 5.5 generating a cinematic 3D electric motor explanation animation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 vs Gemini 4 Argon 👀\n\nsame prompt, same task: build a cinematic 3D animation that explains how a Tesla-style electric motor works"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+        "englishText": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete code generation instructions",
+          "target rendering framework specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Side-by-side video shows detailed 3D exploded views, cutaways, and magnetic field animations of an electric motor labeled Gemini 4 Argon.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Electric Motor 3D Explainer",
+        "topic": "explainers",
+        "tags": [
+          "3d-animation",
+          "gemini-4",
+          "explainer",
+          "electric-motor"
+        ]
+      },
+      "targetModelRole": "Generated 3D animation code and interactive visual demonstration.",
+      "outputSource": "Inferred WebGL/3D graphics renderer screen recording.",
+      "divisionEvidence": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+      "video": {
+        "shots": "3D orbital shots, coaxial exploded assembly, internal cutaways, and technical overlays.",
+        "duration": "00:40",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Directly demonstrates Gemini 4 producing an explanatory 3D animation comparison video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/WojakTheDev/status/2110240496073462021",
+        "start": 55,
+        "end": 138
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/WojakTheDev/status/2110240496073462021",
+        "author": "WojakTheDev",
+        "postId": "2110240496073462021",
+        "publishedAt": "2026-10-14T05:25:15.000Z"
+      },
+      "checkedAt": "2026-10-14T05:44:17.164Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon side-by-side benchmark against Opus 5.5 generating a cinematic 3D electric motor explanation animation.",
+    "summaryEn": "Tesla-Style Electric Motor 3D Explainer Comparison",
+    "originalPrompt": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+    "sourceRange": {
+      "start": 55,
+      "end": 138
+    },
+    "translations": {
+      "zh": "build a cinematic 3D animation that explains how a Tesla-style electric motor works",
+      "en": "build a cinematic 3D animation that explains how a Tesla-style electric motor works"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Electric Motor 3D Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete code generation instructions",
+        "target rendering framework specifications"
+      ],
+      "evidence": "Side-by-side video shows detailed 3D exploded views, cutaways, and magnetic field animations of an electric motor labeled Gemini 4 Argon."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

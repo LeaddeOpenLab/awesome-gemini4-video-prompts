@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:20.708Z",
+  "model": "gemini4",
+  "prompt": "Make a launch video for a protein curd brand.",
+  "promptTranslations": {
+    "en": "Make a launch video for a protein curd brand."
+  },
+  "summary": "Product launch video for high-protein curd brand generated via Gemini 4 Argon.",
+  "summaryEn": "Pro-Dahi Protein Curd Launch Commercial",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110221562108584381",
+    "canonicalUrl": "https://x.com/magicatastrophe/status/2110221562108584381",
+    "author": {
+      "username": "magicatastrophe",
+      "displayName": "Sudakshina | Artist | AI",
+      "profileUrl": "https://x.com/magicatastrophe"
+    },
+    "publishedAt": "2026-10-14T04:10:01.000Z",
+    "collectedAt": "2026-10-14T05:41:06.408Z",
+    "language": "en",
+    "originalText": "I typed 9 words into Gemini 4 Argon:\n\"Make a launch video for a protein curd brand.\"\n\nI didn't just get a prompt response or a static storyboard. It acted as creative director, sound designer, and video editor, producing a complete 1080p commercial with original audio, motion graphics, and full brand strategy.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/magicatastrophe/status/2110221562108584381",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HUkDSX4asAAdDn8.jpg",
+        "analysisUrl": "https://x.com/magicatastrophe/status/2110221562108584381"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 47
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/magicatastrophe/status/2110221562108584381",
+  "coverUrl": "https://pbs.twimg.com/media/HUkDSX4asAAdDn8.jpg",
+  "coverPath": "collection/data/covers/2110221562108584381.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110221514608107520",
+    "x-image:/media/HUkDSX4asAAdDn8",
+    "x-post:2110221562108584381"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Pro-Dahi Protein Curd Launch Commercial",
+      "summary": "Product launch video for high-protein curd brand generated via Gemini 4 Argon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Argon",
+        "authorUseConfirmed": true,
+        "evidence": "I typed 9 words into Gemini 4 Argon"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Make a launch video for a protein curd brand.",
+        "englishText": "Make a launch video for a protein curd brand.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows complete Pro-Dahi commercial matching prompt claims.",
+        "textualResultQuote": "producing a complete 1080p commercial with original audio, motion graphics, and full brand strategy."
+      },
+      "inputs": [
+        {
+          "kind": "text",
+          "description": "Short user prompt instructing brand launch video creation.",
+          "available": true,
+          "evidence": "\"Make a launch video for a protein curd brand.\"",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Brand Commercial",
+        "topic": "motion-graphics",
+        "tags": [
+          "commercial",
+          "branding",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "End-to-end creative direction, sound design, and video production.",
+      "outputSource": "Gemini 4 Argon internal pipeline.",
+      "divisionEvidence": "It acted as creative director, sound designer, and video editor, producing a complete 1080p commercial",
+      "video": {
+        "shots": "4 shots",
+        "duration": "17s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production demonstration with complete prompt and matching media.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/magicatastrophe/status/2110221562108584381",
+        "start": 38,
+        "end": 83
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/magicatastrophe/status/2110221562108584381",
+        "author": "magicatastrophe",
+        "postId": "2110221562108584381",
+        "publishedAt": "2026-10-14T04:10:01.000Z"
+      },
+      "checkedAt": "2026-10-14T05:42:17.949Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Product launch video for high-protein curd brand generated via Gemini 4 Argon.",
+    "summaryEn": "Pro-Dahi Protein Curd Launch Commercial",
+    "originalPrompt": "Make a launch video for a protein curd brand.",
+    "sourceRange": {
+      "start": 38,
+      "end": 83
+    },
+    "translations": {
+      "zh": "Make a launch video for a protein curd brand.",
+      "en": "Make a launch video for a protein curd brand."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "other-animation",
+    "useCase": "Brand Commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows complete Pro-Dahi commercial matching prompt claims."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,7 +1,7 @@
 """Render the Gemini 4 collection banner using the current catalog."""
 import json
 from pathlib import Path
-root = Path(__file__).resolve().parents[2]
+root = Path(__file__).resolve().parents[2] / "collection"
 videos = json.loads((root / 'data/videos.json').read_text())
 shared = sum(bool(v['prompt']) for v in videos)
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="title desc">

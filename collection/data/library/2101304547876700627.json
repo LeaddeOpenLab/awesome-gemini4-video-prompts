@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:31.956Z",
+  "model": "gemini4",
+  "prompt": "create a beautiful mechanical butterfly in three.js",
+  "promptTranslations": {
+    "en": "create a beautiful mechanical butterfly in three.js"
+  },
+  "summary": "Gemini 4 Pro generated Three.js code for an interactive 3D mechanical butterfly with exploded views and flight animations.",
+  "summaryEn": "Interactive Mechanical Butterfly in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101304547876700627",
+    "canonicalUrl": "https://x.com/thtbee_/status/2101304547876700627",
+    "author": {
+      "username": "thtbee_",
+      "displayName": "Bee",
+      "profileUrl": "https://x.com/thtbee_"
+    },
+    "publishedAt": "2026-09-19T13:36:59.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "Gemini 4 Pro surprises again!\n\nThe prompt was to it to create a beautiful mechanical butterfly in three.js and needless to say the output is indeed beautiful!\n\nEarlier it was being tested under the placeholder \"gemini-3.7-flash\" but it seems to be have been removed from arena since..",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/thtbee_/status/2101304547876700627",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101300059484901378/img/KF9SiVnGFYys9tzW.jpg",
+        "analysisUrl": "https://x.com/thtbee_/status/2101304547876700627"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3429,
+      "repostCount": 236,
+      "replyCount": 115,
+      "quoteCount": 71,
+      "viewCount": 608858
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ]
+  },
+  "xUrl": "https://x.com/thtbee_/status/2101304547876700627",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101300059484901378/img/KF9SiVnGFYys9tzW.jpg",
+  "coverPath": "collection/data/covers/2101304547876700627.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101300059484901378",
+    "x-post:2101304547876700627"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive Mechanical Butterfly in Three.js",
+      "summary": "Gemini 4 Pro generated Three.js code for an interactive 3D mechanical butterfly with exploded views and flight animations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Pro",
+        "platform": "LMSYS Chatbot Arena",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Pro surprises again! ... Earlier it was being tested under the placeholder \"gemini-3.7-flash\" but it seems to be have been removed from arena since.."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a beautiful mechanical butterfly in three.js",
+        "englishText": "create a beautiful mechanical butterfly in three.js",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt",
+          "Full user prompt specifications",
+          "UI/control layout constraints"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays an interactive 3D mechanical butterfly titled 'Papilio Mechanica' with custom controls, themes, and assembly animations.",
+        "textualResultQuote": "the output is indeed beautiful!"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering engine",
+          "evidence": "create a beautiful mechanical butterfly in three.js",
+          "sourceUrl": "https://x.com/thtbee_/status/2101304547876700627",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Mechanical Butterfly Interactive Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "interactive",
+          "creative-coding",
+          "mechanical"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D scene",
+      "outputSource": "Web browser runtime executing generated Three.js application",
+      "divisionEvidence": "Gemini generated the Three.js code; the browser executed the interactive scene.",
+      "video": {
+        "shots": "Single continuous screen recording showing mode and angle toggles",
+        "duration": "27s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": false,
+      "reason": "Author only shared a high-level summary rather than the full original generation prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/thtbee_/status/2101304547876700627",
+        "start": 55,
+        "end": 106
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/thtbee_/status/2101304547876700627",
+        "author": "thtbee_",
+        "postId": "2101304547876700627",
+        "publishedAt": "2026-09-19T13:36:59.000Z"
+      },
+      "checkedAt": "2026-10-14T03:59:04.138Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified",
+          "outside_repository_scope"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Pro generated Three.js code for an interactive 3D mechanical butterfly with exploded views and flight animations.",
+    "summaryEn": "Interactive Mechanical Butterfly in Three.js",
+    "originalPrompt": "create a beautiful mechanical butterfly in three.js",
+    "sourceRange": {
+      "start": 55,
+      "end": 106
+    },
+    "translations": {
+      "zh": "create a beautiful mechanical butterfly in three.js",
+      "en": "create a beautiful mechanical butterfly in three.js"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Mechanical Butterfly Interactive Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt",
+        "Full user prompt specifications",
+        "UI/control layout constraints"
+      ],
+      "evidence": "The screen recording displays an interactive 3D mechanical butterfly titled 'Papilio Mechanica' with custom controls, themes, and assembly animations."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

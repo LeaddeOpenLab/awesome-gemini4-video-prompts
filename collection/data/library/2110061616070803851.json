@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:31.775Z",
+  "model": "gemini4",
+  "prompt": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+  "promptTranslations": {
+    "en": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html"
+  },
+  "summary": "Gemini 4 Argon generates a single-file HTML interactive 3D voxel scene depicting a pelican doing a wheelie on a flying jet.",
+  "summaryEn": "Voxel Pelican Wheelie on Fighter Jet",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110061616070803851",
+    "canonicalUrl": "https://x.com/vattenee/status/2110061616070803851",
+    "author": {
+      "username": "vattenee",
+      "displayName": "Miau",
+      "profileUrl": "https://x.com/vattenee"
+    },
+    "publishedAt": "2026-10-13T17:34:26.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API \n@GeminiApp @GoogleAIStudio @antigravity https://t.co/O7mNxyFWSA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vattenee/status/2110061616070803851",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110061273324847104/img/FJomLcVL3HizE7Ry.jpg",
+        "analysisUrl": "https://x.com/vattenee/status/2110061616070803851"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 76
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/vattenee/status/2110061616070803851",
+        "text": "Miau on X: \"Gemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API \n@GeminiApp @GoogleAIStudio @antigravity\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMiau on X: \"Gemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API \n@GeminiApp @GoogleAIStudio @antigravity\"\n\n\n\nMiau\n@vattenee\n\n\n\n\nGemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API \n@GeminiApp @GoogleAIStudio @antigravity\n\n\n00:00\n\n\n\n\n\n\n\n\n5:34 PM · Oct 13, 2026·76\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMiau@vatteneeFollow\nSolo veo y comento cosas. Descifro lenguajes ocultos para comunicarme con entidades de silicio. (programo cosas)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle Gemini@GeminiAppFollow\nThe Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.\n\n\n\n\nGoogle AI Studio@GoogleAIStudioFollow\nThe fastest path from prompt to prototype to production with Gemini\n\n\n\n\n\n\n\n\nMiau\n@vattenee\n\n\n\n\nGemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API \n@GeminiApp @GoogleAIStudio @antigravity\n\n\n00:00\n\n\n\n\n\n\n\n\n5:34 PM · Oct 13, 2026·76\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vattenee"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vattenee/status/2110061616070803851",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110061273324847104/img/FJomLcVL3HizE7Ry.jpg",
+  "coverPath": "collection/data/covers/2110061616070803851.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110061273324847104",
+    "x-post:2110061616070803851"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Voxel Pelican Wheelie on Fighter Jet",
+      "summary": "Gemini 4 Argon generates a single-file HTML interactive 3D voxel scene depicting a pelican doing a wheelie on a flying jet.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Argon",
+        "platform": "Google AI Studio",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon single prompt \"create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html\" via Google Ai Studio x API"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+        "englishText": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D browser scene displaying a voxel pelican performing a wheelie on a flying fighter jet with interactive camera and animation controls.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / HTML5 Canvas",
+          "role": "Renders and executes the generated single-page interactive 3D voxel application",
+          "evidence": "single html",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Voxel Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel",
+          "interactive",
+          "creative-coding",
+          "threejs"
+        ]
+      },
+      "targetModelRole": "Code generation for the single HTML 3D scene",
+      "outputSource": "Web browser rendering generated HTML/JavaScript code",
+      "divisionEvidence": "Gemini 4 generated the code; the browser rendered the interactive voxel scene.",
+      "video": {
+        "shots": "Continuous screen capture demonstrating interactive camera manipulation and controls",
+        "duration": "00:34",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic post with author-specified Gemini 4 Argon, complete original prompt, and video verification of the output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vattenee/status/2110061616070803851",
+        "start": 30,
+        "end": 122
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vattenee/status/2110061616070803851",
+        "author": "vattenee",
+        "postId": "2110061616070803851",
+        "publishedAt": "2026-10-13T17:34:26.000Z"
+      },
+      "checkedAt": "2026-10-14T03:59:03.312Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generates a single-file HTML interactive 3D voxel scene depicting a pelican doing a wheelie on a flying jet.",
+    "summaryEn": "Voxel Pelican Wheelie on Fighter Jet",
+    "originalPrompt": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+    "sourceRange": {
+      "start": 30,
+      "end": 122
+    },
+    "translations": {
+      "zh": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+      "en": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Voxel Scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a 3D browser scene displaying a voxel pelican performing a wheelie on a flying fighter jet with interactive camera and animation controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

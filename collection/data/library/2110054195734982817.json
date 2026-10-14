@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:21.076Z",
+  "model": "gemini4",
+  "prompt": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js",
+  "promptTranslations": {
+    "en": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js"
+  },
+  "summary": "Comparison of Gemini 4 Argon generating a one-shot Three.js interactive 3D lighthouse scene at dusk.",
+  "summaryEn": "Gemini 4 Three.js 3D Lighthouse Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110054195734982817",
+    "canonicalUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+    "author": {
+      "username": "JeurgenHubatsch",
+      "displayName": "JOH",
+      "profileUrl": "https://x.com/JeurgenHubatsch"
+    },
+    "publishedAt": "2026-10-13T17:04:57.000Z",
+    "collectedAt": "2026-10-14T05:41:21.121Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon vs GPT-6 Astra, same one-shot prompt: a 3D lighthouse at dusk\n\nArgon: 3 min. better mood, the beam actually sweeps\nAstra on xhigh: 18 min. way more detail (stonework, railing, weathervane), but the beam is barely visible\n\nspeed or detail, which are you picking? https://t.co/KTdcledbe9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110053969594843136/img/PdvK4PmQON2_NeIR.jpg",
+        "analysisUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 89
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JeurgenHubatsch/status/2110054584769302982",
+        "text": "prompt: old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js\n\nArgon in Gemini CLI, Astra in Codex. one try each, no fixes, times are the whole run",
+        "author": "JeurgenHubatsch"
+      },
+      {
+        "url": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+        "text": "JOH on X: \"Gemini 4 Argon vs GPT-6 Astra, same one-shot prompt: a 3D lighthouse at dusk\n\nArgon: 3 min. better mood, the beam actually sweeps\nAstra on xhigh: 18 min. way more detail (stonework, railing, weathervane), but the beam is barely visible\n\nspeed or detail, which are you picking?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJOH on X: \"Gemini 4 Argon vs GPT-6 Astra, same one-shot prompt: a 3D lighthouse at dusk\n\nArgon: 3 min. better mood, the beam actually sweeps\nAstra on xhigh: 18 min. way more detail (stonework, railing, weathervane), but the beam is barely visible\n\nspeed or detail, which are you picking?\"\n\n\n\nJOH\n@JeurgenHubatsch\n\n\n\n\nGemini 4 Argon vs GPT-6 Astra, same one-shot prompt: a 3D lighthouse at dusk\n\nArgon: 3 min. better mood, the beam actually sweeps\nAstra on xhigh: 18 min. way more detail (stonework, railing, weathervane), but the beam is barely visible\n\nspeed or detail, which are you picking?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:04 PM · Oct 13, 2026·89\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJOH@JeurgenHubatschFollow\nI like building stuff - i use arch linux hyperland ( its the best )\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJOH\n@JeurgenHubatsch\n\n\n\n\nGemini 4 Argon vs GPT-6 Astra, same one-shot prompt: a 3D lighthouse at dusk\n\nArgon: 3 min. better mood, the beam actually sweeps\nAstra on xhigh: 18 min. way more detail (stonework, railing, weathervane), but the beam is barely visible\n\nspeed or detail, which are you picking?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:04 PM · Oct 13, 2026·89\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nJOH\n@JeurgenHubatsch\n12h\n\n\nprompt: old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper&#x27;s cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js\n\nArgon in Gemini CLI, Astra in Codex. one try each, no fixes, times are the whole run\n\n\n\n\n1\n39\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "JeurgenHubatsch"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110053969594843136/img/PdvK4PmQON2_NeIR.jpg",
+  "coverPath": "collection/data/covers/2110054195734982817.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110053969594843136",
+    "x-post:2110054195734982817"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Three.js 3D Lighthouse Scene",
+      "summary": "Comparison of Gemini 4 Argon generating a one-shot Three.js interactive 3D lighthouse scene at dusk.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Gemini CLI",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon vs GPT-6 Astra... Argon in Gemini CLI"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js",
+        "englishText": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Interactive Three.js scene showing an old lighthouse on a rocky cliff at dusk with sweeping light beam, cottage, and seagulls.",
+        "textualResultQuote": "Argon: 3 min. better mood, the beam actually sweeps"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "three.js",
+          "role": "3D scene renderer",
+          "evidence": "one index.html, three.js",
+          "sourceUrl": "https://x.com/JeurgenHubatsch/status/2110054584769302982",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "3D Interactive Lighthouse Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "creative-coding",
+          "lighthouse",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Generates complete self-contained HTML/Three.js code",
+      "outputSource": "Browser execution of generated Three.js code",
+      "divisionEvidence": "Argon in Gemini CLI... one index.html, three.js",
+      "video": {
+        "shots": "Single interactive 3D scene view",
+        "duration": "14s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 code generation production case with verbatim prompt, verified model version, and working visual output recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/JeurgenHubatsch/status/2110054584769302982",
+        "start": 8,
+        "end": 167
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+        "author": "JeurgenHubatsch",
+        "postId": "2110054195734982817",
+        "publishedAt": "2026-10-13T17:04:57.000Z"
+      },
+      "checkedAt": "2026-10-14T05:57:36.835Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison of Gemini 4 Argon generating a one-shot Three.js interactive 3D lighthouse scene at dusk.",
+    "summaryEn": "Gemini 4 Three.js 3D Lighthouse Scene",
+    "originalPrompt": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js",
+    "sourceRange": {
+      "start": 8,
+      "end": 167
+    },
+    "translations": {
+      "zh": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js",
+      "en": "old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Interactive Lighthouse Scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Interactive Three.js scene showing an old lighthouse on a rocky cliff at dusk with sweeping light beam, cottage, and seagulls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

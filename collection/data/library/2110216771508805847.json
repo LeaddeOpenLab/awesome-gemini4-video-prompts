@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:20.346Z",
+  "model": "gemini4",
+  "prompt": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+  "promptTranslations": {
+    "en": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome."
+  },
+  "summary": "Gemini 4 Argon generates a self-contained HTML and inline SVG animation depicting a pelican riding a vintage bicycle with interactive UI controls.",
+  "summaryEn": "Gemini 4 Pelican Riding Bicycle SVG Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110216771508805847",
+    "canonicalUrl": "https://x.com/hqmank/status/2110216771508805847",
+    "author": {
+      "username": "hqmank",
+      "displayName": "Kai",
+      "profileUrl": "https://x.com/hqmank"
+    },
+    "publishedAt": "2026-10-14T03:50:58.000Z",
+    "collectedAt": "2026-10-14T05:41:06.408Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test.\n\nIt nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right.\n\nVideo below. https://t.co/QhzIe6h6ix",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hqmank/status/2110216771508805847",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110216072750059520/img/Ox1T8itnR3gZieSU.jpg",
+        "analysisUrl": "https://x.com/hqmank/status/2110216771508805847"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1630
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/hqmank/status/2110224404164796495",
+        "text": "@jeffbruchado Good catch! That's actually a pretty interesting detail to think about.",
+        "author": "hqmank"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/hqmank/status/2110222918655352993",
+        "text": "Here's the full prompt I used:\n\nCreate a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+        "author": "hqmank"
+      },
+      {
+        "url": "https://x.com/hqmank/status/2110216771508805847",
+        "text": "Kai on X: \"Gemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test.\n\nIt nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right.\n\nVideo below.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKai on X: \"Gemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test.\n\nIt nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right.\n\nVideo below.\"\n\n\n\nKai\n\n@hqmank\n\n\n\n\nGemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test.\n\nIt nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right.\n\nVideo below.\n\n\n00:00\n\n\n\n\n\n\n\n\n3:50 AM · Oct 14, 2026·1,643\nViews\n\n\n\n4\n\n24\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKai@hqmankFollow\nKai Wang (AI Kai)  AI Builder 🛠️\nPractical AI Workflows & Coding Tips\nHigh-Value Promo Codes Updated Regularly\nDM for collab 📩\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKai\n\n@hqmank\n\n\n\n\nGemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test.\n\nIt nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right.\n\nVideo below.\n\n\n00:00\n\n\n\n\n\n\n\n\n3:50 AM · Oct 14, 2026·1,643\nViews\n\n\n\n4\n\n24\n2\n\n\n\n\n\n\n\n\n\nKai\n\n@hqmank\n1h\n\n\nHere&#x27;s the full prompt I used:\n\nCreate a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the Show more\n\n\n\n\n2\n113\n\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n1h\n\n\nthe saddle height and crank length have to work for pelican legs. that&#x27;s a fun little constraint hidden in a drawing prompt\n\n\n1\n\n1\n35\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "hqmank"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/hqmank/status/2110216771508805847",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110216072750059520/img/Ox1T8itnR3gZieSU.jpg",
+  "coverPath": "collection/data/covers/2110216771508805847.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110216072750059520",
+    "x-post:2110216771508805847"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Pelican Riding Bicycle SVG Animation",
+      "summary": "Gemini 4 Argon generates a self-contained HTML and inline SVG animation depicting a pelican riding a vintage bicycle with interactive UI controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon is finally here.\n\nSo how good is it at frontend work? I gave it a harder version of the classic pelican-riding-a-bicycle test."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+        "englishText": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates a browser window displaying the interactive SVG animation with the requested pelican, sunglasses, cap, mint-green bicycle, and motion effects.",
+        "textualResultQuote": "It nailed it. The bike geometry, the pedaling, the cap and sunglasses, and the small interactive touches all look right."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser (Chrome)",
+          "role": "Runtime renderer displaying the generated HTML/SVG animation",
+          "evidence": "Output a single HTML file that can be opened directly in Chrome.",
+          "sourceUrl": "https://x.com/hqmank/status/2110222918655352993",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Pelican SVG Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "svg-animation",
+          "frontend",
+          "gemini-4",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Generates the single-file HTML, CSS, and inline SVG animation code.",
+      "outputSource": "Web browser rendering of generated code",
+      "divisionEvidence": "Use only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+      "video": {
+        "shots": "Single continuous screen capture",
+        "duration": "0:28",
+        "aspectRatio": "16:11",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 producing functional animated SVG code captured in a screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/hqmank/status/2110222918655352993",
+        "start": 32,
+        "end": 665
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/hqmank/status/2110216771508805847",
+        "author": "hqmank",
+        "postId": "2110216771508805847",
+        "publishedAt": "2026-10-14T03:50:58.000Z"
+      },
+      "checkedAt": "2026-10-14T05:42:20.151Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      }
+    },
+    "summary": "Gemini 4 Argon generates a self-contained HTML and inline SVG animation depicting a pelican riding a vintage bicycle with interactive UI controls.",
+    "summaryEn": "Gemini 4 Pelican Riding Bicycle SVG Animation",
+    "originalPrompt": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+    "sourceRange": {
+      "start": 32,
+      "end": 665
+    },
+    "translations": {
+      "zh": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+      "en": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "other-animation",
+    "useCase": "Interactive Pelican SVG Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates a browser window displaying the interactive SVG animation with the requested pelican, sunglasses, cap, mint-green bicycle, and motion effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

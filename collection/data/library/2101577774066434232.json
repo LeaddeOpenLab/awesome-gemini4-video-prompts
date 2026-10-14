@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:22.628Z",
+  "model": "gemini4",
+  "prompt": "3D Apache helicopter in three.js",
+  "promptTranslations": {
+    "en": "3D Apache helicopter in three.js"
+  },
+  "summary": "Comparison of a 3D Apache helicopter simulation generated in Three.js by Gemini 4 Pro and GPT-6 Astra, showcasing rotor physics and flight motion.",
+  "summaryEn": "3D Apache Helicopter in Three.js Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101577774066434232",
+    "canonicalUrl": "https://x.com/AIMind_Ai/status/2101577774066434232",
+    "author": {
+      "username": "AIMind_Ai",
+      "displayName": "AiMind",
+      "profileUrl": "https://x.com/AIMind_Ai"
+    },
+    "publishedAt": "2026-09-20T07:42:41.000Z",
+    "collectedAt": "2026-10-14T05:41:21.121Z",
+    "language": "en",
+    "originalText": "Gemini 4 Pro vs GPT-6 Astra\n\nSame prompt: 3D Apache helicopter in three.js\n\nGemini 4 Pro: cleaner flight, rotor motion actually reads right\nGPT-6 Astra: more detail + full control panel\ntbh both cooked, but only one of them got the physics\n\nWho did it better?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIMind_Ai/status/2101577774066434232",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101577665056571392/img/n5KziXySMzj2an7_.jpg",
+        "analysisUrl": "https://x.com/AIMind_Ai/status/2101577774066434232"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 1,
+      "viewCount": 1388
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AIMind_Ai/status/2101577774066434232",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101577665056571392/img/n5KziXySMzj2an7_.jpg",
+  "coverPath": "collection/data/covers/2101577774066434232.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101577665056571392",
+    "x-post:2101577774066434232"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "3D Apache Helicopter in Three.js Comparison",
+      "summary": "Comparison of a 3D Apache helicopter simulation generated in Three.js by Gemini 4 Pro and GPT-6 Astra, showcasing rotor physics and flight motion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Pro vs GPT-6 Astra\n\nSame prompt: 3D Apache helicopter in three.js\n\nGemini 4 Pro: cleaner flight, rotor motion actually reads right"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "3D Apache helicopter in three.js",
+        "englishText": "3D Apache helicopter in three.js",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt or generation parameters",
+          "Exact scaffolding/HTML/CSS wrapper code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a split-screen recording of 3D Apache helicopter models running in Three.js, with the top section showing Gemini 4 Pro's rendition displaying clean flight and rotor motion.",
+        "textualResultQuote": "Gemini 4 Pro: cleaner flight, rotor motion actually reads right"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library executing and displaying the generated helicopter scene",
+          "evidence": "Same prompt: 3D Apache helicopter in three.js",
+          "sourceUrl": "https://x.com/AIMind_Ai/status/2101577774066434232",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Apache Helicopter Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "3d-model",
+          "apache-helicopter",
+          "interactive-3d",
+          "gemini-4-pro"
+        ]
+      },
+      "targetModelRole": "Code generation of the 3D Apache helicopter scene and rotor physics animation in Three.js",
+      "outputSource": "Web browser rendering Three.js canvas code written by the model",
+      "divisionEvidence": "Gemini 4 Pro vs GPT-6 Astra\n\nSame prompt: 3D Apache helicopter in three.js",
+      "video": {
+        "shots": "Split screen comparison display",
+        "duration": "16s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit author declaration of Gemini 4 Pro producing a Three.js interactive 3D scene, accompanied by a verified screen recording demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIMind_Ai/status/2101577774066434232",
+        "start": 42,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIMind_Ai/status/2101577774066434232",
+        "author": "AIMind_Ai",
+        "postId": "2101577774066434232",
+        "publishedAt": "2026-09-20T07:42:41.000Z"
+      },
+      "checkedAt": "2026-10-14T06:20:49.377Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Comparison of a 3D Apache helicopter simulation generated in Three.js by Gemini 4 Pro and GPT-6 Astra, showcasing rotor physics and flight motion.",
+    "summaryEn": "3D Apache Helicopter in Three.js Comparison",
+    "originalPrompt": "3D Apache helicopter in three.js",
+    "sourceRange": {
+      "start": 42,
+      "end": 74
+    },
+    "translations": {
+      "zh": "3D Apache helicopter in three.js",
+      "en": "3D Apache helicopter in three.js"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Apache Helicopter Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt or generation parameters",
+        "Exact scaffolding/HTML/CSS wrapper code"
+      ],
+      "evidence": "The video shows a split-screen recording of 3D Apache helicopter models running in Three.js, with the top section showing Gemini 4 Pro's rendition displaying clean flight and rotor motion."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

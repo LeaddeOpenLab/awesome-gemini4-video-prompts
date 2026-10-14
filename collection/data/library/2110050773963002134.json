@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T04:06:32.150Z",
+  "model": "gemini4",
+  "prompt": "voxel art of bmw m4 cs car flying in air",
+  "promptTranslations": {
+    "en": "voxel art of bmw m4 cs car flying in air"
+  },
+  "summary": "A 3D voxel art model of a blue BMW M4 CS hovering and rotating in mid-air, created using Gemini 4 Argon in Antigravity.",
+  "summaryEn": "Voxel Art BMW M4 CS Flying in Air",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110050773963002134",
+    "canonicalUrl": "https://x.com/HarshithLucky3/status/2110050773963002134",
+    "author": {
+      "username": "HarshithLucky3",
+      "displayName": "Harshith",
+      "profileUrl": "https://x.com/HarshithLucky3"
+    },
+    "publishedAt": "2026-10-13T16:51:22.000Z",
+    "collectedAt": "2026-10-14T03:12:20.061Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon high in Antigravity\n\njust simple prompt: \n&gt; voxel art of bmw m4 cs car flying in air\none shot btw https://t.co/5wcnfOXW63",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HarshithLucky3/status/2110050773963002134",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110048838908293120/img/PR8oyu8kZw_-sg9G.jpg",
+        "analysisUrl": "https://x.com/HarshithLucky3/status/2110050773963002134"
+      }
+    ],
+    "metrics": {
+      "likeCount": 97,
+      "repostCount": 3,
+      "replyCount": 6,
+      "quoteCount": 1,
+      "viewCount": 2387
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ]
+  },
+  "xUrl": "https://x.com/HarshithLucky3/status/2110050773963002134",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110048838908293120/img/PR8oyu8kZw_-sg9G.jpg",
+  "coverPath": "collection/data/covers/2110050773963002134.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110048838908293120",
+    "x-post:2110050773963002134"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Voxel Art BMW M4 CS Flying in Air",
+      "summary": "A 3D voxel art model of a blue BMW M4 CS hovering and rotating in mid-air, created using Gemini 4 Argon in Antigravity.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Antigravity",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon high in Antigravity"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "voxel art of bmw m4 cs car flying in air",
+        "englishText": "voxel art of bmw m4 cs car flying in air",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 3D voxel art model of a blue BMW M4 CS with doors open, floating and rotating 360 degrees in mid-air against a clean white background.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Antigravity",
+          "role": "Environment and interactive 3D canvas platform hosting the Gemini 4 generation",
+          "evidence": "Gemini 4 Argon high in Antigravity",
+          "sourceUrl": "https://x.com/HarshithLucky3/status/2110050773963002134",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Voxel 3D Car Flying Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel",
+          "bmw",
+          "3d-scene",
+          "antigravity",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Gemini 4 Argon generated the 3D voxel asset and scene composition directly from the user prompt.",
+      "outputSource": "Antigravity interactive 3D rendering canvas",
+      "divisionEvidence": "Gemini 4 Argon high in Antigravity / just simple prompt: > voxel art of bmw m4 cs car flying in air",
+      "video": {
+        "shots": "Single orbiting camera shot",
+        "duration": "22s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Author explicitly confirms Gemini 4 usage, provides the full verbatim generation prompt, and shares a matching video render of the 3D voxel scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/HarshithLucky3/status/2110050773963002134",
+        "start": 62,
+        "end": 102
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/HarshithLucky3/status/2110050773963002134",
+        "author": "HarshithLucky3",
+        "postId": "2110050773963002134",
+        "publishedAt": "2026-10-13T16:51:22.000Z"
+      },
+      "checkedAt": "2026-10-14T04:00:22.052Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "A 3D voxel art model of a blue BMW M4 CS hovering and rotating in mid-air, created using Gemini 4 Argon in Antigravity.",
+    "summaryEn": "Voxel Art BMW M4 CS Flying in Air",
+    "originalPrompt": "voxel art of bmw m4 cs car flying in air",
+    "sourceRange": {
+      "start": 62,
+      "end": 102
+    },
+    "translations": {
+      "zh": "voxel art of bmw m4 cs car flying in air",
+      "en": "voxel art of bmw m4 cs car flying in air"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Voxel 3D Car Flying Scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a 3D voxel art model of a blue BMW M4 CS with doors open, floating and rotating 360 degrees in mid-air against a clean white background."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
