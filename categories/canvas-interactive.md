@@ -12,7 +12,11 @@
 - [Interactive 3D Particle Galaxy in WebGL](../prompts/2110075281746854164.md)
 - [London Pigeon 3D Game Generation with Gemini 4 Argon](../prompts/2110070885428187441.md)
 - [Voxel Pelican Wheelie on Fighter Jet](../prompts/2110061616070803851.md)
+- [Chinese History Line Art Animation via Code](../prompts/2110054843012493424.md)
 - [Gemini 4 Three.js 3D Lighthouse Scene](../prompts/2110054195734982817.md)
+- [Quantum Zoom Animation from Room to Quark](../prompts/2110054004650852659.md)
+- [Interactive Personal Website with Clean Animation](../prompts/2110053269162864842.md)
+- [3D Animation Principles Loop with Three.js](../prompts/2110049836204687857.md)
 - [Interactive 3D Butterfly Museum Atlas](../prompts/2110041557021950348.md)
 - [Interactive New York Skyline Drawing in JavaScript HTML](../prompts/2109896242704912818.md)
 - [Interactive Three.js Mechanical Butterfly](../prompts/2102096018036707356.md)
@@ -21,5 +25,6 @@
 - [Interactive Mechanical Butterfly in Three.js](../prompts/2101304547876700627.md)
 - [Interactive 3D AK-47 in Three.js](../prompts/2101244512106397850.md)
 - [Interactive 3D Commercial Airliner Model Viewer](../prompts/2100948208595984781.md)
+- [Interactive SVG Pelican Cyclist Animation](../prompts/2100602176787587240.md)
 
 [All tasks](../README.md)

@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:55.869Z",
+  "model": "gemini4",
+  "prompt": "基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+  "promptTranslations": {
+    "en": "Create an animation based on code to quickly review 5,000 years of Chinese history. Keep the style lighthearted and fun, use line art format, include suitable music, and ensure it is engaging."
+  },
+  "summary": "Author used Gemini 4 Argon to generate a multi-part web code animation summarizing 5,000 years of Chinese history in a sketch style.",
+  "summaryEn": "Chinese History Line Art Animation via Code",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110054843012493424",
+    "canonicalUrl": "https://x.com/fanxing321/status/2110054843012493424",
+    "author": {
+      "username": "fanxing321",
+      "displayName": "FanXing",
+      "profileUrl": "https://x.com/fanxing321"
+    },
+    "publishedAt": "2026-10-13T17:07:32.000Z",
+    "collectedAt": "2026-10-14T05:41:21.121Z",
+    "language": "zh",
+    "originalText": "震撼了，Gemini 4 Argon 做的中华五千年的历史。。。提示词很简单：基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜\n\n完整版足足有12个短动画，这一切都是 Gemini 4 Argon 基于一句提示词一次对话自动完成，总耗时不超过5分钟。\n\n完整版在：https://t.co/BDC1HLmrwN",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fanxing321/status/2110054843012493424",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110054626775142400/img/ykK7s-1OGTi6y7Pm.jpg",
+        "analysisUrl": "https://x.com/fanxing321/status/2110054843012493424"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 891
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/BDC1HLmrwN"
+    ]
+  },
+  "xUrl": "https://x.com/fanxing321/status/2110054843012493424",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110054626775142400/img/ykK7s-1OGTi6y7Pm.jpg",
+  "coverPath": "covers/2110054843012493424.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110054626775142400",
+    "x-post:2110054843012493424"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Chinese History Line Art Animation via Code",
+      "summary": "Author used Gemini 4 Argon to generate a multi-part web code animation summarizing 5,000 years of Chinese history in a sketch style.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon 做的中华五千年的历史。。。这一切都是 Gemini 4 Argon 基于一句提示词一次对话自动完成"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+        "englishText": "Create an animation based on code to quickly review 5,000 years of Chinese history. Keep the style lighthearted and fun, use line art format, include suitable music, and ensure it is engaging.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays an interactive player titled 'China History Sketch' playing stick-figure animations illustrating Chinese history periods.",
+        "textualResultQuote": "完整版足足有12个短动画，这一切都是 Gemini 4 Argon 基于一句提示词一次对话自动完成"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Code Player",
+          "role": "Renders code-generated interactive animations in-browser",
+          "evidence": "Screen recording shows a browser interface with controls, tabs, and playback for code animation.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Chinese History Sketch Animation",
+        "topic": "explainers",
+        "tags": [
+          "gemini4",
+          "creative-coding",
+          "history",
+          "interactive-canvas"
+        ]
+      },
+      "targetModelRole": "Generates code and animation content for historical timeline scenes",
+      "outputSource": "Web browser canvas/code runtime",
+      "divisionEvidence": "Author specified '基于代码做一个动画' and demonstrated it executing inside a custom web viewer.",
+      "video": {
+        "shots": "Screen capture of interactive player",
+        "duration": "0:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides prompt and screen recording showing Gemini 4-generated interactive historical animations.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/fanxing321/status/2110054843012493424",
+        "start": 39,
+        "end": 94
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/fanxing321/status/2110054843012493424",
+        "author": "fanxing321",
+        "postId": "2110054843012493424",
+        "publishedAt": "2026-10-13T17:07:32.000Z"
+      },
+      "checkedAt": "2026-10-14T06:41:56.461Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Author used Gemini 4 Argon to generate a multi-part web code animation summarizing 5,000 years of Chinese history in a sketch style.",
+    "summaryEn": "Chinese History Line Art Animation via Code",
+    "originalPrompt": "基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+    "sourceRange": {
+      "start": 39,
+      "end": 94
+    },
+    "translations": {
+      "zh": "基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+      "en": "Create an animation based on code to quickly review 5,000 years of Chinese history. Keep the style lighthearted and fun, use line art format, include suitable music, and ensure it is engaging."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Chinese History Sketch Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays an interactive player titled 'China History Sketch' playing stick-figure animations illustrating Chinese history periods."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -2,7 +2,7 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**3 source-verified real cases** · 35 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**4 source-verified real cases** · 39 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
@@ -28,7 +28,7 @@ By @sciencedegens · [source](<https://x.com/sciencedegens/status/21102262808558
 
 ## Find a task
 
-- [canvas-interactive](categories/canvas-interactive.md) — 21
+- [canvas-interactive](categories/canvas-interactive.md) — 26
 - [manim](categories/manim.md) — 0
 - [remotion](categories/remotion.md) — 1
 - [blender](categories/blender.md) — 3
