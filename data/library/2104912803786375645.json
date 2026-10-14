@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:10.420Z",
+  "model": "opus5.5",
+  "prompt": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+  "promptTranslations": {
+    "en": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg."
+  },
+  "summary": "A 15-second kinetic typography and motion graphics showreel coded via HTML/GLSL and Tone.js, rendered via Playwright and ffmpeg.",
+  "summaryEn": "Opus 5.5 Motion Designer Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104912803786375645",
+    "canonicalUrl": "https://x.com/Ai9app/status/2104912803786375645",
+    "author": {
+      "username": "Ai9app",
+      "displayName": "AI9app",
+      "profileUrl": "https://x.com/Ai9app"
+    },
+    "publishedAt": "2026-09-29T12:34:54.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "Opus 5.5 motion graphics are instant. Prompt + prompt library in comments https://t.co/TnI4qoEU8D",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Ai9app/status/2104912803786375645",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104912329171492865/img/5-xIetkPIIUEl6R5.jpg",
+        "analysisUrl": "https://x.com/Ai9app/status/2104912803786375645"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 2,
+      "viewCount": 177
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ai9app/status/2104913819877470452",
+        "text": "Prompt library \nhttps://t.co/QgA4MYhcSf",
+        "author": "Ai9app"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ai9app/status/2104913448907989009",
+        "text": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+        "author": "Ai9app"
+      },
+      {
+        "url": "https://x.com/Ai9app/status/2104912803786375645",
+        "text": "AI9app on X: \"Opus 5.5 motion graphics are instant. Prompt + prompt library in comments\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAI9app on X: \"Opus 5.5 motion graphics are instant. Prompt + prompt library in comments\"\n\n\n\nAI9app\n\n@Ai9app\n\n\n\n\nOpus 5.5 motion graphics are instant. Prompt + prompt library in comments\n\n\n00:00\n\n\n\n\n\n\n\n\n12:34 PM · Sep 29, 2026·178\nViews\n\n\n\n1\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAI9app@Ai9appFollow\nAI Video & Multi-modal Creation | AI Canva Note\nNo Subscription and membership Needed\n🎬  AI Media Agent |  Seedance 2.5/2.0, Wan 3.0 & MiniMax H3.\nCreate it👉\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI9app\n\n@Ai9app\n\n\n\n\nOpus 5.5 motion graphics are instant. Prompt + prompt library in comments\n\n\n00:00\n\n\n\n\n\n\n\n\n12:34 PM · Sep 29, 2026·178\nViews\n\n\n\n1\n\n6\n\n\n\n\n\n\n\n\n\n\nAI9app\n\n@Ai9app\n16h\n\n\nMake a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on Show more\n\n\n1\n\n\n155\n\n\n\n\n\n\n\n\n\nAI9app\n\n@Ai9app\n16h\n\n\nPrompt library \n\n\n\nOpus 5.5 Prompts: AI Video & Motion Graphics Prompts | AI9app\n\n\nFrom ai9app.io\n\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Ai9app"
+      },
+      {
+        "url": "https://ai9app.io/video-prompts/opus-5-5",
+        "text": "Opus 5.5 Prompts: AI Video & Motion Graphics Prompts | AI9app    \n  You need to enable JavaScript to run this app.\n    \n      Opus 5.5 prompt library\n\n      Opus 5.5 Prompts\n\n      Opus 5.5 video prompts for motion graphics, explainers and animated designs. Claude Opus 5.5 does not film a scene: it writes the animation as code, so text, charts and layouts stay pixel-sharp. Opus 5.5 prompts work best for kinetic typography, product explainers, UI walkthroughs and data stories.\n\n      Describe the layout\nSay what sits where on screen, the colors and the fonts. Opus 5.5 builds the frame exactly as described.\nScript the timing\nList each beat with its duration, for example: title fades in for 2s, then the chart grows for 3s.\nGive it the real content\nPaste the actual headline, numbers or steps. Code-drawn video keeps every word and figure accurate.\n\n\n      \n    \n\n  \n    \n      Latest video prompts\n\n      Official Anthropic Opus 5.5 Prompting Guide\nThree.js + Opus 5.5 Cooked Experience v2\nOne-Sentence Prompt Motion Design Burn\nOpus 5.5 Motion Graphic Intro Video\nOpen-Source Launch Video Prompt Template\n5-Minute UMAP Explainer Animated in Code\nUltracode Opus 5.5 Frame-and-Note Video\nHigh End Product Video Prompt\nOpus Threejs Boat Scene\nMotion Graphics Showreel Prompt\n【可複製】Opus 5.5 15 秒動態圖像 Showreel 提示詞教學（@gizakdag）\nHand-Drawn MV Frames via p5.js Code\nSteal This Opus 5.5 Motion Designer Prompt\nCode-Generated Video by Claude Opus 5.5\nZero-Direction Opus 5.5 Demoscene Intro\nChina 5000 Years History Recap Video\nOpus 5.5 MAX One-Prompt Motion Design\nOpus 5.5 JavaScript Frame-by-Frame Animation\n【可複製】Opus 5.5 動態圖像提示詞教學（@FornYapayZeka）\n【可複製】Opus 5.5 動態圖像作品集提示詞教學（@hqmank）\n【可複製】Opus 5.5 15 秒動態圖像 Showreel 提示詞教學（@codeSTACKr）\n【可複製】Opus 5.5 15 秒動態圖像 Showreel 提示詞教學（@AIStockSavvy）\n【可複製】Opus 5.5 SaaS 產品發布動態圖像提示詞教學（@gouthamjay8）\n【可複製】Opus 5.5 動態圖像提示詞教學（@kloss_xyz）\n【可複製】Opus 5.5 動態圖像提示詞教學（@jake11moran）\n【可複製】Opus 5.5 動態圖像作品集提示詞教學（@zheke）\n【可複製】Opus 5.5 15 秒動態圖像 Showreel 提示詞教學（@MustaphaFenzar）\n【可複製】Opus 5.5 動態圖像提示詞教學（@ParanoidAmerica）\n【可複製】Opus 5.5 動態圖像提示詞教學（@NemTudo_）\n【可複製】Opus 5.5 動態圖像提示詞教學（@viktoroddy）\n\n    \n\n  \nAbout AI9AI9 is an all-in-one AI creative platform operated by AI Hub Limited (Hong Kong). The platform provides AI image generation, AI video generation, prompt engineering tools, a creative resource marketplace, and professional AI services for creators and businesses worldwide.\nWhy AI9 requests Google account access: AI9 uses Google Sign-In solely to create and authenticate your account. We request your email address, display name, and profile picture to set up your AI9 profile. We do not access your Google Drive, Gmail, contacts, or any other Google services. Your data is never sold or used for advertising.\nFor full details on how your data is used, see our Privacy Policy and Data & Privacy page.\n\nPrivacy Policy  ·  Platform Policy  ·  Cookies Policy  ·  Data & Privacy  ·  About\n\n",
+        "kind": "linked_public_material",
+        "author": "Ai9app"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Ai9app/status/2104912803786375645",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104912329171492865/img/5-xIetkPIIUEl6R5.jpg",
+  "coverPath": "data/covers/2104912803786375645-wide.jpg",
+  "gifPath": "data/gifs/2104912803786375645.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104912329171492865",
+    "x-post:2104912803786375645"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Motion Designer Showreel",
+      "summary": "A 15-second kinetic typography and motion graphics showreel coded via HTML/GLSL and Tone.js, rendered via Playwright and ffmpeg.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 motion graphics are instant."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+        "englishText": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second video precisely demonstrates the 8 scripted sections, colors, HUD, audio, and ending typographic lockup.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Build as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+          "sourceUrl": "https://x.com/Ai9app/status/2104913448907989009",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Build as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+          "sourceUrl": "https://x.com/Ai9app/status/2104913448907989009",
+          "status": "required"
+        },
+        {
+          "name": "Tone.js",
+          "role": "Synthesized audio generation in code",
+          "evidence": "Synthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.",
+          "status": "required",
+          "sourceUrl": "https://x.com/Ai9app/status/2104913448907989009"
+        }
+      ],
+      "purpose": {
+        "label": "Motion Design Portfolio Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "showreel",
+          "motion-graphics",
+          "glsl",
+          "canvas",
+          "tonejs"
+        ]
+      },
+      "targetModelRole": "Generates the complete HTML, GLSL shader, Canvas animation, and Tone.js synthesis code.",
+      "outputSource": "Playwright and ffmpeg execution of the code-generated HTML canvas.",
+      "divisionEvidence": "Build as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+      "video": {
+        "shots": "8 sections with rapid cutaways",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear Opus 5.5 attribution with full verbatim generation instructions and a matching 15-second render.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Ai9app/status/2104913448907989009",
+        "start": 0,
+        "end": 1456
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Ai9app/status/2104912803786375645",
+        "author": "Ai9app",
+        "postId": "2104912803786375645",
+        "publishedAt": "2026-09-29T12:34:54.000Z"
+      },
+      "checkedAt": "2026-09-30T04:55:44.793Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ai9app/status/2104913448907989009",
+        "evidence": ""
+      }
+    },
+    "summary": "A 15-second kinetic typography and motion graphics showreel coded via HTML/GLSL and Tone.js, rendered via Playwright and ffmpeg.",
+    "summaryEn": "Opus 5.5 Motion Designer Showreel",
+    "originalPrompt": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+    "sourceRange": {
+      "start": 0,
+      "end": 1456
+    },
+    "translations": {
+      "zh": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg.",
+      "en": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on a beat.\n- Palette: ink #0C0C10, bone #F2EEE6, red #FF3B1D, cobalt #2E4BFF, lime #D8FF3C. Fonts: Bahnschrift (variable), Noto Sans TC, Consolas.\n- A red dot is the recurring hero and ends as the period in \"CLAUDE.\"\nSections: 00 dot bounces with squash & stretch → stretches into a line that splits the screen ·\n01 kinetic type MOTION / DESIGN (spring mask, red bar wipe, variable-weight ripple, marquee, push into the \"O\") ·\n02 17×9 shape grid (radial waves: circle → square → Truchet arcs → spiral collapse) ·\n03 GLSL-raymarched red blob (sphere → metaballs → torus → twist → squash) ·\n04 drop: 26k particles, curl-noise flow → form 動態設計 → gust ·\n05 8 rapid cuts, one per half beat (data viz, glitch, UI, line art, halftone, isometric, radial, ridgelines) ·\n06 3×3 grid of live tiles → shuffle → zoom into the center ·\n07 CLAUDE bursts from the dot, the dot lands as the period, \"MOTION DESIGNER / 動態設計師\", \"AVAILABLE FOR NEW PROJECTS\".\nHUD with timecode and beat meter, adaptive motion blur, shake + flash on impacts, grain.\nSynthesized soundtrack in F minor (Tone.js), drop at 7.5 s, −14 LUFS.\nBuild as a seekable renderFrame(f) HTML page, rendered with Playwright + ffmpeg."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Motion Design Portfolio Showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 15-second video precisely demonstrates the 8 scripted sections, colors, HUD, audio, and ending typographic lockup."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

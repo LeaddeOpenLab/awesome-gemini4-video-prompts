@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:20:55.448Z",
+  "model": "opus5.5",
+  "prompt": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.",
+  "promptTranslations": {
+    "en": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server."
+  },
+  "summary": "Screen recording demonstrating 'wtop', an interactive btop-like web dashboard generated using Claude Opus 5.5 that connects to remote Docker servers to display live system metrics.",
+  "summaryEn": "btop-like Live Machine Dashboard Web App",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105102932114813383",
+    "canonicalUrl": "https://x.com/Jaidcel/status/2105102932114813383",
+    "author": {
+      "username": "Jaidcel",
+      "displayName": "Jaid",
+      "profileUrl": "https://x.com/Jaidcel"
+    },
+    "publishedAt": "2026-09-30T01:10:24.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.\n\nClaude Opus 5.5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Jaidcel/status/2105102932114813383",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105101844238209024/img/4tEV_dkwwWlFLwni.jpg",
+        "analysisUrl": "https://x.com/Jaidcel/status/2105102932114813383"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 76
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Jaidcel/status/2105110250479108149",
+        "text": "Jaid on X: \"Still need to make a few tweaks before it’s really useful to me.\n\nI want to see GPU stats and some processes instead of the Storage/Network panels.\n\nCan be solved provisionally by just zooming out a bit, but the text becomes mushy.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJaid on X: \"Still need to make a few tweaks before it’s really useful to me.\n\nI want to see GPU stats and some processes instead of the Storage/Network panels.\n\nCan be solved provisionally by just zooming out a bit, but the text becomes mushy.\"\n\n\n\nJaid\n\n@Jaidcel\n\n\n\n\nStill need to make a few tweaks before it’s really useful to me.\n\nI want to see GPU stats and some processes instead of the Storage/Network panels.\n\nCan be solved provisionally by just zooming out a bit, but the text becomes mushy.\n\n\n\n\n\n1:39 AM · Sep 30, 2026·21\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJaid@JaidcelFollow\n0.30000000000000004× full-stuck slopware engineet\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n3h\n\n\nMake a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.\n\nClaude Opus 5.5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n76\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n3h\n\n\nI also implicitly requested Claude to put effort into making it work in very narrow tiles.\n\nTurned out good enough, I can now place them on my 10-tiles 1080p monitor where I previously had 3 btop terminals and 1 nvtop terminal.\n\n\n\n\n\n\n\n1\n\n\n45\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n\n\n\n\nStill need to make a few tweaks before it’s really useful to me.\n\nI want to see GPU stats and some processes instead of the Storage/Network panels.\n\nCan be solved provisionally by just zooming out a bit, but the text becomes mushy.\n\n\n\n\n\n1:39 AM · Sep 30, 2026·21\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Jaidcel"
+      },
+      {
+        "url": "https://x.com/Jaidcel/status/2105105624984080765",
+        "text": "Jaid on X: \"I also implicitly requested Claude to put effort into making it work in very narrow tiles.\n\nTurned out good enough, I can now place them on my 10-tiles 1080p monitor where I previously had 3 btop terminals and 1 nvtop terminal.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJaid on X: \"I also implicitly requested Claude to put effort into making it work in very narrow tiles.\n\nTurned out good enough, I can now place them on my 10-tiles 1080p monitor where I previously had 3 btop terminals and 1 nvtop terminal.\"\n\n\n\nJaid\n\n@Jaidcel\n\n\n\n\nI also implicitly requested Claude to put effort into making it work in very narrow tiles.\n\nTurned out good enough, I can now place them on my 10-tiles 1080p monitor where I previously had 3 btop terminals and 1 nvtop terminal.\n\n\n\n\n\n1:21 AM · Sep 30, 2026·45\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJaid@JaidcelFollow\n0.30000000000000004× full-stuck slopware engineet\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n3h\n\n\nMake a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.\n\nClaude Opus 5.5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n76\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n\n\n\n\nI also implicitly requested Claude to put effort into making it work in very narrow tiles.\n\nTurned out good enough, I can now place them on my 10-tiles 1080p monitor where I previously had 3 btop terminals and 1 nvtop terminal.\n\n\n\n\n\n1:21 AM · Sep 30, 2026·45\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nJaid\n\n@Jaidcel\n3h\n\n\nStill need to make a few tweaks before it’s really useful to me.\n\nI want to see GPU stats and some processes instead of the Storage/Network panels.\n\nCan be solved provisionally by just zooming out a bit, but the text becomes mushy.\n\n\n\n\n\n\n\n\n\n\n21\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Jaidcel"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Jaidcel/status/2105102932114813383",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105101844238209024/img/4tEV_dkwwWlFLwni.jpg",
+  "coverPath": "data/covers/2105102932114813383-wide.jpg",
+  "gifPath": "data/gifs/2105102932114813383.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105101844238209024",
+    "x-post:2105102932114813383"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "btop-like Live Machine Dashboard Web App",
+      "summary": "Screen recording demonstrating 'wtop', an interactive btop-like web dashboard generated using Claude Opus 5.5 that connects to remote Docker servers to display live system metrics.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.",
+        "englishText": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Follow-up refinement prompts",
+          "Instructions for narrow tile responsive layout",
+          "Complete agent/backend code generated by Claude"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the interactive web application ('wtop') connecting to a remote Docker daemon endpoint and rendering real-time graphs for CPU, memory, network, disk storage, and process trees.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "server_endpoint",
+          "description": "Docker daemon API host endpoint and credentials for collecting metrics",
+          "available": false,
+          "evidence": "It should work out of the box for remote targets with a Docker server.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/Jaidcel/status/2105102932114813383"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Docker",
+          "role": "Remote host container daemon API used to supply system metrics",
+          "evidence": "It should work out of the box for remote targets with a Docker server.",
+          "sourceUrl": "https://x.com/Jaidcel/status/2105102932114813383",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D graphics library",
+          "evidence": "Dashboard uses 2D web UI/Canvas elements without Three.js",
+          "sourceUrl": "https://x.com/Jaidcel/status/2105102932114813383",
+          "status": "prohibited"
+        }
+      ],
+      "purpose": {
+        "label": "System Monitoring Live Web Dashboard",
+        "topic": "games-interactive",
+        "tags": [
+          "system-monitor",
+          "docker",
+          "btop",
+          "dashboard",
+          "web-app"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the front-end code and interactive dashboard application.",
+      "outputSource": "Web browser interface rendering the generated application code.",
+      "divisionEvidence": "Make a web app that shows a btop-like live dashboard of any machine... Claude Opus 5.5",
+      "video": {
+        "shots": "1",
+        "duration": "01:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author shares an explicit prompt fragment and screen recording of an interactive web application generated with Claude Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Jaidcel/status/2105102932114813383",
+        "start": 0,
+        "end": 139
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Jaidcel/status/2105102932114813383",
+        "author": "Jaidcel",
+        "postId": "2105102932114813383",
+        "publishedAt": "2026-09-30T01:10:24.000Z"
+      },
+      "checkedAt": "2026-09-30T04:43:51.381Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Jaidcel/status/2105102932114813383",
+        "evidence": ""
+      }
+    },
+    "summary": "Screen recording demonstrating 'wtop', an interactive btop-like web dashboard generated using Claude Opus 5.5 that connects to remote Docker servers to display live system metrics.",
+    "summaryEn": "btop-like Live Machine Dashboard Web App",
+    "originalPrompt": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.",
+    "sourceRange": {
+      "start": 0,
+      "end": 139
+    },
+    "translations": {
+      "zh": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.",
+      "en": "Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "System Monitoring Live Web Dashboard",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Follow-up refinement prompts",
+        "Instructions for narrow tile responsive layout",
+        "Complete agent/backend code generated by Claude"
+      ],
+      "evidence": "The screen recording demonstrates the interactive web application ('wtop') connecting to a remote Docker daemon endpoint and rendering real-time graphs for CPU, memory, network, disk storage, and process trees."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

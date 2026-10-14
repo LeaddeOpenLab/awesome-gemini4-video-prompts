@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:31.560Z",
+  "model": "opus5.5",
+  "prompt": "a dog running to a thrown stick in a park",
+  "promptTranslations": {
+    "en": "a dog running to a thrown stick in a park"
+  },
+  "summary": "Comparison of Opus 5.5, Haiku 5.5, and Sol 6.1 generating a 10-second 2D park fetch animation via HyperFrames.",
+  "summaryEn": "Dog Fetching Stick Animation Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108196827036054007",
+    "canonicalUrl": "https://x.com/sebmoska/status/2108196827036054007",
+    "author": {
+      "username": "sebmoska",
+      "displayName": "Seb Moska",
+      "profileUrl": "https://x.com/sebmoska"
+    },
+    "publishedAt": "2026-10-08T14:04:26.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Same prompt, 3 models, 10 seconds of HyperFrames:\n\n\"a dog running to a thrown stick in a park\"\n\nTop: Opus 5.5\nMiddle: Haiku 5.5\nBottom: Sol 6.1\n\nWhich one fetches best? 🐕 https://t.co/U7459Amihk",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sebmoska/status/2108196827036054007",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108196230958301184/img/WUAaGbNMOgb97O75.jpg",
+        "analysisUrl": "https://x.com/sebmoska/status/2108196827036054007"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/sebmoska/status/2108196827036054007",
+        "text": "Seb Moska on X: \"Same prompt, 3 models, 10 seconds of HyperFrames:\n\n\"a dog running to a thrown stick in a park\"\n\nTop: Opus 5.5\nMiddle: Haiku 5.5\nBottom: Sol 6.1\n\nWhich one fetches best? 🐕\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSeb Moska on X: \"Same prompt, 3 models, 10 seconds of HyperFrames:\n\n\"a dog running to a thrown stick in a park\"\n\nTop: Opus 5.5\nMiddle: Haiku 5.5\nBottom: Sol 6.1\n\nWhich one fetches best? 🐕\"\n\n\n\nSeb Moska\n@sebmoska\n\n\n\n\nSame prompt, 3 models, 10 seconds of HyperFrames:\n\n\"a dog running to a thrown stick in a park\"\n\nTop: Opus 5.5\nMiddle: Haiku 5.5\nBottom: Sol 6.1\n\nWhich one fetches best? 🐕\n\n\n00:00\n\n\n\n\n\n\n\n\n2:04 PM · Oct 8, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSeb Moska@sebmoskaFollow\nAI engineer building AI apps. Latest AI news, AI coding workflows & AI careers. Hype vs. reality, tested on real projects.\nhttps://t.co/5sC6weyqmH\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeb Moska\n@sebmoska\n\n\n\n\nSame prompt, 3 models, 10 seconds of HyperFrames:\n\n\"a dog running to a thrown stick in a park\"\n\nTop: Opus 5.5\nMiddle: Haiku 5.5\nBottom: Sol 6.1\n\nWhich one fetches best? 🐕\n\n\n00:00\n\n\n\n\n\n\n\n\n2:04 PM · Oct 8, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "sebmoska"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/sebmoska/status/2108196827036054007",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108196230958301184/img/WUAaGbNMOgb97O75.jpg",
+  "coverPath": "data/covers/2108196827036054007-wide.jpg",
+  "gifPath": "data/gifs/2108196827036054007.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108196230958301184",
+    "x-post:2108196827036054007"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dog Fetching Stick Animation Comparison",
+      "summary": "Comparison of Opus 5.5, Haiku 5.5, and Sol 6.1 generating a 10-second 2D park fetch animation via HyperFrames.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Top: Opus 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a dog running to a thrown stick in a park",
+        "englishText": "a dog running to a thrown stick in a park",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows a top panel labeled Opus 5.5 depicting a dog running to retrieve a thrown stick in a park.",
+        "textualResultQuote": "Top: Opus 5.5"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HyperFrames",
+          "role": "animation engine/framework",
+          "evidence": "10 seconds of HyperFrames",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/sebmoska/status/2108196827036054007"
+        }
+      ],
+      "purpose": {
+        "label": "2D Dog Fetch Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "hyperframes",
+          "vector-animation",
+          "model-comparison",
+          "2d-animation"
+        ]
+      },
+      "targetModelRole": "Generates the animation logic/code for the HyperFrames engine.",
+      "outputSource": "HyperFrames renderer",
+      "divisionEvidence": "10 seconds of HyperFrames:\\n\\n\"a dog running to a thrown stick in a park\"\\n\\nTop: Opus 5.5",
+      "video": {
+        "shots": "Single split-screen view across 10 seconds",
+        "duration": "10s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 generating a programmatic 2D vector animation via HyperFrames.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sebmoska/status/2108196827036054007",
+        "start": 52,
+        "end": 93
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sebmoska/status/2108196827036054007",
+        "author": "sebmoska",
+        "postId": "2108196827036054007",
+        "publishedAt": "2026-10-08T14:04:26.000Z"
+      },
+      "checkedAt": "2026-10-09T12:36:01.891Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sebmoska/status/2108196827036054007",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison of Opus 5.5, Haiku 5.5, and Sol 6.1 generating a 10-second 2D park fetch animation via HyperFrames.",
+    "summaryEn": "Dog Fetching Stick Animation Comparison",
+    "originalPrompt": "a dog running to a thrown stick in a park",
+    "sourceRange": {
+      "start": 52,
+      "end": 93
+    },
+    "translations": {
+      "zh": "a dog running to a thrown stick in a park",
+      "en": "a dog running to a thrown stick in a park"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "2D Dog Fetch Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows a top panel labeled Opus 5.5 depicting a dog running to retrieve a thrown stick in a park."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

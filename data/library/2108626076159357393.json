@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:04.958Z",
+  "model": "opus5.5",
+  "prompt": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.",
+  "promptTranslations": {
+    "en": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps."
+  },
+  "summary": "Claude Opus 5.5 generated a Python simulation of three double pendulums starting with minute angular differences (1e-9 rad) to demonstrate chaotic divergence after 12.7 seconds.",
+  "summaryEn": "Double Pendulum Chaos Simulation with 1e-9 Radian Separation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108626076159357393",
+    "canonicalUrl": "https://x.com/marsautomates/status/2108626076159357393",
+    "author": {
+      "username": "marsautomates",
+      "displayName": "Marsel",
+      "profileUrl": "https://x.com/marsautomates"
+    },
+    "publishedAt": "2026-10-09T18:30:07.000Z",
+    "collectedAt": "2026-10-09T20:12:14.516Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart.\n\nFor 12.7 seconds they move as one. Then they split.\n\nBug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s.\n\nWhat should it simulate next? https://t.co/Pz49FrTAns",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/marsautomates/status/2108626076159357393",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108626056198672384/img/qFD7OXaSjWsXGuci.jpg",
+        "analysisUrl": "https://x.com/marsautomates/status/2108626076159357393"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 0
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/marsautomates/status/2108626076159357393",
+        "text": "Marsel on X: \"I asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart.\n\nFor 12.7 seconds they move as one. Then they split.\n\nBug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s.\n\nWhat should it simulate next?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMarsel on X: \"I asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart.\n\nFor 12.7 seconds they move as one. Then they split.\n\nBug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s.\n\nWhat should it simulate next?\"\n\n\n\nMarsel\n\n@marsautomates\n\n\n\n\nI asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart.\n\nFor 12.7 seconds they move as one. Then they split.\n\nBug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s.\n\nWhat should it simulate next?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:30 PM · Oct 9, 2026·\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMarsel@marsautomatesFollow\nPhysicist testing AI on problems where I already know the answer. I post the numbers, bad ones included.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarsel\n\n@marsautomates\n\n\n\n\nI asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart.\n\nFor 12.7 seconds they move as one. Then they split.\n\nBug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s.\n\nWhat should it simulate next?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:30 PM · Oct 9, 2026·\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nMarsel\n\n@marsautomates\n2h\n\n\nPrompt: Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\nMarsel\n\n@marsautomates\n2h\n\n\nMusic: Sculpture 15 by Phil Mahart.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "marsautomates"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/marsautomates/status/2108626076159357393",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108626056198672384/img/qFD7OXaSjWsXGuci.jpg",
+  "coverPath": "data/covers/2108626076159357393-wide.jpg",
+  "gifPath": "data/gifs/2108626076159357393.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108626056198672384",
+    "x-post:2108626076159357393"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Double Pendulum Chaos Simulation with 1e-9 Radian Separation",
+      "summary": "Claude Opus 5.5 generated a Python simulation of three double pendulums starting with minute angular differences (1e-9 rad) to demonstrate chaotic divergence after 12.7 seconds.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to simulate 3 double pendulums started 1 billionth of a radian apart."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.",
+        "englishText": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Rendering/visualization script or matplotlib/video export instructions for producing the graphic overlay, trails, and typography seen in the video"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays three double pendulums moving identically until splitting at t = 12.7 s into red, green, and blue paths, matching the prompt's physical parameters and divergence timing.",
+        "textualResultQuote": "For 12.7 seconds they move as one. Then they split. Bug or chaos? Energy drifted 0.000000007% in 40 s, and 1000× tighter precision gave the same 12.7 s."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Python",
+          "role": "Numerical integration and physics simulation engine",
+          "evidence": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s².",
+          "sourceUrl": "https://x.com/marsautomates/status/2108626076159357393",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Double Pendulum Chaos Simulation",
+        "topic": "explainers",
+        "tags": [
+          "physics",
+          "chaos-theory",
+          "simulation",
+          "python",
+          "double-pendulum"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the mathematical differential equations and Python integration script to accurately calculate double pendulum motion over 40 seconds.",
+      "outputSource": "Python script output rendered to video with visual annotations and background audio.",
+      "divisionEvidence": "Claude Opus 5.5 wrote the physics simulation code in Python; rendering and post-production text overlays were created from the exported 30 fps state data.",
+      "video": {
+        "shots": "Single continuous simulated camera view showing pendulum trajectories and text overlays",
+        "duration": "30s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": [
+          "Music: Sculpture 15 by Phil Mahart"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 writing precise numerical physics simulation code in Python resulting in an educational animation video illustrating chaos theory.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/marsautomates/status/2108626076159357393",
+        "start": 1809,
+        "end": 2081
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/marsautomates/status/2108626076159357393",
+        "author": "marsautomates",
+        "postId": "2108626076159357393",
+        "publishedAt": "2026-10-09T18:30:07.000Z"
+      },
+      "checkedAt": "2026-10-09T20:36:40.865Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/marsautomates/status/2108626076159357393",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a Python simulation of three double pendulums starting with minute angular differences (1e-9 rad) to demonstrate chaotic divergence after 12.7 seconds.",
+    "summaryEn": "Double Pendulum Chaos Simulation with 1e-9 Radian Separation",
+    "originalPrompt": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.",
+    "sourceRange": {
+      "start": 1809,
+      "end": 2081
+    },
+    "translations": {
+      "zh": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps.",
+      "en": "Simulate three double pendulums in Python: 1 kg bobs, 1 m massless rods, g = 9.81 m/s². All start at rest with both arms at 120° from vertical; copy 2 has its upper arm 1e-9 rad further out, copy 3 has 2e-9 rad. Integrate 40 s accurately and save the full state at 30 fps."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Double Pendulum Chaos Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Rendering/visualization script or matplotlib/video export instructions for producing the graphic overlay, trails, and typography seen in the video"
+      ],
+      "evidence": "The attached video displays three double pendulums moving identically until splitting at t = 12.7 s into red, green, and blue paths, matching the prompt's physical parameters and divergence timing."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:51.366Z",
+  "model": "opus5.5",
+  "prompt": "Asked for a 15sec promotional video\n\nClarified small things",
+  "promptTranslations": {
+    "en": "Asked for a 15sec promotional video\n\nClarified small things"
+  },
+  "summary": "Author used Claude Opus 5.5 to create a 15-second promotional video for a mobile game in 20 minutes.",
+  "summaryEn": "Bloom Mobile Game Promo Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105102105702756414",
+    "canonicalUrl": "https://x.com/Alex_theFounder/status/2105102105702756414",
+    "author": {
+      "username": "Alex_theFounder",
+      "displayName": "Non-Technical Founder",
+      "profileUrl": "https://x.com/Alex_theFounder"
+    },
+    "publishedAt": "2026-09-30T01:07:07.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "A single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video\n\nClarified small things\n\nThis is the outcome\n\nAll within 20 mins \n\nJust insane https://t.co/tXOBHg0eQG",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Alex_theFounder/status/2105102105702756414",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105101740676685825/img/LqhzJjAiYuuVhRA9.jpg",
+        "analysisUrl": "https://x.com/Alex_theFounder/status/2105102105702756414"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Alex_theFounder/status/2105102105702756414",
+        "text": "Non-Technical Founder on X: \"A single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video\n\nClarified small things\n\nThis is the outcome\n\nAll within 20 mins \n\nJust insane\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNon-Technical Founder on X: \"A single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video\n\nClarified small things\n\nThis is the outcome\n\nAll within 20 mins \n\nJust insane\"\n\n\n\nNon-Technical Founder\n\n@Alex_theFounder\n\n\n\n\nA single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video\n\nClarified small things\n\nThis is the outcome\n\nAll within 20 mins \n\nJust insane\n\n\n00:00\n\n\n\n\n\n\n\n\n1:07 AM · Sep 30, 2026·12\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNon-Technical Founder@Alex_theFounderFollow\nMarketer who can’t code, shipping apps anyway. Rejections, real numbers, and what AI actually gets wrong. Part-time gamer\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Technical Founder\n\n@Alex_theFounder\n\n\n\n\nA single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video\n\nClarified small things\n\nThis is the outcome\n\nAll within 20 mins \n\nJust insane\n\n\n00:00\n\n\n\n\n\n\n\n\n1:07 AM · Sep 30, 2026·12\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Alex_theFounder"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Alex_theFounder/status/2105102105702756414",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105101740676685825/img/LqhzJjAiYuuVhRA9.jpg",
+  "coverPath": "data/covers/2105102105702756414-wide.jpg",
+  "gifPath": "data/gifs/2105102105702756414.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105101740676685825",
+    "x-post:2105102105702756414"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bloom Mobile Game Promo Video",
+      "summary": "Author used Claude Opus 5.5 to create a 15-second promotional video for a mobile game in 20 minutes.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude AI",
+        "authorUseConfirmed": true,
+        "evidence": "A single prompt in @claudeai Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Asked for a 15sec promotional video\n\nClarified small things",
+        "englishText": "Asked for a 15sec promotional video\n\nClarified small things",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact generation prompt",
+          "Clarification prompts",
+          "Underlying rendering code or tools"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "15-second vertical promo ad displaying gameplay and promotional title cards for the game Bloom.",
+        "textualResultQuote": "This is the outcome\n\nAll within 20 mins"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "App Promotion Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "promo",
+          "mobile-game",
+          "commercial",
+          "short-form"
+        ]
+      },
+      "targetModelRole": "Video concept, scripting, or animation code generation",
+      "outputSource": "Rendered video animation",
+      "divisionEvidence": "A single prompt in @claudeai Opus 5.5\n\nAsked for a 15sec promotional video",
+      "video": {
+        "shots": "Rapid cuts between gameplay, floating island progression, and app download screen",
+        "duration": "15s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates rapid promotional video generation using Claude Opus 5.5, fitting video production reference criteria despite partial prompt disclosure.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Alex_theFounder/status/2105102105702756414",
+        "start": 39,
+        "end": 98
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Alex_theFounder/status/2105102105702756414",
+        "author": "Alex_theFounder",
+        "postId": "2105102105702756414",
+        "publishedAt": "2026-09-30T01:07:07.000Z"
+      },
+      "checkedAt": "2026-09-30T05:25:30.959Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Alex_theFounder/status/2105102105702756414",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 to create a 15-second promotional video for a mobile game in 20 minutes.",
+    "summaryEn": "Bloom Mobile Game Promo Video",
+    "originalPrompt": "Asked for a 15sec promotional video\n\nClarified small things",
+    "sourceRange": {
+      "start": 39,
+      "end": 98
+    },
+    "translations": {
+      "zh": "Asked for a 15sec promotional video\n\nClarified small things",
+      "en": "Asked for a 15sec promotional video\n\nClarified small things"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "App Promotion Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact generation prompt",
+        "Clarification prompts",
+        "Underlying rendering code or tools"
+      ],
+      "evidence": "15-second vertical promo ad displaying gameplay and promotional title cards for the game Bloom."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

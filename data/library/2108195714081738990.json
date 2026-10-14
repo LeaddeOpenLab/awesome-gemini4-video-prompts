@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:30.871Z",
+  "model": "opus5.5",
+  "prompt": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)",
+  "promptTranslations": {
+    "en": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)"
+  },
+  "summary": "Slava Volkov demonstrates a playable 3D racing game scene running in a browser tab via Three.js, generated from a single prompt to Claude Opus 5.5.",
+  "summaryEn": "NFS-Inspired 3D Racing Game Demo in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108195714081738990",
+    "canonicalUrl": "https://x.com/buzzybats/status/2108195714081738990",
+    "author": {
+      "username": "buzzybats",
+      "displayName": "Slava Volkov",
+      "profileUrl": "https://x.com/buzzybats"
+    },
+    "publishedAt": "2026-10-08T14:00:01.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "One prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab. https://t.co/hEK3VxoAax",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/buzzybats/status/2108195714081738990",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107841258165321728/img/06Zq_u2KjSMA7T_o.jpg",
+        "analysisUrl": "https://x.com/buzzybats/status/2108195714081738990"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 125
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/buzzybats/status/2108195714081738990",
+        "text": "Slava Volkov on X: \"One prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nSlava Volkov on X: \"One prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab.\"\n\n\n\nSlava Volkov\n\n@buzzybats\n\n\n\n\nOne prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:00 PM · Oct 8, 2026·125\nViews\n\n\n\n2\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSlava Volkov@buzzybatsFollow\nI build whatever game pops into my head. Obsessed with weird mechanics - especially controls. Can&#x27;t stop shipping new ones.\nGame dev @genex_games\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlava Volkov\n\n@buzzybats\n\n\n\n\nOne prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:00 PM · Oct 8, 2026·125\nViews\n\n\n\n2\n\n6\n\n\n\n\n\n\n\n\n\n\nSlava Volkov\n\n@buzzybats\n23h\n\n\nPlay it: genex.games/midnight-apex\n\nThe whole prompt:\n\"Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)\"\n\n\n\n\n\n\n\n\n\n\n49\n\n\n\n\n\n\n\n\n\n\n\nMatt\n\n@matt__makes\n21h\n\n\none prompt for all that rain and neon! looks great\n\n\n1\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "buzzybats"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/buzzybats/status/2108195714081738990",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107841258165321728/img/06Zq_u2KjSMA7T_o.jpg",
+  "coverPath": "data/covers/2108195714081738990-wide.jpg",
+  "gifPath": "data/gifs/2108195714081738990.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2107841258165321728",
+    "x-post:2108195714081738990"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "NFS-Inspired 3D Racing Game Demo in Three.js",
+      "summary": "Slava Volkov demonstrates a playable 3D racing game scene running in a browser tab via Three.js, generated from a single prompt to Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "One prompt to Claude Opus 5.5. This is what came out."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)",
+        "englishText": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Runtime execution environment",
+          "Asset loader configurations"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates a high-speed night-time city race in the rain with neon reflections, drifting mechanics, lap counters, and speedometer HUD.",
+        "textualResultQuote": "Night city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library executing in a browser tab",
+          "evidence": "all @threejs, running in a browser tab.",
+          "sourceUrl": "https://x.com/buzzybats/status/2108195714081738990",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Racing Game Demo",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "racing",
+          "interactive",
+          "gamedev"
+        ]
+      },
+      "targetModelRole": "Generated the interactive Three.js racing game codebase",
+      "outputSource": "Web browser executing Three.js script produced by Claude Opus 5.5",
+      "divisionEvidence": "One prompt to Claude Opus 5.5. This is what came out.\n\nNight city, rain, neon, drifting at 200+ km/h — all @threejs, running in a browser tab.",
+      "video": {
+        "shots": "Single continuous third-person chase camera perspective during gameplay",
+        "duration": "01:15",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides explicit confirmation of Claude Opus 5.5, quotes the full original generation prompt in thread, and attaches a gameplay screen recording verifying the output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/buzzybats/status/2108195714081738990",
+        "start": 1397,
+        "end": 1495
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/buzzybats/status/2108195714081738990",
+        "author": "buzzybats",
+        "postId": "2108195714081738990",
+        "publishedAt": "2026-10-08T14:00:01.000Z"
+      },
+      "checkedAt": "2026-10-09T13:33:07.609Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/buzzybats/status/2108195714081738990",
+        "evidence": ""
+      }
+    },
+    "summary": "Slava Volkov demonstrates a playable 3D racing game scene running in a browser tab via Three.js, generated from a single prompt to Claude Opus 5.5.",
+    "summaryEn": "NFS-Inspired 3D Racing Game Demo in Three.js",
+    "originalPrompt": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)",
+    "sourceRange": {
+      "start": 1397,
+      "end": 1495
+    },
+    "translations": {
+      "zh": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)",
+      "en": "Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Racing Game Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Runtime execution environment",
+        "Asset loader configurations"
+      ],
+      "evidence": "Screen recording demonstrates a high-speed night-time city race in the rain with neon reflections, drifting mechanics, lap counters, and speedometer HUD."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

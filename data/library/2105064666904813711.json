@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:10:49.447Z",
+  "model": "opus5.5",
+  "prompt": "make a 30 second motion graphics video that shows what is carvuk to customers",
+  "promptTranslations": {
+    "en": "make a 30 second motion graphics video that shows what is carvuk to customers"
+  },
+  "summary": "A 30-second motion graphics promotional video explaining Carvuk's automotive service steps and metrics, claimed to be created from a single Opus 5.5 prompt.",
+  "summaryEn": "Carvuk 30-Second Motion Graphics Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105064666904813711",
+    "canonicalUrl": "https://x.com/nicovegam/status/2105064666904813711",
+    "author": {
+      "username": "nicovegam",
+      "displayName": "Nico Vega",
+      "profileUrl": "https://x.com/nicovegam"
+    },
+    "publishedAt": "2026-09-29T22:38:21.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "just one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\" \n\ncrazy!!!!!!! https://t.co/tTwW1tCuad",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nicovegam/status/2105064666904813711",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105064531969945600/img/Zeq5JKy6NLJK3jDm.jpg",
+        "analysisUrl": "https://x.com/nicovegam/status/2105064666904813711"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/nicovegam/status/2105064666904813711",
+        "text": "Nico Vega on X: \"just one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\" \n\ncrazy!!!!!!!\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNico Vega on X: \"just one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\" \n\ncrazy!!!!!!!\"\n\n\n\nNico Vega\n@nicovegam\n\n\n\n\njust one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\" \n\ncrazy!!!!!!!\n\n\n00:00\n\n\n\n\n\n\n\n\n10:38 PM · Sep 29, 2026·32\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNico Vega@nicovegamFollow\ncofounder and cto at https://t.co/RgCOacNwoG\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNico Vega\n@nicovegam\n\n\n\n\njust one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\" \n\ncrazy!!!!!!!\n\n\n00:00\n\n\n\n\n\n\n\n\n10:38 PM · Sep 29, 2026·32\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "nicovegam"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/nicovegam/status/2105064666904813711",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105064531969945600/img/Zeq5JKy6NLJK3jDm.jpg",
+  "coverPath": "data/covers/2105064666904813711-wide.jpg",
+  "gifPath": "data/gifs/2105064666904813711.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105064531969945600",
+    "x-post:2105064666904813711"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Carvuk 30-Second Motion Graphics Explainer",
+      "summary": "A 30-second motion graphics promotional video explaining Carvuk's automotive service steps and metrics, claimed to be created from a single Opus 5.5 prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "just one prompt for Opus 5.5: \"make a 30 second motion graphics video that shows what is carvuk to customers\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a 30 second motion graphics video that shows what is carvuk to customers",
+        "englishText": "make a 30 second motion graphics video that shows what is carvuk to customers",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Rendering framework or execution environment",
+          "Carvuk visual brand assets and copy specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 30-second video displays a polished motion graphics explainer detailing Carvuk's service workflow and stats in Spanish.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown Motion Graphics Renderer",
+          "role": "Renders code or animations orchestrated by Claude Opus into MP4 video format",
+          "evidence": "Video presentation of motion graphics output without explicit mention of Remotion, Manim, or WebGL stack.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Product Explainer Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "explainer",
+          "carvuk",
+          "commercial",
+          "motion-design"
+        ]
+      },
+      "targetModelRole": "Code generation or orchestrator of motion graphics animation",
+      "outputSource": "Inferred programmatic rendering engine (e.g., Remotion/Canvas/Manim)",
+      "divisionEvidence": "Claude Opus provides text/code planning while an underlying execution runtime compiles the motion graphics video.",
+      "video": {
+        "shots": "Multi-scene sequence covering problem, booking steps, service catalog, guarantee, and closing metrics",
+        "duration": "0:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct showcase of Claude Opus 5.5 generating a commercial-grade motion graphics explainer video from prompt instructions.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nicovegam/status/2105064666904813711",
+        "start": 31,
+        "end": 108
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nicovegam/status/2105064666904813711",
+        "author": "nicovegam",
+        "postId": "2105064666904813711",
+        "publishedAt": "2026-09-29T22:38:21.000Z"
+      },
+      "checkedAt": "2026-09-30T09:39:33.923Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nicovegam/status/2105064666904813711",
+        "evidence": ""
+      }
+    },
+    "summary": "A 30-second motion graphics promotional video explaining Carvuk's automotive service steps and metrics, claimed to be created from a single Opus 5.5 prompt.",
+    "summaryEn": "Carvuk 30-Second Motion Graphics Explainer",
+    "originalPrompt": "make a 30 second motion graphics video that shows what is carvuk to customers",
+    "sourceRange": {
+      "start": 31,
+      "end": 108
+    },
+    "translations": {
+      "zh": "make a 30 second motion graphics video that shows what is carvuk to customers",
+      "en": "make a 30 second motion graphics video that shows what is carvuk to customers"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Product Explainer Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Rendering framework or execution environment",
+        "Carvuk visual brand assets and copy specifications"
+      ],
+      "evidence": "The attached 30-second video displays a polished motion graphics explainer detailing Carvuk's service workflow and stats in Spanish."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

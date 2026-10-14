@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:48.575Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Jason Zhou shares a one-shot generation test using Opus 5.5 to create a dynamic 15-second motion graphics showreel.",
+  "summaryEn": "Motion Graphics Showreel Video",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103629182487929329",
+      "canonicalUrl": "https://x.com/seflless/status/2103629182487929329",
+      "author": {
+        "username": "seflless",
+        "displayName": "Francois Laberge",
+        "profileUrl": "https://x.com/seflless"
+      },
+      "originalText": "What Opus 5.5 Max built for me from the same prompt: https://t.co/p4dQnDzPRb"
+    },
+    "id": "2103663364958515541",
+    "canonicalUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
+    "author": {
+      "username": "jasonzhou1993",
+      "displayName": "Jason Zhou",
+      "profileUrl": "https://x.com/jasonzhou1993"
+    },
+    "publishedAt": "2026-09-26T01:50:05.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "wft, \nthis is one shot from Opus 5.5 i just tried\n\nprompt \n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nI really dont know what kind of black magic anthropic put in... gonna look into this",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103663091510886401/img/UgrlgPh1JQnAP3mh.jpg",
+        "analysisUrl": "https://x.com/jasonzhou1993/status/2103663364958515541"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103625099593109504/img/NnVQyuByQiQwBx-u.jpg",
+        "analysisUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "sourcePostId": "2103629182487929329"
+      }
+    ],
+    "metrics": {
+      "likeCount": 171,
+      "repostCount": 12,
+      "replyCount": 25,
+      "quoteCount": 1,
+      "viewCount": 19127
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jasonzhou1993/status/2104017950386860092",
+        "text": "@_bloodbones just macbook",
+        "author": "jasonzhou1993"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jasonzhou1993/status/2103675694127686110",
+        "text": "@seflless yea\ni took a look, i think the key is that the audio is code generated!",
+        "author": "jasonzhou1993"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jasonzhou1993/status/2103674915337691581",
+        "text": "@DenissAlimovs it is better than what i can produce so im not sure i even call this slop hah;\n\nbut yea",
+        "author": "jasonzhou1993"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103663091510886401/img/UgrlgPh1JQnAP3mh.jpg",
+  "coverPath": "data/covers/2103663364958515541-wide.jpg",
+  "gifPath": "data/gifs/2103663364958515541.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103663091510886401",
+    "x-video:2103625099593109504",
+    "x-post:2103663364958515541",
+    "x-post:2103629182487929329"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel Video",
+      "summary": "Jason Zhou shares a one-shot generation test using Opus 5.5 to create a dynamic 15-second motion graphics showreel.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/jasonzhou1993/status/2103663364958515541",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "start": 60,
+        "end": 211
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "author": "jasonzhou1993",
+        "postId": "2103663364958515541",
+        "publishedAt": "2026-09-26T01:50:05.000Z"
+      },
+      "checkedAt": "2026-09-28T07:55:24.853Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Jason Zhou shares a one-shot generation test using Opus 5.5 to create a dynamic 15-second motion graphics showreel.",
+    "summaryEn": "Motion Graphics Showreel Video",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 60,
+      "end": 211
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

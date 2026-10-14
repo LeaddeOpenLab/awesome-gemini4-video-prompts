@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:05.492Z",
+  "model": "opus5.5",
+  "prompt": "Prompt: Referring to the video link, make an animated short film for me that will blow netizens' minds",
+  "promptTranslations": {
+    "en": "Prompt: Referring to the video link, make an animated short film for me that will blow netizens' minds"
+  },
+  "summary": "Andy L 使用 Claude Opus 5.5 耗时 73 分钟全自动编写 9,430 行代码，无需素材与 AE 渲染出包含流体、布料、分形与玻璃字效的 40 秒动态短片与程序化音效。",
+  "summaryEn": "Opus 5.5 纯代码生成40秒动态视觉短片",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104850150749532431",
+    "canonicalUrl": "https://x.com/AndyL5cc/status/2104850150749532431",
+    "author": {
+      "username": "AndyL5cc",
+      "displayName": "Andy L",
+      "profileUrl": "https://x.com/AndyL5cc"
+    },
+    "publishedAt": "2026-09-29T08:25:56.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。\n\n墨水、布料、分形、玻璃……\n没有一帧素材，全是实时算出来的。\n\n只能说 强得有点离谱。 https://t.co/YzWIbk2X1P",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AndyL5cc/status/2104850150749532431",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104849320361242624/img/Asp9l-03H66OU8nH.jpg",
+        "analysisUrl": "https://x.com/AndyL5cc/status/2104850150749532431"
+      }
+    ],
+    "metrics": {
+      "likeCount": 102,
+      "repostCount": 9,
+      "replyCount": 36,
+      "quoteCount": 1,
+      "viewCount": 10156
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2105107227531268272",
+        "text": "@xiaoliuye6 感觉视频要比 Opus5.5 朴素不少",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104920481715589262",
+        "text": "@ZL_Tai 谢谢🤝",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104897847267389500",
+        "text": "@0xcg2100 我是订阅的",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104893719224938722",
+        "text": "@denziideng 200 刀",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104870512056995879",
+        "text": "@glass_gold_drnd 👌",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104870283375206793",
+        "text": "@Kedashu 人在海外",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104865482386104699",
+        "text": "@glass_gold_drnd 我换换口味？🤣",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104864532502139118",
+        "text": "@ieddysun 还好，久的要 2 个小时",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104861614533124246",
+        "text": "@soap628 强的可怕",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104860432087539762",
+        "text": "@jinniucheng @grok",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104859123011740081",
+        "text": "@jinniucheng 200 刀，一周跑 50 个没什么问题",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104857501602820326",
+        "text": "@jinniucheng 我是订阅",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104857464873296238",
+        "text": "@TianbaoSu 朦朦还想看啥🤣",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104854791352693015",
+        "text": "@YxzRainy 是的",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104853269659206032",
+        "text": "@ikun666 有条件就搞",
+        "author": "AndyL5cc"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AndyL5cc/status/2104851952807108676",
+        "text": "提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴",
+        "author": "AndyL5cc"
+      },
+      {
+        "url": "https://x.com/AndyL5cc/status/2104850150749532431",
+        "text": "Andy L on X: \"73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。\n\n墨水、布料、分形、玻璃……\n没有一帧素材，全是实时算出来的。\n\n只能说 强得有点离谱。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAndy L on X: \"73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。\n\n墨水、布料、分形、玻璃……\n没有一帧素材，全是实时算出来的。\n\n只能说 强得有点离谱。\"\n\n\n\nAndy L\n\n@AndyL5cc\n\n\n\n\nShow translation\n73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。\n\n墨水、布料、分形、玻璃……\n没有一帧素材，全是实时算出来的。\n\n只能说 强得有点离谱。\n\n\n00:00\n\n\n\n\n\n\n\n\n8:25 AM · Sep 29, 2026·10.1K\nViews\n\n\n\n36\n9\n102\n53\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAndy L@AndyL5ccFollow\nAI 商业化｜内容增长｜项目营收 7 位数+\n分享 AI 实战、项目复盘、产品与变现\n📮 商务合作：[email&#160;protected]\n🔗 付费咨询 ↓\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy L\n\n@AndyL5cc\n\n\n\n\nShow translation\n73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。\n\n墨水、布料、分形、玻璃……\n没有一帧素材，全是实时算出来的。\n\n只能说 强得有点离谱。\n\n\n00:00\n\n\n\n\n\n\n\n\n8:25 AM · Sep 29, 2026·10.1K\nViews\n\n\n\n36\n9\n102\n53\n\n\n\n\n\n\n\n\n\nAndy L\n\n@AndyL5cc\n20h\n\n\n提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴\n\n\n1\n\n1\n961\n\n\n\n\n\n\n\n\n\nAndy L\n\n@AndyL5cc\n20h\n\n\n\n\n\nにく\n\n@29meat_ai\nSep 25\n\nこりゃすげぇぇぇぇぇ！！Opus5.5だけでこんなのできたぁぁぁぁぁ！！！\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n\n649\n\n\n\n\n\n\n\n\n\n\n\n兴雨\n\n@YxzRainy\n20h\n\n\n音效和 bgm 也是 claude 生成的吗 ？\n\n\n1\n\n1\n196\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "AndyL5cc"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AndyL5cc/status/2104850150749532431",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104849320361242624/img/Asp9l-03H66OU8nH.jpg",
+  "coverPath": "data/covers/2104850150749532431-wide.jpg",
+  "gifPath": "data/gifs/2104850150749532431.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104849320361242624",
+    "x-post:2104850150749532431"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 纯代码生成40秒动态视觉短片",
+      "summary": "Andy L 使用 Claude Opus 5.5 耗时 73 分钟全自动编写 9,430 行代码，无需素材与 AE 渲染出包含流体、布料、分形与玻璃字效的 40 秒动态短片与程序化音效。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Web",
+        "authorUseConfirmed": true,
+        "evidence": "73 分钟，Opus 5.5 做出一支 40 秒纯代码动画。视频结尾标明 OPUS 5.5 与 9,430 行代码。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴",
+        "englishText": "Prompt: Referring to the video link, make an animated short film for me that will blow netizens' minds",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "具体的参考视频链接",
+          "生成 9,430 行动画与音频代码的多轮迭代或完整引导指令",
+          "代码运行及实时渲染环境的技术栈配置"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频展示了长达 40 秒的纯代码实时演算动画，包含墨水扩散、布料飘动、分形几何、玻璃材质文字排版与程序化音效。注：当前媒体使用同一作品的较小码率/尺寸备选版本，画质结论仅针对本次输入。",
+        "textualResultQuote": "20 镜头 · 0 素材 · 0 AE · 9,430 行代码"
+      },
+      "inputs": [
+        {
+          "kind": "reference_video",
+          "description": "作者提示词中提及的参考视频链接",
+          "available": false,
+          "evidence": "提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴",
+          "origin": "user",
+          "sourceUrl": "https://x.com/AndyL5cc/status/2104851952807108676"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "WebGL / Canvas Code Runtime",
+          "role": "运行 Opus 5.5 生成的 9,430 行代码并实时渲染画面及合成音频",
+          "evidence": "没有一帧素材，全是实时算出来的。每帧画面，每个声音，都是代码。",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "代码生成动态图形视觉短片",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "creative-coding",
+          "webgl",
+          "procedural-animation",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 负责理解参考并编写完整的实时图形渲染与程序化音频代码（共 9,430 行）",
+      "outputSource": "由代码渲染引擎运行 Claude 生成的纯代码实时绘制输出",
+      "divisionEvidence": "作者发帖明确指出『Opus 5.5 做出一支 40 秒纯代码动画……没有一帧素材，全是实时算出来的』，并在评论区确认音效和画面均由 Claude 编写代码生成。",
+      "video": {
+        "shots": "20",
+        "duration": "00:40",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "这是典型的 Claude Opus 5.5 智能体代码驱动视频与动态图形制作案例；符合引用案例策略中允许公开片断指令入库的标准。画质评估基于较小码率备选版本媒体。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AndyL5cc/status/2104851952807108676",
+        "start": 0,
+        "end": 28
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AndyL5cc/status/2104850150749532431",
+        "author": "AndyL5cc",
+        "postId": "2104850150749532431",
+        "publishedAt": "2026-09-29T08:25:56.000Z"
+      },
+      "checkedAt": "2026-09-30T04:52:05.117Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AndyL5cc/status/2104851952807108676",
+        "evidence": ""
+      }
+    },
+    "summary": "Andy L 使用 Claude Opus 5.5 耗时 73 分钟全自动编写 9,430 行代码，无需素材与 AE 渲染出包含流体、布料、分形与玻璃字效的 40 秒动态短片与程序化音效。",
+    "summaryEn": "Opus 5.5 纯代码生成40秒动态视觉短片",
+    "originalPrompt": "提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴",
+    "sourceRange": {
+      "start": 0,
+      "end": 28
+    },
+    "translations": {
+      "zh": "提示词：参考视频链接，帮我做一个动画短片能让网友惊掉下巴",
+      "en": "Prompt: Referring to the video link, make an animated short film for me that will blow netizens' minds"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "代码生成动态图形视觉短片",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "具体的参考视频链接",
+        "生成 9,430 行动画与音频代码的多轮迭代或完整引导指令",
+        "代码运行及实时渲染环境的技术栈配置"
+      ],
+      "evidence": "视频展示了长达 40 秒的纯代码实时演算动画，包含墨水扩散、布料飘动、分形几何、玻璃材质文字排版与程序化音效。注：当前媒体使用同一作品的较小码率/尺寸备选版本，画质结论仅针对本次输入。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

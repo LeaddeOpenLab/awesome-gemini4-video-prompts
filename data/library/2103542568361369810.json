@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:41.060Z",
+  "model": "opus5.5",
+  "prompt": "create an insightful, yet state of the art video visualization for how backlinks work for SEO",
+  "promptTranslations": {
+    "en": "create an insightful, yet state of the art video visualization for how backlinks work for SEO"
+  },
+  "summary": "A prompt designed to create an instructional visualization explaining how backlinks function in SEO.",
+  "summaryEn": "SEO Backlinks Video Visualization Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103542568361369810",
+    "canonicalUrl": "https://x.com/stewchan2/status/2103542568361369810",
+    "author": {
+      "username": "stewchan2",
+      "displayName": "Chandler",
+      "profileUrl": "https://x.com/stewchan2"
+    },
+    "publishedAt": "2026-09-25T17:50:04.000Z",
+    "collectedAt": "2026-09-28T08:12:48.941Z",
+    "language": "en",
+    "originalText": "Opus 5.5 video generation is next level. An instructional video on why backlinks are important. Prompt in comments. https://t.co/LiIy8KyG6V",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/stewchan2/status/2103542568361369810",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103542046715772928/img/PWlPQD-Hy5KEb7Qy.jpg",
+        "analysisUrl": "https://x.com/stewchan2/status/2103542568361369810"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 41
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/stewchan2/status/2103542706018615556",
+        "text": "Prompt:\n\n\"create an insightful, yet state of the art video visualization for how backlinks work for SEO\"\n\nIt one-shot the video, then I did a follow-up prompt to add video at the end.",
+        "author": "stewchan2"
+      },
+      {
+        "url": "https://x.com/stewchan2/status/2103542568361369810",
+        "text": "Chandler on X: \"Opus 5.5 video generation is next level. An instructional video on why backlinks are important. Prompt in comments.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nChandler on X: \"Opus 5.5 video generation is next level. An instructional video on why backlinks are important. Prompt in comments.\"\n\n\n\nChandler\n\n@stewchan2\n\n\n\n\nOpus 5.5 video generation is next level. An instructional video on why backlinks are important. Prompt in comments.\n\n\n00:00\n\n\n\n\n\n\n\n\n5:50 PM · Sep 25, 2026·41\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nChandler@stewchan2Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nChandler\n\n@stewchan2\n\n\n\n\nOpus 5.5 video generation is next level. An instructional video on why backlinks are important. Prompt in comments.\n\n\n00:00\n\n\n\n\n\n\n\n\n5:50 PM · Sep 25, 2026·41\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nChandler\n\n@stewchan2\nSep 25\n\n\nPrompt:\n\n\"create an insightful, yet state of the art video visualization for how backlinks work for SEO\"\n\nIt one-shot the video, then I did a follow-up prompt to add video at the end.\n\n\n\n\n1\n15\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "stewchan2"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/stewchan2/status/2103542568361369810",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103542046715772928/img/PWlPQD-Hy5KEb7Qy.jpg",
+  "coverPath": "data/covers/2103542568361369810-wide.jpg",
+  "gifPath": "data/gifs/2103542568361369810.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103542046715772928",
+    "x-post:2103542568361369810"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "SEO Backlinks Video Visualization Prompt",
+      "summary": "A prompt designed to create an instructional visualization explaining how backlinks function in SEO.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create an insightful, yet state of the art video visualization for how backlinks work for SEO",
+        "englishText": "create an insightful, yet state of the art video visualization for how backlinks work for SEO",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/stewchan2/status/2103542568361369810",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/stewchan2/status/2103542706018615556",
+        "start": 10,
+        "end": 103
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/stewchan2/status/2103542568361369810",
+        "author": "stewchan2",
+        "postId": "2103542568361369810",
+        "publishedAt": "2026-09-25T17:50:04.000Z"
+      },
+      "checkedAt": "2026-09-28T08:13:23.707Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/stewchan2/status/2103542706018615556",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt designed to create an instructional visualization explaining how backlinks function in SEO.",
+    "summaryEn": "SEO Backlinks Video Visualization Prompt",
+    "originalPrompt": "create an insightful, yet state of the art video visualization for how backlinks work for SEO",
+    "sourceRange": {
+      "start": 10,
+      "end": 103
+    },
+    "translations": {
+      "zh": "create an insightful, yet state of the art video visualization for how backlinks work for SEO",
+      "en": "create an insightful, yet state of the art video visualization for how backlinks work for SEO"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt designed to create an instructional visualization explaining how backlinks function in SEO.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

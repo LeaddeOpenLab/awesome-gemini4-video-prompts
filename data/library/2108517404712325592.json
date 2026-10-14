@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:39.040Z",
+  "model": "opus5.5",
+  "prompt": "simulate the moon crashing into earth",
+  "promptTranslations": {
+    "en": "simulate the moon crashing into earth"
+  },
+  "summary": "Otto shares an educational 3D explainer animation created with Opus 5.5 simulating the Moon falling towards Earth, tracking ocean tides, breakup at the Roche limit around 8,885 miles, and a devastating tsunami.",
+  "summaryEn": "Simulating the Moon Crashing into Earth",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108517404712325592",
+    "canonicalUrl": "https://x.com/ottollm/status/2108517404712325592",
+    "author": {
+      "username": "ottollm",
+      "displayName": "Otto",
+      "profileUrl": "https://x.com/ottollm"
+    },
+    "publishedAt": "2026-10-09T11:18:18.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "I asked opus 5.5 to simulate the moon crashing into earth. watch what happens at 8,885 miles... https://t.co/t0HSz3okxh",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ottollm/status/2108517404712325592",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108517177892454400/img/woKYs4QW6nd_dDtz.jpg",
+        "analysisUrl": "https://x.com/ottollm/status/2108517404712325592"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 11
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ottollm/status/2108517404712325592",
+        "text": "Otto on X: \"I asked opus 5.5 to simulate the moon crashing into earth. watch what happens at 8,885 miles...\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nOtto on X: \"I asked opus 5.5 to simulate the moon crashing into earth. watch what happens at 8,885 miles...\"\n\n\n\nOtto\n\n@ottollm\n\n\n\n\nI asked opus 5.5 to simulate the moon crashing into earth. watch what happens at 8,885 miles...\n\n\n00:00\n\n\n\n\n\n\n\n\n11:18 AM · Oct 9, 2026·18\nViews\n\n\n\n1\n\n2\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nOtto@ottollmFollow\notto. like auto, but with feelings. i yell about AI tools and the boring work they eat\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOtto\n\n@ottollm\n\n\n\n\nI asked opus 5.5 to simulate the moon crashing into earth. watch what happens at 8,885 miles...\n\n\n00:00\n\n\n\n\n\n\n\n\n11:18 AM · Oct 9, 2026·18\nViews\n\n\n\n1\n\n2\n1\n\n\n\n\n\n\n\n\n\nShukshin\n\n@shukshln\n23m\n\n\nthe interesting part is whether the simulation captures the physics or just makes the impact look convincing visuals and actual orbital mechanics are two very different things.\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ottollm"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ottollm/status/2108517404712325592",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108517177892454400/img/woKYs4QW6nd_dDtz.jpg",
+  "coverPath": "data/covers/2108517404712325592-wide.jpg",
+  "gifPath": "data/gifs/2108517404712325592.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108517177892454400/vid/avc1/320x568/CvaSCB-5cBkhrWv4.mp4?tag=29",
+    "x-video:2108517177892454400",
+    "x-post:2108517404712325592"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Simulating the Moon Crashing into Earth",
+      "summary": "Otto shares an educational 3D explainer animation created with Opus 5.5 simulating the Moon falling towards Earth, tracking ocean tides, breakup at the Roche limit around 8,885 miles, and a devastating tsunami.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked opus 5.5 to simulate the moon crashing into earth."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "simulate the moon crashing into earth",
+        "englishText": "simulate the moon crashing into earth",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt instructions provided to Claude Opus 5.5",
+          "Animation engine or code renderer configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 1:20 vertical video visualizes the Moon descending toward Earth, tracking mileage, rising tides, tidal disruption around 8,885 miles, fragment impact counters, and a massive ocean wave engulfing the city.",
+        "textualResultQuote": "What if the Moon crashed into Earth? ... Then Earth's gravity tears it apart. It shatters."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Orbital collision physics explainer",
+        "topic": "explainers",
+        "tags": [
+          "physics-simulation",
+          "educational",
+          "celestial-mechanics",
+          "roche-limit",
+          "3d-animation"
+        ]
+      },
+      "targetModelRole": "Authoring code or simulation logic for the astronomical motion graphics animation.",
+      "outputSource": "unknown",
+      "divisionEvidence": "The post explicitly credits Claude Opus 5.5 ('I asked opus 5.5 to simulate the moon crashing into earth') but does not disclose the specific renderer or execution environment.",
+      "video": {
+        "shots": "Continuous camera perspective looking out from coastal town rooftops toward the horizon and sky as the moon descends and fragments.",
+        "duration": "01:20",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Showcases an explainer video generated via Claude Opus 5.5, meeting video production reference case criteria despite the prompt being shared as a fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ottollm/status/2108517404712325592",
+        "start": 20,
+        "end": 57
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ottollm/status/2108517404712325592",
+        "author": "ottollm",
+        "postId": "2108517404712325592",
+        "publishedAt": "2026-10-09T11:18:18.000Z"
+      },
+      "checkedAt": "2026-10-09T12:12:21.372Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ottollm/status/2108517404712325592",
+        "evidence": ""
+      }
+    },
+    "summary": "Otto shares an educational 3D explainer animation created with Opus 5.5 simulating the Moon falling towards Earth, tracking ocean tides, breakup at the Roche limit around 8,885 miles, and a devastating tsunami.",
+    "summaryEn": "Simulating the Moon Crashing into Earth",
+    "originalPrompt": "simulate the moon crashing into earth",
+    "sourceRange": {
+      "start": 20,
+      "end": 57
+    },
+    "translations": {
+      "zh": "simulate the moon crashing into earth",
+      "en": "simulate the moon crashing into earth"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Orbital collision physics explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt instructions provided to Claude Opus 5.5",
+        "Animation engine or code renderer configuration"
+      ],
+      "evidence": "The attached 1:20 vertical video visualizes the Moon descending toward Earth, tracking mileage, rising tides, tidal disruption around 8,885 miles, fragment impact counters, and a massive ocean wave engulfing the city."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

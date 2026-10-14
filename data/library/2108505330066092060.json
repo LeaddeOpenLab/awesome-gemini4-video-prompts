@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:28.817Z",
+  "model": "opus5.5",
+  "prompt": "research genlayer and explain it like i'm 5 using motion design",
+  "promptTranslations": {
+    "en": "research genlayer and explain it like i'm 5 using motion design"
+  },
+  "summary": "Motion graphics explainer breaking down how GenLayer works in 12 animated steps, generated via Claude Opus 5.5.",
+  "summaryEn": "GenLayer ELI5 Motion Design Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108505330066092060",
+    "canonicalUrl": "https://x.com/RahilBuilds/status/2108505330066092060",
+    "author": {
+      "username": "RahilBuilds",
+      "displayName": "Burak",
+      "profileUrl": "https://x.com/RahilBuilds"
+    },
+    "publishedAt": "2026-10-09T10:30:19.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "opus 5.5 made this off a single prompt, like \"research genlayer and explain it like i'm 5 using motion design\"\n\nsure it's not 100% accurate but 98.5% there lmao https://t.co/42O0ZZU6A1",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RahilBuilds/status/2108505330066092060",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108504913365925888/img/tTORFiFAT81TxYAj.jpg",
+        "analysisUrl": "https://x.com/RahilBuilds/status/2108505330066092060"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 123
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/RahilBuilds/status/2108505330066092060",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108504913365925888/img/tTORFiFAT81TxYAj.jpg",
+  "coverPath": "data/covers/2108505330066092060-wide.jpg",
+  "gifPath": "data/gifs/2108505330066092060.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108504913365925888/vid/avc1/480x270/0iQeTGUO1Wpvnx0h.mp4?tag=29",
+    "x-video:2108504913365925888",
+    "x-post:2108505330066092060"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "GenLayer ELI5 Motion Design Explainer",
+      "summary": "Motion graphics explainer breaking down how GenLayer works in 12 animated steps, generated via Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 made this off a single prompt, like \"research genlayer and explain it like i'm 5 using motion design\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "research genlayer and explain it like i'm 5 using motion design",
+        "englishText": "research genlayer and explain it like i'm 5 using motion design",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt or instructions",
+          "Rendering framework or code template specifications",
+          "Asset and styling parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "12-step animated ELI5 motion design video demonstrating GenLayer's consensus and smart contracts (evaluated using a lower-resolution preview stream).",
+        "textualResultQuote": "How GenLayer works explained like you're 5"
+      },
+      "inputs": [
+        {
+          "kind": "topic",
+          "description": "GenLayer protocol concepts and whitepaper data.",
+          "available": true,
+          "evidence": "research genlayer",
+          "sourceUrl": "https://docs.genlayer.com",
+          "origin": "searched"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown Motion Renderer / Code Environment",
+          "role": "Renders the generated code into motion graphics animation",
+          "evidence": "Author specifies Opus 5.5 generated the animation off a single prompt without detailing the underlying renderer.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "GenLayer Explainer Animation",
+        "topic": "explainers",
+        "tags": [
+          "motion-design",
+          "blockchain",
+          "eli5",
+          "educational"
+        ]
+      },
+      "targetModelRole": "Researches concept and generates full animation code and step-by-step explainer narrative.",
+      "outputSource": "Video screen recording / rendered programmatic motion graphics.",
+      "divisionEvidence": "Author states 'opus 5.5 made this off a single prompt', indicating Opus generated the animation code executed by an unspecified rendering tool.",
+      "video": {
+        "shots": "Multi-scene sequence spanning 12 distinct steps plus intro and timeline recap",
+        "duration": "02:16",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Clear reference case of Claude Opus 5.5 orchestrating full programmatic motion graphics explainers from high-level prompting.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/RahilBuilds/status/2108505330066092060",
+        "start": 46,
+        "end": 109
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/RahilBuilds/status/2108505330066092060",
+        "author": "RahilBuilds",
+        "postId": "2108505330066092060",
+        "publishedAt": "2026-10-09T10:30:19.000Z"
+      },
+      "checkedAt": "2026-10-09T11:26:00.012Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RahilBuilds/status/2108505330066092060",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics explainer breaking down how GenLayer works in 12 animated steps, generated via Claude Opus 5.5.",
+    "summaryEn": "GenLayer ELI5 Motion Design Explainer",
+    "originalPrompt": "research genlayer and explain it like i'm 5 using motion design",
+    "sourceRange": {
+      "start": 46,
+      "end": 109
+    },
+    "translations": {
+      "zh": "research genlayer and explain it like i'm 5 using motion design",
+      "en": "research genlayer and explain it like i'm 5 using motion design"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "GenLayer Explainer Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt or instructions",
+        "Rendering framework or code template specifications",
+        "Asset and styling parameters"
+      ],
+      "evidence": "12-step animated ELI5 motion design video demonstrating GenLayer's consensus and smart contracts (evaluated using a lower-resolution preview stream)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

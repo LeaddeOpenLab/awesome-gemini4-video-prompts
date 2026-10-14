@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:21:42.421Z",
+  "model": "opus5.5",
+  "prompt": "I want to know how good of a graphic designer you are. To prove this to me, I want you to prepare a 15-second motion graphics video. I want you to make a promo for my account. I am sharing my logo and my cover photo on X, use these as well.",
+  "promptTranslations": {
+    "en": "I want to know how good of a graphic designer you are. To prove this to me, I want you to prepare a 15-second motion graphics video. I want you to make a promo for my account. I am sharing my logo and my cover photo on X, use these as well."
+  },
+  "summary": "A prompt asking an AI model to prove its graphic design skills by creating a 15-second promotional motion graphics video using a provided logo and cover photo.",
+  "summaryEn": "Motion Graphics Account Promo",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103459971174130104",
+    "canonicalUrl": "https://x.com/fire_ozgur/status/2103459971174130104",
+    "author": {
+      "username": "fire_ozgur",
+      "displayName": "FIRE - Finansal Özgür",
+      "profileUrl": "https://x.com/fire_ozgur"
+    },
+    "publishedAt": "2026-09-25T12:21:52.000Z",
+    "collectedAt": "2026-09-28T08:14:34.039Z",
+    "language": "other",
+    "originalText": "Opus 5.5 işi aşmış durumda gerçekten. \n\nTek bir prompt ile hiçbir düzenleme yapmadan sadece logomu atarak benim için bir tanıtım videosu hazırlamasını istedim.\n\nTek kelimeyle muhteşem..\n\nPrompt: \"Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak için 15 saniyelik bir hareketli grafik videosu hazırlamanı istiyorum. Benim hesabımla ilgili bir tanıtım yapmanı istiyorum. Logo'mu ve  X'te kapak resmimi paylaşıyorum, bunları da kullan.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fire_ozgur/status/2103459971174130104",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103459235879059456/img/YuXk72J_lWynhi7U.jpg",
+        "analysisUrl": "https://x.com/fire_ozgur/status/2103459971174130104"
+      }
+    ],
+    "metrics": {
+      "likeCount": 116,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 25711
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fire_ozgur/status/2103522893921685531",
+        "text": "@mer1081126 Benim ücretli aboneliğim var, ücretsiz ile yapılamıyor olabilir.",
+        "author": "fire_ozgur"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fire_ozgur/status/2103517833745379727",
+        "text": "@degeryatirim @Cy_bist Güzel olmuş 👍🏼",
+        "author": "fire_ozgur"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fire_ozgur/status/2103476514016883198",
+        "text": "@Cy_bist Seninki de çok güzel olmuş gerçekten, Youtube’a koyabileceğin güzel intro ve outrolar çıkar buradan benden sana söylemesi",
+        "author": "fire_ozgur"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fire_ozgur/status/2103472165202837619",
+        "text": "@Metehankrky_ Gerçekten öyle insan eliyle yapmak için iyi para dökmem gerekirdi 🤣",
+        "author": "fire_ozgur"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fire_ozgur/status/2103461488363258100",
+        "text": "@OmgHeroo Şaşırtıcı derecede iyi ya, hiç beklemiyordum :)",
+        "author": "fire_ozgur"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/fire_ozgur/status/2103459971174130104",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103459235879059456/img/YuXk72J_lWynhi7U.jpg",
+  "coverPath": "data/covers/2103459971174130104-wide.jpg",
+  "gifPath": "data/gifs/2103459971174130104.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103459235879059456",
+    "x-post:2103459971174130104"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Account Promo",
+      "summary": "A prompt asking an AI model to prove its graphic design skills by creating a 15-second promotional motion graphics video using a provided logo and cover photo.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak için 15 saniyelik bir hareketli grafik videosu hazırlamanı istiyorum. Benim hesabımla ilgili bir tanıtım yapmanı istiyorum. Logo'mu ve  X'te kapak resmimi paylaşıyorum, bunları da kullan.",
+        "englishText": "I want to know how good of a graphic designer you are. To prove this to me, I want you to prepare a 15-second motion graphics video. I want you to make a promo for my account. I am sharing my logo and my cover photo on X, use these as well.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/fire_ozgur/status/2103459971174130104",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/fire_ozgur/status/2103459971174130104",
+        "start": 196,
+        "end": 467
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/fire_ozgur/status/2103459971174130104",
+        "author": "fire_ozgur",
+        "postId": "2103459971174130104",
+        "publishedAt": "2026-09-25T12:21:52.000Z"
+      },
+      "checkedAt": "2026-09-28T08:15:43.241Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/fire_ozgur/status/2103459971174130104",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt asking an AI model to prove its graphic design skills by creating a 15-second promotional motion graphics video using a provided logo and cover photo.",
+    "summaryEn": "Motion Graphics Account Promo",
+    "originalPrompt": "Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak için 15 saniyelik bir hareketli grafik videosu hazırlamanı istiyorum. Benim hesabımla ilgili bir tanıtım yapmanı istiyorum. Logo'mu ve  X'te kapak resmimi paylaşıyorum, bunları da kullan.",
+    "sourceRange": {
+      "start": 196,
+      "end": 467
+    },
+    "translations": {
+      "zh": "Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak için 15 saniyelik bir hareketli grafik videosu hazırlamanı istiyorum. Benim hesabımla ilgili bir tanıtım yapmanı istiyorum. Logo'mu ve  X'te kapak resmimi paylaşıyorum, bunları da kullan.",
+      "en": "I want to know how good of a graphic designer you are. To prove this to me, I want you to prepare a 15-second motion graphics video. I want you to make a promo for my account. I am sharing my logo and my cover photo on X, use these as well."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt asking an AI model to prove its graphic design skills by creating a 15-second promotional motion graphics video using a provided logo and cover photo.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

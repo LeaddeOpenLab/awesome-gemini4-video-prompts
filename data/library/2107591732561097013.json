@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:30.198Z",
+  "model": "opus5.5",
+  "prompt": "convert an AI data center into a video game",
+  "promptTranslations": {
+    "en": "convert an AI data center into a video game"
+  },
+  "summary": "Claude Opus 5.5 coded a real-time interactive 3D simulation of an AI data center using Three.js, visualizing query routing, cooling, power load, and rack maintenance.",
+  "summaryEn": "Interactive AI Data Center Simulation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107591732561097013",
+    "canonicalUrl": "https://x.com/IAenCrudo/status/2107591732561097013",
+    "author": {
+      "username": "IAenCrudo",
+      "displayName": "IA en Crudo",
+      "profileUrl": "https://x.com/IAenCrudo"
+    },
+    "publishedAt": "2026-10-06T22:00:00.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "¿A dónde va tu pregunta cuando le escribes a una IA? 🤔\n\nLe pedí a Claude Opus 5.5 que convirtiera un centro de datos de IA en un videojuego… y lo manejó él solo 🎮\n\nMandó una pregunta y la siguió hasta las GPUs. Después subió el enfriamiento, simuló el lanzamiento de un modelo nuevo y mandó a un técnico a arreglar un rack que se estaba quemando 🔥\n\n#IA #ClaudeAI #CentrosDeDatos",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/IAenCrudo/status/2107591732561097013",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107567573512437760/img/wWog0q87mdRZE8Mi.jpg",
+        "analysisUrl": "https://x.com/IAenCrudo/status/2107591732561097013"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 58
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IAenCrudo/status/2107595917696360630",
+        "text": "🛠️ Cómo se hizo:\n🧠 Claude Opus 5.5 programó la app entera en código (Three.js): el 3D, la simulación en vivo, el panel y el sonido\n🖱️ La sesión es real: el ratón hace clic de verdad y la simulación responde\n🔢 Los tokens del celular salen de un tokenizador real (no es el de Claude). El viaje de la pregunta va en cámara lenta ×5; en la vida real tarda unos 2 s\n📊 El centro de datos es inventado y los números son simulados\n🙌 Inspirado en el panel de almacenes con pinta de videojuego de @DilumSanjaya \n🎮 Juégalo tú (mejor en computadora): https://t.co/4aFbhoOWHq",
+        "author": "IAenCrudo"
+      },
+      {
+        "url": "https://centro-datos-crudo.centro-datos-crudo.workers.dev/",
+        "text": "\n\n\n\n\nCentro de Datos Crudo\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "IAenCrudo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/IAenCrudo/status/2107591732561097013",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107567573512437760/img/wWog0q87mdRZE8Mi.jpg",
+  "coverPath": "data/covers/2107591732561097013-wide.jpg",
+  "gifPath": "data/gifs/2107591732561097013.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2107567573512437760/vid/avc1/480x270/hYXyBvMRce-bVYeW.mp4?tag=29",
+    "x-video:2107567573512437760",
+    "x-post:2107591732561097013"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive AI Data Center Simulation in Three.js",
+      "summary": "Claude Opus 5.5 coded a real-time interactive 3D simulation of an AI data center using Three.js, visualizing query routing, cooling, power load, and rack maintenance.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Le pedí a Claude Opus 5.5 que convirtiera un centro de datos de IA en un videojuego... Claude Opus 5.5 programó la app entera en código (Three.js)"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "convirtiera un centro de datos de IA en un videojuego",
+        "englishText": "convert an AI data center into a video game",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts",
+          "Full coding specifications",
+          "Interactive mechanics and state machine instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive 3D data center UI, token flow tracking, cooling management, and technician dispatch (evaluated on lower-bitrate preview).",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "reference_design",
+          "description": "Warehouse dashboard visual inspiration by @DilumSanjaya",
+          "available": false,
+          "evidence": "Inspirado en el panel de almacenes con pinta de videojuego de @DilumSanjaya",
+          "sourceUrl": "https://x.com/IAenCrudo/status/2107595917696360630",
+          "origin": "searched"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D rendering, simulation logic, UI dashboard, and audio playback",
+          "evidence": "Claude Opus 5.5 programó la app entera en código (Three.js): el 3D, la simulación en vivo, el panel y el sonido",
+          "sourceUrl": "https://x.com/IAenCrudo/status/2107595917696360630",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Data Center Explainer",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "interactive",
+          "simulation",
+          "datacenter",
+          "explainer"
+        ]
+      },
+      "targetModelRole": "Code generation for the complete standalone web app including 3D graphics, simulation engine, and audio.",
+      "outputSource": "Client-side Three.js web application executed in a web browser",
+      "divisionEvidence": "Claude Opus 5.5 programó la app entera en código (Three.js): el 3D, la simulación en vivo, el panel y el sonido",
+      "video": {
+        "shots": "1 continuous capture",
+        "duration": "00:56",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://centro-datos-crudo.centro-datos-crudo.workers.dev/"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author-confirmed Claude Opus 5.5 code production of a complex interactive 3D application with video capture.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/IAenCrudo/status/2107591732561097013",
+        "start": 87,
+        "end": 140
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/IAenCrudo/status/2107591732561097013",
+        "author": "IAenCrudo",
+        "postId": "2107591732561097013",
+        "publishedAt": "2026-10-06T22:00:00.000Z"
+      },
+      "checkedAt": "2026-10-12T07:58:20.629Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/IAenCrudo/status/2107591732561097013",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 coded a real-time interactive 3D simulation of an AI data center using Three.js, visualizing query routing, cooling, power load, and rack maintenance.",
+    "summaryEn": "Interactive AI Data Center Simulation in Three.js",
+    "originalPrompt": "convirtiera un centro de datos de IA en un videojuego",
+    "sourceRange": {
+      "start": 87,
+      "end": 140
+    },
+    "translations": {
+      "zh": "convirtiera un centro de datos de IA en un videojuego",
+      "en": "convert an AI data center into a video game"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Data Center Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts",
+        "Full coding specifications",
+        "Interactive mechanics and state machine instructions"
+      ],
+      "evidence": "Screen recording demonstrates the interactive 3D data center UI, token flow tracking, cooling management, and technician dispatch (evaluated on lower-bitrate preview)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

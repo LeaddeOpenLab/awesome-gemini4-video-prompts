@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:31.272Z",
+  "model": "opus5.5",
+  "prompt": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
+  "promptTranslations": {
+    "en": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,"
+  },
+  "summary": "Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.",
+  "summaryEn": "BugSmash SaaS Product Launch Motion Design Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104525094571937922",
+    "canonicalUrl": "https://x.com/nQaze/status/2104525094571937922",
+    "author": {
+      "username": "nQaze",
+      "displayName": "Nabil Kazi",
+      "profileUrl": "https://x.com/nQaze"
+    },
+    "publishedAt": "2026-09-28T10:54:17.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "en",
+    "originalText": "Okay that's it. Opus 5.5 is officially my Motion Designer 🔥\nThis one's a product video for https://t.co/BoCL48mMxY \n\nOne prompt is all it took! Sharing it below... https://t.co/SxFMPWwk6N",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nQaze/status/2104525094571937922",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104524395473780736/img/IyhW2v-Hd3Qmwxs9.jpg",
+        "analysisUrl": "https://x.com/nQaze/status/2104525094571937922"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 22
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/nQaze/status/2104525094571937922",
+        "text": "Nabil Kazi on X: \"Okay that&#x27;s it. Opus 5.5 is officially my Motion Designer 🔥\nThis one&#x27;s a product video for https://t.co/BoCL48mMxY \n\nOne prompt is all it took! Sharing it below...\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNabil Kazi on X: \"Okay that&#x27;s it. Opus 5.5 is officially my Motion Designer 🔥\nThis one&#x27;s a product video for https://t.co/BoCL48mMxY \n\nOne prompt is all it took! Sharing it below...\"\n\n\n\nNabil Kazi\n\n@nQaze\n\n\n\n\nOkay that&#x27;s it. Opus 5.5 is officially my Motion Designer 🔥\nThis one&#x27;s a product video for bugsmash.io \n\nOne prompt is all it took! Sharing it below...\n\n\n00:00\n\n\n\n\n\n\n\n\n10:54 AM · Sep 28, 2026·34\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNabil Kazi@nQazeFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nNabil Kazi\n\n@nQaze\n\n\n\n\nOkay that&#x27;s it. Opus 5.5 is officially my Motion Designer 🔥\nThis one&#x27;s a product video for bugsmash.io \n\nOne prompt is all it took! Sharing it below...\n\n\n00:00\n\n\n\n\n\n\n\n\n10:54 AM · Sep 28, 2026·34\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nNabil Kazi\n\n@nQaze\n1h\n\n\nPrompt credits: x.com/gouthamjay8/st…\n\n\n\n00:00\n\n\n\n\n\n\n\n\nGoutham Jay ⚡\n\n@gouthamjay8\nSep 26\n\nReplying to @gouthamjay8\nPrompt:\n\nI want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, Show more\n\n\n\n\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "nQaze"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/BoCL48mMxY"
+    ]
+  },
+  "xUrl": "https://x.com/nQaze/status/2104525094571937922",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104524395473780736/img/IyhW2v-Hd3Qmwxs9.jpg",
+  "coverPath": "data/covers/2104525094571937922-wide.jpg",
+  "gifPath": "data/gifs/2104525094571937922.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104524395473780736",
+    "x-post:2104525094571937922"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "BugSmash SaaS Product Launch Motion Design Video",
+      "summary": "Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 is officially my Motion Designer 🔥\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
+        "englishText": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full continuation beyond the truncated 'Show more'",
+          "Exact target URL substitution used in execution",
+          "Underlying rendering environment or code execution specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 65-second video showcases a polished product launch video for BugSmash with animated kinetic typography, UI mockups, and feature highlights.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "website_reference",
+          "description": "Bugsmash product website URL (bugsmash.io) for asset harvesting and content context",
+          "available": true,
+          "evidence": "\"This one's a product video for bugsmash.io\"",
+          "origin": "unknown"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [],
+      "targetModelRole": "Motion designer generating the video concept, script, and visual animation logic from product reference data.",
+      "outputSource": "Video/motion graphics renderer (underlying framework not explicitly identified in the thread)",
+      "divisionEvidence": "\"Opus 5.5 is officially my Motion Designer 🔥 This one's a product video for bugsmash.io One prompt is all it took!\"",
+      "video": {
+        "shots": "Multiple dynamic motion graphic scenes and UI showcase transitions",
+        "duration": "01:05",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://bugsmash.io"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates direct AI-driven motion design video production attributed to Claude Opus 5.5 with an attached video result, fitting reference-case criteria despite a truncated prompt fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nQaze/status/2104525094571937922",
+        "start": 1342,
+        "end": 1595
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nQaze/status/2104525094571937922",
+        "author": "nQaze",
+        "postId": "2104525094571937922",
+        "publishedAt": "2026-09-28T10:54:17.000Z"
+      },
+      "checkedAt": "2026-09-28T12:00:06.793Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nQaze/status/2104525094571937922",
+        "evidence": ""
+      }
+    },
+    "summary": "Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.",
+    "summaryEn": "BugSmash SaaS Product Launch Motion Design Video",
+    "originalPrompt": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
+    "sourceRange": {
+      "start": 1342,
+      "end": 1595
+    },
+    "translations": {
+      "zh": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
+      "en": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full continuation beyond the truncated 'Show more'",
+        "Exact target URL substitution used in execution",
+        "Underlying rendering environment or code execution specifications"
+      ],
+      "evidence": "The attached 65-second video showcases a polished product launch video for BugSmash with animated kinetic typography, UI mockups, and feature highlights."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

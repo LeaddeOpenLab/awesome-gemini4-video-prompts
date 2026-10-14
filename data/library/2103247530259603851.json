@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:36.746Z",
+  "model": "opus5.5",
+  "prompt": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.",
+  "promptTranslations": {
+    "en": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration."
+  },
+  "summary": "A prompt requesting a 1-minute educational video with synthesized voice narration about the Sotto language-learning app.",
+  "summaryEn": "Educational Video Prompt for Sotto App",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097011379097960887",
+      "canonicalUrl": "https://x.com/1stnoel_/status/2097011379097960887",
+      "author": {
+        "username": "1stnoel_",
+        "displayName": "@1stnoel_",
+        "profileUrl": "https://x.com/1stnoel_"
+      },
+      "originalText": "Spent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nhttps://t.co/qNteE6GaOK"
+    },
+    "id": "2103247530259603851",
+    "canonicalUrl": "https://x.com/1stnoel_/status/2103247530259603851",
+    "author": {
+      "username": "1stnoel_",
+      "displayName": "@1stnoel_",
+      "profileUrl": "https://x.com/1stnoel_"
+    },
+    "publishedAt": "2026-09-24T22:17:42.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "I built this language learning app a few weeks ago, Fable &amp; Astra, and this what Opus 5.5 gave me: \n\nPrompt:\n\nMake a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.\n\nClaude Opus 5.5 (Extra)\n\nhttps://t.co/WOqWMnya11 https://t.co/cMhhOVMYI9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/1stnoel_/status/2103247530259603851",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103246862220140546/img/zmtKlwtnHyEMr5AY.jpg",
+        "analysisUrl": "https://x.com/1stnoel_/status/2103247530259603851"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRoUIF5XAAAUaxQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRoUIF5XAAAUaxQ.jpg",
+        "sourcePostId": "2097011379097960887"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 301
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/1stnoel_/status/2103247826616803511",
+        "text": "Same prompt Astra High https://t.co/3ytrHwCtsM",
+        "author": "1stnoel_"
+      },
+      {
+        "url": "https://readsotto.app/",
+        "text": "\n\n  \n    \n    \n    \n    Sotto, a free graded reader\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n        Sotto\n        \n          Sign in\n          Add app\n        \n\n      \n\n    \n\n    \n      \n        \n          \n            A free graded reader\n\n            Read a page. Then talk about it.\n\n            \n              A short book rewritten to your level. Tap any word, hear it read, then say what you\n              think out loud to a tutor that read the same page.\n            \n\n            \n              Try the tutor free for 3 days\n              Read free, no account\n            \n\n            \n              Reading, listening, and tap-to-translate are free for good. The voice tutor is $9.99 a\n              month or $79 a year after the trial.\n            \n\n          \n\n\n          \n            \n              \n                \n                  01 Read\n                \n\n                \n                  02 Tap\n                \n\n                \n                  03 Listen\n                \n\n                \n                  04 Speak\n                \n\n                \n                  05 Power\n                \n\n              \n\n              \n                \n                  Chapitre un · Français · A2\n                  \n                    Sotto est\n                    un livre\n                    gratuit et\n                    adapté. Vous\n                    choisissez une\n                    langue et\n                    un niveau,\n                    puis vous\n                    lisez. Touchez\n                    un mot pour\n                    le traduire.\n                  \n\n                \n\n                \n                  \n                    Your book\n                    \n                      Sotto\n                      Pick a language and a level. The book is rewritten to fit. Books are\n                        machine-adapted drafts and their levels are estimates.\n                    \n\n                  \n\n                  \n                    Tapped word\n                    \n                      adapté\n\n                      graded: rewritten at your level\n\n                      Save for later\n                    \n\n                  \n\n                  \n                    Narration\n                    \n                    \n                      \n                        \n                          \n                        \n                        \n                          \n                        \n                      \n                      \n                      0:03 · 0:08\n                    \n\n                  \n\n                  \n                    Talk about it\n                    \n                      \n                        Tutor\n                        Pourquoi le livre est-il « adapté » ?\n\n                      \n\n                      \n                        You\n                        Parce qu'il est réécrit pour mon niveau.\n\n                      \n\n                      \n                        \n                        Listening\n                      \n\n                    \n\n                  \n\n                  \n                    \n                      The tutor\n                      Sotto's tutor. $9.99 a month.\n                      Your own key.\n                      On this device.\n                      On your own machine.\n                    \n                  \n\n                \n\n              \n\n\n              \n                \n                  Reading, listening, tap-to-translate, and saved words are free.\n                \n\n                \n                  Sotto's tutor. Nothing to install, nothing to set up. Talk about the page\n                  the moment you finish it. $9.99 a month or $79 a year, free for the first 3 days.\n                  Start the trial. No transcripts or recordings are kept, only minutes used.\n                \n\n                \n                  Your own key. Paste an OpenAI key in Settings and the page calls OpenAI\n                  directly from your browser. The key stays on this device and OpenAI bills you.\n                  How it works\n                \n\n                \n                  On this device. Free. The tutor runs on models downloaded into your\n                  browser, so nothing leaves the device. Needs a recent laptop and a large first\n                  download; slower and less accurate than the plan.\n                \n\n                \n                  On your own machine. Free, on your own hardware.\n                  docker compose up\n                  serves the app and the tutor from one origin, with local models or your own key.\n                  Self-hosting guide\n                \n\n              \n\n            \n\n          \n\n\n          \n            02 · Tap\n\n            Tap any word for its meaning.\n\n            Save it and the mark stays on the page.\n\n          \n\n          \n            03 · Listen\n\n            Hear the story read aloud.\n\n            Each word fills in as it is spoken.\n\n          \n\n          \n            04 · Speak\n\n            \n              Talk about the passage with a voice tutor that already knows what you read.\n            \n\n            Say what you think out loud.\n\n          \n\n          \n            05 · Power\n\n            The tutor is the part you pay for. The rest stays free.\n\n            Pick where it runs: Sotto's server, your own key, or this device.\n\n          \n\n        \n\n      \n\n      \n        \n          See it working\n\n          \n          \n            \n              \n              \n            \n            A first visit in one minute: read, tap, listen, speak.\n          \n          \n            \n              \n                \n                Tap any word for its meaning, mid-story.\n              \n            \n\n            \n              \n                \n                Every book on the shelf is rewritten to a level.\n              \n            \n\n          \n\n        \n\n      \n\n      \n        \n          Install Sotto\n\n          \n            \n              \n            \n\n            \n              \n                Open readsotto.app in Chrome or Safari.\n\n                \n                  Look for an install option in the browser's menu or address bar (\"Install app\" or\n                  \"Add to Home Screen\").\n                \n\n                Open Sotto from where it installed.\n\n              \n              \n                \n                  Open readsotto.app in Safari. Tap More, then Share (or tap Share directly if it is\n                  visible).\n                \n\n                \n                  Scroll to \"Add to Home Screen.\" Turn on \"Open as Web App\" if it appears, then tap\n                  \"Add.\"\n                \n\n                Open Sotto from your Home Screen.\n\n              \n              \n                In Chrome, open the menu (⋮).\n\n                Tap \"Install app.\"\n\n                Open Sotto from your home screen or app drawer.\n\n              \n              \n                \n                  In Chrome, click the install icon in the address bar (or the menu, then \"Install\n                  Sotto\").\n                \n\n                Confirm \"Install.\"\n\n                Sotto opens as its own window.\n\n              \n              A book you have opened keeps working offline.\n\n            \n\n          \n\n        \n\n      \n    \n\n    \n      \n        \n        \n          Code Apache-2.0. Stories CC BY-SA 4.0. The books are machine-adapted drafts and their\n          levels are estimates. No analytics on this page or in the app.\n        \n\n      \n\n    \n\n    \n    \n    \n  \n\n",
+        "kind": "linked_public_material",
+        "author": "1stnoel_"
+      },
+      {
+        "url": "https://x.com/1stnoel_/status/2097011379097960887?s=20",
+        "text": "@1stnoel_ on X: \"Spent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nhttps://t.co/qNteE6GaOK\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n@1stnoel_ on X: \"Spent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nhttps://t.co/qNteE6GaOK\"\n\n\n\n@1stnoel_\n\n@1stnoel_\n\n\n\n\nSpent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nreadsotto.app\n\n\n\n\n5:17 PM · Sep 7, 2026·400\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n@1stnoel_@1stnoel_Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\n\n\n\n\nSpent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nreadsotto.app\n\n\n\n\n5:17 PM · Sep 7, 2026·400\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\nSep 7\n\n\nOpen to any feedback or thoughts if you try it!\n\n\n\n\n\n35\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "1stnoel_"
+      },
+      {
+        "url": "https://x.com/1stnoel_/status/2103247530259603851",
+        "text": "@1stnoel_ on X: \"I built this language learning app a few weeks ago, Fable &amp; Astra, and this what Opus 5.5 gave me: \n\nPrompt:\n\nMake a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.\n\nClaude Opus 5.5 (Extra)\n\nhttps://t.co/WOqWMnya11\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n@1stnoel_ on X: \"I built this language learning app a few weeks ago, Fable &amp; Astra, and this what Opus 5.5 gave me: \n\nPrompt:\n\nMake a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.\n\nClaude Opus 5.5 (Extra)\n\nhttps://t.co/WOqWMnya11\"\n\n\n\n@1stnoel_\n\n@1stnoel_\n\n\n\n\nI built this language learning app a few weeks ago, Fable & Astra, and this what Opus 5.5 gave me: \n\nPrompt:\n\nMake a 1-minute educational video about readsotto.app with synthesized voice narration.\n\nClaude Opus 5.5 (Extra)\n\nx.com/1stnoel_/statu…\n\n\n00:00\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\nSep 7\n\nSpent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nreadsotto.app\n\n\n\n\n\n\n\n10:17 PM · Sep 24, 2026·301\nViews\n\n\n\n3\n\n5\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n@1stnoel_@1stnoel_Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\n\n\n\n\nI built this language learning app a few weeks ago, Fable & Astra, and this what Opus 5.5 gave me: \n\nPrompt:\n\nMake a 1-minute educational video about readsotto.app with synthesized voice narration.\n\nClaude Opus 5.5 (Extra)\n\nx.com/1stnoel_/statu…\n\n\n00:00\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\nSep 7\n\nSpent some of the weekend playing around with Fable and Astra and built Sotto: \n\na language-learning app where you read a story, tap unfamiliar words, then talk about it with an AI tutor.\n\nReading is free. For the tutor, bring an OpenAI key or subscribe.\n\nreadsotto.app\n\n\n\n\n\n\n\n10:17 PM · Sep 24, 2026·301\nViews\n\n\n\n3\n\n5\n1\n\n\n\n\n\n\n\n\n\n@1stnoel_\n\n@1stnoel_\nSep 24\n\n\nSame prompt Astra High\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n19\n\n\n\n\n\n\n\n\n\n\n\nHayden Erwin\n\n@hperwinn\nSep 25\n\n\ndoes the tutor remember which words you tapped when you talk about the story?\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "1stnoel_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/1stnoel_/status/2103247530259603851",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103246862220140546/img/zmtKlwtnHyEMr5AY.jpg",
+  "coverPath": "data/covers/2103247530259603851-wide.jpg",
+  "gifPath": "data/gifs/2103247530259603851.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103246862220140546",
+    "x-image:/media/HRoUIF5XAAAUaxQ",
+    "x-post:2103247530259603851",
+    "x-post:2097011379097960887"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Educational Video Prompt for Sotto App",
+      "summary": "A prompt requesting a 1-minute educational video with synthesized voice narration about the Sotto language-learning app.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I built this language learning app a few weeks ago, Fable &amp; Astra, and this what Opus 5.5 gave me:"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.",
+        "englishText": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/1stnoel_/status/2103247530259603851",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/1stnoel_/status/2103247530259603851",
+        "start": 114,
+        "end": 211
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/1stnoel_/status/2103247530259603851",
+        "author": "1stnoel_",
+        "postId": "2103247530259603851",
+        "publishedAt": "2026-09-24T22:17:42.000Z"
+      },
+      "checkedAt": "2026-09-28T08:29:46.621Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/1stnoel_/status/2103247530259603851",
+        "evidence": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "A prompt requesting a 1-minute educational video with synthesized voice narration about the Sotto language-learning app.",
+    "summaryEn": "Educational Video Prompt for Sotto App",
+    "originalPrompt": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.",
+    "sourceRange": {
+      "start": 114,
+      "end": 211
+    },
+    "translations": {
+      "zh": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration.",
+      "en": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:59.665Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+  "promptTranslations": {
+    "en": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps."
+  },
+  "summary": "Claude Opus 5.5 generated a single-file WebGPU 3D simulation of a plush cow standing and moving on its udder teats with XPBD physics, real-time shell fur, and interactive controls.",
+  "summaryEn": "Interactive WebGPU Plush Cow Material Study",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108572856044986846",
+    "canonicalUrl": "https://x.com/vib3coded/status/2108572856044986846",
+    "author": {
+      "username": "vib3coded",
+      "displayName": "Vib3Coded",
+      "profileUrl": "https://x.com/vib3coded"
+    },
+    "publishedAt": "2026-10-09T14:58:38.000Z",
+    "collectedAt": "2026-10-09T15:58:14.620Z",
+    "language": "en",
+    "originalText": "Opus, why is this cow running on its udder?! 😂🐄\n\nClaude Opus 5.5 - one prompt, one very questionable cow\n\nAsked for a plush cow. Got a milk delivery system with no need for legs\n\nThat tiny face and those bouncing udder-legs are something else. It looks completely ridiculous, but honestly? I’d take it home. Who needs correct anatomy when you have this much confidence?\n\nPaid $5.03 for a cow that takes “milk run” literally\n\nAre you taking it home or calling a biologist? 💀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vib3coded/status/2108572856044986846",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108572451617599488/img/J6j-mojq4T-KDvmt.jpg",
+        "analysisUrl": "https://x.com/vib3coded/status/2108572856044986846"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 7,
+      "replyCount": 15,
+      "quoteCount": 0,
+      "viewCount": 826
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108591100759883820",
+        "text": "@Alchem1stTech and honestly she’s making it work",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108581855087710467",
+        "text": "@Frostbanemeo1 same, she’s living rent-free in my head and walking all over it on her udder🤣",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108580058675761321",
+        "text": "@dustinng_gs ohhh haha, i thought you wanted an actual plushie. i haven’t uploaded the code to github yet, i’ve only shared the prompt so far",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108578978365673682",
+        "text": "@dustinng_gs if these were real plushies, i’d already be shipping you one",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108578880554467530",
+        "text": "@Frostbanemeo1 same, i’m way too attached to this ridiculous cow now",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108576291725451709",
+        "text": "@Jackeline362114 agreed, the real cows need an update now",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108576071461306526",
+        "text": "@BreezeOg1 it’s the udder. opus gave it a second job",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575940020490335",
+        "text": "@0xPifagor saved a fortune by skipping the legs",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575825776021746",
+        "text": "@AntarexBTC and somehow the cow is the least concerned out of all of us",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575665905598787",
+        "text": "@N1njaCodex she’s weird but i’m already attached",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575562075656377",
+        "text": "@shmopixbzn carrying both the cow and the entire post",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575231791002058",
+        "text": "@ItsNazar17 i had the same question. the cow seems pretty confident though",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108575128137408745",
+        "text": "@maxt3chno by accident actually, i gave opus full creative freedom and this is what it came up with",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108572945110954170",
+        "text": "want a cow like this? here’s the PROMPT!\n\nBuild a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108572913129476530",
+        "text": "Claude Opus 5.5 https://t.co/QtcHRubQCo",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://claude.ai/artifact/NowCbxcqsq79CfZhVhibe2",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vib3coded/status/2108572856044986846",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108572451617599488/img/J6j-mojq4T-KDvmt.jpg",
+  "coverPath": "data/covers/2108572856044986846-wide.jpg",
+  "gifPath": "data/gifs/2108572856044986846.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108572451617599488",
+    "x-post:2108572856044986846"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive WebGPU Plush Cow Material Study",
+      "summary": "Claude Opus 5.5 generated a single-file WebGPU 3D simulation of a plush cow standing and moving on its udder teats with XPBD physics, real-time shell fur, and interactive controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 - one prompt, one very questionable cow"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+        "englishText": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the WebGPU application with identical UI elements, shell fur rendering, locomotion on udder teats, and palette switching.",
+        "textualResultQuote": "Asked for a plush cow. Got a milk delivery system with no need for legs"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebAudio",
+          "role": "Procedural sound generation for cow moos",
+          "evidence": "Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass...)",
+          "sourceUrl": "https://x.com/vib3coded/status/2108572945110954170",
+          "status": "required"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No.",
+          "sourceUrl": "https://x.com/vib3coded/status/2108572945110954170",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Soft-Body WebGPU Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgpu",
+          "xpbd",
+          "procedural-generation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Wrote the full self-contained WebGPU/HTML/JS interactive simulation code.",
+      "outputSource": "Web browser executing generated code via WebGPU.",
+      "divisionEvidence": "i haven’t uploaded the code to github yet, i’ve only shared the prompt so far",
+      "video": {
+        "shots": "Single camera viewport screen recording with UI controls on the right.",
+        "duration": "17s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 generating executable interactive 3D WebGPU graphics and simulation with complete prompt and matching recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vib3coded/status/2108572945110954170",
+        "start": 42,
+        "end": 2108
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vib3coded/status/2108572856044986846",
+        "author": "vib3coded",
+        "postId": "2108572856044986846",
+        "publishedAt": "2026-10-09T14:58:38.000Z"
+      },
+      "checkedAt": "2026-10-09T16:15:35.270Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vib3coded/status/2108572945110954170",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a single-file WebGPU 3D simulation of a plush cow standing and moving on its udder teats with XPBD physics, real-time shell fur, and interactive controls.",
+    "summaryEn": "Interactive WebGPU Plush Cow Material Study",
+    "originalPrompt": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+    "sourceRange": {
+      "start": 42,
+      "end": 2108
+    },
+    "translations": {
+      "zh": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps.",
+      "en": "Build a single-file WebGPU \"material study\" page called \"Plush Cow\" in the same studio style as my previous plush toys (plush goat / crab / shark / penguin): editorial layout, large italic serif title \"Plush / Cow.\", kicker \"Material Studies / No. 029\", live status chip, specimen panel with tools and sliders, stats row (Mass, Volume, Steps, Moos), collapsible \"Inside the experiment\" notes. UI in English, works on mobile (no horizontal scroll).\n\nThe toy: a round stuffed Holstein cow (inspired by the cartoon cow that runs on its udder) who stands and runs on the four teats of her big pink udder — the splayed teats are her only legs. Body = one smooth SDF (round barrel body, big head, wide hot-pink muzzle, rounded udder with a crease, four teats ending in felt pads, a rope tail with a black shaggy tuft) meshed with surface nets. Black Holstein spots with wobbly edges (one around an eye), glossy button eyes, stubby cream felt horns, embroidered oval nostrils and a smile, pink blush, and two cloth ears sewn on sticking straight out at the sides (white outside, pink inside) that flap like wings.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, volume readout ~100%), skinned to the mesh. Posture-driven locomotion: teat nodes are feet with footing targets, swing lift and a lead point; trot in diagonal pairs (front-left + back-right, then the others). Behaviours: Trot (wanders), Gallop (bouncy laps), Hop (airborne, ears beat like wings), Moo (WebAudio low sawtooth \"mmm-OOO\" through an opening/closing lowpass, ears flick up, slow head toss), Topple (falls on her side and rocks back up), Smooth fur, Reset. Booping her nose with the finger makes her moo.\n\nFur: real-time shell fur with per-vertex pile (soft coat, short head, velvety pink muzzle and udder, long tail tuft and forelock), combable with the Comb tool. Tools: Hand (grab & squash, pull ears), Finger (poke / she follows it), Comb. Sliders: Stuffing, Pile (mm), Table friction (felt ↔️ ice). Palettes: Holstein, Jersey, Strawberry. 60 fps."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Soft-Body WebGPU Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the WebGPU application with identical UI elements, shell fur rendering, locomotion on udder teats, and palette switching."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

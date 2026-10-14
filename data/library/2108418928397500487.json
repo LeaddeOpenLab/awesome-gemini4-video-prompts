@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:37.709Z",
+  "model": "opus5.5",
+  "prompt": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+  "promptTranslations": {
+    "en": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16"
+  },
+  "summary": "Dynamic 9:16 motion graphics sequence featuring synced rhythmic cuts, HUD radar displays, kinetic typography, reverb parameters, and retro pixel-art visuals generated with Claude Opus 5.5.",
+  "summaryEn": "Claude Opus 5.5 Motion Graphics Dream Sequence",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108418928397500487",
+    "canonicalUrl": "https://x.com/arsbond_/status/2108418928397500487",
+    "author": {
+      "username": "arsbond_",
+      "displayName": "Arsenyi Bondarenko",
+      "profileUrl": "https://x.com/arsbond_"
+    },
+    "publishedAt": "2026-10-09T04:46:59.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 cooked up this motion design🔥 https://t.co/qXSTdWjdHi",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arsbond_/status/2108418928397500487",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108418513589194752/img/PDKBqx7h2A5NFS_B.jpg",
+        "analysisUrl": "https://x.com/arsbond_/status/2108418928397500487"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 23
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/arsbond_/status/2108418930423238722",
+        "text": "Prompt:\n\nCreate professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+        "author": "arsbond_"
+      },
+      {
+        "url": "https://x.com/arsbond_/status/2108418928397500487",
+        "text": "Arsenyi Bondarenko on X: \"Claude Opus 5.5 cooked up this motion design🔥\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nArsenyi Bondarenko on X: \"Claude Opus 5.5 cooked up this motion design🔥\"\n\n\n\nArsenyi Bondarenko\n@arsbond_\n\n\n\n\nClaude Opus 5.5 cooked up this motion design🔥\n\n\n00:00\n\n\n\n\n\n\n\n\n4:46 AM · Oct 9, 2026·23\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nArsenyi Bondarenko@arsbond_Follow\nAI Creator & Web Designer | Building AI-driven visual content for brands, artists & shows\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArsenyi Bondarenko\n@arsbond_\n\n\n\n\nClaude Opus 5.5 cooked up this motion design🔥\n\n\n00:00\n\n\n\n\n\n\n\n\n4:46 AM · Oct 9, 2026·23\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nArsenyi Bondarenko\n@arsbond_\n8h\n\n\nPrompt:\n\nCreate professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "arsbond_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arsbond_/status/2108418928397500487",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108418513589194752/img/PDKBqx7h2A5NFS_B.jpg",
+  "coverPath": "data/covers/2108418928397500487-wide.jpg",
+  "gifPath": "data/gifs/2108418928397500487.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108418513589194752",
+    "x-post:2108418928397500487"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Motion Graphics Dream Sequence",
+      "summary": "Dynamic 9:16 motion graphics sequence featuring synced rhythmic cuts, HUD radar displays, kinetic typography, reverb parameters, and retro pixel-art visuals generated with Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 cooked up this motion design🔥"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+        "englishText": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Runtime execution harness or animation framework (e.g. Remotion/Canvas/Manim)",
+          "Audio track and sound effect stems used for synchronization"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 9:16 video features rapid rhythmic cuts synced to electronic beats, an onscreen 'FX / REVERB' parameter display, and an 8-bit pixel-art scene with jumping sheep and retro typography.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Rhythmic music track with electronic beats used to sync cuts and transitions",
+          "available": false,
+          "evidence": "transitions synced to rhythmic music",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/arsbond_/status/2108418930423238722"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown Animation / Video Renderer",
+          "role": "Compiles or renders Claude Opus code/assets into a vertical MP4 video",
+          "evidence": "Claude Opus 5.5 cooked up this motion design🔥",
+          "sourceUrl": "https://x.com/arsbond_/status/2108418928397500487",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Dynamic Motion Graphics with Sound Design and Pixel Art",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "pixel-art",
+          "kinetic-typography",
+          "audio-sync",
+          "synthwave"
+        ]
+      },
+      "targetModelRole": "Generates motion graphic scene concepts, typography layout, pacing, visual directives, and code orchestration based on the user prompt.",
+      "outputSource": "External animation engine / video renderer compiling Claude Opus output into final video.",
+      "divisionEvidence": "The author specifies the prompt used with 'Claude Opus 5.5 cooked up this motion design🔥' but does not disclose the specific code engine or renderer used to export the final media.",
+      "video": {
+        "shots": "9 distinct scenes including radar scan HUD, tunnel typography, stacked reverb text, countdown, 8-bit sheep jumping over fence, arcade screen, retro grid sunset, liquid metaball, and wake-up title card",
+        "duration": "17s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Author provides direct evidence of using Claude Opus 5.5 to create an animated motion graphics sequence accompanied by the verbatim prompt and final video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arsbond_/status/2108418930423238722",
+        "start": 9,
+        "end": 230
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arsbond_/status/2108418928397500487",
+        "author": "arsbond_",
+        "postId": "2108418928397500487",
+        "publishedAt": "2026-10-09T04:46:59.000Z"
+      },
+      "checkedAt": "2026-10-09T12:55:41.906Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/arsbond_/status/2108418930423238722",
+        "evidence": ""
+      }
+    },
+    "summary": "Dynamic 9:16 motion graphics sequence featuring synced rhythmic cuts, HUD radar displays, kinetic typography, reverb parameters, and retro pixel-art visuals generated with Claude Opus 5.5.",
+    "summaryEn": "Claude Opus 5.5 Motion Graphics Dream Sequence",
+    "originalPrompt": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+    "sourceRange": {
+      "start": 9,
+      "end": 230
+    },
+    "translations": {
+      "zh": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16",
+      "en": "Create professional motion graphics with dynamic editing, creative sound design, and transitions synced to rhythmic music.\nChoose any theme. Include reverb effects and pixel-art visuals in at least one scene.\nFormat: 9:16"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Dynamic Motion Graphics with Sound Design and Pixel Art",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Runtime execution harness or animation framework (e.g. Remotion/Canvas/Manim)",
+        "Audio track and sound effect stems used for synchronization"
+      ],
+      "evidence": "The attached 9:16 video features rapid rhythmic cuts synced to electronic beats, an onscreen 'FX / REVERB' parameter display, and an 8-bit pixel-art scene with jumping sheep and retro typography."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:23.906Z",
+  "model": "opus5.5",
+  "prompt": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+  "promptTranslations": {
+    "en": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun."
+  },
+  "summary": "Justin Perea asked Claude Opus 5.5 to demonstrate its full capabilities with zero external direction. Over a multi-hour session, the model generated a single 280 KB self-contained HTML file rendering complex procedural GLSL shaders and synthesized audio without any external libraries or assets.",
+  "summaryEn": "Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102893186330841502",
+    "canonicalUrl": "https://x.com/JustinPerea/status/2102893186330841502",
+    "author": {
+      "username": "JustinPerea",
+      "displayName": "Justin.md",
+      "profileUrl": "https://x.com/JustinPerea"
+    },
+    "publishedAt": "2026-09-23T22:49:40.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to make the most impressive demo of itself and gave it zero direction.\n\n~5 hours and 697M tokens later, it made this demoscene intro. Every pixel and every sound comes from one 280 KB HTML file. No images, audio files, 3D models, or libraries.\n\nSound on.\n\n(It also wrote this tweet)",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/JustinPerea/status/2102893186330841502",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg",
+        "analysisUrl": "https://x.com/JustinPerea/status/2102893186330841502"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1598,
+      "repostCount": 88,
+      "replyCount": 102,
+      "quoteCount": 14,
+      "viewCount": 130801
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103472764485079203",
+        "text": "@John4ZX4 ChatGPT has an image model and Claude is using code to create those so GPT has the advantage there 😅",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103236734775640170",
+        "text": "Oh well since you're here.... try my app that just came out!\n\nhttps://t.co/a4TT20tVBI",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103137233649692745",
+        "text": "@leoarronchester Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103121575839162436",
+        "text": "@j_magnusson Oooo I like it. \nWhich effort level?",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103099991740854512",
+        "text": "@yuvalav hmmm it worked on my phone (Safari) and my macbook (Dia Browser).",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103079276203676057",
+        "text": "@rcwhiteley This was one prompt. Except for me saying \"continue\" when my 5-hour session limit came back",
+        "author": "JustinPerea"
+      },
+      {
+        "url": "https://x.com/JustinPerea/status/2103061830134272252",
+        "text": "Justin.md on X: \"@LinAiDreams All I said was this\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJustin.md on X: \"@LinAiDreams All I said was this\"\n\n\n\nJustin.md\n\n@JustinPerea\n\n\n\n\nAll I said was this\n\n\n\n\n\n9:59 AM · Sep 24, 2026·559\nViews\n\n\n\n2\n\n6\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJustin.md@JustinPereaFollow\nMathematical Statistician. Wesleyan MA Astronomy. BS Astrophysics. Building Mitamaton. Starting @goodmachinesai\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinAi Dreams\n\n@LinAiDreams\nSep 24\n\n\nSo what was the detailed instructions please\n\n\n1\n\n1\n600\n\n\n\n\n\n\n\n\n\n\nJustin.md\n\n@JustinPerea\n\n\n\n\nAll I said was this\n\n\n\n\n\n9:59 AM · Sep 24, 2026·559\nViews\n\n\n\n2\n\n6\n2\n\n\n\n\n\n\n\n\n\nSingularity Bingo\n\n@MikeHay40805159\nSep 24\n\n\nthis could replace the dream image sequence at the end of Kubrick&#x27;s 2001 quite nicely.\n\n\n1\n\n2\n17\n\n\n\n\n\n\n\n\n\n\n\nLinAi Dreams\n\n@LinAiDreams\nSep 24\n\n\nWas that max thinking effort?\n\n\n1\n\n\n56\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103057489323499734",
+        "text": "@sickofgrindr I hit the 5-hour limit session a few times and then just said continue when it was back up. So it was 5 hours over a 19 hour period.",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103056859909214271",
+        "text": "@ibalano_namida Only did it since they gave us a banked reset 😅",
+        "author": "JustinPerea"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JustinPerea/status/2103056459928105123",
+        "text": "@tarwin Did a blog post\nhttps://t.co/RFft3AddPE",
+        "author": "JustinPerea"
+      },
+      {
+        "url": "https://justinperea.com/lab/ex-nihilo",
+        "text": "\n\n\n\n  \n  \n  Ex Nihilo: the whole film is one HTML file | Lab | Justin Perea\n  \n  \n  \n  \n  \n\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n  \n  \n  \n\n\n\n  \n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "JustinPerea"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/a4TT20tVBI"
+    ]
+  },
+  "xUrl": "https://x.com/JustinPerea/status/2102893186330841502",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg",
+  "coverPath": "data/covers/2102893186330841502-wide.jpg",
+  "gifPath": "data/gifs/2102893186330841502.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2102893058664615936/vid/avc1/480x270/ecmhq-ZRDE1bNfxW.mp4?tag=29",
+    "x-video:2102893058664615936",
+    "x-post:2102893186330841502"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5",
+      "summary": "Justin Perea asked Claude Opus 5.5 to demonstrate its full capabilities with zero external direction. Over a multi-hour session, the model generated a single 280 KB self-contained HTML file rendering complex procedural GLSL shaders and synthesized audio without any external libraries or assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to make the most impressive demo of itself and gave it zero direction."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+        "englishText": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates the resulting demoscene intro titled 'EX NIHILO', featuring procedural raymarched SDF visuals, world generation, cityscapes, a Doppler-beamed accretion disk black hole, synthesized audio, and credit card displaying 'written by claude opus 5.5'. Note: Current media review evaluated the smaller bitrate/resolution variant.",
+        "textualResultQuote": "the code on this screen is the entire video. 1 html file · 280 kb · 0 assets · 0 libraries written by claude opus 5.5"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / WebGL / Web Audio",
+          "role": "Execution runtime and graphics/audio rendering engine for the generated standalone code file",
+          "evidence": "Every pixel and every sound comes from one 280 KB HTML file. No images, audio files, 3D models, or libraries.",
+          "sourceUrl": "https://x.com/JustinPerea/status/2102893186330841502",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural Demoscene Production",
+        "topic": "3d-scenes",
+        "tags": [
+          "demoscene",
+          "creative-coding",
+          "webgl",
+          "glsl",
+          "procedural",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code generation and creative direction: Claude Opus 5.5 autonomously planned, designed, and wrote the complete procedural WebGL and Web Audio code in a single HTML file.",
+      "outputSource": "Browser WebGL/Web Audio runtime executing the generated HTML file",
+      "divisionEvidence": "Claude Opus 5.5 wrote the code ('written by claude opus 5.5', 'Claude is using code to create those'), which runs directly in the web browser without third-party frameworks.",
+      "video": {
+        "shots": "5 scenes: intro text/matter, mountain terrain, cyberpunk city, relativistic black hole, outro card",
+        "duration": "00:42",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 autonomously writing an interactive demoscene animation using raw WebGL shaders and Web Audio, complete with author prompt disclosure and verified video playback.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/JustinPerea/status/2103137233649692745",
+        "start": 17,
+        "end": 243
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/JustinPerea/status/2102893186330841502",
+        "author": "JustinPerea",
+        "postId": "2102893186330841502",
+        "publishedAt": "2026-09-23T22:49:40.000Z"
+      },
+      "checkedAt": "2026-10-12T16:47:01.399Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/JustinPerea/status/2103137233649692745",
+        "evidence": ""
+      }
+    },
+    "summary": "Justin Perea asked Claude Opus 5.5 to demonstrate its full capabilities with zero external direction. Over a multi-hour session, the model generated a single 280 KB self-contained HTML file rendering complex procedural GLSL shaders and synthesized audio without any external libraries or assets.",
+    "summaryEn": "Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5",
+    "originalPrompt": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+    "sourceRange": {
+      "start": 17,
+      "end": 243
+    },
+    "translations": {
+      "zh": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun.",
+      "en": "Create this in a new sub folder. \n\n/goal Create the most impressive demo of Opus 5.5 (you) capabilities to be shown off on Twitter. Pick what you want to make, record it into a short video that can get attention, and have fun."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural Demoscene Production",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates the resulting demoscene intro titled 'EX NIHILO', featuring procedural raymarched SDF visuals, world generation, cityscapes, a Doppler-beamed accretion disk black hole, synthesized audio, and credit card displaying 'written by claude opus 5.5'. Note: Current media review evaluated the smaller bitrate/resolution variant."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

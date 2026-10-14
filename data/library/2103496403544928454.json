@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:51.693Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+  "promptTranslations": {
+    "en": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+  },
+  "summary": "A dynamic 10-second motion graphics showreel designed to demonstrate advanced motion design skills.",
+  "summaryEn": "Motion Graphics Showreel Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103496403544928454",
+    "canonicalUrl": "https://x.com/bhanujraj/status/2103496403544928454",
+    "author": {
+      "username": "bhanujraj",
+      "displayName": "Bhanuj Athwani",
+      "profileUrl": "https://x.com/bhanujraj"
+    },
+    "publishedAt": "2026-09-25T14:46:38.000Z",
+    "collectedAt": "2026-09-28T08:14:34.039Z",
+    "language": "en",
+    "originalText": "we cooked or we about to cook?\nf*ckin opus 5.5\n\nprompt in the comments. https://t.co/b802ZkB55w",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/bhanujraj/status/2103496403544928454",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103496092612751360/img/WFdxO7iAjK81i15p.jpg",
+        "analysisUrl": "https://x.com/bhanujraj/status/2103496403544928454"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 52
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bhanujraj/status/2103496503419613231",
+        "text": "Got this prompt from twitter.\n\nmake a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+        "author": "bhanujraj"
+      },
+      {
+        "url": "https://x.com/bhanujraj/status/2103496403544928454",
+        "text": "Bhanuj Athwani on X: \"we cooked or we about to cook?\nf*ckin opus 5.5\n\nprompt in the comments.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nBhanuj Athwani on X: \"we cooked or we about to cook?\nf*ckin opus 5.5\n\nprompt in the comments.\"\n\n\n\nBhanuj Athwani\n@bhanujraj\n\n\n\n\nwe cooked or we about to cook?\nf*ckin opus 5.5\n\nprompt in the comments.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:46 PM · Sep 25, 2026·52\nViews\n\n\n\n1\n1\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nBhanuj Athwani@bhanujrajFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nBhanuj Athwani\n@bhanujraj\n\n\n\n\nwe cooked or we about to cook?\nf*ckin opus 5.5\n\nprompt in the comments.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:46 PM · Sep 25, 2026·52\nViews\n\n\n\n1\n1\n1\n1\n\n\n\n\n\n\n\n\n\nBhanuj Athwani\n@bhanujraj\nSep 25\n\n\nGot this prompt from twitter.\n\nmake a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out\n\n\n\n\n\n31\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bhanujraj"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/bhanujraj/status/2103496403544928454",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103496092612751360/img/WFdxO7iAjK81i15p.jpg",
+  "coverPath": "data/covers/2103496403544928454-wide.jpg",
+  "gifPath": "data/gifs/2103496403544928454.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103496092612751360",
+    "x-post:2103496403544928454"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel Video",
+      "summary": "A dynamic 10-second motion graphics showreel designed to demonstrate advanced motion design skills.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+        "englishText": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/bhanujraj/status/2103496403544928454",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/bhanujraj/status/2103496503419613231",
+        "start": 31,
+        "end": 181
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/bhanujraj/status/2103496403544928454",
+        "author": "bhanujraj",
+        "postId": "2103496403544928454",
+        "publishedAt": "2026-09-25T14:46:38.000Z"
+      },
+      "checkedAt": "2026-09-28T08:14:57.019Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bhanujraj/status/2103496503419613231",
+        "evidence": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A dynamic 10-second motion graphics showreel designed to demonstrate advanced motion design skills.",
+    "summaryEn": "Motion Graphics Showreel Video",
+    "originalPrompt": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+    "sourceRange": {
+      "start": 31,
+      "end": 181
+    },
+    "translations": {
+      "zh": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+      "en": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

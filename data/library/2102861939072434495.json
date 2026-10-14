@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:56:20.957Z",
+  "model": "opus5.5",
+  "prompt": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+  "promptTranslations": {
+    "en": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs."
+  },
+  "summary": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
+  "summaryEn": "Browser Minecraft Recreation Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102861939072434495",
+    "canonicalUrl": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+    "author": {
+      "username": "Viggle_PINOC",
+      "displayName": "PINOC",
+      "profileUrl": "https://x.com/Viggle_PINOC"
+    },
+    "publishedAt": "2026-09-23T20:45:30.000Z",
+    "collectedAt": "2026-09-28T08:36:42.360Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵 https://t.co/eSvJki9FDj",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102859066372481024/img/A7jckjbWbDkd-Jgr.jpg",
+        "analysisUrl": "https://x.com/Viggle_PINOC/status/2102861939072434495"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 2474
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Viggle_PINOC/status/2102861946357690560",
+        "text": "Project link (playable):\nhttps://t.co/42QurKVbdI",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Viggle_PINOC/status/2102861944742924520",
+        "text": "As a result, opus 5.5 only consumed 20 credits on PINOC to create all animations. https://t.co/CxukMNkyQZ",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+        "text": "Prompt：\n\nCreate a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Viggle_PINOC/status/2102861941257470264",
+        "text": "All npc's motions are from PINOC MCP https://t.co/CeZzhUQBTS",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "url": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+        "text": "PINOC on X: \"Claude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nPINOC on X: \"Claude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵\"\n\n\n\nPINOC\n\n@Viggle_PINOC\n\n\n\n\nClaude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵\n\n\n00:00\n\n\n\n\n\n\n\n\n8:45 PM · Sep 23, 2026·2,474\nViews\n\n\n\n8\n\n16\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPINOC@Viggle_PINOCFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\n\n\n\n\nClaude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵\n\n\n00:00\n\n\n\n\n\n\n\n\n8:45 PM · Sep 23, 2026·2,474\nViews\n\n\n\n8\n\n16\n10\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nAll npc&#x27;s motions are from PINOC MCP\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n304\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nPrompt：\n\nCreate a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make Show more\n\n\n1\n\n\n296\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nAs a result, opus 5.5 only consumed 20 credits on PINOC to create all animations.\n\n\n\n\n\n\n1\n\n\n74\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nProject link (playable):\nkdanieldann.github.io/minecraft-demo/\n\n\n\n\n\n\n37\n\n\n\n\n\n\n\n\n\n\n\nEvia AI\n\n@EviaAiTech\nSep 27\n\n\nOne-shot playable Minecraft with Opus 5.5 + PINOC MCP is insane. That combo of world logic from Claude and instant rigged characters from PINOC just unlocks full games from a prompt.\n\n\n\n\n\n48\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "url": "https://kdanieldann.github.io/minecraft-demo/",
+        "text": "\n\n\n\n\n\nVoxel World\n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  --:--\n\n  \n\n  \n\n\n\n\n  \n    Inventory \n\n    \n\n    \n\n    Click an item to put it in the selected slot · hover an item and press 1–9 · drag onto a slot · E to close\n\n  \n\n\n\n\n  \n    Voxel World\n\n    Minecraft in your browser — physically based sky · volumetric-style clouds · shadows · water reflections & caustics · god rays · PBR blocks\n\n    \n      \n        Controls\n\n        \n          WASDMove\n          SpaceJump / swim up\n          ShiftSprint (descend while flying)\n          Double-tap Space / FToggle flight\n          Left / Right clickBreak / place block\n          Middle clickPick block\n          1–9 / wheelSelect hotbar slot\n          EInventory\n          VFirst / third person\n          T · [ ] · PFast time · ±1 hour · pause\n          F3 · EscDebug info · menu\n        \n      \n\n      \n        Graphics\n\n        Render distance \n        Time of day \n        Resolution \n        Shadows OffLowMediumHigh\n         Real-time water reflections\n         God rays\n         Bloom\n        Characters: built-in blocky people (no PINOC characters found)\n\n      \n\n    \n\n    Generating world…\n    \n\n\n  \n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Viggle_PINOC"
+      },
+      {
+        "url": "https://x.com/Viggle_PINOC/status/2102861944742924520",
+        "text": "PINOC on X: \"As a result, opus 5.5 only consumed 20 credits on PINOC to create all animations.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nPINOC on X: \"As a result, opus 5.5 only consumed 20 credits on PINOC to create all animations.\"\n\n\n\nPINOC\n\n@Viggle_PINOC\n\n\n\n\nAs a result, opus 5.5 only consumed 20 credits on PINOC to create all animations.\n\n\n\n\n8:45 PM · Sep 23, 2026·74\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPINOC@Viggle_PINOCFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nClaude Opus 5.5 with PINOC MCP one shotted this: \n\nA playable Minecraft recreation \n\nLink, prompt and more examples below 🧵\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n8\n\n16\n2.4K\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nAll npc&#x27;s motions are from PINOC MCP\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n304\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nPrompt：\n\nCreate a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make Show more\n\n\n1\n\n\n296\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\n\n\n\n\nAs a result, opus 5.5 only consumed 20 credits on PINOC to create all animations.\n\n\n\n\n8:45 PM · Sep 23, 2026·74\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nPINOC\n\n@Viggle_PINOC\nSep 23\n\n\nProject link (playable):\nkdanieldann.github.io/minecraft-demo/\n\n\n\n\n\n\n37\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Viggle_PINOC"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102859066372481024/img/A7jckjbWbDkd-Jgr.jpg",
+  "coverPath": "data/covers/2102861939072434495-wide.jpg",
+  "gifPath": "data/gifs/2102861939072434495.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102859066372481024",
+    "x-post:2102861939072434495"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Browser Minecraft Recreation Prompt",
+      "summary": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 with PINOC MCP one shotted this:"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+        "englishText": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "World: vanilla ES modules + three.js (importmap from jsdelivr, no build step).",
+          "sourceUrl": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+        "start": 9,
+        "end": 2028
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Viggle_PINOC/status/2102861939072434495",
+        "author": "Viggle_PINOC",
+        "postId": "2102861939072434495",
+        "publishedAt": "2026-09-23T20:45:30.000Z"
+      },
+      "checkedAt": "2026-09-28T08:37:49.140Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+        "evidence": ""
+      }
+    },
+    "summary": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
+    "summaryEn": "Browser Minecraft Recreation Prompt",
+    "originalPrompt": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+    "sourceRange": {
+      "start": 9,
+      "end": 2028
+    },
+    "translations": {
+      "zh": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
+      "en": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

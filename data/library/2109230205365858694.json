@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:52.050Z",
+  "model": "opus5.5",
+  "prompt": "make a music video for my song",
+  "promptTranslations": {
+    "en": "make a music video for my song"
+  },
+  "summary": "The author provided a single prompt alongside an audio track to Claude Opus 5.5, which analyzed the music, timed lyrics, mapped piano notes, and generated code rendering a complete music video.",
+  "summaryEn": "Music Video for Song Built in Code via Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109230205365858694",
+    "canonicalUrl": "https://x.com/ImmuneHack/status/2109230205365858694",
+    "author": {
+      "username": "ImmuneHack",
+      "displayName": "Tyrone Williams",
+      "profileUrl": "https://x.com/ImmuneHack"
+    },
+    "publishedAt": "2026-10-11T10:30:43.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "en",
+    "originalText": "Holy shit. I think we’re basically at AGI.\n\nI gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code.\n\nwtf! https://t.co/dUGL69aM2y",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ImmuneHack/status/2109230205365858694",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109229066989527040/img/LUcUP4K3_Dy-HzKC.jpg",
+        "analysisUrl": "https://x.com/ImmuneHack/status/2109230205365858694"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 126
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ImmuneHack/status/2109230205365858694",
+        "text": "Tyrone Williams on X: \"Holy shit. I think we’re basically at AGI.\n\nI gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code.\n\nwtf!\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nTyrone Williams on X: \"Holy shit. I think we’re basically at AGI.\n\nI gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code.\n\nwtf!\"\n\n\n\nTyrone Williams\n\n@ImmuneHack\n\n\n\n\nHoly shit. I think we’re basically at AGI.\n\nI gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code.\n\nwtf!\n\n\n00:00\n\n\n\n\n\n\n\n\n10:30 AM · Oct 11, 2026·156\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nTyrone Williams@ImmuneHackFollow\nI&#x27;m a UK songwriter and producer writing story-led songs with big hooks. New single \"Never Enough\" is out now, alongside \"Forbidden Love\", \"Chame\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTyrone Williams\n\n@ImmuneHack\n\n\n\n\nHoly shit. I think we’re basically at AGI.\n\nI gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code.\n\nwtf!\n\n\n00:00\n\n\n\n\n\n\n\n\n10:30 AM · Oct 11, 2026·156\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ImmuneHack"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ImmuneHack/status/2109230205365858694",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109229066989527040/img/LUcUP4K3_Dy-HzKC.jpg",
+  "coverPath": "data/covers/2109230205365858694-wide.jpg",
+  "gifPath": "data/gifs/2109230205365858694.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109229066989527040/vid/avc1/480x270/juElDjP7W_4tZR-l.mp4?tag=29",
+    "x-video:2109229066989527040",
+    "x-post:2109230205365858694"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Music Video for Song Built in Code via Claude Opus 5.5",
+      "summary": "The author provided a single prompt alongside an audio track to Claude Opus 5.5, which analyzed the music, timed lyrics, mapped piano notes, and generated code rendering a complete music video.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave one prompt to Claude Opus 5.5: “make a music video for my song\", and with no other instructions it listened to the track, timed every lyric and identified every piano note and built this music video in code."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a music video for my song",
+        "englishText": "make a music video for my song",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Original audio track file",
+          "Execution environment and rendering codebase setup"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video plays the full song 'I'm In Heaven Now' accompanied by synced lyric displays, reactive piano key animations matching the piano notes, and thematic animated visual scenes throughout. Note: Assessment was made on the lower-bitrate/resolution version provided in the post media.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Original audio file of the song 'I'm In Heaven Now'",
+          "available": false,
+          "evidence": "it listened to the track, timed every lyric and identified every piano note",
+          "origin": "user",
+          "sourceUrl": "https://x.com/ImmuneHack/status/2109230205365858694"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Code-based Video Renderer",
+          "role": "Executes the generated animation code synchronized with the audio track",
+          "evidence": "built this music video in code",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/ImmuneHack/status/2109230205365858694"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural Audio-Reactive Music Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "music-video",
+          "creative-coding",
+          "audio-sync",
+          "lyrics-animation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 parsed the audio track, transcribed lyrics, identified piano notes, and generated the full rendering code.",
+      "outputSource": "Code-based video renderer executing Claude Opus 5.5 generated code.",
+      "divisionEvidence": "Claude Opus 5.5 processed the input track and generated code, while the rendering engine ran the code to display the music video.",
+      "video": {
+        "shots": "Multi-scene animated sequences including candle intro, silhouette kiss, celestial heavens with wings, and lyric typography over an interactive piano keyboard",
+        "duration": "04:02",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an end-to-end multi-modal video production workflow by Claude Opus 5.5 generating procedural animation code synced with an audio track.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ImmuneHack/status/2109230205365858694",
+        "start": 83,
+        "end": 113
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ImmuneHack/status/2109230205365858694",
+        "author": "ImmuneHack",
+        "postId": "2109230205365858694",
+        "publishedAt": "2026-10-11T10:30:43.000Z"
+      },
+      "checkedAt": "2026-10-12T07:12:46.792Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ImmuneHack/status/2109230205365858694",
+        "evidence": ""
+      }
+    },
+    "summary": "The author provided a single prompt alongside an audio track to Claude Opus 5.5, which analyzed the music, timed lyrics, mapped piano notes, and generated code rendering a complete music video.",
+    "summaryEn": "Music Video for Song Built in Code via Claude Opus 5.5",
+    "originalPrompt": "make a music video for my song",
+    "sourceRange": {
+      "start": 83,
+      "end": 113
+    },
+    "translations": {
+      "zh": "make a music video for my song",
+      "en": "make a music video for my song"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Procedural Audio-Reactive Music Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Original audio track file",
+        "Execution environment and rendering codebase setup"
+      ],
+      "evidence": "The attached video plays the full song 'I'm In Heaven Now' accompanied by synced lyric displays, reactive piano key animations matching the piano notes, and thematic animated visual scenes throughout. Note: Assessment was made on the lower-bitrate/resolution version provided in the post media."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

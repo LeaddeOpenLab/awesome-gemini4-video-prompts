@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:31:35.127Z",
+  "model": "opus5.5",
+  "prompt": "Topic: Gravity Can you make one?",
+  "promptTranslations": {
+    "en": "Topic: Gravity Can you make one?"
+  },
+  "summary": "An educational motion graphics video tracing the scientific history of gravity from Galileo to Einstein and gravitational waves, generated from a minimal prompt given to Claude Opus 5.5.",
+  "summaryEn": "Claude Opus 5.5 Gravity Motion Graphics Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108685334343221621",
+    "canonicalUrl": "https://x.com/redbickey/status/2108685334343221621",
+    "author": {
+      "username": "redbickey",
+      "displayName": "Redbickey",
+      "profileUrl": "https://x.com/redbickey"
+    },
+    "publishedAt": "2026-10-09T22:25:35.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "ja",
+    "originalText": "検証動画。Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。 https://t.co/N6O2G5f0Zr",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/redbickey/status/2108685334343221621",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108684766581321728/img/girBJexVko-3Gf2t.jpg",
+        "analysisUrl": "https://x.com/redbickey/status/2108685334343221621"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 99
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/redbickey/status/2108685334343221621",
+        "text": "Redbickey on X: \"検証動画。Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRedbickey on X: \"検証動画。Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。\"\n\n\n\nRedbickey\n@redbickey\n\n\n\n\nShow translation\n検証動画。Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。\n\n\n00:00\n\n\n\n\n\n\n\n\n10:25 PM · Oct 9, 2026·99\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRedbickey@redbickeyFollow\n福岡市でウェブサイト作成とパソコン周りのメンテナンス、IT関連のアドバイス、相談役などをやっています。胡散臭いでしょう！要はITの御用聞き。三河屋さんです。\n\nFF11新リンバス情報ページはこちら\nhttps://t.co/DlEVjc8S6s\n誰でも登録・報告ができます。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedbickey\n@redbickey\n\n\n\n\nShow translation\n検証動画。Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。\n\n\n00:00\n\n\n\n\n\n\n\n\n10:25 PM · Oct 9, 2026·99\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "redbickey"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/redbickey/status/2108685334343221621",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108684766581321728/img/girBJexVko-3Gf2t.jpg",
+  "coverPath": "data/covers/2108685334343221621-wide.jpg",
+  "gifPath": "data/gifs/2108685334343221621.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108684766581321728/vid/avc1/480x270/DMS6r2YuYKE4_JDl.mp4?tag=14",
+    "x-video:2108684766581321728",
+    "x-post:2108685334343221621"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Gravity Motion Graphics Explainer",
+      "summary": "An educational motion graphics video tracing the scientific history of gravity from Galileo to Einstein and gravitational waves, generated from a minimal prompt given to Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "題材：重力 作成できる？",
+        "englishText": "Topic: Gravity Can you make one?",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays an elaborate motion graphics explainer titled '重力 JURYOKU - a film in one fall' covering Galileo's falling bodies, Newton's inverse-square law, Einstein's curved spacetime, gravitational lensing, and gravitational waves.",
+        "textualResultQuote": "重力 JURYOKU - a film in one fall"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Gravity Scientific Explainer Animation",
+        "topic": "explainers",
+        "tags": [
+          "motion-graphics",
+          "explainers",
+          "physics",
+          "gravity",
+          "claude-opus"
+        ]
+      },
+      "targetModelRole": "Generates the programmatic animation code/script illustrating the concept and history of gravity.",
+      "outputSource": "Rendered animation / code execution playback recorded to video.",
+      "divisionEvidence": "Claude Opus 5.5 was prompted directly with the topic ('Claude Opus 5.5で「題材：重力 作成できる？」と伝えただけのもの。'), producing the animation program.",
+      "video": {
+        "shots": "Continuous multi-plate motion graphic sequence (Plates 01 through 06 plus intro and outro).",
+        "duration": "00:54",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The post provides a verified Claude Opus 5.5 use case with the exact verbatim prompt and the complete resulting motion graphics video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/redbickey/status/2108685334343221621",
+        "start": 22,
+        "end": 34
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/redbickey/status/2108685334343221621",
+        "author": "redbickey",
+        "postId": "2108685334343221621",
+        "publishedAt": "2026-10-09T22:25:35.000Z"
+      },
+      "checkedAt": "2026-10-10T08:15:34.684Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/redbickey/status/2108685334343221621",
+        "evidence": ""
+      }
+    },
+    "summary": "An educational motion graphics video tracing the scientific history of gravity from Galileo to Einstein and gravitational waves, generated from a minimal prompt given to Claude Opus 5.5.",
+    "summaryEn": "Claude Opus 5.5 Gravity Motion Graphics Explainer",
+    "originalPrompt": "題材：重力 作成できる？",
+    "sourceRange": {
+      "start": 22,
+      "end": 34
+    },
+    "translations": {
+      "zh": "題材：重力 作成できる？",
+      "en": "Topic: Gravity Can you make one?"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Gravity Scientific Explainer Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video displays an elaborate motion graphics explainer titled '重力 JURYOKU - a film in one fall' covering Galileo's falling bodies, Newton's inverse-square law, Einstein's curved spacetime, gravitational lensing, and gravitational waves."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

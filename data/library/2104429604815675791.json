@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:18:21.661Z",
+  "model": "opus5.5",
+  "prompt": "make a Sneakers O'Toole music video",
+  "promptTranslations": {
+    "en": "make a Sneakers O'Toole music video"
+  },
+  "summary": "An animated narrative music video based on Sneakers O'Toole produced using Claude Opus 5.5.",
+  "summaryEn": "Sneakers O'Toole Music Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104429604815675791",
+    "canonicalUrl": "https://x.com/coffemoth/status/2104429604815675791",
+    "author": {
+      "username": "coffemoth",
+      "displayName": "Nacholmo",
+      "profileUrl": "https://x.com/coffemoth"
+    },
+    "publishedAt": "2026-09-28T04:34:50.000Z",
+    "collectedAt": "2026-09-28T07:04:31.459Z",
+    "language": "en",
+    "originalText": "I asked claude opus 5.5 to make a Sneakers O'Toole music video, this was the result https://t.co/bKMCZalixZ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/coffemoth/status/2104429604815675791",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104429326930186240/img/g8VpWBZdFoOn7NrP.jpg",
+        "analysisUrl": "https://x.com/coffemoth/status/2104429604815675791"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ]
+  },
+  "xUrl": "https://x.com/coffemoth/status/2104429604815675791",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104429326930186240/img/g8VpWBZdFoOn7NrP.jpg",
+  "coverPath": "data/covers/2104429604815675791-wide.jpg",
+  "gifPath": "data/gifs/2104429604815675791.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104429326930186240",
+    "x-post:2104429604815675791"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Sneakers O'Toole Music Video",
+      "summary": "An animated narrative music video based on Sneakers O'Toole produced using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked claude opus 5.5 to make a Sneakers O'Toole music video, this was the result"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a Sneakers O'Toole music video",
+        "englishText": "make a Sneakers O'Toole music video",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt instructions",
+          "code generation or agent script",
+          "audio generation details",
+          "rendering workflow"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 3-minute 36-second animated video is a complete music video themed around Sneakers O'Toole refusing to take his shoes off, complete with lyrics, cutscenes, and game-style interfaces.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Claude Opus 5.5 was prompted to create the music video, likely generating the code, narrative, lyrics, or orchestrating media assets.",
+      "outputSource": "Unknown rendering engine/video pipeline",
+      "divisionEvidence": "Author specifies Claude Opus 5.5 in the post ('I asked claude opus 5.5 to make a Sneakers O'Toole music video'), but does not explicitly document the rendering toolchain or audio generator used.",
+      "video": {
+        "shots": "Multi-scene 2D animated music video featuring item cards, lyric typography, cutscenes, and boss-fight style interfaces.",
+        "duration": "03:36",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "The author shares an original, full-length animated video produced with Claude Opus 5.5; per reference-case policy, incomplete prompt text does not preclude suitability.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/coffemoth/status/2104429604815675791",
+        "start": 27,
+        "end": 62
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/coffemoth/status/2104429604815675791",
+        "author": "coffemoth",
+        "postId": "2104429604815675791",
+        "publishedAt": "2026-09-28T04:34:50.000Z"
+      },
+      "checkedAt": "2026-09-28T07:18:21.660Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/coffemoth/status/2104429604815675791",
+        "evidence": "make a Sneakers O'Toole music video"
+      },
+      "purpose": {
+        "label": "Music video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "An animated narrative music video based on Sneakers O'Toole produced using Claude Opus 5.5.",
+    "summaryEn": "Sneakers O'Toole Music Video",
+    "originalPrompt": "make a Sneakers O'Toole music video",
+    "sourceRange": {
+      "start": 27,
+      "end": 62
+    },
+    "translations": {
+      "zh": "make a Sneakers O'Toole music video",
+      "en": "make a Sneakers O'Toole music video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Music video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt instructions",
+        "code generation or agent script",
+        "audio generation details",
+        "rendering workflow"
+      ],
+      "evidence": "The attached 3-minute 36-second animated video is a complete music video themed around Sneakers O'Toole refusing to take his shoes off, complete with lyrics, cutscenes, and game-style interfaces."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

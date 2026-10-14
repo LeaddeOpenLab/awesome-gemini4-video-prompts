@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:59.139Z",
+  "model": "opus5.5",
+  "prompt": "Make a video playing on the meme, expressing it to the best of your ability as if for a resume: after using Opus 5.5, it felt like witnessing an atomic bomb explosion and slumping back into the chair, with gorgeous, smooth, and appealing transitions, keeping the video around 30 seconds.",
+  "promptTranslations": {
+    "en": "Make a video playing on the meme, expressing it to the best of your ability as if for a resume: after using Opus 5.5, it felt like witnessing an atomic bomb explosion and slumping back into the chair, with gorgeous, smooth, and appealing transitions, keeping the video around 30 seconds."
+  },
+  "summary": "The author prompted Claude Opus 5.5 with a single request to produce a ~30-second meme video depicting the reaction to Opus 5.5—experiencing an atomic blast and collapsing into a chair—entirely generated via code logic.",
+  "summaryEn": "Claude Opus 5.5 Code-Generated 30s Motion Graphics Meme Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104992103428141286",
+    "canonicalUrl": "https://x.com/wangyaominde/status/2104992103428141286",
+    "author": {
+      "username": "wangyaominde",
+      "displayName": "wangyaominde",
+      "profileUrl": "https://x.com/wangyaominde"
+    },
+    "publishedAt": "2026-09-29T17:50:00.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "zh",
+    "originalText": "opus5.5还是太强了，我只给了他一个提示词他就做成了这个样子 https://t.co/x7RpLl3SJd",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/wangyaominde/status/2104992103428141286",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104992049753731072/img/K8Q-TSZDIboreJ8-.jpg",
+        "analysisUrl": "https://x.com/wangyaominde/status/2104992103428141286"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/wangyaominde/status/2104992140854251831",
+        "text": "做一个视频，玩一下梗，尽你最大的可能表现，作为简历那种，用了Opus 5.5 2仿佛看到原子弹爆炸瘫坐在椅子上，转场华丽流畅好看，视频控制在30s左右",
+        "author": "wangyaominde"
+      },
+      {
+        "url": "https://x.com/wangyaominde/status/2104992103428141286",
+        "text": "wangyaominde on X: \"opus5.5还是太强了，我只给了他一个提示词他就做成了这个样子\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nwangyaominde on X: \"opus5.5还是太强了，我只给了他一个提示词他就做成了这个样子\"\n\n\n\nwangyaominde\n\n@wangyaominde\n\n\n\n\nShow translation\nopus5.5还是太强了，我只给了他一个提示词他就做成了这个样子\n\n\n00:00\n\n\n\n\n\n\n\n\n5:50 PM · Sep 29, 2026·13\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nwangyaominde@wangyaomindeFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwangyaominde\n\n@wangyaominde\n\n\n\n\nShow translation\nopus5.5还是太强了，我只给了他一个提示词他就做成了这个样子\n\n\n00:00\n\n\n\n\n\n\n\n\n5:50 PM · Sep 29, 2026·13\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nwangyaominde\n\n@wangyaominde\n12h\n\n\n做一个视频，玩一下梗，尽你最大的可能表现，作为简历那种，用了Opus 5.5 2仿佛看到原子弹爆炸瘫坐在椅子上，转场华丽流畅好看，视频控制在30s左右\n\n\n\n\n\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "wangyaominde"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/wangyaominde/status/2104992103428141286",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104992049753731072/img/K8Q-TSZDIboreJ8-.jpg",
+  "coverPath": "data/covers/2104992103428141286-wide.jpg",
+  "gifPath": "data/gifs/2104992103428141286.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104992049753731072",
+    "x-post:2104992103428141286"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Code-Generated 30s Motion Graphics Meme Video",
+      "summary": "The author prompted Claude Opus 5.5 with a single request to produce a ~30-second meme video depicting the reaction to Opus 5.5—experiencing an atomic blast and collapsing into a chair—entirely generated via code logic.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude CLI",
+        "authorUseConfirmed": true,
+        "evidence": "Author stated 'opus5.5还是太强了，我只给了他一个提示词他就做成了这个样子' and the video end card states '本片画面 · 动效 · 音效 全部由 Claude Opus 5.5 用代码逻辑生成'."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "做一个视频，玩一下梗，尽你最大的可能表现，作为简历那种，用了Opus 5.5 2仿佛看到原子弹爆炸瘫坐在椅子上，转场华丽流畅好看，视频控制在30s左右",
+        "englishText": "Make a video playing on the meme, expressing it to the best of your ability as if for a resume: after using Opus 5.5, it felt like witnessing an atomic bomb explosion and slumping back into the chair, with gorgeous, smooth, and appealing transitions, keeping the video around 30 seconds.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The resulting 29-second video transitions from a developer typing in terminal to rapid code generation, followed by a nuclear mushroom cloud blast, the developer slumped back in the chair in awe, and an end title card.",
+        "textualResultQuote": "本片画面 · 动效 · 音效 全部由 Claude Opus 5.5 用代码逻辑生成"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Code-based Video Renderer",
+          "role": "Executes Opus 5.5-generated code logic to render visual graphics, transitions, and audio",
+          "evidence": "Video end credits note: '本片画面 · 动效 · 音效 全部由 Claude Opus 5.5 用代码逻辑生成'",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Atomic Blast Meme Motion Graphic Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "opus-5-5",
+          "motion-graphics",
+          "code-generated-video",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates complete animation and sound code logic from the user prompt",
+      "outputSource": "Programmatic code renderer",
+      "divisionEvidence": "The video ends with the explicit attribution: '本片画面 · 动效 · 音效 全部由 Claude Opus 5.5 用代码逻辑生成'.",
+      "video": {
+        "shots": "Silhouette at desk typing in terminal; close-up terminal streaming tokens; nuclear explosion mushroom cloud over skyline; slumped silhouette in chair; final title card.",
+        "duration": "29s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating a complete ~30s motion graphic animation with exact verbatim instructions shared by the author.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/wangyaominde/status/2104992140854251831",
+        "start": 0,
+        "end": 75
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/wangyaominde/status/2104992103428141286",
+        "author": "wangyaominde",
+        "postId": "2104992103428141286",
+        "publishedAt": "2026-09-29T17:50:00.000Z"
+      },
+      "checkedAt": "2026-09-30T06:28:02.752Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/wangyaominde/status/2104992140854251831",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 with a single request to produce a ~30-second meme video depicting the reaction to Opus 5.5—experiencing an atomic blast and collapsing into a chair—entirely generated via code logic.",
+    "summaryEn": "Claude Opus 5.5 Code-Generated 30s Motion Graphics Meme Video",
+    "originalPrompt": "做一个视频，玩一下梗，尽你最大的可能表现，作为简历那种，用了Opus 5.5 2仿佛看到原子弹爆炸瘫坐在椅子上，转场华丽流畅好看，视频控制在30s左右",
+    "sourceRange": {
+      "start": 0,
+      "end": 75
+    },
+    "translations": {
+      "zh": "做一个视频，玩一下梗，尽你最大的可能表现，作为简历那种，用了Opus 5.5 2仿佛看到原子弹爆炸瘫坐在椅子上，转场华丽流畅好看，视频控制在30s左右",
+      "en": "Make a video playing on the meme, expressing it to the best of your ability as if for a resume: after using Opus 5.5, it felt like witnessing an atomic bomb explosion and slumping back into the chair, with gorgeous, smooth, and appealing transitions, keeping the video around 30 seconds."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Atomic Blast Meme Motion Graphic Video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The resulting 29-second video transitions from a developer typing in terminal to rapid code generation, followed by a nuclear mushroom cloud blast, the developer slumped back in the chair in awe, and an end title card."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

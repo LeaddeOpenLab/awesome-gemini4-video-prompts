@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:56:30.414Z",
+  "model": "opus5.5",
+  "prompt": "Make a 90-second animated short film about a bug that doesn't want to be fixed.",
+  "promptTranslations": {
+    "en": "Make a 90-second animated short film about a bug that doesn't want to be fixed."
+  },
+  "summary": "A generation prompt for creating a 90-second animated short film centered on a bug that refuses to be fixed.",
+  "summaryEn": "Animated Short of an Unfixable Bug",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102903173161877996",
+    "canonicalUrl": "https://x.com/KamStudioLabs/status/2102903173161877996",
+    "author": {
+      "username": "KamStudioLabs",
+      "displayName": "Çağrı | KAM Studio",
+      "profileUrl": "https://x.com/KamStudioLabs"
+    },
+    "publishedAt": "2026-09-23T23:29:21.000Z",
+    "collectedAt": "2026-09-28T08:39:39.137Z",
+    "language": "en",
+    "originalText": "Opus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn't want to be fixed.\" https://t.co/sE08bAwvC1",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102902788699099136/img/-Wy4jhLJvUAj7TCj.jpg",
+        "analysisUrl": "https://x.com/KamStudioLabs/status/2102903173161877996"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 58
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+        "text": "Çağrı | KAM Studio on X: \"Opus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn&#x27;t want to be fixed.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nÇağrı | KAM Studio on X: \"Opus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn&#x27;t want to be fixed.\"\"\n\n\n\nÇağrı | KAM Studio\n\n@KamStudioLabs\n\n\n\n\nOpus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn&#x27;t want to be fixed.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Sep 23, 2026·58\nViews\n\n\n\n1\n\n5\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nÇağrı | KAM Studio@KamStudioLabsFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nÇağrı | KAM Studio\n\n@KamStudioLabs\nSep 23\n\n\nOpus 5.5, one prompt: \"Build a 45-second machine that plays an original piece of music, where every note comes from a visible collision.\"\n\nOne HTML file, 47 KB. No images, no audio files. Every sound is synthesized in the browser.\n\nSound on.\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n1\n161\n\n\n\n\n\n\n\n\n\n\nÇağrı | KAM Studio\n\n@KamStudioLabs\n\n\n\n\nOpus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn&#x27;t want to be fixed.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Sep 23, 2026·58\nViews\n\n\n\n1\n\n5\n1\n\n\n\n\n\n\n\n\n\nLee Wyatt Corp\n\n@LeeWyattCorp\nSep 23\n\n\nA 90-second short about a bug that won&#x27;t get fixed. That&#x27;s a concept. 🔥\n\n\n1\n1\n1\n13\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "KamStudioLabs"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/KamStudioLabs/status/2102903173161877996",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102902788699099136/img/-Wy4jhLJvUAj7TCj.jpg",
+  "coverPath": "data/covers/2102903173161877996-wide.jpg",
+  "gifPath": "data/gifs/2102903173161877996.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102902788699099136",
+    "x-post:2102903173161877996"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Animated Short of an Unfixable Bug",
+      "summary": "A generation prompt for creating a 90-second animated short film centered on a bug that refuses to be fixed.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn't want to be fixed.\" https://t.co/sE08bAwvC1"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a 90-second animated short film about a bug that doesn't want to be fixed.",
+        "englishText": "Make a 90-second animated short film about a bug that doesn't want to be fixed.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/KamStudioLabs/status/2102903173161877996",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+        "start": 26,
+        "end": 105
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+        "author": "KamStudioLabs",
+        "postId": "2102903173161877996",
+        "publishedAt": "2026-09-23T23:29:21.000Z"
+      },
+      "checkedAt": "2026-09-28T08:39:57.665Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KamStudioLabs/status/2102903173161877996",
+        "evidence": ""
+      }
+    },
+    "summary": "A generation prompt for creating a 90-second animated short film centered on a bug that refuses to be fixed.",
+    "summaryEn": "Animated Short of an Unfixable Bug",
+    "originalPrompt": "Make a 90-second animated short film about a bug that doesn't want to be fixed.",
+    "sourceRange": {
+      "start": 26,
+      "end": 105
+    },
+    "translations": {
+      "zh": "Make a 90-second animated short film about a bug that doesn't want to be fixed.",
+      "en": "Make a 90-second animated short film about a bug that doesn't want to be fixed."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A generation prompt for creating a 90-second animated short film centered on a bug that refuses to be fixed.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

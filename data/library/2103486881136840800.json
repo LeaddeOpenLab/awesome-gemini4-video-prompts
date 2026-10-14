@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:21:36.551Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "A prompt provided to Claude Opus to create a 15-second dynamic motion graphics showreel demonstrating motion design capabilities.",
+  "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103486881136840800",
+    "canonicalUrl": "https://x.com/umangratani/status/2103486881136840800",
+    "author": {
+      "username": "umangratani",
+      "displayName": "Dr CA Umang Ratani",
+      "profileUrl": "https://x.com/umangratani"
+    },
+    "publishedAt": "2026-09-25T14:08:48.000Z",
+    "collectedAt": "2026-09-28T08:14:34.039Z",
+    "language": "en",
+    "originalText": "Claude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/ASUq4ACDLG",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/umangratani/status/2103486881136840800",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103486838115897344/img/yiG6kx5Oo_39zCxq.jpg",
+        "analysisUrl": "https://x.com/umangratani/status/2103486881136840800"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 118
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/umangratani/status/2103486881136840800",
+        "text": "Dr CA Umang Ratani on X: \"Claude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nDr CA Umang Ratani on X: \"Claude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\"\n\n\n\nDr CA Umang Ratani\n\n@umangratani\n\n\n\n\nClaude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\n\n\n00:00\n\n\n\n\n\n\n\n\n2:08 PM · Sep 25, 2026·118\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDr CA Umang Ratani@umangrataniFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr CA Umang Ratani\n\n@umangratani\n\n\n\n\nClaude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\n\n\n00:00\n\n\n\n\n\n\n\n\n2:08 PM · Sep 25, 2026·118\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "umangratani"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/umangratani/status/2103486881136840800",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103486838115897344/img/yiG6kx5Oo_39zCxq.jpg",
+  "coverPath": "data/covers/2103486881136840800-wide.jpg",
+  "gifPath": "data/gifs/2103486881136840800.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103486838115897344",
+    "x-post:2103486881136840800"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Graphics Showreel Prompt",
+      "summary": "A prompt provided to Claude Opus to create a 15-second dynamic motion graphics showreel demonstrating motion design capabilities.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Made with claude OPUS 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/umangratani/status/2103486881136840800",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/umangratani/status/2103486881136840800",
+        "start": 94,
+        "end": 245
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/umangratani/status/2103486881136840800",
+        "author": "umangratani",
+        "postId": "2103486881136840800",
+        "publishedAt": "2026-09-25T14:08:48.000Z"
+      },
+      "checkedAt": "2026-09-28T08:15:30.614Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/umangratani/status/2103486881136840800",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt provided to Claude Opus to create a 15-second dynamic motion graphics showreel demonstrating motion design capabilities.",
+    "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 94,
+      "end": 245
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

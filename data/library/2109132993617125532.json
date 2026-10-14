@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:30.890Z",
+  "model": "opus5.5",
+  "prompt": "Please use Three.js to write a single-file HTML (index.html) to create a \"hiking documentary style\" 3D scene for screen recording narration videos.\n\n[Basic Requirements]\n- Import Three.js via CDN (cdnjs or jsdelivr), no build tools required, runnable directly by double-clicking in a browser.\n- Strict 16:9 aspect ratio, designed internally at 1920x1080, centered with aspect ratio maintained and black bars filled when resizing.\n- All adjustable parameters (terrain seed, route points, camera speed, etc.) centralized in a CONFIG object at top of file.\n\n[Terrain]\n- Use multi-layer noise (Simplex/Perlin, self-implemented) to generate a north-south mountain gorge: high mountains on both sides, valley bottom in the middle with a winding riverbed.\n- Color by elevation and slope: deep brown/gray ridges, earthy yellow slopes, light yellow valley, blue-gray riverbed, light snow on peaks.\n- Add fog and directional light to create a cold, dry plateau atmosphere.\n\n[Route & Character]\n- Define hiking route using a list of (x, z) waypoints in CONFIG, smooth with CatmullRomCurve3 matching terrain height.\n- Render route as thick red line (subtle glow), passed section bright red, upcoming section semi-transparent.\n- Red low-poly figure (capsule + sphere head + red coat) walking along route at constant speed, adjustable speed, supports pause.\n- Support event markers on route (e.g., Assembly point, Last seen), displayed as vertical signs with text or pulsing rings.\n\n[Camera]\n- Four modes switchable via keys 1-4 with smooth transitions:\n  1. High overhead view (flying forward along route, slightly tilted)\n  2. Follow (behind and above character)\n  3. Orbit (slow orbit around character)\n  4. Free look (drag to rotate, scroll zoom, WASD move)\n- Camera speed, height, pitch angle adjustable in CONFIG.\n\n[UI Overlay (HTML/CSS)]\n- Columns of member cards on both sides: square avatar (solid color + initial placeholder, customizable via URL), name, role caption.\n- Member status: Normal / Deceased (gray card with red border) / Missing (semi-transparent with question mark).\n- Centered bottom subtitle bar, white text with black stroke, supports [[keyword]] yellow highlight.\n- Top right shows \"Episode X\" title and progress bar (optional).\n\n[Timeline Driven]\n- Describe storyline in CONFIG with a TIMELINE array, each entry containing time (seconds) and action:\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"Then why did you dare to [[join]]?\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }\n  { time: 15, action: \"status\", member: \"Hu Yanglin\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"Last seen\" }\n- Playback logic: Space to play/pause, R to reset, auto-trigger events at timestamps.\n- Small debug panel top-left, press H to hide for clean recording.\n\n[Sample Content]\n- Preset 8 fictional members (Tie Gao - organizer, Qian Niao, Hu Yanglin, Mimi, Members 5-8), ~90s demo timeline covering overhead view, walking, event markers, status changes, ending subtitles.\n\n[Code Requirements]\n- Clearly partitioned code with Chinese comments (terrain, route, character, camera, UI, timeline).\n- Stable 30fps+ on standard laptops, terrain resolution ~256x256 vertices.\n- Explain how to modify route, avatars, and add timeline events after completion.",
+  "promptTranslations": {
+    "en": "Please use Three.js to write a single-file HTML (index.html) to create a \"hiking documentary style\" 3D scene for screen recording narration videos.\n\n[Basic Requirements]\n- Import Three.js via CDN (cdnjs or jsdelivr), no build tools required, runnable directly by double-clicking in a browser.\n- Strict 16:9 aspect ratio, designed internally at 1920x1080, centered with aspect ratio maintained and black bars filled when resizing.\n- All adjustable parameters (terrain seed, route points, camera speed, etc.) centralized in a CONFIG object at top of file.\n\n[Terrain]\n- Use multi-layer noise (Simplex/Perlin, self-implemented) to generate a north-south mountain gorge: high mountains on both sides, valley bottom in the middle with a winding riverbed.\n- Color by elevation and slope: deep brown/gray ridges, earthy yellow slopes, light yellow valley, blue-gray riverbed, light snow on peaks.\n- Add fog and directional light to create a cold, dry plateau atmosphere.\n\n[Route & Character]\n- Define hiking route using a list of (x, z) waypoints in CONFIG, smooth with CatmullRomCurve3 matching terrain height.\n- Render route as thick red line (subtle glow), passed section bright red, upcoming section semi-transparent.\n- Red low-poly figure (capsule + sphere head + red coat) walking along route at constant speed, adjustable speed, supports pause.\n- Support event markers on route (e.g., Assembly point, Last seen), displayed as vertical signs with text or pulsing rings.\n\n[Camera]\n- Four modes switchable via keys 1-4 with smooth transitions:\n  1. High overhead view (flying forward along route, slightly tilted)\n  2. Follow (behind and above character)\n  3. Orbit (slow orbit around character)\n  4. Free look (drag to rotate, scroll zoom, WASD move)\n- Camera speed, height, pitch angle adjustable in CONFIG.\n\n[UI Overlay (HTML/CSS)]\n- Columns of member cards on both sides: square avatar (solid color + initial placeholder, customizable via URL), name, role caption.\n- Member status: Normal / Deceased (gray card with red border) / Missing (semi-transparent with question mark).\n- Centered bottom subtitle bar, white text with black stroke, supports [[keyword]] yellow highlight.\n- Top right shows \"Episode X\" title and progress bar (optional).\n\n[Timeline Driven]\n- Describe storyline in CONFIG with a TIMELINE array, each entry containing time (seconds) and action:\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"Then why did you dare to [[join]]?\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }\n  { time: 15, action: \"status\", member: \"Hu Yanglin\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"Last seen\" }\n- Playback logic: Space to play/pause, R to reset, auto-trigger events at timestamps.\n- Small debug panel top-left, press H to hide for clean recording.\n\n[Sample Content]\n- Preset 8 fictional members (Tie Gao - organizer, Qian Niao, Hu Yanglin, Mimi, Members 5-8), ~90s demo timeline covering overhead view, walking, event markers, status changes, ending subtitles.\n\n[Code Requirements]\n- Clearly partitioned code with Chinese comments (terrain, route, character, camera, UI, timeline).\n- Stable 30fps+ on standard laptops, terrain resolution ~256x256 vertices.\n- Explain how to modify route, avatars, and add timeline events after completion."
+  },
+  "summary": "作者使用 Claude Opus 5.5 编写包含地形、徒步路径、事件时间线及队员状态 UI 的单文件 Three.js 3D 交互场景，并通过 Haiku 5.5 与火山引擎语音合成完成录屏与纪实解说样片制作。",
+  "summaryEn": "Three.js 徒步探险纪实 3D 场景与解说视频生成",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109132993617125532",
+    "canonicalUrl": "https://x.com/shengtang135754/status/2109132993617125532",
+    "author": {
+      "username": "shengtang135754",
+      "displayName": "麦麦提",
+      "profileUrl": "https://x.com/shengtang135754"
+    },
+    "publishedAt": "2026-10-11T04:04:26.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "zh",
+    "originalText": "😄样片来了，毕竟刚开始，先别喷我，我会继续优化。claude opus5.5➕haiku5.5，花费了大概7元。\n\n做这个的原因是我很喜欢抖音的神秘园老师，他的探险视频做的非常好，声音也无法替代，自从有了Ai我一直想要复刻。\n\n我一直在研究极致性价比，不想借助于视频生成能力来做，因为成本不可控，不适合我们普通人。\n\n所以我的思路是，先做游戏，然后通过haiku5.5来操作游戏录屏，剪辑，火山引擎配音，来还原野外事故。从目前看可以跑通，只是游戏搭建我还没有花大成本来做，要花不少钱，需要点claude赞助费。😀😀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/shengtang135754/status/2109132993617125532",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109132836699815936/img/9e26gV1a2EV0-rJA.jpg",
+        "analysisUrl": "https://x.com/shengtang135754/status/2109132993617125532"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 1,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 3145
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shengtang135754/status/2109523315295768694",
+        "text": "@MarkMFFF 我还没意识到你说的问题，确实是，不用重头来，这样更声，这个值得学习🤝🤝多谢多谢，果然众创才是最强大的",
+        "author": "shengtang135754"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shengtang135754/status/2109134699365036545",
+        "text": "@Hermes_AGI 所有成本现在是这么多，场景搭建这次做的简单大概花了4元，配音免费的，haiku做操作大概花了三块钱，场景搭建好可以复用，以后就省钱了，做好场景应该要花上百",
+        "author": "shengtang135754"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shengtang135754/status/2109133630320845029",
+        "text": "请用 Three.js 写一个单文件 HTML（index.html），做一个\"徒步纪实风格\"的 3D 场景，用来录屏做解说视频。\n\n【基本要求】\n- Three.js 通过 CDN（cdnjs 或 jsdelivr）引入，不需要构建工具，浏览器双击即可运行。\n- 画面严格 16:9，内部按 1920×1080 设计，窗口缩放时等比居中，黑边填充。\n- 所有可调参数（地形种子、路线点、相机速度等）集中放在文件顶部的 CONFIG 对象里。\n\n【地形】\n- 用多层噪声（Simplex/Perlin，自己实现即可）生成一条南北走向的高山峡谷：两侧高山、中间谷底，谷底有一条蜿蜒的河道。\n- 按高度和坡度上色：山脊深褐/灰、坡面土黄、谷底浅黄、河道蓝灰，山顶可有少量积雪。\n- 加雾和平行光，营造高原干燥冷色调氛围。\n\n【路线与人物】\n- CONFIG 里用一组 (x, z) 路径点定义徒步路线，用 CatmullRomCurve3 生成平滑曲线并贴合地形高度。\n- 路线渲染为醒目的红色粗线（带轻微发光），已走过部分亮红色，未走部分半透明。\n- 一个红色低模小人（胶囊体+球头+红色外套即可）沿路线匀速行走，可设置速度，支持暂停。\n- 支持在路线上放\"事件标记点\"（如集合点、失踪点），显示为带文字的立式标牌或脉冲圆圈。\n\n【相机】\n- 四种模式，数字键 1-4 切换，切换时平滑过渡：\n  1. 高空俯瞰（沿路线前方飞行，微微倾斜）\n  2. 跟随（人物斜后上方）\n  3. 环绕（绕着人物缓慢旋转）\n  4. 自由（鼠标拖动旋转，滚轮缩放，WASD 移动）\n- 相机速度、高度、俯仰角可在 CONFIG 里调。\n\n【界面叠加层（HTML/CSS）】\n- 左右两侧各一列人物卡片：方形头像框（先用纯色+首字占位，可通过 CONFIG 换成图片 URL）、名字、身份小字。\n- 人物状态：正常 / 遇难（卡片变灰并加红色边框）/ 失踪（卡片半透明并显示问号）。\n- 底部居中大字幕区，白字黑描边，支持高亮关键词（用 [[关键词]] 标记，显示为黄色）。\n- 右上角显示\"第 X 集\"标题和当前进度条（可选）。\n\n【时间线驱动】\n- 在 CONFIG 里用一个数组 TIMELINE 描述剧情，每项含 time（秒）和 action，例如：\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"那你为什么还敢[[参加]]？\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }       // 人物在路线上的进度 0~1\n  { time: 15, action: \"status\", member: \"胡杨林\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"失踪点\" }\n- 播放逻辑：按 Space 开始/暂停，R 重置，时间到了自动触发对应事件。\n- 页面左上角显示一个小的调试面板（当前时间、相机模式），按 H 一键隐藏所有调试和提示，录屏时保持画面干净。\n\n【示例内容】\n- 预置 8 位虚构队员（铁镐-组织者、千鸟、胡杨林、咪咪、队员5～8），一条约 90 秒的演示时间线，覆盖：开场俯瞰、行进、事件标记、人物状态变化、结尾字幕。\n\n【代码要求】\n- 代码清晰分区并加中文注释（地形、路线、人物、相机、UI、时间线）。\n- 保证在普通笔记本上能稳定 30fps 以上，地形分辨率不要过高（约 256×256 顶点）。\n- 完成后告诉我：如何修改路线、如何换头像、如何新增时间线事件。",
+        "author": "shengtang135754"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/shengtang135754/status/2109132993617125532",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109132836699815936/img/9e26gV1a2EV0-rJA.jpg",
+  "coverPath": "data/covers/2109132993617125532-wide.jpg",
+  "gifPath": "data/gifs/2109132993617125532.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109132836699815936/vid/avc1/480x270/nXKtyDS5_2Bzv0jd.mp4?tag=29",
+    "x-video:2109132836699815936",
+    "x-post:2109132993617125532"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js 徒步探险纪实 3D 场景与解说视频生成",
+      "summary": "作者使用 Claude Opus 5.5 编写包含地形、徒步路径、事件时间线及队员状态 UI 的单文件 Three.js 3D 交互场景，并通过 Haiku 5.5 与火山引擎语音合成完成录屏与纪实解说样片制作。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "原帖作者明确说明：“claude opus5.5➕haiku5.5，花费了大概7元。”以及“场景搭建这次做的简单大概花了4元……haiku做操作大概花了三块钱”。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "请用 Three.js 写一个单文件 HTML（index.html），做一个\"徒步纪实风格\"的 3D 场景，用来录屏做解说视频。\n\n【基本要求】\n- Three.js 通过 CDN（cdnjs 或 jsdelivr）引入，不需要构建工具，浏览器双击即可运行。\n- 画面严格 16:9，内部按 1920×1080 设计，窗口缩放时等比居中，黑边填充。\n- 所有可调参数（地形种子、路线点、相机速度等）集中放在文件顶部的 CONFIG 对象里。\n\n【地形】\n- 用多层噪声（Simplex/Perlin，自己实现即可）生成一条南北走向的高山峡谷：两侧高山、中间谷底，谷底有一条蜿蜒的河道。\n- 按高度和坡度上色：山脊深褐/灰、坡面土黄、谷底浅黄、河道蓝灰，山顶可有少量积雪。\n- 加雾和平行光，营造高原干燥冷色调氛围。\n\n【路线与人物】\n- CONFIG 里用一组 (x, z) 路径点定义徒步路线，用 CatmullRomCurve3 生成平滑曲线并贴合地形高度。\n- 路线渲染为醒目的红色粗线（带轻微发光），已走过部分亮红色，未走部分半透明。\n- 一个红色低模小人（胶囊体+球头+红色外套即可）沿路线匀速行走，可设置速度，支持暂停。\n- 支持在路线上放\"事件标记点\"（如集合点、失踪点），显示为带文字的立式标牌或脉冲圆圈。\n\n【相机】\n- 四种模式，数字键 1-4 切换，切换时平滑过渡：\n  1. 高空俯瞰（沿路线前方飞行，微微倾斜）\n  2. 跟随（人物斜后上方）\n  3. 环绕（绕着人物缓慢旋转）\n  4. 自由（鼠标拖动旋转，滚轮缩放，WASD 移动）\n- 相机速度、高度、俯仰角可在 CONFIG 里调。\n\n【界面叠加层（HTML/CSS）】\n- 左右两侧各一列人物卡片：方形头像框（先用纯色+首字占位，可通过 CONFIG 换成图片 URL）、名字、身份小字。\n- 人物状态：正常 / 遇难（卡片变灰并加红色边框）/ 失踪（卡片半透明并显示问号）。\n- 底部居中大字幕区，白字黑描边，支持高亮关键词（用 [[关键词]] 标记，显示为黄色）。\n- 右上角显示\"第 X 集\"标题和当前进度条（可选）。\n\n【时间线驱动】\n- 在 CONFIG 里用一个数组 TIMELINE 描述剧情，每项含 time（秒）和 action，例如：\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"那你为什么还敢[[参加]]？\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }       // 人物在路线上的进度 0~1\n  { time: 15, action: \"status\", member: \"胡杨林\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"失踪点\" }\n- 播放逻辑：按 Space 开始/暂停，R 重置，时间到了自动触发对应事件。\n- 页面左上角显示一个小的调试面板（当前时间、相机模式），按 H 一键隐藏所有调试和提示，录屏时保持画面干净。\n\n【示例内容】\n- 预置 8 位虚构队员（铁镐-组织者、千鸟、胡杨林、咪咪、队员5～8），一条约 90 秒的演示时间线，覆盖：开场俯瞰、行进、事件标记、人物状态变化、结尾字幕。\n\n【代码要求】\n- 代码清晰分区并加中文注释（地形、路线、人物、相机、UI、时间线）。\n- 保证在普通笔记本上能稳定 30fps 以上，地形分辨率不要过高（约 256×256 顶点）。\n- 完成后告诉我：如何修改路线、如何换头像、如何新增时间线事件。",
+        "englishText": "Please use Three.js to write a single-file HTML (index.html) to create a \"hiking documentary style\" 3D scene for screen recording narration videos.\n\n[Basic Requirements]\n- Import Three.js via CDN (cdnjs or jsdelivr), no build tools required, runnable directly by double-clicking in a browser.\n- Strict 16:9 aspect ratio, designed internally at 1920x1080, centered with aspect ratio maintained and black bars filled when resizing.\n- All adjustable parameters (terrain seed, route points, camera speed, etc.) centralized in a CONFIG object at top of file.\n\n[Terrain]\n- Use multi-layer noise (Simplex/Perlin, self-implemented) to generate a north-south mountain gorge: high mountains on both sides, valley bottom in the middle with a winding riverbed.\n- Color by elevation and slope: deep brown/gray ridges, earthy yellow slopes, light yellow valley, blue-gray riverbed, light snow on peaks.\n- Add fog and directional light to create a cold, dry plateau atmosphere.\n\n[Route & Character]\n- Define hiking route using a list of (x, z) waypoints in CONFIG, smooth with CatmullRomCurve3 matching terrain height.\n- Render route as thick red line (subtle glow), passed section bright red, upcoming section semi-transparent.\n- Red low-poly figure (capsule + sphere head + red coat) walking along route at constant speed, adjustable speed, supports pause.\n- Support event markers on route (e.g., Assembly point, Last seen), displayed as vertical signs with text or pulsing rings.\n\n[Camera]\n- Four modes switchable via keys 1-4 with smooth transitions:\n  1. High overhead view (flying forward along route, slightly tilted)\n  2. Follow (behind and above character)\n  3. Orbit (slow orbit around character)\n  4. Free look (drag to rotate, scroll zoom, WASD move)\n- Camera speed, height, pitch angle adjustable in CONFIG.\n\n[UI Overlay (HTML/CSS)]\n- Columns of member cards on both sides: square avatar (solid color + initial placeholder, customizable via URL), name, role caption.\n- Member status: Normal / Deceased (gray card with red border) / Missing (semi-transparent with question mark).\n- Centered bottom subtitle bar, white text with black stroke, supports [[keyword]] yellow highlight.\n- Top right shows \"Episode X\" title and progress bar (optional).\n\n[Timeline Driven]\n- Describe storyline in CONFIG with a TIMELINE array, each entry containing time (seconds) and action:\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"Then why did you dare to [[join]]?\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }\n  { time: 15, action: \"status\", member: \"Hu Yanglin\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"Last seen\" }\n- Playback logic: Space to play/pause, R to reset, auto-trigger events at timestamps.\n- Small debug panel top-left, press H to hide for clean recording.\n\n[Sample Content]\n- Preset 8 fictional members (Tie Gao - organizer, Qian Niao, Hu Yanglin, Mimi, Members 5-8), ~90s demo timeline covering overhead view, walking, event markers, status changes, ending subtitles.\n\n[Code Requirements]\n- Clearly partitioned code with Chinese comments (terrain, route, character, camera, UI, timeline).\n- Stable 30fps+ on standard laptops, terrain resolution ~256x256 vertices.\n- Explain how to modify route, avatars, and add timeline events after completion.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频完整呈现了提示词中要求的 Three.js 3D 峡谷、蜿蜒河道、红色行走轨迹与低模人物、两侧队员名单卡片（铁镐、千鸟、胡杨林、咪咪等）、失踪标记圈、状态变动以及同步字幕与解说配音。",
+        "textualResultQuote": "样片来了，毕竟刚开始，先别喷我，我会继续优化。claude opus5.5➕haiku5.5，花费了大概7元。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Haiku 5.5",
+          "role": "操作 Three.js 页面与录屏自动化控制",
+          "evidence": "作者推文：“然后通过haiku5.5来操作游戏录屏，剪辑”。",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D 场景渲染与动效引擎（由 Opus 5.5 编写单文件 WebGL 代码实现）",
+          "evidence": "作者提示词明确指令：“请用 Three.js 写一个单文件 HTML（index.html），做一个'徒步纪实风格'的 3D 场景”。",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "请用 Three.js 写一个单文件 HTML（index.html），做一个\"徒步纪实风格\"的 3D 场景，用来录屏做解说视频。",
+          "sourceUrl": "https://x.com/shengtang135754/status/2109133630320845029",
+          "status": "required"
+        },
+        {
+          "name": "火山引擎 TTS",
+          "role": "解说语音生成",
+          "evidence": "作者推文：“火山引擎配音，来还原野外事故”。",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Hiking Documentary 3D Reconstruction Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "documentary",
+          "hiking-route",
+          "timeline-animation",
+          "procedural-terrain"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 负责编写完整的 Three.js 3D 徒步纪实单文件 HTML 代码（含地形着色、人物与路线运动、时间线控制、HUD 卡片及字幕样式）。",
+      "outputSource": "浏览器运行 Three.js HTML 渲染，由 Haiku 5.5 驱动页面交互并录制屏幕，后期合成火山引擎解说配音。",
+      "divisionEvidence": "作者发文说明：“先做游戏，然后通过haiku5.5来操作游戏录屏，剪辑，火山引擎配音……场景搭建这次做的简单大概花了4元……haiku做操作大概花了三块钱”。并在推文中完整公开了针对 Three.js 场景搭建的 Opus 提示词。",
+      "video": {
+        "shots": "包含高空俯瞰峡谷沿路线巡航镜头、跟随人物行进视角及事件点标记聚焦镜头",
+        "duration": "1:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "包含作者公开的完整生成提示词、明确确认的 Claude Opus 5.5 模型版本证据，以及与其代码逻辑完全一致的 Three.js 动态场景录屏演示视频。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/shengtang135754/status/2109133630320845029",
+        "start": 0,
+        "end": 1589
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/shengtang135754/status/2109132993617125532",
+        "author": "shengtang135754",
+        "postId": "2109132993617125532",
+        "publishedAt": "2026-10-11T04:04:26.000Z"
+      },
+      "checkedAt": "2026-10-12T08:47:14.206Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/shengtang135754/status/2109133630320845029",
+        "evidence": ""
+      }
+    },
+    "summary": "作者使用 Claude Opus 5.5 编写包含地形、徒步路径、事件时间线及队员状态 UI 的单文件 Three.js 3D 交互场景，并通过 Haiku 5.5 与火山引擎语音合成完成录屏与纪实解说样片制作。",
+    "summaryEn": "Three.js 徒步探险纪实 3D 场景与解说视频生成",
+    "originalPrompt": "请用 Three.js 写一个单文件 HTML（index.html），做一个\"徒步纪实风格\"的 3D 场景，用来录屏做解说视频。\n\n【基本要求】\n- Three.js 通过 CDN（cdnjs 或 jsdelivr）引入，不需要构建工具，浏览器双击即可运行。\n- 画面严格 16:9，内部按 1920×1080 设计，窗口缩放时等比居中，黑边填充。\n- 所有可调参数（地形种子、路线点、相机速度等）集中放在文件顶部的 CONFIG 对象里。\n\n【地形】\n- 用多层噪声（Simplex/Perlin，自己实现即可）生成一条南北走向的高山峡谷：两侧高山、中间谷底，谷底有一条蜿蜒的河道。\n- 按高度和坡度上色：山脊深褐/灰、坡面土黄、谷底浅黄、河道蓝灰，山顶可有少量积雪。\n- 加雾和平行光，营造高原干燥冷色调氛围。\n\n【路线与人物】\n- CONFIG 里用一组 (x, z) 路径点定义徒步路线，用 CatmullRomCurve3 生成平滑曲线并贴合地形高度。\n- 路线渲染为醒目的红色粗线（带轻微发光），已走过部分亮红色，未走部分半透明。\n- 一个红色低模小人（胶囊体+球头+红色外套即可）沿路线匀速行走，可设置速度，支持暂停。\n- 支持在路线上放\"事件标记点\"（如集合点、失踪点），显示为带文字的立式标牌或脉冲圆圈。\n\n【相机】\n- 四种模式，数字键 1-4 切换，切换时平滑过渡：\n  1. 高空俯瞰（沿路线前方飞行，微微倾斜）\n  2. 跟随（人物斜后上方）\n  3. 环绕（绕着人物缓慢旋转）\n  4. 自由（鼠标拖动旋转，滚轮缩放，WASD 移动）\n- 相机速度、高度、俯仰角可在 CONFIG 里调。\n\n【界面叠加层（HTML/CSS）】\n- 左右两侧各一列人物卡片：方形头像框（先用纯色+首字占位，可通过 CONFIG 换成图片 URL）、名字、身份小字。\n- 人物状态：正常 / 遇难（卡片变灰并加红色边框）/ 失踪（卡片半透明并显示问号）。\n- 底部居中大字幕区，白字黑描边，支持高亮关键词（用 [[关键词]] 标记，显示为黄色）。\n- 右上角显示\"第 X 集\"标题和当前进度条（可选）。\n\n【时间线驱动】\n- 在 CONFIG 里用一个数组 TIMELINE 描述剧情，每项含 time（秒）和 action，例如：\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"那你为什么还敢[[参加]]？\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }       // 人物在路线上的进度 0~1\n  { time: 15, action: \"status\", member: \"胡杨林\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"失踪点\" }\n- 播放逻辑：按 Space 开始/暂停，R 重置，时间到了自动触发对应事件。\n- 页面左上角显示一个小的调试面板（当前时间、相机模式），按 H 一键隐藏所有调试和提示，录屏时保持画面干净。\n\n【示例内容】\n- 预置 8 位虚构队员（铁镐-组织者、千鸟、胡杨林、咪咪、队员5～8），一条约 90 秒的演示时间线，覆盖：开场俯瞰、行进、事件标记、人物状态变化、结尾字幕。\n\n【代码要求】\n- 代码清晰分区并加中文注释（地形、路线、人物、相机、UI、时间线）。\n- 保证在普通笔记本上能稳定 30fps 以上，地形分辨率不要过高（约 256×256 顶点）。\n- 完成后告诉我：如何修改路线、如何换头像、如何新增时间线事件。",
+    "sourceRange": {
+      "start": 0,
+      "end": 1589
+    },
+    "translations": {
+      "zh": "请用 Three.js 写一个单文件 HTML（index.html），做一个\"徒步纪实风格\"的 3D 场景，用来录屏做解说视频。\n\n【基本要求】\n- Three.js 通过 CDN（cdnjs 或 jsdelivr）引入，不需要构建工具，浏览器双击即可运行。\n- 画面严格 16:9，内部按 1920×1080 设计，窗口缩放时等比居中，黑边填充。\n- 所有可调参数（地形种子、路线点、相机速度等）集中放在文件顶部的 CONFIG 对象里。\n\n【地形】\n- 用多层噪声（Simplex/Perlin，自己实现即可）生成一条南北走向的高山峡谷：两侧高山、中间谷底，谷底有一条蜿蜒的河道。\n- 按高度和坡度上色：山脊深褐/灰、坡面土黄、谷底浅黄、河道蓝灰，山顶可有少量积雪。\n- 加雾和平行光，营造高原干燥冷色调氛围。\n\n【路线与人物】\n- CONFIG 里用一组 (x, z) 路径点定义徒步路线，用 CatmullRomCurve3 生成平滑曲线并贴合地形高度。\n- 路线渲染为醒目的红色粗线（带轻微发光），已走过部分亮红色，未走部分半透明。\n- 一个红色低模小人（胶囊体+球头+红色外套即可）沿路线匀速行走，可设置速度，支持暂停。\n- 支持在路线上放\"事件标记点\"（如集合点、失踪点），显示为带文字的立式标牌或脉冲圆圈。\n\n【相机】\n- 四种模式，数字键 1-4 切换，切换时平滑过渡：\n  1. 高空俯瞰（沿路线前方飞行，微微倾斜）\n  2. 跟随（人物斜后上方）\n  3. 环绕（绕着人物缓慢旋转）\n  4. 自由（鼠标拖动旋转，滚轮缩放，WASD 移动）\n- 相机速度、高度、俯仰角可在 CONFIG 里调。\n\n【界面叠加层（HTML/CSS）】\n- 左右两侧各一列人物卡片：方形头像框（先用纯色+首字占位，可通过 CONFIG 换成图片 URL）、名字、身份小字。\n- 人物状态：正常 / 遇难（卡片变灰并加红色边框）/ 失踪（卡片半透明并显示问号）。\n- 底部居中大字幕区，白字黑描边，支持高亮关键词（用 [[关键词]] 标记，显示为黄色）。\n- 右上角显示\"第 X 集\"标题和当前进度条（可选）。\n\n【时间线驱动】\n- 在 CONFIG 里用一个数组 TIMELINE 描述剧情，每项含 time（秒）和 action，例如：\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"那你为什么还敢[[参加]]？\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }       // 人物在路线上的进度 0~1\n  { time: 15, action: \"status\", member: \"胡杨林\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"失踪点\" }\n- 播放逻辑：按 Space 开始/暂停，R 重置，时间到了自动触发对应事件。\n- 页面左上角显示一个小的调试面板（当前时间、相机模式），按 H 一键隐藏所有调试和提示，录屏时保持画面干净。\n\n【示例内容】\n- 预置 8 位虚构队员（铁镐-组织者、千鸟、胡杨林、咪咪、队员5～8），一条约 90 秒的演示时间线，覆盖：开场俯瞰、行进、事件标记、人物状态变化、结尾字幕。\n\n【代码要求】\n- 代码清晰分区并加中文注释（地形、路线、人物、相机、UI、时间线）。\n- 保证在普通笔记本上能稳定 30fps 以上，地形分辨率不要过高（约 256×256 顶点）。\n- 完成后告诉我：如何修改路线、如何换头像、如何新增时间线事件。",
+      "en": "Please use Three.js to write a single-file HTML (index.html) to create a \"hiking documentary style\" 3D scene for screen recording narration videos.\n\n[Basic Requirements]\n- Import Three.js via CDN (cdnjs or jsdelivr), no build tools required, runnable directly by double-clicking in a browser.\n- Strict 16:9 aspect ratio, designed internally at 1920x1080, centered with aspect ratio maintained and black bars filled when resizing.\n- All adjustable parameters (terrain seed, route points, camera speed, etc.) centralized in a CONFIG object at top of file.\n\n[Terrain]\n- Use multi-layer noise (Simplex/Perlin, self-implemented) to generate a north-south mountain gorge: high mountains on both sides, valley bottom in the middle with a winding riverbed.\n- Color by elevation and slope: deep brown/gray ridges, earthy yellow slopes, light yellow valley, blue-gray riverbed, light snow on peaks.\n- Add fog and directional light to create a cold, dry plateau atmosphere.\n\n[Route & Character]\n- Define hiking route using a list of (x, z) waypoints in CONFIG, smooth with CatmullRomCurve3 matching terrain height.\n- Render route as thick red line (subtle glow), passed section bright red, upcoming section semi-transparent.\n- Red low-poly figure (capsule + sphere head + red coat) walking along route at constant speed, adjustable speed, supports pause.\n- Support event markers on route (e.g., Assembly point, Last seen), displayed as vertical signs with text or pulsing rings.\n\n[Camera]\n- Four modes switchable via keys 1-4 with smooth transitions:\n  1. High overhead view (flying forward along route, slightly tilted)\n  2. Follow (behind and above character)\n  3. Orbit (slow orbit around character)\n  4. Free look (drag to rotate, scroll zoom, WASD move)\n- Camera speed, height, pitch angle adjustable in CONFIG.\n\n[UI Overlay (HTML/CSS)]\n- Columns of member cards on both sides: square avatar (solid color + initial placeholder, customizable via URL), name, role caption.\n- Member status: Normal / Deceased (gray card with red border) / Missing (semi-transparent with question mark).\n- Centered bottom subtitle bar, white text with black stroke, supports [[keyword]] yellow highlight.\n- Top right shows \"Episode X\" title and progress bar (optional).\n\n[Timeline Driven]\n- Describe storyline in CONFIG with a TIMELINE array, each entry containing time (seconds) and action:\n  { time: 0,  action: \"camera\", mode: 1 }\n  { time: 3,  action: \"subtitle\", text: \"Then why did you dare to [[join]]?\", duration: 4 }\n  { time: 8,  action: \"walk\", from: 0, to: 0.4 }\n  { time: 15, action: \"status\", member: \"Hu Yanglin\", state: \"missing\" }\n  { time: 20, action: \"marker\", at: 0.6, text: \"Last seen\" }\n- Playback logic: Space to play/pause, R to reset, auto-trigger events at timestamps.\n- Small debug panel top-left, press H to hide for clean recording.\n\n[Sample Content]\n- Preset 8 fictional members (Tie Gao - organizer, Qian Niao, Hu Yanglin, Mimi, Members 5-8), ~90s demo timeline covering overhead view, walking, event markers, status changes, ending subtitles.\n\n[Code Requirements]\n- Clearly partitioned code with Chinese comments (terrain, route, character, camera, UI, timeline).\n- Stable 30fps+ on standard laptops, terrain resolution ~256x256 vertices.\n- Explain how to modify route, avatars, and add timeline events after completion."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Hiking Documentary 3D Reconstruction Scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频完整呈现了提示词中要求的 Three.js 3D 峡谷、蜿蜒河道、红色行走轨迹与低模人物、两侧队员名单卡片（铁镐、千鸟、胡杨林、咪咪等）、失踪标记圈、状态变动以及同步字幕与解说配音。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

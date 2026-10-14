@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:34.192Z",
+  "model": "opus5.5",
+  "prompt": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+  "promptTranslations": {
+    "en": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models."
+  },
+  "summary": "A prompt designed to create a code-generated 20-second motion graphics manifesto and soundscape for DreamFort without using traditional video or image generation models.",
+  "summaryEn": "DreamFort Motion Graphics Manifesto Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103565104243712107",
+    "canonicalUrl": "https://x.com/advait_jayant/status/2103565104243712107",
+    "author": {
+      "username": "advait_jayant",
+      "displayName": "Advait",
+      "profileUrl": "https://x.com/advait_jayant"
+    },
+    "publishedAt": "2026-09-25T19:19:37.000Z",
+    "collectedAt": "2026-09-28T08:06:41.588Z",
+    "language": "en",
+    "originalText": "Opus 5.5 + Hyperframes is such a great way to generate videos! \n\nFull prompt below ↓ https://t.co/HIAxGCXq5c",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/advait_jayant/status/2103565104243712107",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103564346336890880/img/qVMJAK_fBnWZYBGu.jpg",
+        "analysisUrl": "https://x.com/advait_jayant/status/2103565104243712107"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 903
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/advait_jayant/status/2103639585058398445",
+        "text": "@sohamxsarkar most videos i saw used hyperframes",
+        "author": "advait_jayant"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/advait_jayant/status/2103565106504237084",
+        "text": "PROMPT: \n\nmake a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+        "author": "advait_jayant"
+      },
+      {
+        "url": "https://x.com/advait_jayant/status/2103565104243712107",
+        "text": "Advait on X: \"Opus 5.5 + Hyperframes is such a great way to generate videos! \n\nFull prompt below ↓\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAdvait on X: \"Opus 5.5 + Hyperframes is such a great way to generate videos! \n\nFull prompt below ↓\"\n\n\n\nAdvait\n\n@advait_jayant\n\n\n\n\nOpus 5.5 + Hyperframes is such a great way to generate videos! \n\nFull prompt below ↓\n\n\n00:00\n\n\n\n\n\n\n\n\n7:19 PM · Sep 25, 2026·903\nViews\n\n\n\n4\n\n9\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAdvait@advait_jayantFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvait\n\n@advait_jayant\n\n\n\n\nOpus 5.5 + Hyperframes is such a great way to generate videos! \n\nFull prompt below ↓\n\n\n00:00\n\n\n\n\n\n\n\n\n7:19 PM · Sep 25, 2026·903\nViews\n\n\n\n4\n\n9\n7\n\n\n\n\n\n\n\n\n\nAdvait\n\n@advait_jayant\nSep 25\n\n\nPROMPT: \n\nmake a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.\n\n\n\n\n2\n82\n\n\n\n\n\n\n\n\n\n\n\nSoham Sarkar\n\n@sohamxsarkar\nSep 25\n\n\nngl vanilla opus 5.5 would probably give a better result. if you look at the videos going viral they have such a fluid motion and transitions and cuts across scenes. hyperframes cant do that i think, this is like a scene by scene animation instead of a fluid video\n\n\n1\n\n\n67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "advait_jayant"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/advait_jayant/status/2103565104243712107",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103564346336890880/img/qVMJAK_fBnWZYBGu.jpg",
+  "coverPath": "data/covers/2103565104243712107-wide.jpg",
+  "gifPath": "data/gifs/2103565104243712107.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103564346336890880",
+    "x-post:2103565104243712107"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "DreamFort Motion Graphics Manifesto Prompt",
+      "summary": "A prompt designed to create a code-generated 20-second motion graphics manifesto and soundscape for DreamFort without using traditional video or image generation models.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 + Hyperframes is such a great way to generate videos!"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+        "englishText": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/advait_jayant/status/2103565104243712107",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/advait_jayant/status/2103565106504237084",
+        "start": 10,
+        "end": 185
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/advait_jayant/status/2103565104243712107",
+        "author": "advait_jayant",
+        "postId": "2103565104243712107",
+        "publishedAt": "2026-09-25T19:19:37.000Z"
+      },
+      "checkedAt": "2026-09-28T08:07:44.839Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/advait_jayant/status/2103565106504237084",
+        "evidence": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt designed to create a code-generated 20-second motion graphics manifesto and soundscape for DreamFort without using traditional video or image generation models.",
+    "summaryEn": "DreamFort Motion Graphics Manifesto Prompt",
+    "originalPrompt": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+    "sourceRange": {
+      "start": 10,
+      "end": 185
+    },
+    "translations": {
+      "zh": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models.",
+      "en": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

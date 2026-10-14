@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:20:54.677Z",
+  "model": "opus5.5",
+  "prompt": "make a 15-second motion graphics video of my repo. Go all out.",
+  "promptTranslations": {
+    "en": "make a 15-second motion graphics video of my repo. Go all out."
+  },
+  "summary": "CsUtil.com demonstrates Claude Opus 5.5 generating a complete 15-second 3D motion graphics teaser from scratch, featuring custom camera math, perspective projection, post-processing effects, and an accompanying soundtrack.",
+  "summaryEn": "One-Shot 3D Motion Graphics Teaser for Location-Based WebXR",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105100452232577419",
+    "canonicalUrl": "https://x.com/csutil_com/status/2105100452232577419",
+    "author": {
+      "username": "csutil_com",
+      "displayName": "CsUtil.com",
+      "profileUrl": "https://x.com/csutil_com"
+    },
+    "publishedAt": "2026-09-30T01:00:33.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "Me: make a 15-second motion graphics video of my repo. Go all out.\n\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack\n\nThis one-shot looks better vs the https://t.co/6lfwPhlN5l page I worked on for days https://t.co/O7AP9BdENn",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/csutil_com/status/2105100452232577419",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105100421232574464/img/tZfRkG2UbWfTKPnM.jpg",
+        "analysisUrl": "https://x.com/csutil_com/status/2105100452232577419"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/csutil_com/status/2105100452232577419",
+        "text": "CsUtil.com on X: \"Me: make a 15-second motion graphics video of my repo. Go all out.\n\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack\n\nThis one-shot looks better vs the https://t.co/6lfwPhlN5l page I worked on for days\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nCsUtil.com on X: \"Me: make a 15-second motion graphics video of my repo. Go all out.\n\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack\n\nThis one-shot looks better vs the https://t.co/6lfwPhlN5l page I worked on for days\"\n\n\n\nCsUtil.com\n@csutil_com\n\n\n\n\nMe: make a 15-second motion graphics video of my repo. Go all out.\n\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack\n\nThis one-shot looks better vs the gps.csutils.com page I worked on for days\n\n\n00:00\n\n\n\n\n\n\n\n\n1:00 AM · Sep 30, 2026·24\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCsUtil.com@csutil_comFollow\nSoftware Engineer working on #opensource in my free time. See the full project list at https://t.co/zem1bkyjHJ\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCsUtil.com\n@csutil_com\n\n\n\n\nMe: make a 15-second motion graphics video of my repo. Go all out.\n\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack\n\nThis one-shot looks better vs the gps.csutils.com page I worked on for days\n\n\n00:00\n\n\n\n\n\n\n\n\n1:00 AM · Sep 30, 2026·24\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "csutil_com"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/6lfwPhlN5l"
+    ]
+  },
+  "xUrl": "https://x.com/csutil_com/status/2105100452232577419",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105100421232574464/img/tZfRkG2UbWfTKPnM.jpg",
+  "coverPath": "data/covers/2105100452232577419-wide.jpg",
+  "gifPath": "data/gifs/2105100452232577419.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105100421232574464",
+    "x-post:2105100452232577419"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "One-Shot 3D Motion Graphics Teaser for Location-Based WebXR",
+      "summary": "CsUtil.com demonstrates Claude Opus 5.5 generating a complete 15-second 3D motion graphics teaser from scratch, featuring custom camera math, perspective projection, post-processing effects, and an accompanying soundtrack.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 15-second motion graphics video of my repo. Go all out.",
+        "englishText": "make a 15-second motion graphics video of my repo. Go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Repository context or contents provided to the model",
+          "System prompt or environment setup",
+          "Exact audio and rendering pipeline instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 15-second motion graphics video with perspective projection, bloom, motion blur, and a soundtrack showcasing Location-Based WebXR across six staged scenes.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "repository",
+          "description": "Code and documentation for the Location-Based WebXR project",
+          "available": true,
+          "evidence": "make a 15-second motion graphics video of my repo. Go all out.",
+          "sourceUrl": "https://gps.csutils.com",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Custom 3D Engine",
+          "role": "Render perspective projection, bloom, motion blur, and film grain in code",
+          "evidence": "Opus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/csutil_com/status/2105100452232577419"
+        }
+      ],
+      "purpose": {
+        "label": "Open Source Repo Promo Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "3d-engine",
+          "webxr",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the custom 3D rendering engine, camera math, visual effects, and soundtrack generation logic from scratch.",
+      "outputSource": "Custom software 3D engine written from scratch by Opus 5.5",
+      "divisionEvidence": "Me: make a 15-second motion graphics video of my repo. Go all out. \\n\\nOpus 5.5 *writes a 3D engine from scratch* - Camera math. Perspective projection. Bloom. Motion blur. Film grain. A soundtrack",
+      "video": {
+        "shots": "6 sequenced stages: 01 / 06 POSITION, 02 / 06 ODOMETRY, 03 / 06 SENSOR FUSION, 04 / 06 WORLD ANCHORING, 05 / 06 DELIVERY, 06 / 06 THE REPO",
+        "duration": "00:15",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an authentic Claude Opus 5.5 video production workflow where the agent writes a custom 3D engine and motion graphics presentation code accompanied by audio.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/csutil_com/status/2105100452232577419",
+        "start": 4,
+        "end": 66
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/csutil_com/status/2105100452232577419",
+        "author": "csutil_com",
+        "postId": "2105100452232577419",
+        "publishedAt": "2026-09-30T01:00:33.000Z"
+      },
+      "checkedAt": "2026-09-30T04:36:30.635Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/csutil_com/status/2105100452232577419",
+        "evidence": ""
+      }
+    },
+    "summary": "CsUtil.com demonstrates Claude Opus 5.5 generating a complete 15-second 3D motion graphics teaser from scratch, featuring custom camera math, perspective projection, post-processing effects, and an accompanying soundtrack.",
+    "summaryEn": "One-Shot 3D Motion Graphics Teaser for Location-Based WebXR",
+    "originalPrompt": "make a 15-second motion graphics video of my repo. Go all out.",
+    "sourceRange": {
+      "start": 4,
+      "end": 66
+    },
+    "translations": {
+      "zh": "make a 15-second motion graphics video of my repo. Go all out.",
+      "en": "make a 15-second motion graphics video of my repo. Go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Open Source Repo Promo Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Repository context or contents provided to the model",
+        "System prompt or environment setup",
+        "Exact audio and rendering pipeline instructions"
+      ],
+      "evidence": "A 15-second motion graphics video with perspective projection, bloom, motion blur, and a soundtrack showcasing Location-Based WebXR across six staged scenes."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

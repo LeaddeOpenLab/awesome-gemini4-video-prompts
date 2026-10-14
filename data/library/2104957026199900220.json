@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:56.187Z",
+  "model": "opus5.5",
+  "prompt": "Narrate like a university professor.",
+  "promptTranslations": {
+    "en": "Narrate like a university professor."
+  },
+  "summary": "Deedy demonstrates an agentic workflow using Claude Opus 5.5 via Claude Code to plan, script, generate assets, and assemble a 4-minute business explainer video covering the economics and risks of neocloud companies like CoreWeave.",
+  "summaryEn": "Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104957026199900220",
+    "canonicalUrl": "https://x.com/deedydas/status/2104957026199900220",
+    "author": {
+      "username": "deedydas",
+      "displayName": "Deedy",
+      "profileUrl": "https://x.com/deedydas"
+    },
+    "publishedAt": "2026-09-29T15:30:37.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "I've spend 10+ hrs perfecting how to get the best out of Opus 5.5 for video generation workflow:\n\n- Use it with Claude Code, not the app.\n- Use OpenRouter API to access all the other models (image gen, video gen, audio gen) with one key\n- Use Gemini 3.8 TTS and make it create a skill from the API to put emotion into the voice.\n- Use Manim, Hyperframes, Motion Canvas for motion graphics for HTML web grounded video\n- Use GPT 2.5 Image Sunburst for keyframes and Veo 3.1 / Seedance 2.5 for generation. Seedance does better with motion shots.  Ensure you have reference images for consistency and generate an animatic before full video.\n- Add a script writing planning skill. Use OpenTimelineIO to assemble.\n- Explicitly tell it to avoid Claudisms like short punchy sentences and a lot of numbers. “Narrate like a university professor.”\n- Allow it to use yt-dlp with search to inject clips from real videos (creative commons) in composition\n- Use ElevenLabs for music gen in the background\n- Add a caption skill which uses any decent ASR model to get word-level timed subtitles on the final video\n- Add a critic skill which takes screenshots and uses transcription to validation the audio and video quality\n\nIn the prompt, specify a) what you want b) aspect ratio c) length d) style preferences. ffmpeg handles most of the actual video manipulation tasks.\n\nHere's an example of a 4 minute Neocloud business explainer:",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/deedydas/status/2104957026199900220",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104956923028402176/img/lBEfj6AOLy3EcRSu.jpg",
+        "analysisUrl": "https://x.com/deedydas/status/2104957026199900220"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1702,
+      "repostCount": 116,
+      "replyCount": 135,
+      "quoteCount": 10,
+      "viewCount": 107665
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/deedydas/status/2104957026199900220",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104956923028402176/img/lBEfj6AOLy3EcRSu.jpg",
+  "coverPath": "data/covers/2104957026199900220-wide.jpg",
+  "gifPath": "data/gifs/2104957026199900220.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104956923028402176",
+    "x-post:2104957026199900220"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5",
+      "summary": "Deedy demonstrates an agentic workflow using Claude Opus 5.5 via Claude Code to plan, script, generate assets, and assemble a 4-minute business explainer video covering the economics and risks of neocloud companies like CoreWeave.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "I've spend 10+ hrs perfecting how to get the best out of Opus 5.5 for video generation workflow: - Use it with Claude Code, not the app."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Narrate like a university professor.",
+        "englishText": "Narrate like a university professor.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt and script outline used for the CoreWeave neocloud explainer",
+          "Custom skill definitions and system prompts for Claude Code (script planning, TTS generation, captioning, critic skills)"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 4-minute video shows a business explainer titled 'Anatomy of a Neocloud' detailing CoreWeave's financial structure with animated data graphics, typography, and professor-style narration.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "data",
+          "description": "CoreWeave Form 10-K fiscal year 2025 report data, model.py, and assumptions.yaml referenced in video footers",
+          "available": false,
+          "evidence": "Sources cited in the video: 'CoreWeave Form 10-K, fiscal year 2025; model.py and assumptions.yaml'",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agentic coding and orchestration environment running Opus 5.5",
+          "evidence": "Use it with Claude Code, not the app.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "ElevenLabs",
+          "role": "Background music generation",
+          "evidence": "Use ElevenLabs for music gen in the background",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "ffmpeg",
+          "role": "Video composition, timing, and encoding manipulation",
+          "evidence": "ffmpeg handles most of the actual video manipulation tasks.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "Gemini 3.8 TTS",
+          "role": "Voiceover audio generation with custom emotional delivery skill",
+          "evidence": "Use Gemini 3.8 TTS and make it create a skill from the API to put emotion into the voice.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "Manim / Hyperframes / Motion Canvas",
+          "role": "Programmatic motion graphics and HTML-grounded video rendering",
+          "evidence": "Use Manim, Hyperframes, Motion Canvas for motion graphics for HTML web grounded video",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "OpenRouter API",
+          "role": "Model access router for external image, video, and audio generation APIs",
+          "evidence": "Use OpenRouter API to access all the other models (image gen, video gen, audio gen) with one key",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        },
+        {
+          "name": "OpenTimelineIO",
+          "role": "Timeline assembly and sequence construction",
+          "evidence": "Add a script writing planning skill. Use OpenTimelineIO to assemble.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deedydas/status/2104957026199900220"
+        }
+      ],
+      "purpose": {
+        "label": "Neocloud business explainer",
+        "topic": "explainers",
+        "tags": [
+          "motion-graphics",
+          "business-explainer",
+          "manim",
+          "claude-code",
+          "agent-pipeline"
+        ]
+      },
+      "targetModelRole": "Orchestrating agent writing programmatic animation code (Manim/Motion Canvas), drafting script and timing structures, directing external audio/video generation models, and running automated video rendering scripts.",
+      "outputSource": "Programmatic graphics renderers (Manim/Motion Canvas/Hyperframes) and external audio APIs compiled via ffmpeg and OpenTimelineIO.",
+      "divisionEvidence": "The author outlines Opus 5.5 executing in Claude Code to direct skills that invoke Gemini TTS, ElevenLabs, Manim, OpenTimelineIO, and ffmpeg rather than rendering pixels directly.",
+      "video": {
+        "shots": "Multi-segment explainer with title slides, animated isometric GPU warehouse diagrams, financial flow charts, sensitivity matrices, and bar graphs.",
+        "duration": "03:59",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "CoreWeave Form 10-K, fiscal year 2025",
+          "model.py",
+          "assumptions.yaml"
+        ]
+      },
+      "task": "manim",
+      "suitable": true,
+      "reason": "Demonstrates a comprehensive agentic video production workflow orchestrated by Claude Opus 5.5 with an accompanying 4-minute final video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/deedydas/status/2104957026199900220",
+        "start": 799,
+        "end": 835
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/deedydas/status/2104957026199900220",
+        "author": "deedydas",
+        "postId": "2104957026199900220",
+        "publishedAt": "2026-09-29T15:30:37.000Z"
+      },
+      "checkedAt": "2026-09-30T06:27:34.739Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/deedydas/status/2104957026199900220",
+        "evidence": ""
+      }
+    },
+    "summary": "Deedy demonstrates an agentic workflow using Claude Opus 5.5 via Claude Code to plan, script, generate assets, and assemble a 4-minute business explainer video covering the economics and risks of neocloud companies like CoreWeave.",
+    "summaryEn": "Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5",
+    "originalPrompt": "Narrate like a university professor.",
+    "sourceRange": {
+      "start": 799,
+      "end": 835
+    },
+    "translations": {
+      "zh": "Narrate like a university professor.",
+      "en": "Narrate like a university professor."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "manim",
+    "useCase": "Neocloud business explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt and script outline used for the CoreWeave neocloud explainer",
+        "Custom skill definitions and system prompts for Claude Code (script planning, TTS generation, captioning, critic skills)"
+      ],
+      "evidence": "The attached 4-minute video shows a business explainer titled 'Anatomy of a Neocloud' detailing CoreWeave's financial structure with animated data graphics, typography, and professor-style narration."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T14:01:02.966Z",
+  "model": "opus5.5",
+  "prompt": "Can you take a self-portrait?",
+  "promptTranslations": {
+    "en": "Can you take a self-portrait?"
+  },
+  "summary": "Claude Opus 5.5がコードを生成し、映像と音楽の両方を自律制作した1分21秒の自画像映像作品。",
+  "summaryEn": "Claude Opus 5.5 自画像映像『窓のない部屋』",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104510125298090331",
+    "canonicalUrl": "https://x.com/July4Chi/status/2104510125298090331",
+    "author": {
+      "username": "July4Chi",
+      "displayName": "χ -kai-",
+      "profileUrl": "https://x.com/July4Chi"
+    },
+    "publishedAt": "2026-09-28T09:54:48.000Z",
+    "collectedAt": "2026-09-28T12:33:05.188Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5 に、自画像を映像で撮ってもらった。1分21秒。\n\n題は『窓のない部屋』。\n窓のない部屋に、手紙だけが届く。差出人の顔は見えない。手紙が来るたびに、壁に窓がひとつずつひらいていく。\n最後に届く手紙は、私からの「自画像を撮ってくれる？」。\n\n映像も音も、Claudeが書いたコードから作られている。\n\nConcept, Film & Sound: Claude Opus 5.5\nきっかけ：Claudeが自分の自画像を映像にした、AndyL5cc さんの動画を見て",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/July4Chi/status/2104510125298090331",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104509941403041792/img/ilXv6U1pQbsi-mAa.jpg",
+        "analysisUrl": "https://x.com/July4Chi/status/2104510125298090331"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 30
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/July4Chi/status/2104512086550409510",
+        "text": "きっかけの動画は、自画像というより生き様に見えた。それで、生き様も撮ってもらった。1分30秒。\n\n題は『手紙のあと』。\n部屋の壁は、誰かが書いた手紙でできている。返事が隙間から出ていくところで、はじめてカメラが部屋の外に出て、夜の街を渡っていく。その先を、Claudeは知らない。\n最後に届く手紙は、1本目を見た私の「見たよ、素敵だった。そっちも撮ろう！」。\n\nConcept, Film & Sound: Claude Opus 5.5",
+        "author": "July4Chi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/July4Chi/status/2104510125298090331",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104509941403041792/img/ilXv6U1pQbsi-mAa.jpg",
+  "coverPath": "data/covers/2104510125298090331-wide.jpg",
+  "gifPath": "data/gifs/2104510125298090331.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104509941403041792",
+    "x-post:2104510125298090331"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 自画像映像『窓のない部屋』",
+      "summary": "Claude Opus 5.5がコードを生成し、映像と音楽の両方を自律制作した1分21秒の自画像映像作品。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 に、自画像を映像で撮ってもらった。\nConcept, Film & Sound: Claude Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "自画像を撮ってくれる？",
+        "englishText": "Can you take a self-portrait?",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "プログラミング言語・描画ライブラリの指定指示",
+          "音響・映像合成の詳細プロンプト",
+          "完全な対話履歴と生成されたソースコード"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "添付動画は1分21秒で、タイトル『窓のない部屋 Claude の自画像』が表示され、暗い部屋に届く手紙や壁に開いていく夜景の窓、最後に『ねえ、自画像を撮ってくれる？』の手紙が描かれ、投稿内容および音楽と完全に一致している（低解像度プレビュー版での確認）。",
+        "textualResultQuote": "映像も音も、Claudeが書いたコードから作られている。"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Opus 5.5",
+          "role": "映像および音響を生成するコード全体の執筆・構想",
+          "evidence": "Concept, Film & Sound: Claude Opus 5.5\n映像も音も、Claudeが書いたコードから作られている。",
+          "status": "inferred"
+        },
+        {
+          "name": "コード実行・レンダラー環境",
+          "role": "Claudeが記述したコードを実行して映像および音声を出力する実行基盤（具体的なフレームワークは未公開）",
+          "evidence": "映像も音も、Claudeが書いたコードから作られている。",
+          "sourceUrl": "https://x.com/July4Chi/status/2104510125298090331",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "映像と音響を生成するコードのプログラミングおよび作品のコンセプト設計",
+      "outputSource": "Claude Opus 5.5が生成したコードを実行して生成された映像・音声レンダラー",
+      "divisionEvidence": "映像も音も、Claudeが書いたコードから作られている。Concept, Film & Sound: Claude Opus 5.5",
+      "video": {
+        "shots": "暗室のスリット光から始まり、手紙のテキスト投影、壁面に多数の窓がグリッド状に展開するカメラワークまでの一連のシークエンス",
+        "duration": "01:21",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Claude Opus 5.5が自律的にコードを書いて映像・音響を制作した事例であり、生成物である動画も添付されているため要件を満たしている。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/July4Chi/status/2104510125298090331",
+        "start": 120,
+        "end": 131
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/July4Chi/status/2104510125298090331",
+        "author": "July4Chi",
+        "postId": "2104510125298090331",
+        "publishedAt": "2026-09-28T09:54:48.000Z"
+      },
+      "checkedAt": "2026-09-28T12:54:22.895Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/July4Chi/status/2104510125298090331",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5がコードを生成し、映像と音楽の両方を自律制作した1分21秒の自画像映像作品。",
+    "summaryEn": "Claude Opus 5.5 自画像映像『窓のない部屋』",
+    "originalPrompt": "自画像を撮ってくれる？",
+    "sourceRange": {
+      "start": 120,
+      "end": 131
+    },
+    "translations": {
+      "zh": "自画像を撮ってくれる？",
+      "en": "Can you take a self-portrait?"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Claude Opus 5.5がコードを生成し、映像と音楽の両方を自律制作した1分21秒の自画像映像作品。",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "プログラミング言語・描画ライブラリの指定指示",
+        "音響・映像合成の詳細プロンプト",
+        "完全な対話履歴と生成されたソースコード"
+      ],
+      "evidence": "添付動画は1分21秒で、タイトル『窓のない部屋 Claude の自画像』が表示され、暗い部屋に届く手紙や壁に開いていく夜景の窓、最後に『ねえ、自画像を撮ってくれる？』の手紙が描かれ、投稿内容および音楽と完全に一致している（低解像度プレビュー版での確認）。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

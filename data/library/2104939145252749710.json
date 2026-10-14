@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:12.704Z",
+  "model": "opus5.5",
+  "prompt": "Feed image to Claude and ask it to build 1:1",
+  "promptTranslations": {
+    "en": "Feed image to Claude and ask it to build 1:1"
+  },
+  "summary": "Rehan Ahmed demonstrates an interactive iOS jackpot slot machine prototype generated using Claude Opus 5.5 from mockup images and custom MCP skills.",
+  "summaryEn": "iOS Jackpot Game App Prototype with Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104939145252749710",
+    "canonicalUrl": "https://x.com/rehanxahmed/status/2104939145252749710",
+    "author": {
+      "username": "rehanxahmed",
+      "displayName": "Rehan Ahmed",
+      "profileUrl": "https://x.com/rehanxahmed"
+    },
+    "publishedAt": "2026-09-29T14:19:34.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is crazy at designing apps. Here’s my full process on how i make iOS apps right now:\n\n- Create a moodboard of designs you like (Doesn't have to be same niche\n- GPT 5 for creating a 1st draft mockup, Ask it to generate a proper ios styled app with no realistic visuals\n- Add all best claude skills and mobbin MCP\n- Feed image to Claude and ask it to build 1:1 \n- Use higgsfield MCP for video generation wherever needed \n- Iterate till perfection",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rehanxahmed/status/2104939145252749710",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104939077518995456/img/n39u5mT4Nj_LHKVY.jpg",
+        "analysisUrl": "https://x.com/rehanxahmed/status/2104939145252749710"
+      }
+    ],
+    "metrics": {
+      "likeCount": 64,
+      "repostCount": 3,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 3283
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2105035762437882307",
+        "text": "dm or book a call to revamp your app\nhttps://t.co/wbHfF0CLpQ",
+        "author": "rehanxahmed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2105030966679118016",
+        "text": "@LottieFiles I installed a bunch of skills recently including the one you replied with recently",
+        "author": "rehanxahmed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2104953491936686493",
+        "text": "@TanayKmr No clue i just asked it to build once when I was working on an app and I pretty much use that over and over again",
+        "author": "rehanxahmed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2104952565012336651",
+        "text": "@TanayKmr For client builds. These explorations are mad spontaneous",
+        "author": "rehanxahmed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2104945584365035644",
+        "text": "@drapzdesigns Kind of but Claude skills have made my output 50x better",
+        "author": "rehanxahmed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rehanxahmed/status/2104942375034626260",
+        "text": "@BreejeAnadkat Ishowspeed",
+        "author": "rehanxahmed"
+      },
+      {
+        "url": "https://deslopify.studio/",
+        "text": "\n\n\n  \n  \n  Deslopify | Ugly App In. Beautiful App Out.\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n  \n  \n  \n    \n      Claude Coded\n      Now get a working prototype in your phone!Prototype in your phone!\n    \n\n    \n      Make Your App\n\n      \n\n    \n\n    Send screenshots of your app. Get them back beautiful, in days not months.\n\n    \n      Fix My App\n      \n    \n  \n\n  \n  \n    -after.png and\n         -before.png and the slider shows the real pair for that slot.\n         Missing files fall back: before→after→the old placeholder. -->\n    \n      \n        After\n\n\n        After\n\n\n        After\n\n\n        After\n\n\n        After\n\n\n        After\n\n\n      \n\n    \n\n    \n      \n\n    \n\n    \n      \n\n      \n        \n\n\n      \n\n    \n\n  \n\n  \n\n\n  \n  \n    Why Choose Us\n    \n      \n\n\n      \n\n\n      \n\n\n      \n\n\n    \n\n  \n\n  \n  \n    \n      Before and After\n      From Messy\nto Money.\n\n    \n\n    \n      \n        \n          \n            \n              \n              \n              \n\n            \n\n          \n\n          \n          \n            \n            Design Slop In\n            Beautiful Design Out\n          \n\n        \n\n        \n          \n            Send screenshots\n          \n\n          \n            Your app, as-is\n\n            Drop raw screenshots of your app. Any screen, any state. That is all we need.\n\n          \n\n        \n\n        \n          \n            Get designs\n          \n\n          \n            Redesigned & ready\n\n            We send back the same screens. Redesigned, matching, and ready to ship.\n\n          \n\n        \n\n      \n\n    \n\n  \n\n  \n  \n    \n      \n        Our Work\n        Real Apps.\nReal Glow-Ups.\n\n      \n\n      \n        \n          \n          App design\n          App store shots\n        \n\n        \n          \n            \n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n            \n\n          \n\n          \n            \n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n            \n\n          \n\n          \n            \n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n            \n\n          \n\n          \n            \n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n            \n\n          \n\n          \n            \n              \n\n\n              \n\n\n              \n\n\n              \n\n\n              \n\n\n            \n\n          \n\n          \n            \n            \n            \n                      \n\n          \n            \n            \n          \n\n        \n\n      \n\n    \n\n  \n\n  \n  \n    \n      \n        \n        \n        \n        \n        \n          \n            \n            \n            \n\n          \n\n          \n            Redesign these screens\n            \n\n          \n\n          \n            \n            yourapp-iosGitHub &middot; main branch\n\n          \n\n          \n            \n              \n              design.md\n            \n\n            \n\n          \n\n          \n            \n              \n              Aisha M.Founder, Hush\n\n              &#9733;&#9733;&#9733;&#9733;&#9733;\n            \n\n            &ldquo;Didn&rsquo;t think our app could look this clean. Live in six days.&rdquo;\n\n          \n\n        \n\n        \n          \n          Send Screens\n          We Redesign\n          Ship It\n        \n\n        \n          Send Your Screens.Messy Is Fine.\n\n          We RedesignEvery Single Screen.\n\n          Ship It.Watch People Notice.\n\n        \n\n      \n\n    \n\n  \n\n  \n  \n    \n      Features\n      Designed down\nto the details.\n\n    \n\n    \n      \n        World-Class Design\n        The polish you see in apps you envy. Now in yours.\n\n        \n          GlassmorphismMicro-interactionsBento GridsMotion Design\n        \n\n        \n\n      \n\n      \n        Tidy Handoff\n        Your screens come back sorted.\n\n        \n          Onboarding10 screens\n\n          Auth8 screens\n\n          Home11 screens\n\n          Settings5 screens\n\n          Profile21 screens\n\n          Checkout14 screens\n\n          Search4 screens\n\n          Paywall9 screens\n\n        \n\n      \n\n      \n        Claude Inside\n        AI Speed. Human Taste.\n\n        \n          \n\n          \n            \n\n            \n              \n                \n                Claude\n              \n              \n                \n                  \n                \n                \n                  \n                \n              \n            \n\n          \n\n          \n            Fix my onboarding\n            Rebrand my app\n            Polish my paywall\n          \n\n        \n\n      \n\n    \n\n    \n      \n        \n          \n          KanbanOrganize your records on a pipeline\n\n        \n\n        \n          \n          TableOrganize your records on a table\n\n          Mark S\n        \n\n        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n          \n          No files found\n\n          It seems Nicolas Sharp doesn&rsquo;t\nhave files\n\n          New file\n        \n\n      \n\n      \n        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n          \n          No companies found\n\n          It seems Nicolas Sharp doesn&rsquo;t\nhave associated companies\n\n          Add to list\n        \n\n        \n          \n          PeopleBuilt a process around people\n\n        \n\n        \n          \n          CompaniesBuilt a process around companies\n\n          Alex V\n        \n\n      \n\n    \n\n    \n      \n        Every screen on one system. Type, color and spacing unified.\n\n        \n          \n            \n            \n            \n          \n\n        \n\n        \n          \n          Design system applied\n          v2.0 \n        \n\n      \n\n      \n        Know exactly what changed with every single delivery.\n\n        \n        \n\n        \n          ✦\n          Deslopify tracked 2 changes\n          2 new \n        \n\n      \n\n      \n      \n        Days, not months. Urgent gets it to your door in 5.\n\n        \n          \n            \n              \n              \n            \n\n            Day 1Day 3Day 5Day 7\n\n          \n\n        \n\n        \n          \n          Urgent delivery\n          After 5 days \n        \n\n      \n\n      \n        Straight into your Figma. Organized, named, editable.\n\n        \n          \n            \n              \n              yourapp-revamp.fig12 pages · 148 components\n\n            \n\n            \n              Design Systemupdated\n\n              Home / v2\n\n              Checkout / v2\n\n            \n\n          \n\n        \n\n        \n          \n          Full source file included\n          Open ↗\n        \n\n      \n\n    \n\n  \n\n  \n  \n  \n    Pricing\n    Simple pricing\nfor every stage.\n\n  \n\n  \n    \n      \n\n\n      \n        \n        \n          Pay Per Screen\n\n          7 Days Delivery\n        \n\n        One-off redesigns, priced by screen count. Send screens, get them back polished.\n\n        \n          1 to 3 Screens\n\n          $390\n\n        \n\n        \n          \n\n          \n          \n          \n          \n          \n          \n        \n\n        \n          \n          Quick delivery (4 days) +$300\n        \n      \n\n      What&rsquo;s included\n\n      \n        Figma files + working coded prototype\n\n\n        Cohesive design throughout\n\n\n        One revision round included\n\n\n      \n\n      \n        Revamp my Screens\n        \n      \n    \n\n    \n      \n\n\n      \n        \n        \n          Design Subscription\n\n          Limited availability\n        \n\n        A rolling design partner for teams that ship every week. Unlimited requests, flat price.\n\n        \n          \n          Monthly\n          1 Week Trial\n        \n\n        \n          $4,500 / month\n\n        \n\n      \n\n      What&rsquo;s included\n\n      \n        Unlimited requests, one at a time\n\n\n        Updates every 2 days\n\n\n        Async collaboration over Slack\n\n\n        Weekly consulting call\n\n\n        Pause or cancel anytime\n\n\n      \n\n      \n        Book an Intro Call\n        \n      \n    \n\n  \n\n\n  \n\n  \n  \n    \n      \n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n      \n\n    \n\n  \n\n  \n  \n    \n    \n      About\n      The guy behind\nthe glow ups.\n\n    \n\n    \n      \n        &lsquo;IT TAKES ONE DESIGNER AND A ROBOT&rsquo;\n\n        \n          Designer\n          Rehan Ahmed\n\n        \n\n        \n          Blurb\n          I fix ugly apps for a living. I rebuild the screens you gave up on. Claude does the heavy lifting, my taste does the rest. Everything ships as polished designs plus real code you can run on your phone the same day.\n\n        \n\n        \n          \n            Ships\n            \n              App Design\n\n              Illustration Animations\n\n              Live Prototypes\n\n              App Store Shots\n\n            \n          \n\n          \n            Weapons\n            \n              Claude\n\n              Figma\n\n              SwiftUI\n\n              Zero Meetings\n\n            \n          \n\n        \n\n      \n\n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n      \n      \n    \n\n  \n\n  \n  \n    \n      Testimonials\n      \n        Smart founders send\n        us theirapps to\n        \n      \n\n    \n\n    \n      \n\n      \n        \n          \n          \n          \n            \n            \n            \n            \n            \n          \n\n          Happy founders,\nprettier apps\n\n        \n\n      \n\n    \n\n    \n      \n        \n      \n        \n          \n          Endrew Cruz@EndrewBiz · Follow\n\n          \n        \n\n        how did you make the physics so good\n\n        ReplyCopy link\n\n      \n      \n        \n          \n          LottieFiles@LottieFiles · Follow\n\n          \n        \n\n        Looks awesome! Did it take a lot of prompts & tries to get it right?\n\n        ReplyCopy link\n\n      \n      \n        \n          \n          Udhaya@Udhayya_ · Follow\n\n          \n        \n\n        You are all over my feed &#128064;\n\n        ReplyCopy link\n\n      \n      \n        \n          \n          Faruk Yurtseven - Designer@FKThedesigner · Follow\n\n          \n        \n\n        this is beautiful\n\n        ReplyCopy link\n\n      \n      \n\n      \n\n    \n\n    \n      \n        \n          \n\n        \n\n      \n\n    \n\n  \n\n\n\n\n\n  \n  \n    \n      Screw boring footers\n\n      Play with the jar instead. Pick a mood, drop marbles till you feel something.\n\n      \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n              \n              \n              \n            \n            \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n            \n            \n              \n              \n              \n              \n              \n              \n              \n              \n            \n            \n              \n              \n              \n              \n              \n              \n              \n              \n            \n          \n        \n        \n        \n        \n          \n          \n          \n          \n            \n          \n          \n            \n            \n            \n          \n        \n      \n\n      \n        \n\n        Drop a marble\n        \n\n      \n\n    \n\n    \n    &copy; 2026 DESLOPIFY. ALL RIGHTS RESERVED.\n\n  \n\n  \n    \n    \n  \n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "rehanxahmed"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rehanxahmed/status/2104939145252749710",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104939077518995456/img/n39u5mT4Nj_LHKVY.jpg",
+  "coverPath": "data/covers/2104939145252749710-wide.jpg",
+  "gifPath": "data/gifs/2104939145252749710.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104939077518995456",
+    "x-post:2104939145252749710"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "iOS Jackpot Game App Prototype with Opus 5.5",
+      "summary": "Rehan Ahmed demonstrates an interactive iOS jackpot slot machine prototype generated using Claude Opus 5.5 from mockup images and custom MCP skills.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 is crazy at designing apps. Here’s my full process on how i make iOS apps right now"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Feed image to Claude and ask it to build 1:1",
+        "englishText": "Feed image to Claude and ask it to build 1:1",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "verbatim Claude coding prompt",
+          "mockup reference images",
+          "installed Claude skills configuration",
+          "mobbin MCP context"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording captures an interactive iPhone slot machine app prototype with rolling reels, animated win states, confetti, and coin tally animations.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Design moodboard and GPT-5 1st draft mockup of an iOS-styled app",
+          "available": false,
+          "evidence": "Create a moodboard of designs you like... GPT 5 for creating a 1st draft mockup, Ask it to generate a proper ios styled app with no realistic visuals",
+          "origin": "generated"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Opus 5.5",
+          "role": "Code generator building the iOS prototype 1:1 from the mockup image",
+          "evidence": "Feed image to Claude and ask it to build 1:1",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rehanxahmed/status/2104939145252749710"
+        },
+        {
+          "name": "GPT 5",
+          "role": "Creating the initial draft mockup image",
+          "evidence": "GPT 5 for creating a 1st draft mockup, Ask it to generate a proper ios styled app with no realistic visuals",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rehanxahmed/status/2104939145252749710"
+        },
+        {
+          "name": "higgsfield MCP",
+          "role": "Video generation tool",
+          "evidence": "Use higgsfield MCP for video generation wherever needed",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rehanxahmed/status/2104939145252749710"
+        },
+        {
+          "name": "mobbin MCP",
+          "role": "Design reference provider",
+          "evidence": "Add all best claude skills and mobbin MCP",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rehanxahmed/status/2104939145252749710"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jackpot App Prototype",
+        "topic": "games-interactive",
+        "tags": [
+          "ios",
+          "prototype",
+          "interactive",
+          "slot-machine",
+          "ui-animation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 interprets the UI mockup image and writes the full interactive prototype application code.",
+      "outputSource": "iOS interactive app prototype simulator",
+      "divisionEvidence": "GPT 5 generates the UI mockup, and Claude builds the code 1:1 into an interactive app prototype.",
+      "video": {
+        "shots": "1 shot",
+        "duration": "12s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 used to produce an interactive mobile game animation prototype recorded in action.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rehanxahmed/status/2104939145252749710",
+        "start": 323,
+        "end": 367
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rehanxahmed/status/2104939145252749710",
+        "author": "rehanxahmed",
+        "postId": "2104939145252749710",
+        "publishedAt": "2026-09-29T14:19:34.000Z"
+      },
+      "checkedAt": "2026-09-30T05:14:01.279Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rehanxahmed/status/2104939145252749710",
+        "evidence": ""
+      }
+    },
+    "summary": "Rehan Ahmed demonstrates an interactive iOS jackpot slot machine prototype generated using Claude Opus 5.5 from mockup images and custom MCP skills.",
+    "summaryEn": "iOS Jackpot Game App Prototype with Opus 5.5",
+    "originalPrompt": "Feed image to Claude and ask it to build 1:1",
+    "sourceRange": {
+      "start": 323,
+      "end": 367
+    },
+    "translations": {
+      "zh": "Feed image to Claude and ask it to build 1:1",
+      "en": "Feed image to Claude and ask it to build 1:1"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jackpot App Prototype",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "verbatim Claude coding prompt",
+        "mockup reference images",
+        "installed Claude skills configuration",
+        "mobbin MCP context"
+      ],
+      "evidence": "Screen recording captures an interactive iPhone slot machine app prototype with rolling reels, animated win states, confetti, and coin tally animations."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

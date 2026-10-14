@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:18.247Z",
+  "model": "opus5.5",
+  "prompt": "Please make a self-introduction motion graphics video for me.",
+  "promptTranslations": {
+    "en": "Please make a self-introduction motion graphics video for me."
+  },
+  "summary": "Demonstration of Claude Opus 5.5 creating a stylized 2D self-introduction motion graphics animation featuring character art, animated typography, and timeline slides from a minimal prompt.",
+  "summaryEn": "Automated Profile Self-Introduction Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105158224307740811",
+    "canonicalUrl": "https://x.com/bonjinika3/status/2105158224307740811",
+    "author": {
+      "username": "bonjinika3",
+      "displayName": "ボンジンイカ",
+      "profileUrl": "https://x.com/bonjinika3"
+    },
+    "publishedAt": "2026-09-30T04:50:07.000Z",
+    "collectedAt": "2026-09-30T08:03:25.845Z",
+    "language": "ja",
+    "originalText": "Opus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。 https://t.co/v8TkEebYjh",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/bonjinika3/status/2105158224307740811",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105157842181451776/img/Ppyc-brp7l5xmshd.jpg",
+        "analysisUrl": "https://x.com/bonjinika3/status/2105158224307740811"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/bonjinika3/status/2105158224307740811",
+        "text": "ボンジンイカ on X: \"Opus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nボンジンイカ on X: \"Opus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。\"\n\n\n\nボンジンイカ\n@bonjinika3\n\n\n\n\nShow translation\nOpus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。\n\n\n00:00\n\n\n\n\n\n\n\n\n4:50 AM · Sep 30, 2026·13\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nボンジンイカ@bonjinika3Follow\nnote書いたり、作詞をしている\nただのニートです\nEnjoying the world of music with a little help from AI.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nボンジンイカ\n@bonjinika3\n\n\n\n\nShow translation\nOpus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。\n\n\n00:00\n\n\n\n\n\n\n\n\n4:50 AM · Sep 30, 2026·13\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bonjinika3"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/bonjinika3/status/2105158224307740811",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105157842181451776/img/Ppyc-brp7l5xmshd.jpg",
+  "coverPath": "data/covers/2105158224307740811-wide.jpg",
+  "gifPath": "data/gifs/2105158224307740811.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105157842181451776",
+    "x-post:2105158224307740811"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Automated Profile Self-Introduction Motion Graphics",
+      "summary": "Demonstration of Claude Opus 5.5 creating a stylized 2D self-introduction motion graphics animation featuring character art, animated typography, and timeline slides from a minimal prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "私の自己紹介グラフィックスモーションを作ってほしい",
+        "englishText": "Please make a self-introduction motion graphics video for me.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial prompt text and system instructions",
+          "Animation engine or codebase instructions",
+          "Asset referencing and character artwork bindings",
+          "Audio and timing coordination parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 15-second motion graphics video presenting the creator 'ボンジンイカ' with character cutout animations, speech bubbles, bullet point introductions, a trajectory curve chart, and social links.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "character illustration",
+          "description": "Chibi anime character illustration wearing a squid hoodie",
+          "available": false,
+          "evidence": "Character art used across all animation scenes throughout the video.",
+          "origin": "unknown"
+        },
+        {
+          "kind": "audio track",
+          "description": "Background music and vocal audio track synchronized to the animation",
+          "available": false,
+          "evidence": "Audio accompaniment playing continuously in the shared video.",
+          "origin": "unknown"
+        },
+        {
+          "kind": "biographical data",
+          "description": "Biographical text, note/Threads account info, and taglines referenced in the animation",
+          "available": true,
+          "evidence": "勝手に私のことを調べて作ってくれるくらい。",
+          "origin": "searched",
+          "sourceUrl": "https://x.com/bonjinika3/status/2105158224307740811"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Motion Graphics Renderer",
+          "role": "Executes animation code (e.g. Remotion, Canvas, or HTML/CSS motion stack) generated by Opus 5.5",
+          "evidence": "私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/bonjinika3/status/2105158224307740811"
+        }
+      ],
+      "purpose": {
+        "label": "Self-Introduction Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "self-introduction",
+          "character-animation",
+          "profile"
+        ]
+      },
+      "targetModelRole": "Researched user profile information and generated the animation code/script for the self-introduction video.",
+      "outputSource": "Inferred motion graphics renderer (e.g., Remotion/Canvas/Web-based animation compiler)",
+      "divisionEvidence": "Author states: 'Opus 5.5がどのくらい簡単かというと、私の自己紹介グラフィックスモーションを作ってほしいとお願いしただけで、勝手に私のことを調べて作ってくれるくらい。'",
+      "video": {
+        "shots": "Multiple dynamic sequence cuts: intro character drop, speech greeting, title nameplate, profile bullet points, lifestyle slope curve graph, and outro link card.",
+        "duration": "0:15",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic creator showcase demonstrating Claude Opus 5.5 producing a complete motion graphics self-introduction video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/bonjinika3/status/2105158224307740811",
+        "start": 22,
+        "end": 47
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/bonjinika3/status/2105158224307740811",
+        "author": "bonjinika3",
+        "postId": "2105158224307740811",
+        "publishedAt": "2026-09-30T04:50:07.000Z"
+      },
+      "checkedAt": "2026-09-30T08:18:19.692Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bonjinika3/status/2105158224307740811",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of Claude Opus 5.5 creating a stylized 2D self-introduction motion graphics animation featuring character art, animated typography, and timeline slides from a minimal prompt.",
+    "summaryEn": "Automated Profile Self-Introduction Motion Graphics",
+    "originalPrompt": "私の自己紹介グラフィックスモーションを作ってほしい",
+    "sourceRange": {
+      "start": 22,
+      "end": 47
+    },
+    "translations": {
+      "zh": "私の自己紹介グラフィックスモーションを作ってほしい",
+      "en": "Please make a self-introduction motion graphics video for me."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Self-Introduction Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial prompt text and system instructions",
+        "Animation engine or codebase instructions",
+        "Asset referencing and character artwork bindings",
+        "Audio and timing coordination parameters"
+      ],
+      "evidence": "A 15-second motion graphics video presenting the creator 'ボンジンイカ' with character cutout animations, speech bubbles, bullet point introductions, a trajectory curve chart, and social links."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

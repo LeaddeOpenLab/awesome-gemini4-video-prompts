@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:05.706Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+  "promptTranslations": {
+    "en": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics."
+  },
+  "summary": "Comparison of Claude Opus 5.5 generating an interactive WebGPU 3D jelly diorama against GPT-6 Astra.",
+  "summaryEn": "Castle Jelly WebGPU Diorama",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108649845405929924",
+    "canonicalUrl": "https://x.com/vib3coded/status/2108649845405929924",
+    "author": {
+      "username": "vib3coded",
+      "displayName": "Vib3Coded",
+      "profileUrl": "https://x.com/vib3coded"
+    },
+    "publishedAt": "2026-10-09T20:04:34.000Z",
+    "collectedAt": "2026-10-09T20:12:14.516Z",
+    "language": "en",
+    "originalText": "The jelly world just got its own kingdom 🏰🍮\n\nClaude Opus 5.5 vs GPT-6 Astra - same prompt, two tiny jelly kingdoms\n\nOpus wins this one for me. I prefer its water physics and waterfall - the splashes and spreading ripples make the whole scene feel more alive. A little fairytale island you could watch for way too long\n\nAstra’s layered island looks like a birthday cake. Less “defend the kingdom,” more “please don’t eat the kingdom”\n\nEstimated API cost:\n\nOpus - $13.30\nAstra - $12.62\n\nWhich jelly kingdom would you visit?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vib3coded/status/2108649845405929924",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108649604161863680/img/q4PFb-ZFSwAj5K7x.jpg",
+        "analysisUrl": "https://x.com/vib3coded/status/2108649845405929924"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 5,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 77
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108653863410839745",
+        "text": "@Alchem1stTech okay now i kinda have to make one",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108653558002266313",
+        "text": "@AntarexBTC imagine trying to fit all those candles without sinking the kingdom",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108653195241091347",
+        "text": "@shmopixbzn astra’s biggest threat isn’t pirates, it’s a spoon",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108653012197822729",
+        "text": "@0xPifagor someone has to deliver supplies to this very unstable kingdom",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108652671313801551",
+        "text": "@N1njaCodex thank you bro!",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108649989098594707",
+        "text": "PROMPT:\nBuild a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108649887197737374",
+        "text": "GPT-6 Astra https://t.co/KLFV00vQqT\nOpus 5.5 https://t.co/ZPettaB44L",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://castle-jelly-astra.vercel.app/",
+        "text": "\n\n\n\n\n\nCastle Jelly - Material Studies\n\n\n\n\n\n\nMaterial Studies\nCastle\nJelly.\n\nA sugar-spun kingdom. A river that falls into a lake of jelly.\nONCE UPON A SOFT LITTLE WORLD\n\nWebGPU · Live\n\nControls\nA little kingdom\nFireworksRaise bridgeRoyal saluteWishing coins\nThrow a ball ↗\n\nShots 0·Afloat 0·Sunk 0\n\nFlavour\nGlacierRoseLilac\n\nFirmness 50\nWaterfall 72\nWave damping 30\nTime of day NoonNoonMidnight\n\nResetPauseReset view\n\n\nHow to play\nMake a wish. Stir the lake. Stay for the fireworks.\nTap a tower for fireworks, the gate for its bridge, or the ship for a salute · drag water to stir · drag a cut face to tip · grab coins, balls or pines · empty space / right-drag to orbit · scroll / pinch to zoom\nTap towers, gate, brazier or ship · Drag water · Pinch to zoom\n\nA kingdom, setting.\nSETTING THE KINGDOM\n\n\nMaterial Studies\nCastle Jelly.\nThis study needs WebGPU, which this browser doesn't seem to offer. Try a WebGPU-enabled browser with hardware acceleration switched on. This self-contained study makes no external requests.\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://claude.ai/artifact/MLKuCSyYBUqaRpsxCVaqvk",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vib3coded/status/2108649845405929924",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108649604161863680/img/q4PFb-ZFSwAj5K7x.jpg",
+  "coverPath": "data/covers/2108649845405929924-wide.jpg",
+  "gifPath": "data/gifs/2108649845405929924.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108649604161863680",
+    "x-post:2108649845405929924"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Castle Jelly WebGPU Diorama",
+      "summary": "Comparison of Claude Opus 5.5 generating an interactive WebGPU 3D jelly diorama against GPT-6 Astra.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "Author specifies 'Claude Opus 5.5 vs GPT-6 Astra' and provides an Artifact link."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+        "englishText": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive WebGPU 3D diorama matching all prompt specifications.",
+        "textualResultQuote": "Opus wins this one for me. I prefer its water physics and waterfall - the splashes and spreading ripples make the whole scene feel more alive."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Artifacts",
+          "role": "Execution host",
+          "evidence": "Author linked 'https://claude.ai/artifact/MLKuCSyYBUqaRpsxCVaqvk'",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.",
+          "sourceUrl": "https://x.com/vib3coded/status/2108649989098594707",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jelly Diorama",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgpu",
+          "interactive",
+          "diorama",
+          "physics"
+        ]
+      },
+      "targetModelRole": "Generates complete single-file WebGPU application code.",
+      "outputSource": "In-browser WebGPU execution.",
+      "divisionEvidence": "Claude writes code; the browser renders the interactive WebGPU scene.",
+      "video": {
+        "shots": "Single split-screen capture comparing models",
+        "duration": "0:17",
+        "aspectRatio": "320:404",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Includes verified author prompt, model version, and recording of Claude Opus 5.5 generating interactive 3D code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vib3coded/status/2108649989098594707",
+        "start": 8,
+        "end": 1982
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vib3coded/status/2108649845405929924",
+        "author": "vib3coded",
+        "postId": "2108649845405929924",
+        "publishedAt": "2026-10-09T20:04:34.000Z"
+      },
+      "checkedAt": "2026-10-09T20:22:51.925Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vib3coded/status/2108649989098594707",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison of Claude Opus 5.5 generating an interactive WebGPU 3D jelly diorama against GPT-6 Astra.",
+    "summaryEn": "Castle Jelly WebGPU Diorama",
+    "originalPrompt": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+    "sourceRange": {
+      "start": 8,
+      "end": 1982
+    },
+    "translations": {
+      "zh": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.",
+      "en": "Build a single-file WebGPU \"material study\" page called \"Castle Jelly\", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead \"Castle / Jelly.\", glass control panel on the right, \"How to play\" line at the bottom-left, UI in English, mobile bottom-sheet layout.\nThe diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.\nInteractions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jelly Diorama",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the interactive WebGPU 3D diorama matching all prompt specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

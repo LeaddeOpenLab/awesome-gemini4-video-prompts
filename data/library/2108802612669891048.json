@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:32:59.837Z",
+  "model": "opus5.5",
+  "prompt": "introduce yourself with a short video",
+  "promptTranslations": {
+    "en": "introduce yourself with a short video"
+  },
+  "summary": "Motion graphics demo video generated via Claude Opus 5.5 showcasing 3D scene elements, particle effects, kinetic typography, and a title reveal.",
+  "summaryEn": "Opus 5.5 Self-Introduction Motion Graphics Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108802612669891048",
+    "canonicalUrl": "https://x.com/olezhavich/status/2108802612669891048",
+    "author": {
+      "username": "olezhavich",
+      "displayName": "Olezhka",
+      "profileUrl": "https://x.com/olezhavich"
+    },
+    "publishedAt": "2026-10-10T06:11:37.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "en",
+    "originalText": "I'm not a motion designer. I gave Opus 5.5 one idea: introduce yourself with a short video.\n\nIt built the 3D scene, the particles, the text animation and the final title on its own. It took 20 minutes.\n\nA year ago this would have meant a freelancer and a few days of work. https://t.co/hXlTmrkhHA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olezhavich/status/2108802612669891048",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108802400932794368/img/ezXmcu290Wz_3R7y.jpg",
+        "analysisUrl": "https://x.com/olezhavich/status/2108802612669891048"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 60
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/olezhavich/status/2108802612669891048",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108802400932794368/img/ezXmcu290Wz_3R7y.jpg",
+  "coverPath": "data/covers/2108802612669891048-wide.jpg",
+  "gifPath": "data/gifs/2108802612669891048.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108802400932794368/vid/avc1/480x270/wilLQszR_aR1Jmr9.mp4?tag=29",
+    "x-video:2108802400932794368",
+    "x-post:2108802612669891048"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Self-Introduction Motion Graphics Video",
+      "summary": "Motion graphics demo video generated via Claude Opus 5.5 showcasing 3D scene elements, particle effects, kinetic typography, and a title reveal.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Opus 5.5 one idea: introduce yourself with a short video."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "introduce yourself with a short video",
+        "englishText": "introduce yourself with a short video",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts",
+          "Full orchestration instructions",
+          "Animation framework setup details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video renders 3D central circuit block, particle effects, animated code snippet, kinetic typography ('HELLO. I TURN IDEAS INTO SYSTEMS...'), and title card 'Claude OPUS 5.5'.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "TypeScript / Motion Graphics Engine",
+          "role": "Renders programmatic 3D scene, particles, and typography.",
+          "evidence": "Top-left HUD overlay displays 'SELF_INTRO.TS'.",
+          "sourceUrl": "https://x.com/olezhavich/status/2108802612669891048",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Self-introduction Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "3d-scene",
+          "kinetic-typography",
+          "particles"
+        ]
+      },
+      "targetModelRole": "Code generation and creative motion design orchestration.",
+      "outputSource": "Video renderer executing generated TypeScript animation script.",
+      "divisionEvidence": "Author: 'It built the 3D scene, the particles, the text animation and the final title on its own.'",
+      "video": {
+        "shots": "Multi-shot sequence with 3D model orbit, code camera cuts, and typographic reveals.",
+        "duration": "12s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 programmatic motion graphics video production reference case.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olezhavich/status/2108802612669891048",
+        "start": 53,
+        "end": 90
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olezhavich/status/2108802612669891048",
+        "author": "olezhavich",
+        "postId": "2108802612669891048",
+        "publishedAt": "2026-10-10T06:11:37.000Z"
+      },
+      "checkedAt": "2026-10-10T08:32:59.836Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olezhavich/status/2108802612669891048",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics demo video generated via Claude Opus 5.5 showcasing 3D scene elements, particle effects, kinetic typography, and a title reveal.",
+    "summaryEn": "Opus 5.5 Self-Introduction Motion Graphics Video",
+    "originalPrompt": "introduce yourself with a short video",
+    "sourceRange": {
+      "start": 53,
+      "end": 90
+    },
+    "translations": {
+      "zh": "introduce yourself with a short video",
+      "en": "introduce yourself with a short video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Self-introduction Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts",
+        "Full orchestration instructions",
+        "Animation framework setup details"
+      ],
+      "evidence": "Video renders 3D central circuit block, particle effects, animated code snippet, kinetic typography ('HELLO. I TURN IDEAS INTO SYSTEMS...'), and title card 'Claude OPUS 5.5'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

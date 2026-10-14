@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:39.988Z",
+  "model": "opus5.5",
+  "prompt": "\"make the row shorter\", \"add a cooling loop\"",
+  "promptTranslations": {
+    "en": "\"make the row shorter\", \"add a cooling loop\""
+  },
+  "summary": "Solvaix showcases a concept walkthrough of a 20-rack liquid-cooled AI data center hall generated with Claude Opus 5.5 using plain text prompts and rendered directly in the browser via Three.js.",
+  "summaryEn": "Interactive 3D Liquid-Cooled AI Hall Concept in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108301527483838465",
+    "canonicalUrl": "https://x.com/Solvaix/status/2108301527483838465",
+    "author": {
+      "username": "Solvaix",
+      "displayName": "Solvaix",
+      "profileUrl": "https://x.com/Solvaix"
+    },
+    "publishedAt": "2026-10-08T21:00:29.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "en",
+    "originalText": "20 RACKS. 1,440 GPUs. HOW MANY US HOMES WORTH OF POWER DOES THIS ROOM DRAW?\n\nAbout 2,000.\n\n3D build of a small liquid-cooled AI hall. Illustrative, 20 racks of NVL72-class (72 GPUs per rack).\n\nEach rack pulls roughly 120 kW. A typical colocation rack is 8-15 kW. One of these = 8-15 normal ones.\n\nAir can't pull that much heat out of such a small box. So cold plates sit right on the chips and liquid does the work.\n\nRough math:\n\n2.4 MW at full load, 24/7 = ~21,000 MWh a year\nAt $0.08/kWh (assumed) = ~$1,700,000 a year in electricity\nRacks alone, reported ~$3,000,000 each = ~$60,000,000\n\nThe scene itself was made by prompting Claude Opus 5.5 in plain text. No Blender, no 3D software. It runs in the browser (Three.js) and the result is one link that opens on any laptop or phone. Changing it takes one message: \"make the row shorter\", \"add a cooling loop\".\n\nUseful at concept stage: show a client how racks, power and cooling fit in a room before anyone opens Revit. Same approach works for a plant room, a pump station or a warehouse layout. It is a sketch you can walk through. Real design still lives in BIM.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Solvaix/status/2108301527483838465",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108301340778639361/img/graR5dR4kxsh2IlE.jpg",
+        "analysisUrl": "https://x.com/Solvaix/status/2108301527483838465"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 750
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Solvaix/status/2108301527483838465",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108301340778639361/img/graR5dR4kxsh2IlE.jpg",
+  "coverPath": "data/covers/2108301527483838465-wide.jpg",
+  "gifPath": "data/gifs/2108301527483838465.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108301340778639361/vid/avc1/480x270/q6Fup7i81qp54jS_.mp4?tag=29",
+    "x-video:2108301340778639361",
+    "x-post:2108301527483838465"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Liquid-Cooled AI Hall Concept in Three.js",
+      "summary": "Solvaix showcases a concept walkthrough of a 20-rack liquid-cooled AI data center hall generated with Claude Opus 5.5 using plain text prompts and rendered directly in the browser via Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "The scene itself was made by prompting Claude Opus 5.5 in plain text."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "\"make the row shorter\", \"add a cooling loop\"",
+        "englishText": "\"make the row shorter\", \"add a cooling loop\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial generation prompt defining room geometry, rack models, and animation sequencing",
+          "Exact architectural and thermal specification instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates an interactive 3D walkthrough showing 20 server racks, a pull-out server tray revealing chip-level cold plates and fluid tubes, and room power/cooling infrastructure as described in the post.",
+        "textualResultQuote": "20 racks • 1,440 GPUs\n2.4 MW OF LIQUID-COOLED COMPUTE"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "Traditional 3D modeling software",
+          "evidence": "No Blender, no 3D software.",
+          "status": "prohibited",
+          "sourceUrl": "https://x.com/Solvaix/status/2108301527483838465"
+        },
+        {
+          "name": "Three.js",
+          "role": "Browser 3D rendering engine displaying the generated scene",
+          "evidence": "It runs in the browser (Three.js) and the result is one link that opens on any laptop or phone.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Solvaix/status/2108301527483838465"
+        }
+      ],
+      "purpose": {
+        "label": "Data Center Infrastructure 3D Walkthrough",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "datacenter",
+          "liquid-cooling",
+          "interactive-3d",
+          "ai-hardware"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete Three.js JavaScript/HTML scene code directly from plain text prompts.",
+      "outputSource": "Browser WebGL canvas executed via Three.js",
+      "divisionEvidence": "The scene itself was made by prompting Claude Opus 5.5 in plain text. No Blender, no 3D software. It runs in the browser (Three.js)",
+      "video": {
+        "shots": "Continuous camera tracking and interactive orbit shot with focused zoom into a single rack tray",
+        "duration": "35s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates Claude Opus 5.5 generating an interactive 3D WebGL scene rendered in Three.js with accompanying screen recording, satisfying Opus production case requirements under reference-case policy.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Solvaix/status/2108301527483838465",
+        "start": 816,
+        "end": 860
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Solvaix/status/2108301527483838465",
+        "author": "Solvaix",
+        "postId": "2108301527483838465",
+        "publishedAt": "2026-10-08T21:00:29.000Z"
+      },
+      "checkedAt": "2026-10-09T15:23:26.305Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Solvaix/status/2108301527483838465",
+        "evidence": ""
+      }
+    },
+    "summary": "Solvaix showcases a concept walkthrough of a 20-rack liquid-cooled AI data center hall generated with Claude Opus 5.5 using plain text prompts and rendered directly in the browser via Three.js.",
+    "summaryEn": "Interactive 3D Liquid-Cooled AI Hall Concept in Three.js",
+    "originalPrompt": "\"make the row shorter\", \"add a cooling loop\"",
+    "sourceRange": {
+      "start": 816,
+      "end": 860
+    },
+    "translations": {
+      "zh": "\"make the row shorter\", \"add a cooling loop\"",
+      "en": "\"make the row shorter\", \"add a cooling loop\""
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Data Center Infrastructure 3D Walkthrough",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial generation prompt defining room geometry, rack models, and animation sequencing",
+        "Exact architectural and thermal specification instructions"
+      ],
+      "evidence": "The video demonstrates an interactive 3D walkthrough showing 20 server racks, a pull-out server tray revealing chip-level cold plates and fluid tubes, and room power/cooling infrastructure as described in the post."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

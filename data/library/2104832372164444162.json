@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:54.440Z",
+  "model": "opus5.5",
+  "prompt": "\"Wouldn't it look cool if there was a smartphone scene where an anthropomorphic crab dances and receives tons of super chats?\"",
+  "promptTranslations": {
+    "en": "\"Wouldn't it look cool if there was a smartphone scene where an anthropomorphic crab dances and receives tons of super chats?\""
+  },
+  "summary": "GSK produces a complete 30-second 60fps audiovisual motion piece entirely generated via TypeScript code using Claude Opus 5.5 inside Claude Code, combining custom DSP audio synthesis, 3D voxel animation, and external API asset orchestration.",
+  "summaryEn": "Code-Based Motion Graphics and Audio Synthesis with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104832372164444162",
+    "canonicalUrl": "https://x.com/__gsk__/status/2104832372164444162",
+    "author": {
+      "username": "__gsk__",
+      "displayName": "₲$₭",
+      "profileUrl": "https://x.com/__gsk__"
+    },
+    "publishedAt": "2026-09-29T07:15:18.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。 https://t.co/8atBVTstSH",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/__gsk__/status/2104832372164444162",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTXkRWIbYAAl3QW.jpg",
+        "analysisUrl": "https://x.com/__gsk__/status/2104832372164444162"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2946,
+      "repostCount": 198,
+      "replyCount": 44,
+      "quoteCount": 42,
+      "viewCount": 136862
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2105089110704791808",
+        "text": "デザイン・作画・3D・UI・エフェクト・シナリオ・世界観設定・映像制作・DTM・VJ・エンジニア・etc＋クリエイターチームのビルドやディレクション経験で、比較的優秀なハーネス＆エージェントたちが作れた様に思う。もちろん中身のOpus5.5が優秀なのが一番でかいけど！",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104912560348975434",
+        "text": "@thomas_devmd @claudeai TypeScriptの自作DSPで、ノコギリ波の重ね合わせ、フィルタ、エンベロープから音色を合成。144BPM・ヘ長調のフューチャーベースを拍単位の配置データとして書き、EQ、リバーブ、サイドチェイン、リミッターまでコードで処理してWAVに書き出しています。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104891366270734769",
+        "text": "@acceptthyself @claudeai まとめるのに時間がかかるので要点だけ言うと\n・商業レベルのクリエイティブディレクション観点のハーネスを作った\n・単純な指示から、対話的に詳細を決めていくハーネスを作った\n・50回以上のディレクションをした\n・これはバージョン9\nなので、一瞬ではないです。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104889793868185829",
+        "text": "@lfly97786343 @claudeai 多謝！やっと私の指示を効かせられるモデルが出てきました。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104889316015235389",
+        "text": "@ai_ryu_fukugyo @claudeai 絵コンテ描くのもサボりたい＆生成のコントロールは100％効かせたいという欲張りなので、段階的にディテールを詰めていくようなハーネスを作りました。\nいきなり一気に作らせないで、人と同じ様に討議＆確認しながら進めていく感じですね。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104887720174858628",
+        "text": "最初ハーネス作らずに指示したら、品質は高くても意図とは全く異なるものができたり商業レベルには程遠い低品質だったりしたので、結局ハーネスとディレクションがめっちゃ大事ということが改めてよくわかった。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104884429525332028",
+        "text": "Adobe製品やBlenderなどの外部ソフトは一切使ってないし、素材も何も渡してないです。動画編集も全くしてない。\n実務クリエイター的な思考になりそうなハーネスを作って、クリエイティブディレクションをちゃんとしただけ。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104878338661892586",
+        "text": "@mikan_919_main @claudeai ありがとうございます！\nOpus味については、自作した秘伝のタレ的なクリエイティブ関連ハーネスが効いてるのかも知れませんね。",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104877628109078869",
+        "text": "@onigirikila @claudeai 素材は一切与えてないんですよね。\n「擬人化🦀が踊ってスパチャ貰いまくるスマホシーンあったら映えね？」的なディレクションで、Grok ImagineのAPI経由で作って持ってきてくれました。優秀！",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104859263885824128",
+        "text": "@yasun_ai @claudeai ありがとうございます〜！\n音楽を先に作らせたのでタイミングシート的なものを参照しながら映像も作ってくれたみたいですね。\n効果音はスペクトルや波形を見ながら視覚と一致する位置に自発的に調整してくれたらしくて、モデル性能のよさに驚きです・・・！",
+        "author": "__gsk__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__gsk__/status/2104850998300958772",
+        "text": "@79yuuki @claudeai サンキュー！\n洒落たものを定義するためのハーネス作りが一番大変だったなー",
+        "author": "__gsk__"
+      },
+      {
+        "url": "https://x.com/__gsk__/status/2104832372164444162",
+        "text": "₲$₭ on X: \"Claude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n₲$₭ on X: \"Claude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。\"\n\n\n\n₲$₭\n\n@__gsk__\n\n\n\n\nShow translation\nClaude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。\n\n\n00:00\n\n\n\n\n\n\n\nClaude\n\n7:15 AM · Sep 29, 2026·136.9K\nViews\n\n\n\n44\n198\n2.9K\n1.6K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n₲$₭@__gsk__Follow\nCreative Director/Technical Artist/Concept Artist/Composer/VJ/設定監修/SFプロトタイピング/進化生物学/数理生物学/ESTP or ISTP\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n₲$₭\n\n@__gsk__\n\n\n\n\nShow translation\nClaude Opus 5.5での制作、完全に理解した。\n映像も音も完全コードベース。\n\n\n00:00\n\n\n\n\n\n\n\nClaude\n\n7:15 AM · Sep 29, 2026·136.9K\nViews\n\n\n\n44\n198\n2.9K\n1.6K\n\n\n\n\n\n\n\n\n\n₲$₭\n\n@__gsk__\n19h\n\n\nAdobe製品やBlenderなどの外部ソフトは一切使ってないし、素材も何も渡してないです。動画編集も全くしてない。\n実務クリエイター的な思考になりそうなハーネスを作って、クリエイティブディレクションをちゃんとしただけ。\n\n\n2\n1\n50\n5.5K\n\n\n\n\n\n\n\n\n\n₲$₭\n\n@__gsk__\n19h\n\n\n最初ハーネス作らずに指示したら、品質は高くても意図とは全く異なるものができたり商業レベルには程遠い低品質だったりしたので、結局ハーネスとディレクションがめっちゃ大事ということが改めてよくわかった。\n\n\n1\n2\n29\n4.3K\n\n\n\n\n\n\n\n\n\n₲$₭\n\n@__gsk__\n5h\n\n\nデザイン・作画・3D・UI・エフェクト・シナリオ・世界観設定・映像制作・DTM・VJ・エンジニア・etc＋クリエイターチームのビルドやディレクション経験で、比較的優秀なハーネス＆エージェントたちが作れた様に思う。もちろん中身のOpus5.5が優秀なのが一番でかいけど！\n\n\n\n\n7\n810\n\n\n\n\n\n\n\n\n\n\n\ncottman\n\n@lfly97786343\n19h\n\n\n真是令人赏心悦目，Opus5.5 强，作者的创意更强！(¯▽¯)👍\n\n\n1\n\n3\n2.3K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "__gsk__"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/__gsk__/status/2104832372164444162",
+  "coverUrl": "https://pbs.twimg.com/media/HTXkRWIbYAAl3QW.jpg",
+  "coverPath": "data/covers/2104832372164444162-wide.jpg",
+  "gifPath": "data/gifs/2104832372164444162.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HTXkRWIbYAAl3QW",
+    "x-post:2104832372164444162"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Code-Based Motion Graphics and Audio Synthesis with Claude Opus 5.5",
+      "summary": "GSK produces a complete 30-second 60fps audiovisual motion piece entirely generated via TypeScript code using Claude Opus 5.5 inside Claude Code, combining custom DSP audio synthesis, 3D voxel animation, and external API asset orchestration.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Author writes 'Claude Opus 5.5での制作、完全に理解した。映像も音も完全コードベース。' and the terminal screen displays 'Claude Code v2.1.283 Opus 5.5 · Claude Enterprise' and 'claude --model claude-opus-5-5'."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "「擬人化🦀が踊ってスパチャ貰いまくるスマホシーンあったら映えね？」",
+        "englishText": "\"Wouldn't it look cool if there was a smartphone scene where an anthropomorphic crab dances and receives tons of super chats?\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Custom creative direction harness source code and prompt architecture",
+          "50+ multi-turn interactive direction prompts",
+          "Exact TypeScript audio DSP synthesizer and video renderer scripts"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 30-second video matches the code-based claim, displaying a terminal session running Claude Opus 5.5 that transitions into 3D voxel animations, design/sound breakdown panels, a smartphone livestream of an anthropomorphic crab, and concludes with 'Rendered 30 s · 1,800 frames from 11,303 lines of TypeScript'.",
+        "textualResultQuote": "Rendered 30 s · 1,800 frames from 11,303 lines of TypeScript."
+      },
+      "inputs": [
+        {
+          "kind": "asset",
+          "description": "Anthropomorphic crab livestream video clip generated via Grok Imagine API",
+          "available": false,
+          "evidence": "「擬人化🦀が踊ってスパチャ貰いまくるスマホシーンあったら映えね？」的なディレクションで、Grok ImagineのAPI経由で作って持ってきてくれました。",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/__gsk__/status/2104877628109078869"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Blender / Adobe Creative Cloud",
+          "role": "External DCC and NLE software",
+          "evidence": "Adobe製品やBlenderなどの外部ソフトは一切使ってないし、素材も何も渡してないです。動画編集も全くしてない。",
+          "status": "prohibited",
+          "sourceUrl": "https://x.com/__gsk__/status/2104884429525332028"
+        },
+        {
+          "name": "Claude Code CLI",
+          "role": "Agentic coding environment running Claude Opus 5.5 with creative direction harness",
+          "evidence": "Video terminal shows 'claude --model claude-opus-5-5' and 'Claude Code v2.1.283 Opus 5.5 · Claude Enterprise'.",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Grok Imagine API",
+          "role": "Asset generation for the in-video smartphone crab livestream scene",
+          "evidence": "Grok ImagineのAPI経由で作って持ってきてくれました。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/__gsk__/status/2104877628109078869"
+        },
+        {
+          "name": "TypeScript",
+          "role": "Synthesizing DSP audio, scheduling 144 BPM Future Bass arrangements, and rendering 1,800 animation frames",
+          "evidence": "TypeScriptの自作DSPで、ノコギリ波の重ね合わせ、フィルタ、エンベロープから音色を合成。144BPM・ヘ長調のフューチャーベースを拍単位の配置データとして書き、EQ、リバーブ、サイドチェイン、リミッターまでコードで処理してWAVに書き出しています。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/__gsk__/status/2104912560348975434"
+        }
+      ],
+      "purpose": {
+        "label": "Creative Coding Motion Graphics & Synth",
+        "topic": "motion-graphics",
+        "tags": [
+          "code-animation",
+          "typescript",
+          "audio-synthesis",
+          "agentic-production",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code generation, audio DSP synthesis programming, scene composition, and external image/video API orchestration",
+      "outputSource": "Custom TypeScript code-based renderer",
+      "divisionEvidence": "Author states: 'Adobe製品やBlenderなどの外部ソフトは一切使ってないし、素材も何も渡してないです。動画編集も全くしてない。実務クリエイター的な思考になりそうなハーネスを作って、クリエイティブディレクションをちゃんとしただけ。'",
+      "video": {
+        "shots": "Multiple dynamic sequence cuts: CLI boot, 3D voxel isometric scene, 2D design panels (Illustration, Animation, Sound), smartphone overlay scene, ASCII art, and terminal credits",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic, high-visibility demonstration of Claude Opus 5.5 orchestrating full code-based audiovisual production (TypeScript rendering and custom audio DSP) without external NLEs.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/__gsk__/status/2104877628109078869",
+        "start": 40,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/__gsk__/status/2104832372164444162",
+        "author": "__gsk__",
+        "postId": "2104832372164444162",
+        "publishedAt": "2026-09-29T07:15:18.000Z"
+      },
+      "checkedAt": "2026-09-30T06:09:37.276Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/__gsk__/status/2104877628109078869",
+        "evidence": ""
+      }
+    },
+    "summary": "GSK produces a complete 30-second 60fps audiovisual motion piece entirely generated via TypeScript code using Claude Opus 5.5 inside Claude Code, combining custom DSP audio synthesis, 3D voxel animation, and external API asset orchestration.",
+    "summaryEn": "Code-Based Motion Graphics and Audio Synthesis with Claude Opus 5.5",
+    "originalPrompt": "「擬人化🦀が踊ってスパチャ貰いまくるスマホシーンあったら映えね？」",
+    "sourceRange": {
+      "start": 40,
+      "end": 74
+    },
+    "translations": {
+      "zh": "「擬人化🦀が踊ってスパチャ貰いまくるスマホシーンあったら映えね？」",
+      "en": "\"Wouldn't it look cool if there was a smartphone scene where an anthropomorphic crab dances and receives tons of super chats?\""
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Creative Coding Motion Graphics & Synth",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Custom creative direction harness source code and prompt architecture",
+        "50+ multi-turn interactive direction prompts",
+        "Exact TypeScript audio DSP synthesizer and video renderer scripts"
+      ],
+      "evidence": "The 30-second video matches the code-based claim, displaying a terminal session running Claude Opus 5.5 that transitions into 3D voxel animations, design/sound breakdown panels, a smartphone livestream of an anthropomorphic crab, and concludes with 'Rendered 30 s · 1,800 frames from 11,303 lines of TypeScript'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

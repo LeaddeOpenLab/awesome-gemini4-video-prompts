@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:57.378Z",
+  "model": "opus5.5",
+  "prompt": "pass it an IG reel and ask it to outline the chords for me",
+  "promptTranslations": {
+    "en": "pass it an IG reel and ask it to outline the chords for me"
+  },
+  "summary": "The author demonstrates using Claude Opus 5.5 to process an Instagram reel of a guitar performance and generate a synchronized chord diagram breakdown alongside the original clip.",
+  "summaryEn": "Automated Guitar Chord Visualization from Video Reel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108329031892713883",
+    "canonicalUrl": "https://x.com/keikumata/status/2108329031892713883",
+    "author": {
+      "username": "keikumata",
+      "displayName": "kei",
+      "profileUrl": "https://x.com/keikumata"
+    },
+    "publishedAt": "2026-10-08T22:49:46.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "opus 5.5 has been a godsend for video generation\n\ni can even pass it an IG reel and ask it to outline the chords for me https://t.co/c8JHzQWtP9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/keikumata/status/2108329031892713883",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108328972157349888/img/EKNaa0cOIyTcGKYB.jpg",
+        "analysisUrl": "https://x.com/keikumata/status/2108329031892713883"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 790
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/keikumata/status/2108329031892713883",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108328972157349888/img/EKNaa0cOIyTcGKYB.jpg",
+  "coverPath": "data/covers/2108329031892713883-wide.jpg",
+  "gifPath": "data/gifs/2108329031892713883.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108328972157349888",
+    "x-post:2108329031892713883"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Automated Guitar Chord Visualization from Video Reel",
+      "summary": "The author demonstrates using Claude Opus 5.5 to process an Instagram reel of a guitar performance and generate a synchronized chord diagram breakdown alongside the original clip.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 has been a godsend for video generation\n\ni can even pass it an IG reel and ask it to outline the chords for me"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "pass it an IG reel and ask it to outline the chords for me",
+        "englishText": "pass it an IG reel and ask it to outline the chords for me",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system instructions",
+          "Full user generation prompt",
+          "Code or video framework rendering the chord overlay"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 53-second video demonstrates an Instagram reel of a guitarist playing on the left alongside dynamically updating guitar fretboard diagrams, fingering markers, chord names, and chord descriptions synchronized in real time on the right.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Instagram reel video of an acoustic guitar performance",
+          "available": false,
+          "evidence": "i can even pass it an IG reel and ask it to outline the chords for me",
+          "sourceUrl": "https://x.com/keikumata/status/2108329031892713883",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Synchronized Guitar Chord Explainer Video",
+        "topic": "explainers",
+        "tags": [
+          "music-education",
+          "guitar-chords",
+          "video-analysis",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Multimodal video analysis of the guitar performance and generation of code/data for synchronized chord chart visualization",
+      "outputSource": "Video rendering/composition engine executing generated animation code",
+      "divisionEvidence": "i can even pass it an IG reel and ask it to outline the chords for me",
+      "video": {
+        "shots": "Split-screen layout with source performance on the left and synchronized fretboard diagrams on the right",
+        "duration": "53s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Demonstrates an authentic Claude Opus 5.5 video production workflow where the model analyzes video and generates synchronized educational motion graphics.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/keikumata/status/2108329031892713883",
+        "start": 61,
+        "end": 119
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/keikumata/status/2108329031892713883",
+        "author": "keikumata",
+        "postId": "2108329031892713883",
+        "publishedAt": "2026-10-08T22:49:46.000Z"
+      },
+      "checkedAt": "2026-10-09T20:49:28.796Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/keikumata/status/2108329031892713883",
+        "evidence": ""
+      }
+    },
+    "summary": "The author demonstrates using Claude Opus 5.5 to process an Instagram reel of a guitar performance and generate a synchronized chord diagram breakdown alongside the original clip.",
+    "summaryEn": "Automated Guitar Chord Visualization from Video Reel",
+    "originalPrompt": "pass it an IG reel and ask it to outline the chords for me",
+    "sourceRange": {
+      "start": 61,
+      "end": 119
+    },
+    "translations": {
+      "zh": "pass it an IG reel and ask it to outline the chords for me",
+      "en": "pass it an IG reel and ask it to outline the chords for me"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Synchronized Guitar Chord Explainer Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system instructions",
+        "Full user generation prompt",
+        "Code or video framework rendering the chord overlay"
+      ],
+      "evidence": "The attached 53-second video demonstrates an Instagram reel of a guitarist playing on the left alongside dynamically updating guitar fretboard diagrams, fingering markers, chord names, and chord descriptions synchronized in real time on the right."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:05.595Z",
+  "model": "opus5.5",
+  "prompt": "make a 20-second video about anything, your call; make it crazy.",
+  "promptTranslations": {
+    "en": "make a 20-second video about anything, your call; make it crazy."
+  },
+  "summary": "Claude Opus 5.5 conceptualized and generated code for a 20-second motion graphics video in Remotion showing a photon's 170,000-year journey from the Sun's core to a human eye, paired with a custom Node-synthesized click soundtrack.",
+  "summaryEn": "Photon Journey Remotion Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104818940467945542",
+    "canonicalUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+    "author": {
+      "username": "apoorvjain25",
+      "displayName": "Apoorv Jain",
+      "profileUrl": "https://x.com/apoorvjain25"
+    },
+    "publishedAt": "2026-09-29T06:21:55.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "I gave Claude Opus 5.5 one prompt: make a 20-second video about anything, your call; make it crazy. It picked a single photon.\n\nThe photon is born in the Sun's core and bounces around for up to 170,000 years before it gets out. Then it takes 8 min 19 s to reach Earth, passing Mercury and Venus at their real light travel times, and ends up aimed at your pupil.\n\nBuilt in Remotion with no stock footage and no images. Everything is drawn in code. The soundtrack is synthesised from scratch by a Node script that reads the same bounce data as the animation, so every bounce you see is a click you hear.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/apoorvjain25/status/2104818940467945542",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104818877846958080/img/zITfTMUNcn0NGLeP.jpg",
+        "analysisUrl": "https://x.com/apoorvjain25/status/2104818940467945542"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 39
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104818877846958080/img/zITfTMUNcn0NGLeP.jpg",
+  "coverPath": "data/covers/2104818940467945542-wide.jpg",
+  "gifPath": "data/gifs/2104818940467945542.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104818877846958080",
+    "x-post:2104818940467945542"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Photon Journey Remotion Animation",
+      "summary": "Claude Opus 5.5 conceptualized and generated code for a 20-second motion graphics video in Remotion showing a photon's 170,000-year journey from the Sun's core to a human eye, paired with a custom Node-synthesized click soundtrack.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "I gave Claude Opus 5.5 one prompt: make a 20-second video about anything, your call; make it crazy."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 20-second video about anything, your call; make it crazy.",
+        "englishText": "make a 20-second video about anything, your call; make it crazy.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remotion project scaffold/environment setup",
+          "Exact system prompts or implementation turns used to generate the Remotion components and Node audio script"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video precisely visualizes the random bounce in the Sun's core over 170,000 years, the light-speed journey past Mercury and Venus to Earth, entering a pupil, and closing with 'YOU BLINKED.' with synchronized audio clicks.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Node.js",
+          "role": "Audio synthesis script execution",
+          "evidence": "The soundtrack is synthesised from scratch by a Node script that reads the same bounce data as the animation",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/apoorvjain25/status/2104818940467945542"
+        },
+        {
+          "name": "Remotion",
+          "role": "Video animation and rendering framework",
+          "evidence": "Built in Remotion with no stock footage and no images. Everything is drawn in code.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/apoorvjain25/status/2104818940467945542"
+        }
+      ],
+      "purpose": {
+        "label": "Photon Journey Remotion Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "remotion",
+          "creative-coding",
+          "physics",
+          "procedural-audio",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 conceptualized the photon narrative and wrote the Remotion rendering code and Node audio synthesis script.",
+      "outputSource": "Remotion programmatic canvas renderer and Node.js audio synthesis",
+      "divisionEvidence": "I gave Claude Opus 5.5 one prompt... Built in Remotion with no stock footage and no images. Everything is drawn in code. The soundtrack is synthesised from scratch by a Node script",
+      "video": {
+        "shots": "Sequence tracking photon core absorption, random walk escape, interplanetary transit past Mercury and Venus, atmospheric entry, and eye blink",
+        "duration": "00:20",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase demonstrating creative direction, procedural Remotion animation code, and synchronized Node audio generation with the complete resulting video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/apoorvjain25/status/2104818940467945542",
+        "start": 35,
+        "end": 99
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/apoorvjain25/status/2104818940467945542",
+        "author": "apoorvjain25",
+        "postId": "2104818940467945542",
+        "publishedAt": "2026-09-29T06:21:55.000Z"
+      },
+      "checkedAt": "2026-09-30T06:00:37.948Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 conceptualized and generated code for a 20-second motion graphics video in Remotion showing a photon's 170,000-year journey from the Sun's core to a human eye, paired with a custom Node-synthesized click soundtrack.",
+    "summaryEn": "Photon Journey Remotion Animation",
+    "originalPrompt": "make a 20-second video about anything, your call; make it crazy.",
+    "sourceRange": {
+      "start": 35,
+      "end": 99
+    },
+    "translations": {
+      "zh": "make a 20-second video about anything, your call; make it crazy.",
+      "en": "make a 20-second video about anything, your call; make it crazy."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Photon Journey Remotion Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remotion project scaffold/environment setup",
+        "Exact system prompts or implementation turns used to generate the Remotion components and Node audio script"
+      ],
+      "evidence": "The video precisely visualizes the random bounce in the Sun's core over 170,000 years, the light-speed journey past Mercury and Venus to Earth, entering a pupil, and closing with 'YOU BLINKED.' with synchronized audio clicks."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

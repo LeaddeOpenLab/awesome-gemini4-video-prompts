@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:08.116Z",
+  "model": "opus5.5",
+  "prompt": "Create a dynamic 30-second motion graphics video showing how great of a motion designer you are, as if this were a portfolio piece for your resume. Go all out.",
+  "promptTranslations": {
+    "en": "Create a dynamic 30-second motion graphics video showing how great of a motion designer you are, as if this were a portfolio piece for your resume. Go all out."
+  },
+  "summary": "Author prompts Claude Opus 5.5 to generate a full 30-second motion graphics portfolio showreel complete with animation, visual design, and audio.",
+  "summaryEn": "Opus 5.5 30-Second Motion Designer Portfolio Reel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104903820639633895",
+    "canonicalUrl": "https://x.com/MirrortekUK/status/2104903820639633895",
+    "author": {
+      "username": "MirrortekUK",
+      "displayName": "英格兰AI哥",
+      "profileUrl": "https://x.com/MirrortekUK"
+    },
+    "publishedAt": "2026-09-29T11:59:12.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "吓哭[泪奔]，Opus 5.5 的视频动画能力太强了。这个 30s 的视频，只用了一句 Prompt：\n\n制作一段动态的 30 秒动态图形视频，展示你是一位多么出色的动态设计师，就好像这是你简历中的作品集。全力以赴。\n\n然后这个片子里面所有的元素、配乐、设计，都是 Opus 5.5 自己生成的。\n\n大约花费了 25 分钟，和 1/4 的 Pro Plan（20u 每月）额度。🥲🥲🥲\n\n因为这几个月我一直在拿 AI 剪辑视频，所以对模型的发展有非常直观的感受，大概 1 个月前，想要制作转场的动态效果，还需要给到关键帧的参考，还要逐帧调整细节。\n\n现在，几乎只需要 Prompt 了…",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MirrortekUK/status/2104903820639633895",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTYeyAIXQAAWcHw.jpg",
+        "analysisUrl": "https://x.com/MirrortekUK/status/2104903820639633895"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 97
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/MirrortekUK/status/2104903820639633895",
+  "coverUrl": "https://pbs.twimg.com/media/HTYeyAIXQAAWcHw.jpg",
+  "coverPath": "data/covers/2104903820639633895-wide.jpg",
+  "gifPath": "data/gifs/2104903820639633895.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104903720567717888",
+    "x-image:/media/HTYeyAIXQAAWcHw",
+    "x-post:2104903820639633895"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 30-Second Motion Designer Portfolio Reel",
+      "summary": "Author prompts Claude Opus 5.5 to generate a full 30-second motion graphics portfolio showreel complete with animation, visual design, and audio.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Pro Plan",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 的视频动画能力太强了...和 1/4 的 Pro Plan（20u 每月）额度。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "制作一段动态的 30 秒动态图形视频，展示你是一位多么出色的动态设计师，就好像这是你简历中的作品集。全力以赴。",
+        "englishText": "Create a dynamic 30-second motion graphics video showing how great of a motion designer you are, as if this were a portfolio piece for your resume. Go all out.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Runtime code execution environment",
+          "Audio rendering and synthesis pipeline"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Attached video matches the 30-second portfolio reel requirement with motion typography, easing charts, generative particles, and UI animations branded for Claude.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Opus 5.5 Bundled Media Engine",
+          "role": "Motion graphics rendering and audio synthesis",
+          "evidence": "然后这个片子里面所有的元素、配乐、设计，都是 Opus 5.5 自己生成的。",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/MirrortekUK/status/2104903820639633895"
+        }
+      ],
+      "purpose": {
+        "label": "Motion Graphics Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "showreel",
+          "portfolio",
+          "kinetic-typography",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "End-to-end concept generation, code orchestration, and motion graphic styling.",
+      "outputSource": "Claude Opus 5.5 environment",
+      "divisionEvidence": "Author claims: 制作一段动态的 30 秒动态图形视频...然后这个片子里面所有的元素、配乐、设计，都是 Opus 5.5 自己生成的。",
+      "video": {
+        "shots": "Multi-shot showcase featuring kinetic typography, curves, particle systems, and UI demos",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 motion graphics animation generation with matching video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/MirrortekUK/status/2104903820639633895",
+        "start": 53,
+        "end": 108
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/MirrortekUK/status/2104903820639633895",
+        "author": "MirrortekUK",
+        "postId": "2104903820639633895",
+        "publishedAt": "2026-09-29T11:59:12.000Z"
+      },
+      "checkedAt": "2026-09-30T05:19:41.727Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/MirrortekUK/status/2104903820639633895",
+        "evidence": ""
+      }
+    },
+    "summary": "Author prompts Claude Opus 5.5 to generate a full 30-second motion graphics portfolio showreel complete with animation, visual design, and audio.",
+    "summaryEn": "Opus 5.5 30-Second Motion Designer Portfolio Reel",
+    "originalPrompt": "制作一段动态的 30 秒动态图形视频，展示你是一位多么出色的动态设计师，就好像这是你简历中的作品集。全力以赴。",
+    "sourceRange": {
+      "start": 53,
+      "end": 108
+    },
+    "translations": {
+      "zh": "制作一段动态的 30 秒动态图形视频，展示你是一位多么出色的动态设计师，就好像这是你简历中的作品集。全力以赴。",
+      "en": "Create a dynamic 30-second motion graphics video showing how great of a motion designer you are, as if this were a portfolio piece for your resume. Go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Motion Graphics Showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Runtime code execution environment",
+        "Audio rendering and synthesis pipeline"
+      ],
+      "evidence": "Attached video matches the 30-second portfolio reel requirement with motion typography, easing charts, generative particles, and UI animations branded for Claude."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

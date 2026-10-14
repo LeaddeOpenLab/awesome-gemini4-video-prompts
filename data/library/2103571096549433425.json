@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:08:11.403Z",
+  "model": "opus5.5",
+  "prompt": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+  "promptTranslations": {
+    "en": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code."
+  },
+  "summary": "A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.",
+  "summaryEn": "Sprites Product Promo UI Motion Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103571096549433425",
+    "canonicalUrl": "https://x.com/AnnaCher___/status/2103571096549433425",
+    "author": {
+      "username": "AnnaCher___",
+      "displayName": "Anna Cher",
+      "profileUrl": "https://x.com/AnnaCher___"
+    },
+    "publishedAt": "2026-09-25T19:43:26.000Z",
+    "collectedAt": "2026-09-28T08:06:41.588Z",
+    "language": "en",
+    "originalText": "Made this promo for Sprites in one shot with Opus 5.5.\n\nNo After Effects, no Figma. One HTML file where every frame is a function of time, rendered with Playwright, with UI sounds generated in code.\n\nReal ads from our Ads Library, real platform logos.\n\nPrompt below ↓ https://t.co/jQ3VT3jtv9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AnnaCher___/status/2103571096549433425",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103570995806375936/img/sleoZ_IcPyEwLMh-.jpg",
+        "analysisUrl": "https://x.com/AnnaCher___/status/2103571096549433425"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 2,
+      "viewCount": 1195
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AnnaCher___/status/2103571098638152174",
+        "text": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+        "author": "AnnaCher___"
+      },
+      {
+        "url": "https://x.com/AnnaCher___/status/2103571096549433425",
+        "text": "Anna Cher on X: \"Made this promo for Sprites in one shot with Opus 5.5.\n\nNo After Effects, no Figma. One HTML file where every frame is a function of time, rendered with Playwright, with UI sounds generated in code.\n\nReal ads from our Ads Library, real platform logos.\n\nPrompt below ↓\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAnna Cher on X: \"Made this promo for Sprites in one shot with Opus 5.5.\n\nNo After Effects, no Figma. One HTML file where every frame is a function of time, rendered with Playwright, with UI sounds generated in code.\n\nReal ads from our Ads Library, real platform logos.\n\nPrompt below ↓\"\n\n\n\nAnna Cher\n\n@AnnaCher___\n\n\n\n\nMade this promo for Sprites in one shot with Opus 5.5.\n\nNo After Effects, no Figma. One HTML file where every frame is a function of time, rendered with Playwright, with UI sounds generated in code.\n\nReal ads from our Ads Library, real platform logos.\n\nPrompt below ↓\n\n\n00:00\n\n\n\n\n\n\n\n\n7:43 PM · Sep 25, 2026·1,195\nViews\n\n\n\n3\n\n9\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAnna Cher@AnnaCher___Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnna Cher\n\n@AnnaCher___\n\n\n\n\nMade this promo for Sprites in one shot with Opus 5.5.\n\nNo After Effects, no Figma. One HTML file where every frame is a function of time, rendered with Playwright, with UI sounds generated in code.\n\nReal ads from our Ads Library, real platform logos.\n\nPrompt below ↓\n\n\n00:00\n\n\n\n\n\n\n\n\n7:43 PM · Sep 25, 2026·1,195\nViews\n\n\n\n3\n\n9\n9\n\n\n\n\n\n\n\n\n\nAnna Cher\n\n@AnnaCher___\nSep 25\n\n\nAnalyze sprites.ai and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor Show more\n\n\nSprites: AI Agents for Ads and Marketing Automation\n\n\nFrom sprites.ai\n\n\n\n\n\n4\n171\n\n\n\n\n\n\n\n\n\n\n\nSiamak Freydoonnejad\n\n@siamakfr\nSep 25\n\n\nNow this is actually INSANE\n\n\n\n\n3\n29\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "AnnaCher___"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/iwvpYlgJ4A"
+    ]
+  },
+  "xUrl": "https://x.com/AnnaCher___/status/2103571096549433425",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103570995806375936/img/sleoZ_IcPyEwLMh-.jpg",
+  "coverPath": "data/covers/2103571096549433425-wide.jpg",
+  "gifPath": "data/gifs/2103571096549433425.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103570995806375936",
+    "x-post:2103571096549433425"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Sprites Product Promo UI Motion Prompt",
+      "summary": "A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Made this promo for Sprites in one shot with Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+        "englishText": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/AnnaCher___/status/2103571096549433425",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AnnaCher___/status/2103571098638152174",
+        "start": 0,
+        "end": 2331
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AnnaCher___/status/2103571096549433425",
+        "author": "AnnaCher___",
+        "postId": "2103571096549433425",
+        "publishedAt": "2026-09-25T19:43:26.000Z"
+      },
+      "checkedAt": "2026-09-28T08:07:35.357Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+        "evidence": ""
+      }
+    },
+    "summary": "A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.",
+    "summaryEn": "Sprites Product Promo UI Motion Prompt",
+    "originalPrompt": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+    "sourceRange": {
+      "start": 0,
+      "end": 2331
+    },
+    "translations": {
+      "zh": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code.",
+      "en": "Analyze https://t.co/iwvpYlgJ4A and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.\nBanned: bouncy easing, particles, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something on every beat.\nConnect ad account (Meta, Google, LinkedIn, TikTok, Reddit logos) → loader → check → prompt bar types \"Launch ads that convert\" → island \"Researching 42 competitors\" → Ads Library wall of real ads scrolls and lands on a top performer → approval card → Approve & launch → budget slider that stretches past max → Autopilot toggle → knob becomes a liquid tab indicator across channels → ROAS chart draws itself with hover tooltip → ⌘K → type \"pause\" → toast \"Paused 3 losing ads\" → back to the button.\n</structure>\n\n<build>\n1. One HTML file, 1440x1440. Every style is computed inside seek(t): no CSS transitions, no timers, no state between frames.\n2. Springs are closed-form step responses. A value that changes target many times is a sum of springs, so it stays a pure function of time.\n3. Tab indicator and toggle knob: the two edges ride different springs, so the leading edge stretches ahead.\n4. Drags are direct manipulation: while held, the value follows the cursor. On release it springs back from wherever it was.\n5. No music. Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat first. Fix anything off-grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNo will-change on anything the camera scales. Swapped text needs its own enter/exit timing. Match the last frame to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\nShow me the state list on the beat grid before writing any code."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:43.944Z",
+  "model": "opus5.5",
+  "prompt": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+  "promptTranslations": {
+    "en": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render."
+  },
+  "summary": "A prompt and iterative follow-up instructions given to Claude Opus to code and render an animated music video filled with AI lore and safety references for the song 'I am actually scared of linear algebra'.",
+  "summaryEn": "Animated Music Video Prompt for Claude Opus",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2040177661213921389",
+      "canonicalUrl": "https://x.com/AndyMasley/status/2040177661213921389",
+      "author": {
+        "username": "AndyMasley",
+        "displayName": "Andy Masley",
+        "profileUrl": "https://x.com/AndyMasley"
+      },
+      "originalText": "Suno just released a new model and I'm finding it to be a big shocking improvement where it's becoming very hard to detect the hints that it's AI music. Here's \"I am actually scared of linear algebra\" https://t.co/3LuhKhj8cU"
+    },
+    "id": "2103697580421181894",
+    "canonicalUrl": "https://x.com/doubleunplussed/status/2103697580421181894",
+    "author": {
+      "username": "doubleunplussed",
+      "displayName": "doubleunplussed",
+      "profileUrl": "https://x.com/doubleunplussed"
+    },
+    "publishedAt": "2026-09-26T04:06:02.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "Music video for \"I am actually scared of linear algebra\" animated by Claude Opus 5.5.\n\nI'm sure this is partly the IKEA effect but I'm very happy with the result, love it!\n\nOriginal song by Suno, Claude and @AndyMasley \n\nPrompt below https://t.co/m6tCoygSRQ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/doubleunplussed/status/2103697580421181894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103695379518967808/img/alJRSYjzfcpeX99w.jpg",
+        "analysisUrl": "https://x.com/doubleunplussed/status/2103697580421181894"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/doubleunplussed/status/2103697580421181894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2040177525494788097/img/gJvXzoIQfYGcN6Ap.jpg",
+        "analysisUrl": "https://x.com/doubleunplussed/status/2103697580421181894",
+        "sourcePostId": "2040177661213921389"
+      }
+    ],
+    "metrics": {
+      "likeCount": 146,
+      "repostCount": 20,
+      "replyCount": 10,
+      "quoteCount": 8,
+      "viewCount": 30688
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/doubleunplussed/status/2103760293356859593",
+        "text": "@AndyMasley YouTube links:\n\nOriginal:\nhttps://t.co/kAAHEPW40u\n\nPunk version:\nhttps://t.co/9r3Dx8UNMI",
+        "author": "doubleunplussed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/doubleunplussed/status/2103701042655576131",
+        "text": "@AndyMasley For sure, though FWIW I think this is the better version!\n\nShould take like an hour, will QT your tweet of the punk version when it's done.",
+        "author": "doubleunplussed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/doubleunplussed/status/2103698480258789456",
+        "text": "The prompt being riddled with typos and me running it in a randomly-named repo is because I started it on my phone and found what looked like an empty repo on my GitHub for some reason, and just used that. But the rendering was slow in the cloud environment so I resumed it later on Claude Code on my laptop.",
+        "author": "doubleunplussed"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/doubleunplussed/status/2103697584846238026",
+        "text": "Original prompt and followups (there was some technically difficulties since I started it in a cloud environment, leaving out extra prompts around resolving that):\n\n----\n\nI'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+        "author": "doubleunplussed"
+      },
+      {
+        "url": "https://x.com/doubleunplussed/status/2103697580421181894",
+        "text": "doubleunplussed on X: \"Music video for \"I am actually scared of linear algebra\" animated by Claude Opus 5.5.\n\nI&#x27;m sure this is partly the IKEA effect but I&#x27;m very happy with the result, love it!\n\nOriginal song by Suno, Claude and @AndyMasley \n\nPrompt below\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\ndoubleunplussed on X: \"Music video for \"I am actually scared of linear algebra\" animated by Claude Opus 5.5.\n\nI&#x27;m sure this is partly the IKEA effect but I&#x27;m very happy with the result, love it!\n\nOriginal song by Suno, Claude and @AndyMasley \n\nPrompt below\"\n\n\n\ndoubleunplussed\n\n@doubleunplussed\n\n\n\n\nMusic video for \"I am actually scared of linear algebra\" animated by Claude Opus 5.5.\n\nI&#x27;m sure this is partly the IKEA effect but I&#x27;m very happy with the result, love it!\n\nOriginal song by Suno, Claude and @AndyMasley \n\nPrompt below\n\n\n00:00\n\n\n\n\n\n\n\n\nAndy Masley\n\n@AndyMasley\nApr 3\n\nSuno just released a new model and I&#x27;m finding it to be a big shocking improvement where it&#x27;s becoming very hard to detect the hints that it&#x27;s AI music. Here&#x27;s \"I am actually scared of linear algebra\"\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n4:06 AM · Sep 26, 2026·30.6K\nViews\n\n\n\n10\n20\n146\n117\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\ndoubleunplussed@doubleunplussedFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\ndoubleunplussed\n\n@doubleunplussed\n\n\n\n\nMusic video for \"I am actually scared of linear algebra\" animated by Claude Opus 5.5.\n\nI&#x27;m sure this is partly the IKEA effect but I&#x27;m very happy with the result, love it!\n\nOriginal song by Suno, Claude and @AndyMasley \n\nPrompt below\n\n\n00:00\n\n\n\n\n\n\n\n\nAndy Masley\n\n@AndyMasley\nApr 3\n\nSuno just released a new model and I&#x27;m finding it to be a big shocking improvement where it&#x27;s becoming very hard to detect the hints that it&#x27;s AI music. Here&#x27;s \"I am actually scared of linear algebra\"\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n4:06 AM · Sep 26, 2026·30.6K\nViews\n\n\n\n10\n20\n146\n117\n\n\n\n\n\n\n\n\n\ndoubleunplussed\n\n@doubleunplussed\nSep 26\n\n\nAnd the punk version!\n\nx.com/AndyMasley/sta…\n\n\n\n00:00\n\n\n\n\n\n\n\n\nAndy Masley\n\n@AndyMasley\nApr 3\n\nReplying to @AndyMasley\nPunk version youtube.com/watch?v=lonR5R…\n\n\n\n\n\n\n1\n3\n20\n4.6K\n\n\n\n\n\n\n\n\n\n\n\ndoubleunplussed\n\n@doubleunplussed\nSep 26\n\n\nOriginal prompt and followups (there was some technically difficulties since I started it in a cloud environment, leaving out extra prompts around resolving that):\n\n----\n\nI&#x27;d like you to make a music video in a similar style to this one:\n\ngithub.com/JohnHeibel/PDo…\n\nTo this song: Show more\n\n\nGitHub - JohnHeibel/PDoomVideo: Source code for the Claude Opus 5.5 music video for I&#x27;m Upping My...\n\n\nFrom github.com\n\n\n\n1\n1\n7\n548\n\n\n\n\n\n\n\n\n\ndoubleunplussed\n\n@doubleunplussed\nSep 26\n\n\nThe prompt being riddled with typos and me running it in a randomly-named repo is because I started it on my phone and found what looked like an empty repo on my GitHub for some reason, and just used that. But the rendering was slow in the cloud environment so I resumed it later Show more\n\n\n\n\n1\n257\n\n\n\n\n\n\n\n\n\n\n\ndoubleunplussed\n\n@doubleunplussed\nSep 26\n\n\nYouTube links:\n\nOriginal:\nyoutube.com/watch?v=ch6N6k…\n\nPunk version:\nyoutube.com/watch?v=4V5vUj…\n\n\n\n\nyoutube.com\nI am Actually Scared of Linear Algebra - Claude Opus 5.5 animated...\nMusic video for \"I am actually scared of linear algebra\" animated b...\n\n\n\n\n\n1\n203\n\n\n\n\n\n\n\n\n\n\n\nHeiko Dietze\n\n@heiko_dietze\n13h\n\n\nNot just the IKEA effect, the chart agrees: “I am actually scared of linear algebra” is #12 on the first SlopHits Top 20.\n\n\n\n\n\n\n\n\n2\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "doubleunplussed"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/kAAHEPW40u",
+      "public_material_unavailable:https://t.co/9r3Dx8UNMI",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/doubleunplussed/status/2103697580421181894",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103695379518967808/img/alJRSYjzfcpeX99w.jpg",
+  "coverPath": "data/covers/2103697580421181894-wide.jpg",
+  "gifPath": "data/gifs/2103697580421181894.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103695379518967808",
+    "x-video:2040177525494788097",
+    "x-post:2103697580421181894",
+    "x-post:2040177661213921389"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Animated Music Video Prompt for Claude Opus",
+      "summary": "A prompt and iterative follow-up instructions given to Claude Opus to code and render an animated music video filled with AI lore and safety references for the song 'I am actually scared of linear algebra'.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+        "englishText": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "reference_video",
+          "description": "Reference MV",
+          "evidence": "https://t.co/Yl2Awyusca",
+          "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+          "origin": "user",
+          "available": false
+        },
+        {
+          "kind": "audio",
+          "description": "Song",
+          "evidence": "https://t.co/hUE51reWBk",
+          "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+          "origin": "user",
+          "available": false
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/doubleunplussed/status/2103697580421181894",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/doubleunplussed/status/2103697584846238026",
+        "start": 171,
+        "end": 2337
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/doubleunplussed/status/2103697580421181894",
+        "author": "doubleunplussed",
+        "postId": "2103697580421181894",
+        "publishedAt": "2026-09-26T04:06:02.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:58.840Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "2026-09-30 link check: reference MV short link resolves to https://github.com/JohnHeibel/PDoomVideo (HTTP 200); song resolves to https://www.youtube.com/watch?v=cobZuBii0Z0 (HTTP 200). Page access only; media playback/download not verified."
+        ],
+        "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+        "evidence": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens."
+      },
+      "purpose": {
+        "label": "Motion graphics / music videos",
+        "topic": "motion-graphics",
+        "tags": [
+          "music-video"
+        ]
+      }
+    },
+    "summary": "A prompt and iterative follow-up instructions given to Claude Opus to code and render an animated music video filled with AI lore and safety references for the song 'I am actually scared of linear algebra'.",
+    "summaryEn": "Animated Music Video Prompt for Claude Opus",
+    "originalPrompt": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+    "sourceRange": {
+      "start": 171,
+      "end": 2337
+    },
+    "translations": {
+      "zh": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render.",
+      "en": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens...\", you might depict a \"stochastic parrot\". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predicting tokens (though you might do that too. Use your judgement! The video should be fun to watch for someone well steeped in AI and AI safety lore and discourse, and who Wille wcognise relevant pop culture and literary or historical references)\n\nI don't know how this ultimately results in a video file - I know the linked repo animates a video with JavaScript or something - but I ultimately want a rendered video file.\n\nFeel free to choose your tools, be creative, and exercise your own taste.\n\nThis repo \"fdsgdg\" appears to be have been accidentally created, but it's empty and we can use it for this, I can rename it afterwards.\n\nAlso, clip the final two beats from the audio.rught at the end, after \"then why does it talk back\" they are after the song has finished and sound bad.\n\nCredit the song to Suno and whatever Claude Opus model was the latest at the time of the YouTube upload, as prompted by Andy Masely (Andy printed Claude to write the lyrics, and Suno for the music), and credit the video to yourself.\n\nAnd have fun!\n\n----\n\nA style change - don't make Dr. Null's mouth wobble with the lyrics as if he's singing, it doesn't\n  actually look like he's singing, just that the curcle of his mouth is jittery. Best to just not\n  make him be singing. Make him just have appropriate expressions for the scenes, and not be singing\n  the song.\n\n----\n\nDr. Null's arms look a bit unnatural in many scenes - I think he's supposed to be holding\n  his hand on his face in shock or something, but it looks like it is a mistake. Can you make it look\n  more natural? If you do so and like the result, re-render."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / music videos",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

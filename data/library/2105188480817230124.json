@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:10:59.604Z",
+  "model": "opus5.5",
+  "prompt": "/brag",
+  "promptTranslations": {
+    "en": "/brag"
+  },
+  "summary": "Launch video for the Sweeply CLI tool demonstrating disk cleanup and git safety status, generated with Claude Opus 5.5 and the /brag command from the code repository.",
+  "summaryEn": "Sweeply CLI Launch Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105188480817230124",
+    "canonicalUrl": "https://x.com/ElforaDev/status/2105188480817230124",
+    "author": {
+      "username": "ElforaDev",
+      "displayName": "Fora Delgado",
+      "profileUrl": "https://x.com/ElforaDev"
+    },
+    "publishedAt": "2026-09-30T06:50:20.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "opus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what's safe.\n https://t.co/A3VdZDb880\nhttps://t.co/fynqjoTVRP https://t.co/wiXqP88GgC",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ElforaDev/status/2105188480817230124",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105187000164732928/img/lySsBKFlpeGSjpja.jpg",
+        "analysisUrl": "https://x.com/ElforaDev/status/2105188480817230124"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 39
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ElforaDev/status/2105188480817230124",
+        "text": "Fora Delgado on X: \"opus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what&#x27;s safe.\n https://t.co/A3VdZDb880\nhttps://t.co/fynqjoTVRP\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nFora Delgado on X: \"opus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what&#x27;s safe.\n https://t.co/A3VdZDb880\nhttps://t.co/fynqjoTVRP\"\n\n\n\nFora Delgado\n@ElforaDev\n\n\n\n\nopus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what&#x27;s safe.\n github.com/Foralitos/swee…\nnpmjs.com/package/sweeply\n\n\n00:00\n\n\n\n\n\n\n\n\n6:50 AM · Sep 30, 2026·39\nViews\n\n\n\n3\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nFora Delgado@ElforaDevFollow\nFounder Sport Metrics  • Web developer • Indie maker\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFora Delgado\n@ElforaDev\n\n\n\n\nopus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what&#x27;s safe.\n github.com/Foralitos/swee…\nnpmjs.com/package/sweeply\n\n\n00:00\n\n\n\n\n\n\n\n\n6:50 AM · Sep 30, 2026·39\nViews\n\n\n\n3\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ElforaDev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/A3VdZDb880",
+      "public_material_unavailable:https://t.co/fynqjoTVRP"
+    ]
+  },
+  "xUrl": "https://x.com/ElforaDev/status/2105188480817230124",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105187000164732928/img/lySsBKFlpeGSjpja.jpg",
+  "coverPath": "data/covers/2105188480817230124-wide.jpg",
+  "gifPath": "data/gifs/2105188480817230124.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105187000164732928",
+    "x-post:2105188480817230124"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Sweeply CLI Launch Explainer Video",
+      "summary": "Launch video for the Sweeply CLI tool demonstrating disk cleanup and git safety status, generated with Claude Opus 5.5 and the /brag command from the code repository.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 + /brag made this launch video for sweeply from the repo alone."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "/brag",
+        "englishText": "/brag",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Repository source files and metadata passed to Claude",
+          "Full command definition or prompt context for /brag",
+          "Animation engine configuration and render script"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 30-second motion graphics video visualizes project folders, terminal commands, git traffic-light statuses, and file cleanup for the sweeply tool.",
+        "textualResultQuote": "opus 5.5 + /brag made this launch video for sweeply from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them, with a git light so you know what's safe."
+      },
+      "inputs": [
+        {
+          "kind": "code_repository",
+          "description": "Sweeply open-source project repository containing project context and functionality",
+          "available": false,
+          "evidence": "from the repo alone. sweeply finds the node_modules, .next, venv and dist rotting in your old projects and deletes them",
+          "sourceUrl": "https://github.com/Foralitos/sweeply",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "/brag",
+          "role": "Agent slash command or workflow skill that generates promotional launch videos from repository code",
+          "evidence": "opus 5.5 + /brag made this launch video for sweeply from the repo alone.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/ElforaDev/status/2105188480817230124"
+        }
+      ],
+      "purpose": {
+        "label": "CLI Tool Launch Explainer",
+        "topic": "explainers",
+        "tags": [
+          "motion-graphics",
+          "product-launch",
+          "cli-tool",
+          "developer-tools",
+          "explainer"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 analyzed the repository and orchestrated the motion graphic script and video structure via the /brag command.",
+      "outputSource": "Video rendered from code generated or orchestrated by Claude Opus 5.5.",
+      "divisionEvidence": "opus 5.5 + /brag made this launch video for sweeply from the repo alone.",
+      "video": {
+        "shots": "Sequence of motion graphic titles, animated folder badge pile, simulated terminal execution, git-status traffic light callouts, and ending product card",
+        "duration": "00:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 agentic video production from a project codebase, verified with attached motion graphics launch video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ElforaDev/status/2105188480817230124",
+        "start": 11,
+        "end": 16
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ElforaDev/status/2105188480817230124",
+        "author": "ElforaDev",
+        "postId": "2105188480817230124",
+        "publishedAt": "2026-09-30T06:50:20.000Z"
+      },
+      "checkedAt": "2026-09-30T08:39:48.844Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ElforaDev/status/2105188480817230124",
+        "evidence": ""
+      }
+    },
+    "summary": "Launch video for the Sweeply CLI tool demonstrating disk cleanup and git safety status, generated with Claude Opus 5.5 and the /brag command from the code repository.",
+    "summaryEn": "Sweeply CLI Launch Explainer Video",
+    "originalPrompt": "/brag",
+    "sourceRange": {
+      "start": 11,
+      "end": 16
+    },
+    "translations": {
+      "zh": "/brag",
+      "en": "/brag"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "CLI Tool Launch Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Repository source files and metadata passed to Claude",
+        "Full command definition or prompt context for /brag",
+        "Animation engine configuration and render script"
+      ],
+      "evidence": "The 30-second motion graphics video visualizes project folders, terminal commands, git traffic-light statuses, and file cleanup for the sweeply tool."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

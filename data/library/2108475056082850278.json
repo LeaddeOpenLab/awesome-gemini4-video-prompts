@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:09.620Z",
+  "model": "opus5.5",
+  "prompt": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian",
+  "promptTranslations": {
+    "en": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian"
+  },
+  "summary": "Maker Evan evaluates Claude Opus 5.5 against GPT-6 Astra on generating an interactive 3D visual presentation of an AH-64E Apache Guardian helicopter with custom camera angles, lighting modes, and spec overlays.",
+  "summaryEn": "AH-64E Apache Guardian Interactive 3D Presentation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108475056082850278",
+    "canonicalUrl": "https://x.com/maker_evan/status/2108475056082850278",
+    "author": {
+      "username": "maker_evan",
+      "displayName": "Maker Evan",
+      "profileUrl": "https://x.com/maker_evan"
+    },
+    "publishedAt": "2026-10-09T08:30:01.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "en",
+    "originalText": "Same prompt, 2 models 🚁\n\n\"Create a detailed visual 3D presentation of an AH-64E Apache Guardian\"\n\nClaude Opus 5.5 · ~$2.42 · 27 min\nGPT-6 Astra · ~$5.40 · 23 min\n(~ = API-price estimate)\n\nWhich one looks combat-ready? 👇\nhttps://t.co/j8Cl0dHOC3 https://t.co/bVjMJ52DGT",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/maker_evan/status/2108475056082850278",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108456490931757056/img/-6_KMXSmRh3iOUOw.jpg",
+        "analysisUrl": "https://x.com/maker_evan/status/2108475056082850278"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://evals.ag/runs/run_465HH8G9H2ZM3N20M38A83BH3A",
+        "text": "\nSkip to contentEvalsNew runRecent Runs\n\nLoading runs…\n\n\nFor LabsAccount\n\n\n\n\n✳Opening the run…\nA\n\n\nB\n\n\n\n\n\n\n\n\nCreate a detailed visual 3D presentation of an… — Evals\n\n",
+        "kind": "linked_public_material",
+        "author": "maker_evan"
+      },
+      {
+        "url": "https://x.com/maker_evan/status/2108475056082850278",
+        "text": "Maker Evan on X: \"Same prompt, 2 models 🚁\n\n\"Create a detailed visual 3D presentation of an AH-64E Apache Guardian\"\n\nClaude Opus 5.5 · ~$2.42 · 27 min\nGPT-6 Astra · ~$5.40 · 23 min\n(~ = API-price estimate)\n\nWhich one looks combat-ready? 👇\nhttps://t.co/j8Cl0dHOC3\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nMaker Evan on X: \"Same prompt, 2 models 🚁\n\n\"Create a detailed visual 3D presentation of an AH-64E Apache Guardian\"\n\nClaude Opus 5.5 · ~$2.42 · 27 min\nGPT-6 Astra · ~$5.40 · 23 min\n(~ = API-price estimate)\n\nWhich one looks combat-ready? 👇\nhttps://t.co/j8Cl0dHOC3\"\n\n\n\nMaker Evan\n\n@maker_evan\n\n\n\n\nSame prompt, 2 models 🚁\n\n\"Create a detailed visual 3D presentation of an AH-64E Apache Guardian\"\n\nClaude Opus 5.5 · ~$2.42 · 27 min\nGPT-6 Astra · ~$5.40 · 23 min\n(~ = API-price estimate)\n\nWhich one looks combat-ready? 👇\nevals.ag/runs/run_465HH…\n\n\n00:00\n\n\n\n\n\n\n\n\n8:30 AM · Oct 9, 2026·35\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMaker Evan@maker_evanFollow\nAI videos, interactive demos & the revisions behind them. Building Evals. Follow for real outputs + free Claude Code / Codex skills.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaker Evan\n\n@maker_evan\n\n\n\n\nSame prompt, 2 models 🚁\n\n\"Create a detailed visual 3D presentation of an AH-64E Apache Guardian\"\n\nClaude Opus 5.5 · ~$2.42 · 27 min\nGPT-6 Astra · ~$5.40 · 23 min\n(~ = API-price estimate)\n\nWhich one looks combat-ready? 👇\nevals.ag/runs/run_465HH…\n\n\n00:00\n\n\n\n\n\n\n\n\n8:30 AM · Oct 9, 2026·35\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "maker_evan"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/maker_evan/status/2108475056082850278",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108456490931757056/img/-6_KMXSmRh3iOUOw.jpg",
+  "coverPath": "data/covers/2108475056082850278-wide.jpg",
+  "gifPath": "data/gifs/2108475056082850278.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108456490931757056",
+    "x-post:2108475056082850278"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AH-64E Apache Guardian Interactive 3D Presentation",
+      "summary": "Maker Evan evaluates Claude Opus 5.5 against GPT-6 Astra on generating an interactive 3D visual presentation of an AH-64E Apache Guardian helicopter with custom camera angles, lighting modes, and spec overlays.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Opus 5.5 · ~$2.42 · 27 min\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian",
+        "englishText": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates the interactive 3D model produced by Claude Opus 5.5, including real-time rotor animation, camera perspective toggles, lighting controls, and tactical telemetry callouts.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Interactive 3D Web Canvas",
+          "role": "Real-time rendering engine displaying the 3D helicopter mesh, lighting environments, and interactive UI",
+          "evidence": "Screen recording UI shows live orbit controls, camera views, RPM controls, and lighting toggles.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "AH-64E Apache Guardian 3D Presentation",
+        "topic": "3d-scenes",
+        "tags": [
+          "ah-64e",
+          "apache-helicopter",
+          "interactive-3d",
+          "canvas",
+          "military-aviation"
+        ]
+      },
+      "targetModelRole": "Code generation and orchestration of the interactive 3D Apache Guardian web presentation",
+      "outputSource": "Web canvas interface rendering the agent-generated code application",
+      "divisionEvidence": "\"Claude Opus 5.5 · ~$2.42 · 27 min\" displayed above the top interactive 3D viewer in the screen recording.",
+      "video": {
+        "shots": "Single split-screen comparison recording",
+        "duration": "11s",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides the complete prompt, confirmed Claude Opus 5.5 model usage, and a clear video screen recording of the resulting interactive 3D presentation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/maker_evan/status/2108475056082850278",
+        "start": 27,
+        "end": 96
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/maker_evan/status/2108475056082850278",
+        "author": "maker_evan",
+        "postId": "2108475056082850278",
+        "publishedAt": "2026-10-09T08:30:01.000Z"
+      },
+      "checkedAt": "2026-10-09T11:28:37.096Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/maker_evan/status/2108475056082850278",
+        "evidence": ""
+      }
+    },
+    "summary": "Maker Evan evaluates Claude Opus 5.5 against GPT-6 Astra on generating an interactive 3D visual presentation of an AH-64E Apache Guardian helicopter with custom camera angles, lighting modes, and spec overlays.",
+    "summaryEn": "AH-64E Apache Guardian Interactive 3D Presentation",
+    "originalPrompt": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian",
+    "sourceRange": {
+      "start": 27,
+      "end": 96
+    },
+    "translations": {
+      "zh": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian",
+      "en": "Create a detailed visual 3D presentation of an AH-64E Apache Guardian"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "AH-64E Apache Guardian 3D Presentation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates the interactive 3D model produced by Claude Opus 5.5, including real-time rotor animation, camera perspective toggles, lighting controls, and tactical telemetry callouts."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

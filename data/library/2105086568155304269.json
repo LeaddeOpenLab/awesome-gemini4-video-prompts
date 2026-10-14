@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:13.700Z",
+  "model": "opus5.5",
+  "prompt": "20,000 water particles, 60 fps",
+  "promptTranslations": {
+    "en": "20,000 water particles, 60 fps"
+  },
+  "summary": "The author evaluates Claude Opus 5.5 and Sol 6.1 on generating an interactive 20,000-particle real-time water simulation, showing Opus 5.5's iSPH implementation alongside Sol's PBF approach.",
+  "summaryEn": "Interactive 20,000 Water Particle Fluid Simulation Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105086568155304269",
+    "canonicalUrl": "https://x.com/viewsfrom02108/status/2105086568155304269",
+    "author": {
+      "username": "viewsfrom02108",
+      "displayName": "Not Harris | Builds Apps",
+      "profileUrl": "https://x.com/viewsfrom02108"
+    },
+    "publishedAt": "2026-09-30T00:05:23.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "I gave Sol 6.1 and Opus 5.5 the same test/prompt. 20,000 water particles, 60 fps\n\nSol 6.1 took the easy way...a hybrid method, PBF with a grid doing the heavy pressure math. Fast. 27/30. 60 fps\n\nOpus 5.5 took the hard way, a pure iSPH method... particles work out pressure with each other. 28/30, but 10 fps in splashes (video sped up). Very slow output, rewrote its work from ground up a couple of times.\n\nI respect the hard way but fair is fair. Sol's works.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/viewsfrom02108/status/2105086568155304269",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105086541391368192/img/SdDOAvsq4SLiLAjf.jpg",
+        "analysisUrl": "https://x.com/viewsfrom02108/status/2105086568155304269"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/viewsfrom02108/status/2105086568155304269",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105086541454258176/img/-I8bqgvwZtGqVLtu.jpg",
+        "analysisUrl": "https://x.com/viewsfrom02108/status/2105086568155304269"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 76
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/viewsfrom02108/status/2105086568155304269",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105086541391368192/img/SdDOAvsq4SLiLAjf.jpg",
+  "coverPath": "data/covers/2105086568155304269-wide.jpg",
+  "gifPath": "data/gifs/2105086568155304269.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105086541391368192",
+    "x-video:2105086541454258176",
+    "x-post:2105086568155304269"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 20,000 Water Particle Fluid Simulation Comparison",
+      "summary": "The author evaluates Claude Opus 5.5 and Sol 6.1 on generating an interactive 20,000-particle real-time water simulation, showing Opus 5.5's iSPH implementation alongside Sol's PBF approach.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Sol 6.1 and Opus 5.5 the same test/prompt. 20,000 water particles, 60 fps... Opus 5.5 took the hard way, a pure iSPH method... particles work out pressure with each other."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "20,000 water particles, 60 fps",
+        "englishText": "20,000 water particles, 60 fps",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete system prompt and code generation requirements",
+          "simulation interface and UI control specifications",
+          "physics integration and collision handling parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays an interactive 2D fluid tank labeled 'Water tank headless: 20,320 particles, driven by WaterSim.step()' with paddle movement, block dropping, splashing, and particle settling, matching the author's report.",
+        "textualResultQuote": "Opus 5.5 took the hard way, a pure iSPH method... particles work out pressure with each other. 28/30, but 10 fps in splashes (video sped up). Very slow output, rewrote its work from ground up a couple of times."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / JavaScript",
+          "role": "Execution environment and renderer for the particle fluid simulation (WaterSim)",
+          "evidence": "Water tank headless: 20,320 particles, driven by WaterSim.step()",
+          "sourceUrl": "https://x.com/viewsfrom02108/status/2105086568155304269",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 2D particle fluid dynamics simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "fluid-dynamics",
+          "sph-particles",
+          "physics-simulation",
+          "interactive-canvas",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Wrote the client-side JavaScript fluid simulation engine using an incompressible smoothed particle hydrodynamics (iSPH) formulation.",
+      "outputSource": "In-browser execution and rendering of the generated code.",
+      "divisionEvidence": "Opus 5.5 took the hard way, a pure iSPH method... particles work out pressure with each other... Very slow output, rewrote its work from ground up a couple of times.",
+      "video": {
+        "shots": "1 continuous interactive screen recording demonstration",
+        "duration": "PT33S",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct author demonstration showing Claude Opus 5.5 generating code for an interactive 20,000-particle fluid physics simulation, evidenced with full video screen capture.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/viewsfrom02108/status/2105086568155304269",
+        "start": 50,
+        "end": 80
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/viewsfrom02108/status/2105086568155304269",
+        "author": "viewsfrom02108",
+        "postId": "2105086568155304269",
+        "publishedAt": "2026-09-30T00:05:23.000Z"
+      },
+      "checkedAt": "2026-09-30T04:42:38.467Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/viewsfrom02108/status/2105086568155304269",
+        "evidence": ""
+      }
+    },
+    "summary": "The author evaluates Claude Opus 5.5 and Sol 6.1 on generating an interactive 20,000-particle real-time water simulation, showing Opus 5.5's iSPH implementation alongside Sol's PBF approach.",
+    "summaryEn": "Interactive 20,000 Water Particle Fluid Simulation Comparison",
+    "originalPrompt": "20,000 water particles, 60 fps",
+    "sourceRange": {
+      "start": 50,
+      "end": 80
+    },
+    "translations": {
+      "zh": "20,000 water particles, 60 fps",
+      "en": "20,000 water particles, 60 fps"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 2D particle fluid dynamics simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete system prompt and code generation requirements",
+        "simulation interface and UI control specifications",
+        "physics integration and collision handling parameters"
+      ],
+      "evidence": "The screen recording displays an interactive 2D fluid tank labeled 'Water tank headless: 20,320 particles, driven by WaterSim.step()' with paddle movement, block dropping, splashing, and particle settling, matching the author's report."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

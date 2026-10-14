@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T06:25:14.292Z",
+  "model": "opus5.5",
+  "prompt": "A history of Hollywood, sculpted from light.",
+  "promptTranslations": {
+    "en": "A history of Hollywood, sculpted from light."
+  },
+  "summaryTranslations": {
+    "en": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs."
+  },
+  "translationVersion": 2,
+  "summary": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.",
+  "summaryEn": "Persistence of Vision: A History of Hollywood in Code",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104419703997567302",
+    "canonicalUrl": "https://x.com/abhi81i/status/2104419703997567302",
+    "author": {
+      "username": "abhi81i",
+      "displayName": "abhi",
+      "profileUrl": "https://x.com/abhi81i"
+    },
+    "publishedAt": "2026-09-28T03:55:30.000Z",
+    "collectedAt": "2026-09-28T05:56:20.121Z",
+    "language": "en",
+    "originalText": "A history of Hollywood, sculpted from light. Made entirely in code with Claude Opus 5.5 \n(narration by ElevenLabs) https://t.co/sJRwbv7apQ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/abhi81i/status/2104419703997567302",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104419528809553920/img/GoyqLKsH8a8iYhRw.jpg",
+        "analysisUrl": "https://x.com/abhi81i/status/2104419703997567302"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 47
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/abhi81i/status/2104419703997567302",
+        "text": "abhi on X: \"A history of Hollywood, sculpted from light. Made entirely in code with Claude Opus 5.5 \n(narration by ElevenLabs)\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nabhi on X: \"A history of Hollywood, sculpted from light. Made entirely in code with Claude Opus 5.5 \n(narration by ElevenLabs)\"\n\n\n\nabhi\n\n@abhi81i\n\n\n\n\nA history of Hollywood, sculpted from light. Made entirely in code with Claude Opus 5.5 \n(narration by ElevenLabs)\n\n\n00:00\n\n\n\n\n\n\n\n\n3:55 AM · Sep 28, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nabhi@abhi81iFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nabhi\n\n@abhi81i\n\n\n\n\nA history of Hollywood, sculpted from light. Made entirely in code with Claude Opus 5.5 \n(narration by ElevenLabs)\n\n\n00:00\n\n\n\n\n\n\n\n\n3:55 AM · Sep 28, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "abhi81i"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/abhi81i/status/2104419703997567302",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104419528809553920/img/GoyqLKsH8a8iYhRw.jpg",
+  "coverPath": "data/covers/2104419703997567302-wide.jpg",
+  "gifPath": "data/gifs/2104419703997567302.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104419528809553920",
+    "x-post:2104419703997567302"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Persistence of Vision: A History of Hollywood in Code",
+      "summary": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Post text: \"Made entirely in code with Claude Opus 5.5\" and video end credits: \"Made with Claude Opus 5.5 in Claude Code\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "A history of Hollywood, sculpted from light.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete agent system prompts",
+          "step-by-step code generation instructions",
+          "full rendering script and scene orchestration code"
+        ],
+        "englishText": "A history of Hollywood, sculpted from light."
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 4-minute and 18-second video displays complex volumetric particle animations depicting landmark moments in Hollywood history, synchronized with voiceover narration and concluding with technical credits attributing creation to Claude Opus 5.5 in Claude Code. Note: Media inspection performed on the lower-bitrate alternative version; visual fidelity conclusions pertain specifically to this stream.",
+        "textualResultQuote": "PERSISTENCE OF VISION: a history of Hollywood, sculpted from light / Written, directed, animated, scored and mixed entirely in code / Made with Claude Opus 5.5 in Claude Code"
+      },
+      "inputs": [
+        {
+          "kind": "audio_narration",
+          "description": "Voiceover narration audio generated with ElevenLabs (voice: Bill).",
+          "available": false,
+          "evidence": "Video credits: \"Narrated by Bill - voice by ElevenLabs\"",
+          "origin": "generated"
+        },
+        {
+          "kind": "public_domain_references",
+          "description": "Historical film references including The Horse in Motion, The Black Maria, and others.",
+          "available": true,
+          "evidence": "Video credits: \"Homages to public-domain works: The Horse in Motion (1878), The Black Maria (1893)...\"",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent coding environment used by Opus 5.5 to write and direct animation and audio scripts",
+          "evidence": "Video credits: \"Made with Claude Opus 5.5 in Claude Code\"",
+          "status": "inferred"
+        },
+        {
+          "name": "Custom Code Renderer",
+          "role": "Volumetric particle and light rendering engine executing the generated code",
+          "evidence": "Video credits: \"Renderer — dust in the beam: 2 million motes, volumetric light, thin-lens bokeh\"",
+          "status": "inferred"
+        },
+        {
+          "name": "ElevenLabs",
+          "role": "Voice narration synthesis",
+          "evidence": "Post: \"(narration by ElevenLabs)\" and credits: \"voice by ElevenLabs\"",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Claude Opus 5.5 wrote, animated, scored, and directed the entire production in code via Claude Code.",
+      "outputSource": "Custom code renderer running 2 million volumetric light motes and thin-lens bokeh shaders, combined with ElevenLabs audio.",
+      "divisionEvidence": "Video credits explicitly distinguish: \"Written, directed, animated, scored and mixed entirely in code\", \"Renderer — dust in the beam: 2 million motes...\", and \"Made with Claude Opus 5.5 in Claude Code\".",
+      "video": {
+        "shots": "Continuous seamless sequence of particle/light scenes depicting cinema history eras",
+        "duration": "04:18",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "The Horse in Motion (1878)",
+          "The Black Maria (1893)",
+          "The Great Train Robbery (1903)",
+          "Safety Last! (1923)",
+          "The Jazz Singer (1927)",
+          "Steamboat Bill, Jr. (1928)"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Exemplary demonstration of Claude Opus 5.5 orchestrating full video animation, sound, and visual rendering entirely through code under Claude Code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/abhi81i/status/2104419703997567302",
+        "start": 0,
+        "end": 44
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/abhi81i/status/2104419703997567302",
+        "author": "abhi81i",
+        "postId": "2104419703997567302",
+        "publishedAt": "2026-09-28T03:55:30.000Z"
+      },
+      "checkedAt": "2026-09-28T06:17:24.142Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/abhi81i/status/2104419703997567302",
+        "evidence": ""
+      }
+    },
+    "summary": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.",
+    "summaryEn": "Persistence of Vision: A History of Hollywood in Code",
+    "originalPrompt": "A history of Hollywood, sculpted from light.",
+    "sourceRange": {
+      "start": 0,
+      "end": 44
+    },
+    "translations": {
+      "zh": "A history of Hollywood, sculpted from light.",
+      "en": "A history of Hollywood, sculpted from light."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete agent system prompts",
+        "step-by-step code generation instructions",
+        "full rendering script and scene orchestration code"
+      ],
+      "evidence": "The 4-minute and 18-second video displays complex volumetric particle animations depicting landmark moments in Hollywood history, synchronized with voiceover narration and concluding with technical credits attributing creation to Claude Opus 5.5 in Claude Code. Note: Media inspection performed on the lower-bitrate alternative version; visual fidelity conclusions pertain specifically to this stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:33.151Z",
+  "model": "opus5.5",
+  "prompt": "create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html",
+  "promptTranslations": {
+    "en": "create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html"
+  },
+  "summary": "Demonstration of a 1-shot prompt given to Claude Opus 5.5 to write an ultra-realistic voxel game engine and Minecraft-like browser experience using WebGL2 and Three.js.",
+  "summaryEn": "Ultra-Realistic Browser Voxel Engine in Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103086714772463953",
+    "canonicalUrl": "https://x.com/oviniciuslana/status/2103086714772463953",
+    "author": {
+      "username": "oviniciuslana",
+      "displayName": "Vini Lana",
+      "profileUrl": "https://x.com/oviniciuslana"
+    },
+    "publishedAt": "2026-09-24T11:38:40.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "pt",
+    "originalText": "não estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar\n\njogo feito em 1 shot\nSEM NENHUMA LIB\náudio, texturas, tudo feito pelo Opus\n\nrodando no browser https://t.co/2HhvoRl9O2",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/oviniciuslana/status/2103086714772463953",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103085995549659136/img/vfMrGx8aGvMT8VG1.jpg",
+        "analysisUrl": "https://x.com/oviniciuslana/status/2103086714772463953"
+      }
+    ],
+    "metrics": {
+      "likeCount": 340,
+      "repostCount": 15,
+      "replyCount": 30,
+      "quoteCount": 5,
+      "viewCount": 34519
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103170563254694387",
+        "text": "correção: usou three.js sim\n\núnica lib usada, foi usada na camada de texturas e buffers",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103157476711403904",
+        "text": "@threejs tomei um fact check to @threejs hahahaha \n\na primeira versão que fiz não tinha three.js\n\no código que eu subi no repo veio depois com algumas melhorias, inclusive jogos novos, tem um RTS lá e usamos o three.js como camada fina sobre o WebGL2 (buffers, texturas, programas) e implementa por cima um pipeline deferred HDR próprio\n\nvocês são foda @threejs <3 e vale ressaltar que provavelmente o Opus 5.5 tem em seu dataset o three.js",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103127188128117222",
+        "text": "Link do repositório para quem quiser verificar https://t.co/gludINAttc",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103123499967549783",
+        "text": "@DougLopesReal Gastou 10% do limite semanal do plano 200dol",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103123418292146351",
+        "text": "@notEliasgabriel 10% do limite semanal do plano de 200dol",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103123316139769862",
+        "text": "@adlerogop Tem volume sim, se quebra os blocos ela se desloca",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103090342144958564",
+        "text": "@thiagodea_ até ano passado isso era inimaginável",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103090078482624886",
+        "text": "@ludylops pirei muito nessa água, vou subir o repo do git to criando um rts para ver se fica bom também",
+        "author": "oviniciuslana"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2103088513348518163",
+        "text": "@brunocordista extamente eu juro que não esperava isso ficar pronto em um prompt tão mequetrefe, o prompt: \"crie uma engine de jogo ultrarealista sem usar libs e na sequencia crie um jogo estilo minecraft ultrarealista que rode no browser em html\"",
+        "author": "oviniciuslana"
+      },
+      {
+        "url": "https://x.com/oviniciuslana/status/2103086714772463953",
+        "text": "Vini Lana on X: \"não estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar\n\njogo feito em 1 shot\nSEM NENHUMA LIB\náudio, texturas, tudo feito pelo Opus\n\nrodando no browser\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nVini Lana on X: \"não estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar\n\njogo feito em 1 shot\nSEM NENHUMA LIB\náudio, texturas, tudo feito pelo Opus\n\nrodando no browser\"\n\n\n\nVini Lana\n\n@oviniciuslana\n\n\n\n\nShow translation\nnão estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar\n\njogo feito em 1 shot\nSEM NENHUMA LIB\náudio, texturas, tudo feito pelo Opus\n\nrodando no browser\n\n\n00:00\n\n\n\n\n\n\n\n\n11:38 AM · Sep 24, 2026·34.5K\nViews\n\n\n\n30\n15\n340\n99\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nVini Lana@oviniciuslanaFollow\nFounder AI Coders Academy\n37k subscribers on https://t.co/qXgDsb1Kcp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\n\n\n\n\nShow translation\nnão estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar\n\njogo feito em 1 shot\nSEM NENHUMA LIB\náudio, texturas, tudo feito pelo Opus\n\nrodando no browser\n\n\n00:00\n\n\n\n\n\n\n\n\n11:38 AM · Sep 24, 2026·34.5K\nViews\n\n\n\n30\n15\n340\n99\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\nSep 24\n\n\nLink do repositório para quem quiser verificar \n\n\nGitHub - vinilana/browser-game-engine\n\n\nFrom github.com\n\n\n\n\n\n8\n2.2K\n\n\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\nSep 24\n\n\ncorreção: usou three.js sim\n\núnica lib usada, foi usada na camada de texturas e buffers\n\n\n\n\n3\n1.2K\n\n\n\n\n\n\n\n\n\n\n\nThiago Dea\n\n@thiagodea_\nSep 24\n\n\nQue loucura. E pensar que há uns tempos atrás iríamos perder pelo menos uns bons meses construindo algo que realmente funcionasse! \nParabéns pelo teste, mano! Acompanhando sempre!\n\n\n1\n\n11\n1.5K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "oviniciuslana"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/gludINAttc"
+    ]
+  },
+  "xUrl": "https://x.com/oviniciuslana/status/2103086714772463953",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103085995549659136/img/vfMrGx8aGvMT8VG1.jpg",
+  "coverPath": "data/covers/2103086714772463953-wide.jpg",
+  "gifPath": "data/gifs/2103086714772463953.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103085995549659136",
+    "x-post:2103086714772463953"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Ultra-Realistic Browser Voxel Engine in Claude Opus 5.5",
+      "summary": "Demonstration of a 1-shot prompt given to Claude Opus 5.5 to write an ultra-realistic voxel game engine and Minecraft-like browser experience using WebGL2 and Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "não estava botando fé nos joguinhos feito com Opus 5.5 aqui no X\n\nresolvi testar"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "crie uma engine de jogo ultrarealista sem usar libs e na sequencia crie um jogo estilo minecraft ultrarealista que rode no browser em html",
+        "englishText": "create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an in-browser voxel 3D game running smoothly with realistic lighting, volumetric water effects, foliage, mountain traversal, and a final pause menu showing 'VOXELCRAFT'. Note: The evaluation was performed on a lower-bitrate preview stream.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "Thin layer over WebGL2 handling buffers, textures, and programs",
+          "evidence": "correção: usou three.js sim\n\núnica lib usada, foi usada na camada de texturas e buffers",
+          "sourceUrl": "https://x.com/oviniciuslana/status/2103170563254694387",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGL2",
+          "role": "Browser graphics rendering pipeline",
+          "evidence": "usamos o three.js como camada fina sobre o WebGL2 (buffers, texturas, programas) e implementa por cima um pipeline deferred HDR próprio",
+          "sourceUrl": "https://x.com/oviniciuslana/status/2103157476711403904",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Browser 3D Voxel Engine Game",
+        "topic": "games-interactive",
+        "tags": [
+          "minecraft",
+          "voxel",
+          "game-engine",
+          "threejs",
+          "webgl2",
+          "interactive-3d"
+        ]
+      },
+      "targetModelRole": "Code generation for game engine architecture, shaders, procedural generation, textures, and browser runtime scripts",
+      "outputSource": "Browser WebGL2/HTML execution",
+      "divisionEvidence": "Opus wrote the code and assets ('áudio, texturas, tudo feito pelo Opus') while the browser rendered the WebGL2/Three.js game canvas in real-time.",
+      "video": {
+        "shots": "Single continuous first-person screen recording of gameplay",
+        "duration": "01:05",
+        "aspectRatio": "1916:986",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 interactive 3D code generation case supported by author-confirmed version, full verbatim single-shot prompt, and screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/oviniciuslana/status/2103088513348518163",
+        "start": 108,
+        "end": 246
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/oviniciuslana/status/2103086714772463953",
+        "author": "oviniciuslana",
+        "postId": "2103086714772463953",
+        "publishedAt": "2026-09-24T11:38:40.000Z"
+      },
+      "checkedAt": "2026-10-10T16:57:51.859Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/oviniciuslana/status/2103088513348518163",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of a 1-shot prompt given to Claude Opus 5.5 to write an ultra-realistic voxel game engine and Minecraft-like browser experience using WebGL2 and Three.js.",
+    "summaryEn": "Ultra-Realistic Browser Voxel Engine in Claude Opus 5.5",
+    "originalPrompt": "crie uma engine de jogo ultrarealista sem usar libs e na sequencia crie um jogo estilo minecraft ultrarealista que rode no browser em html",
+    "sourceRange": {
+      "start": 108,
+      "end": 246
+    },
+    "translations": {
+      "zh": "crie uma engine de jogo ultrarealista sem usar libs e na sequencia crie um jogo estilo minecraft ultrarealista que rode no browser em html",
+      "en": "create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Browser 3D Voxel Engine Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates an in-browser voxel 3D game running smoothly with realistic lighting, volumetric water effects, foliage, mountain traversal, and a final pause menu showing 'VOXELCRAFT'. Note: The evaluation was performed on a lower-bitrate preview stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

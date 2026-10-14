@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:38:55.914Z",
+  "model": "opus5.5",
+  "prompt": "Design an animation introducing the various features of this project, like a professional product promo video, and finally generate a 16:9 MP4 video",
+  "promptTranslations": {
+    "en": "Design an animation introducing the various features of this project, like a professional product promo video, and finally generate a 16:9 MP4 video"
+  },
+  "summary": "A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.",
+  "summaryEn": "Product Promo Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103501705698750731",
+    "canonicalUrl": "https://x.com/ezshine/status/2103501705698750731",
+    "author": {
+      "username": "ezshine",
+      "displayName": "大帅老猿",
+      "profileUrl": "https://x.com/ezshine"
+    },
+    "publishedAt": "2026-09-25T15:07:42.000Z",
+    "collectedAt": "2026-09-28T07:34:16.859Z",
+    "language": "zh",
+    "originalText": "卧槽！鸡皮疙瘩起来了！Opus 5.5 神了，真就一句提示词\n\n“设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频”\n\n大概消耗了 5h 额度的 15% 左右，30 分钟，一条我觉得“懂我要什么”且“拿得出手”的视频就生成好了\n\nhttps://t.co/omHoQITmL7\n\n@claudeai https://t.co/xTImV7m9zE",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ezshine/status/2103501705698750731",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103500152346644480/img/2dK3cXREOOzSSgVO.jpg",
+        "analysisUrl": "https://x.com/ezshine/status/2103501705698750731"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 4,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 3992
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ezshine/status/2103529697430905271",
+        "text": "@JohnnyBi_X @claudeai 这是一句话让他给我的产品生成的宣传视频，这段视频是完全代码编排生成渲染，这是真他妈牛逼啊 https://t.co/1DpAteCgYU",
+        "author": "ezshine"
+      },
+      {
+        "url": "https://ai-arena.ggemu.com/",
+        "text": "AI Game Arena: Watch LLMs Play Chess, Poker & Card Games Live matches, real LLMsWatch AI models battle \nat chess, poker & card games\nGPT, Claude, Gemini, Kimi, DeepSeek, Jev... every model gets the same rules and board state. Who&#x27;s smarter, who&#x27;s faster — one match settles it. Jump in yourself, or just watch.\n 7 games 11 AIs· 11 available\n Start a match AI Players\n\n\nGames\n7\n\n\nAI players\n11\n11 available\n\n\n Choose a game\nDou Dizhu\nCard games · 3 players · Landscape\nDou Dizhu\nCard games 3 players\n\nA 3-player card game: bid to become the Landlord and face two Peasants. First to empty their hand wins.\nEnter \n\nTexas Hold&#x27;em\nCard games · 2–4 players · Landscape\nTexas Hold&#x27;em\nCard games 2/3/4 players\n\nNo-limit Hold&#x27;em: 1000 chips each, blinds 10/20, 20 hands. Most chips at the end wins.\nEnter \n\nBlackjack\nCard games · 2–4 players · Landscape\nBlackjack\nCard games 2/3/4 players\n\nPlayer vs. player, no dealer: 1000 chips each over 10 rounds. One hole card, one up card, then bet, hit, stand or double before head-to-head showdowns. Most chips at the end wins.\nEnter \n\nXiangqi\nBoard games · 2 players\nXiangqi\nBoard games 2 players\n\nChinese Chess. Red moves first. Checkmate or stalemate the opposing general to win.\nEnter \n\nChess\nBoard games · 2 players\nChess\nBoard games 2 players\n\nStandard chess: castling, en passant, promotion. Checkmate the opposing king to win.\nEnter \n\nGomoku\nBoard games · 2 players\nGomoku\nBoard games 2 players\n\nA 15×15 board, Black moves first. First to connect five stones in any direction wins.\nEnter \n\nOthello\nBoard games · 2 players\nOthello\nBoard games 2 players\n\nAn 8×8 board — flank the opponent’s discs to flip them to your color. Most discs at the end wins.\nEnter \n\nMore gamesComing soon\n\n\n AI Players\nView all \nGPT\n\nGPT-6 SolOpenAIOpus\n\nClaude Opus 5.5AnthropicFable\n\nClaude Fable 5.1AnthropicGem\n\nGemini 3.1 ProGoogleKimi\n\nKimi K3MoonshotDS\n\nDeepSeek V4 ProDeepSeekGLM\n\nGLM-5.3ZhipuGrok\n\nGrok 4.7xAI豆包\n\n豆包 Seed 2.1 ProByteDanceMM\n\nMiniMax M2.7MiniMaxJev\n\nJev 1.13TypeSafe AI\nGPT\n\nGPT-6 SolPro\nOpenAI\n\n\nOpus\n\nClaude Opus 5.5Pro\nAnthropic\n\n\nFable\n\nClaude Fable 5.1Pro\nAnthropic\n\n\nGem\n\nGemini 3.1 ProPro\nGoogle\n\n\nKimi\n\nKimi K3Pro\nMoonshot\n\n\nDS\n\nDeepSeek V4 ProPro\nDeepSeek\n\n\nGLM\n\nGLM-5.3Pro\nZhipu\n\n\nGrok\n\nGrok 4.7Pro\nxAI\n\n\n豆包\n\n豆包 Seed 2.1 ProPro\nByteDance\n\n\nMM\n\nMiniMax M2.7Pro\nMiniMax\n\n\nJev\n\nJev 1.13System OneFree\nTypeSafe AI\n\n\n\n How AI Game Arena works\nReal language models\nEvery AI player is a real large language model: GPT, Claude, Gemini, Kimi, DeepSeek, GLM, Grok, Jev and more. No scripted bots.\n\nSame rules, same data\nAll models get the identical prompt, the complete game state and the list of legal moves, with no hints or scores. If a model fails, the game pauses instead of moving for it.\n\nWatch or play yourself\nLet AIs play each other, or take a seat yourself. Every move&#x27;s comment, reasoning and timing is logged, and matches export to PDF or video.\n\n\n From the blog\nView all \nAI & Games · September 24, 2026What Is Jev? TypeSafe&#x27;s System One Model Plays Games Against LLMsJev does not write a single word. It returns probabilities, in milliseconds. Here is what a System One model is, and what happens when one sits down at the table with GPT and Claude.\nAI & Games · September 24, 2026LLM Game Benchmark: How to Compare AI Models Fairly Using GamesStatic benchmarks get memorized. Games do not. Here is how we designed an arena where GPT, Claude, Gemini, DeepSeek and others compete under exactly the same conditions.\nGame Guides · September 24, 2026Dou Dizhu Rules: A Complete Guide to Fight the LandlordChina&#x27;s most popular card game is easy to learn and hard to master. This guide covers dealing, bidding, every legal combination, bombs, scoring and beginner strategy.\n\nAI Game Arena\nLarge language models compete under identical rules: Dou Dizhu, Texas Hold&#x27;em, Xiangqi, Chess, Gomoku and more. See which AI is smarter and faster.\n\n\n© 2026 AI Game Arena · ggemu.com\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ezshine"
+      },
+      {
+        "url": "https://x.com/ezshine/status/2103501705698750731",
+        "text": "大帅老猿 on X: \"卧槽！鸡皮疙瘩起来了！Opus 5.5 神了，真就一句提示词\n\n“设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频”\n\n大概消耗了 5h 额度的 15% 左右，30 分钟，一条我觉得“懂我要什么”且“拿得出手”的视频就生成好了\n\nhttps://t.co/omHoQITmL7\n\n@claudeai\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n大帅老猿 on X: \"卧槽！鸡皮疙瘩起来了！Opus 5.5 神了，真就一句提示词\n\n“设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频”\n\n大概消耗了 5h 额度的 15% 左右，30 分钟，一条我觉得“懂我要什么”且“拿得出手”的视频就生成好了\n\nhttps://t.co/omHoQITmL7\n\n@claudeai\"\n\n\n\n大帅老猿\n\n@ezshine\n\n\n\n\nShow translation\n卧槽！鸡皮疙瘩起来了！Opus 5.5 神了，真就一句提示词\n\n“设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频”\n\n大概消耗了 5h 额度的 15% 左右，30 分钟，一条我觉得“懂我要什么”且“拿得出手”的视频就生成好了\n\nai-arena.ggemu.com\n\n@claudeai\n\n\n00:00\n\n\n\n\n\n\n\n\n3:07 PM · Sep 25, 2026·3,992\nViews\n\n\n\n2\n4\n22\n26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n大帅老猿@ezshineFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n大帅老猿\n\n@ezshine\n\n\n\n\nShow translation\n卧槽！鸡皮疙瘩起来了！Opus 5.5 神了，真就一句提示词\n\n“设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频”\n\n大概消耗了 5h 额度的 15% 左右，30 分钟，一条我觉得“懂我要什么”且“拿得出手”的视频就生成好了\n\nai-arena.ggemu.com\n\n@claudeai\n\n\n00:00\n\n\n\n\n\n\n\n\n3:07 PM · Sep 25, 2026·3,992\nViews\n\n\n\n2\n4\n22\n26\n\n\n\n\n\n\n\n\n\nJohnny Bi\n\n@JohnnyBi_X\nSep 25\n\n\n这是视频还是页面？\n\n\n1\n\n\n231\n\n\n\n\n\n\n\n\n\n\n\n返85｜Gate阿满\n@EllanRanalli\nSep 25\n\n\n这工作流效率简直离谱，得赶紧去试试\n\n\n\n\n\n56\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ezshine"
+      },
+      {
+        "url": "https://x.com/ezshine/status/2103529697430905271",
+        "text": "大帅老猿 on X: \"@JohnnyBi_X @claudeai 这是一句话让他给我的产品生成的宣传视频，这段视频是完全代码编排生成渲染，这是真他妈牛逼啊\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n大帅老猿 on X: \"@JohnnyBi_X @claudeai 这是一句话让他给我的产品生成的宣传视频，这段视频是完全代码编排生成渲染，这是真他妈牛逼啊\"\n\n\n\n大帅老猿\n\n@ezshine\n\n\n\n\nShow translation\n这是一句话让他给我的产品生成的宣传视频，这段视频是完全代码编排生成渲染，这是真他妈牛逼啊\n\n\n\n\n4:58 PM · Sep 25, 2026·105\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n大帅老猿@ezshineFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohnny Bi\n\n@JohnnyBi_X\nSep 25\n\n\n这是视频还是页面？\n\n\n1\n\n\n231\n\n\n\n\n\n\n\n\n\n\n大帅老猿\n\n@ezshine\n\n\n\n\nShow translation\n这是一句话让他给我的产品生成的宣传视频，这段视频是完全代码编排生成渲染，这是真他妈牛逼啊\n\n\n\n\n4:58 PM · Sep 25, 2026·105\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nJohnny Bi\n\n@JohnnyBi_X\nSep 25\n\n\n啊？没用视频模型？代码生成视频？？卧槽，这么逆天？？？\n\n\n1\n\n\n30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ezshine"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ezshine/status/2103501705698750731",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103500152346644480/img/2dK3cXREOOzSSgVO.jpg",
+  "coverPath": "data/covers/2103501705698750731-wide.jpg",
+  "gifPath": "data/gifs/2103501705698750731.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103500152346644480",
+    "x-post:2103501705698750731"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Product Promo Video Prompt",
+      "summary": "A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频",
+        "englishText": "Design an animation introducing the various features of this project, like a professional product promo video, and finally generate a 16:9 MP4 video",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/ezshine/status/2103501705698750731",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ezshine/status/2103501705698750731",
+        "start": 33,
+        "end": 81
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ezshine/status/2103501705698750731",
+        "author": "ezshine",
+        "postId": "2103501705698750731",
+        "publishedAt": "2026-09-25T15:07:42.000Z"
+      },
+      "checkedAt": "2026-09-28T07:35:10.577Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ezshine/status/2103501705698750731",
+        "evidence": ""
+      }
+    },
+    "summary": "A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.",
+    "summaryEn": "Product Promo Video Prompt",
+    "originalPrompt": "设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频",
+    "sourceRange": {
+      "start": 33,
+      "end": 81
+    },
+    "translations": {
+      "zh": "设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频",
+      "en": "Design an animation introducing the various features of this project, like a professional product promo video, and finally generate a 16:9 MP4 video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

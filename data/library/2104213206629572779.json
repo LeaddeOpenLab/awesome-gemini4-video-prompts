@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T14:01:00.644Z",
+  "model": "opus5.5",
+  "prompt": "how do you imagine the future of the relationship between humans and artificial intelligence",
+  "promptTranslations": {
+    "en": "how do you imagine the future of the relationship between humans and artificial intelligence"
+  },
+  "summary": "Leo showcases an animated short film exploring the collaborative future between humans and artificial intelligence, created using Claude Opus 5.5.",
+  "summaryEn": "Opus 5.5 Future of Human-AI Relationship Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104213206629572779",
+    "canonicalUrl": "https://x.com/lzequin/status/2104213206629572779",
+    "author": {
+      "username": "lzequin",
+      "displayName": "Leo",
+      "profileUrl": "https://x.com/lzequin"
+    },
+    "publishedAt": "2026-09-27T14:14:57.000Z",
+    "collectedAt": "2026-09-28T12:33:05.188Z",
+    "language": "es",
+    "originalText": "Hace mucho que no uso esta cuenta, pero necesitaba compartir esto. \n\nOpus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\"\n\nLo que creo, creo que es un muy buen futuro. https://t.co/VStms2hWi1",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/lzequin/status/2104213206629572779",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104213161108725760/img/4XCR2ZZ7Tsr4RX9r.jpg",
+        "analysisUrl": "https://x.com/lzequin/status/2104213206629572779"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/lzequin/status/2104213206629572779",
+        "text": "Leo on X: \"Hace mucho que no uso esta cuenta, pero necesitaba compartir esto. \n\nOpus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\"\n\nLo que creo, creo que es un muy buen futuro.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nLeo on X: \"Hace mucho que no uso esta cuenta, pero necesitaba compartir esto. \n\nOpus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\"\n\nLo que creo, creo que es un muy buen futuro.\"\n\n\n\nLeo\n@lzequin\n\n\n\n\nShow translation\nHace mucho que no uso esta cuenta, pero necesitaba compartir esto. \n\nOpus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\"\n\nLo que creo, creo que es un muy buen futuro.\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n2:14 PM · Sep 27, 2026·14\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nLeo@lzequinFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeo\n@lzequin\n\n\n\n\nShow translation\nHace mucho que no uso esta cuenta, pero necesitaba compartir esto. \n\nOpus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\"\n\nLo que creo, creo que es un muy buen futuro.\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n2:14 PM · Sep 27, 2026·14\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "lzequin"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/lzequin/status/2104213206629572779",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104213161108725760/img/4XCR2ZZ7Tsr4RX9r.jpg",
+  "coverPath": "data/covers/2104213206629572779-wide.jpg",
+  "gifPath": "data/gifs/2104213206629572779.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104213161108725760",
+    "x-post:2104213206629572779"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Future of Human-AI Relationship Animation",
+      "summary": "Leo showcases an animated short film exploring the collaborative future between humans and artificial intelligence, created using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 creo esto, mi pedido: \"como imaginas el futuro de la relación entre humanos e inteligencia artificial\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "como imaginas el futuro de la relación entre humanos e inteligencia artificial",
+        "englishText": "how do you imagine the future of the relationship between humans and artificial intelligence",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "orchestration instructions",
+          "animation toolchain or codebase specifications",
+          "generation parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video shows a stylized 2D animated story depicting humans moving from fearing AI in old cinema to cooperating with glowing AI orbs, constructing bridges together, and watching a shared future sunrise.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Generated the animation concept, script, or animation code for the video narrative.",
+      "outputSource": "Unknown animation renderer",
+      "divisionEvidence": "The author notes 'Opus 5.5 creo esto' without specifying the renderer or intermediate tooling.",
+      "video": {
+        "shots": "Multi-scene narrative transition from a movie theater showing hostile sci-fi robots, to a hilltop meeting an AI orb, a city street where people work alongside AI, and constructing a bridge across a canyon at sunset.",
+        "duration": "01:19",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an animated narrative video production attributed explicitly to Claude Opus 5.5 with verbatim user prompt text.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/lzequin/status/2104213206629572779",
+        "start": 101,
+        "end": 179
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/lzequin/status/2104213206629572779",
+        "author": "lzequin",
+        "postId": "2104213206629572779",
+        "publishedAt": "2026-09-27T14:14:57.000Z"
+      },
+      "checkedAt": "2026-09-28T14:00:27.828Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lzequin/status/2104213206629572779",
+        "evidence": ""
+      }
+    },
+    "summary": "Leo showcases an animated short film exploring the collaborative future between humans and artificial intelligence, created using Claude Opus 5.5.",
+    "summaryEn": "Opus 5.5 Future of Human-AI Relationship Animation",
+    "originalPrompt": "como imaginas el futuro de la relación entre humanos e inteligencia artificial",
+    "sourceRange": {
+      "start": 101,
+      "end": 179
+    },
+    "translations": {
+      "zh": "como imaginas el futuro de la relación entre humanos e inteligencia artificial",
+      "en": "how do you imagine the future of the relationship between humans and artificial intelligence"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Leo showcases an animated short film exploring the collaborative future between humans and artificial intelligence, created using Claude Opus 5.5.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "orchestration instructions",
+        "animation toolchain or codebase specifications",
+        "generation parameters"
+      ],
+      "evidence": "The attached video shows a stylized 2D animated story depicting humans moving from fearing AI in old cinema to cooperating with glowing AI orbs, constructing bridges together, and watching a shared future sunrise."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

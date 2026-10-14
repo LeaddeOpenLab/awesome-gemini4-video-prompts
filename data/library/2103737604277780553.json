@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:30.091Z",
+  "model": "opus5.5",
+  "prompt": "Make a professional explainer video for anuprerna.com for a first-time visitor.",
+  "promptTranslations": {
+    "en": "Make a professional explainer video for anuprerna.com for a first-time visitor."
+  },
+  "summary": "Amit Singha shares a prompt used with Opus 5.5 to create a one-shot explainer video for Anuprerna.",
+  "summaryEn": "Anuprerna Explainer Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103737604277780553",
+    "canonicalUrl": "https://x.com/AmitSingha89/status/2103737604277780553",
+    "author": {
+      "username": "AmitSingha89",
+      "displayName": "Amit Singha",
+      "profileUrl": "https://x.com/AmitSingha89"
+    },
+    "publishedAt": "2026-09-26T06:45:05.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "Opus 5.5 made this video for Anuprerna in one shot. One prompt. Zero editing.\n\nI thought the one-shot videos going around X this week were staged. So I tried it on my own business.\n\nPrompt:Make a professional explainer video for https://t.co/3miEfqahu1 for a first-time visitor. https://t.co/H343OYQ2E4",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103737550448058369/img/ZJSBr4TZCXfEeA-N.jpg",
+        "analysisUrl": "https://x.com/AmitSingha89/status/2103737604277780553"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 19
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "text": "Amit Singha on X: \"Opus 5.5 made this video for Anuprerna in one shot. One prompt. Zero editing.\n\nI thought the one-shot videos going around X this week were staged. So I tried it on my own business.\n\nPrompt:Make a professional explainer video for https://t.co/3miEfqahu1 for a first-time visitor.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAmit Singha on X: \"Opus 5.5 made this video for Anuprerna in one shot. One prompt. Zero editing.\n\nI thought the one-shot videos going around X this week were staged. So I tried it on my own business.\n\nPrompt:Make a professional explainer video for https://t.co/3miEfqahu1 for a first-time visitor.\"\n\n\n\nAmit Singha\n@AmitSingha89\n\n\n\n\nOpus 5.5 made this video for Anuprerna in one shot. One prompt. Zero editing.\n\nI thought the one-shot videos going around X this week were staged. So I tried it on my own business.\n\nPrompt:Make a professional explainer video for anuprerna.com for a first-time visitor.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:45 AM · Sep 26, 2026·19\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAmit Singha@AmitSingha89Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmit Singha\n@AmitSingha89\n\n\n\n\nOpus 5.5 made this video for Anuprerna in one shot. One prompt. Zero editing.\n\nI thought the one-shot videos going around X this week were staged. So I tried it on my own business.\n\nPrompt:Make a professional explainer video for anuprerna.com for a first-time visitor.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:45 AM · Sep 26, 2026·19\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "AmitSingha89"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/3miEfqahu1"
+    ]
+  },
+  "xUrl": "https://x.com/AmitSingha89/status/2103737604277780553",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103737550448058369/img/ZJSBr4TZCXfEeA-N.jpg",
+  "coverPath": "data/covers/2103737604277780553-wide.jpg",
+  "gifPath": "data/gifs/2103737604277780553.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103737550448058369",
+    "x-post:2103737604277780553"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Anuprerna Explainer Video Prompt",
+      "summary": "Amit Singha shares a prompt used with Opus 5.5 to create a one-shot explainer video for Anuprerna.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 made this video for Anuprerna in one shot."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a professional explainer video for anuprerna.com for a first-time visitor.",
+        "englishText": "Make a professional explainer video for anuprerna.com for a first-time visitor.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/AmitSingha89/status/2103737604277780553",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "start": 870,
+        "end": 949
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "author": "AmitSingha89",
+        "postId": "2103737604277780553",
+        "publishedAt": "2026-09-26T06:45:05.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:05.844Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "evidence": "Make a professional explainer video for anuprerna.com for a first-time visitor."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "Amit Singha shares a prompt used with Opus 5.5 to create a one-shot explainer video for Anuprerna.",
+    "summaryEn": "Anuprerna Explainer Video Prompt",
+    "originalPrompt": "Make a professional explainer video for anuprerna.com for a first-time visitor.",
+    "sourceRange": {
+      "start": 870,
+      "end": 949
+    },
+    "translations": {
+      "zh": "Make a professional explainer video for anuprerna.com for a first-time visitor.",
+      "en": "Make a professional explainer video for anuprerna.com for a first-time visitor."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

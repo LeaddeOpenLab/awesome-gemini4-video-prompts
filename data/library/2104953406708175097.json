@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:13.614Z",
+  "model": "opus5.5",
+  "prompt": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.",
+  "promptTranslations": {
+    "en": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues."
+  },
+  "summary": "Opus 5.5 orchestrates Blender via MCP in Cursor to build and simulate an animated Rube Goldberg machine.",
+  "summaryEn": "Procedural Rube Goldberg Machine via Blender MCP",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104953406708175097",
+    "canonicalUrl": "https://x.com/Kwazikot/status/2104953406708175097",
+    "author": {
+      "username": "Kwazikot",
+      "displayName": "Atarax",
+      "profileUrl": "https://x.com/Kwazikot"
+    },
+    "publishedAt": "2026-09-29T15:16:14.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "Created an arbitrary Rube Goldberg machine in Blender using this workflow:\n\nCursor + Opus 5.5 → Blender MCP → Blender\n\nReally interesting to see how far agentic 3D creation has come — the model can directly build and modify the scene through MCP.\n\nPrompt:\n\"Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Kwazikot/status/2104953406708175097",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104949671990796288/img/gTWaUJaEYyCeKgcm.jpg",
+        "analysisUrl": "https://x.com/Kwazikot/status/2104953406708175097"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 48
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Kwazikot/status/2104953406708175097",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104949671990796288/img/gTWaUJaEYyCeKgcm.jpg",
+  "coverPath": "data/covers/2104953406708175097-wide.jpg",
+  "gifPath": "data/gifs/2104953406708175097.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104949671990796288",
+    "x-post:2104953406708175097"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Procedural Rube Goldberg Machine via Blender MCP",
+      "summary": "Opus 5.5 orchestrates Blender via MCP in Cursor to build and simulate an animated Rube Goldberg machine.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Cursor",
+        "authorUseConfirmed": true,
+        "evidence": "Cursor + Opus 5.5 → Blender MCP → Blender"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.",
+        "englishText": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The viewport screen recording demonstrates gears rotating, balls traversing ramps, and platforms moving as instructed.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D modeling and physics animation renderer",
+          "evidence": "Created an arbitrary Rube Goldberg machine in Blender",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Kwazikot/status/2104953406708175097"
+        },
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "Create a mechanical Rube Goldberg machine in Blender.",
+          "sourceUrl": "https://x.com/Kwazikot/status/2104953406708175097",
+          "status": "required"
+        },
+        {
+          "name": "Blender MCP",
+          "role": "Model context protocol bridge to inspect and modify Blender scenes",
+          "evidence": "Cursor + Opus 5.5 → Blender MCP → Blender",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Kwazikot/status/2104953406708175097"
+        },
+        {
+          "name": "Cursor",
+          "role": "Agent interface hosting Opus 5.5",
+          "evidence": "Cursor + Opus 5.5 → Blender MCP → Blender",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Kwazikot/status/2104953406708175097"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural Rube Goldberg Machine in Blender",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "mcp",
+          "rube-goldberg",
+          "physics-simulation",
+          "cursor"
+        ]
+      },
+      "targetModelRole": "Agentic scene generation, code dispatch, and visual verification through Blender MCP.",
+      "outputSource": "Blender 3D viewport simulation playback.",
+      "divisionEvidence": "Cursor + Opus 5.5 → Blender MCP → Blender",
+      "video": {
+        "shots": "1",
+        "duration": "26s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Clear demonstration of agentic 3D scene creation and animation using Claude Opus 5.5 via Blender MCP.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Kwazikot/status/2104953406708175097",
+        "start": 257,
+        "end": 454
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Kwazikot/status/2104953406708175097",
+        "author": "Kwazikot",
+        "postId": "2104953406708175097",
+        "publishedAt": "2026-09-29T15:16:14.000Z"
+      },
+      "checkedAt": "2026-09-30T09:48:31.968Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Kwazikot/status/2104953406708175097",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 orchestrates Blender via MCP in Cursor to build and simulate an animated Rube Goldberg machine.",
+    "summaryEn": "Procedural Rube Goldberg Machine via Blender MCP",
+    "originalPrompt": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.",
+    "sourceRange": {
+      "start": 257,
+      "end": 454
+    },
+    "translations": {
+      "zh": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.",
+      "en": "Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "blender",
+    "useCase": "Procedural Rube Goldberg Machine in Blender",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The viewport screen recording demonstrates gears rotating, balls traversing ramps, and platforms moving as instructed."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

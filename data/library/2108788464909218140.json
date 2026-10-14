@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:32:23.255Z",
+  "model": "opus5.5",
+  "prompt": "build a video representation of what your model opus 5.5 looks like",
+  "promptTranslations": {
+    "en": "build a video representation of what your model opus 5.5 looks like"
+  },
+  "summary": "Motion graphics visualization of model architecture and thinking phases generated with Claude Opus 5.5.",
+  "summaryEn": "Visual Representation of Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108788464909218140",
+    "canonicalUrl": "https://x.com/mikenevermiss/status/2108788464909218140",
+    "author": {
+      "username": "mikenevermiss",
+      "displayName": "MIKE",
+      "profileUrl": "https://x.com/mikenevermiss"
+    },
+    "publishedAt": "2026-10-10T05:15:24.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "en",
+    "originalText": "“build a video representation of what your model opus 5.5 looks like” https://t.co/oMDcTO2znE",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mikenevermiss/status/2108788464909218140",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108788340031950848/img/u6gux4BwIDTnNAVW.jpg",
+        "analysisUrl": "https://x.com/mikenevermiss/status/2108788464909218140"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 0,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 775
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/mikenevermiss/status/2108788464909218140",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108788340031950848/img/u6gux4BwIDTnNAVW.jpg",
+  "coverPath": "data/covers/2108788464909218140-wide.jpg",
+  "gifPath": "data/gifs/2108788464909218140.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108788340031950848/vid/avc1/480x270/BMXBOOtwSdg3G-mu.mp4?tag=29",
+    "x-video:2108788340031950848",
+    "x-post:2108788464909218140"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Visual Representation of Claude Opus 5.5",
+      "summary": "Motion graphics visualization of model architecture and thinking phases generated with Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Post caption quotes: “build a video representation of what your model opus 5.5 looks like” and ending frames display 'Claude Opus 5.5'."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "build a video representation of what your model opus 5.5 looks like",
+        "englishText": "build a video representation of what your model opus 5.5 looks like",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Displays animated particle sphere showcasing context, reasoning, and response stages, concluding with 'Claude Opus 5.5 a visual interpretation'.",
+        "textualResultQuote": "Claude Opus 5.5\na visual interpretation"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "AI Architecture Visual Interpretation",
+        "topic": "motion-graphics",
+        "tags": [
+          "claude",
+          "opus-5-5",
+          "particles",
+          "data-visualization"
+        ]
+      },
+      "targetModelRole": "Generated code or scene instructions for procedural motion graphics animation.",
+      "outputSource": "Rendered programmatic graphics / code execution.",
+      "divisionEvidence": "Post displays standalone programmatic motion graphics illustrating internal model phases without external asset imports.",
+      "video": {
+        "shots": "Single continuous multi-phase sequence",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 producing a conceptual motion graphic animation from a single user prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/mikenevermiss/status/2108788464909218140",
+        "start": 1,
+        "end": 68
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/mikenevermiss/status/2108788464909218140",
+        "author": "mikenevermiss",
+        "postId": "2108788464909218140",
+        "publishedAt": "2026-10-10T05:15:24.000Z"
+      },
+      "checkedAt": "2026-10-10T08:32:23.254Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mikenevermiss/status/2108788464909218140",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics visualization of model architecture and thinking phases generated with Claude Opus 5.5.",
+    "summaryEn": "Visual Representation of Claude Opus 5.5",
+    "originalPrompt": "build a video representation of what your model opus 5.5 looks like",
+    "sourceRange": {
+      "start": 1,
+      "end": 68
+    },
+    "translations": {
+      "zh": "build a video representation of what your model opus 5.5 looks like",
+      "en": "build a video representation of what your model opus 5.5 looks like"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI Architecture Visual Interpretation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Displays animated particle sphere showcasing context, reasoning, and response stages, concluding with 'Claude Opus 5.5 a visual interpretation'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

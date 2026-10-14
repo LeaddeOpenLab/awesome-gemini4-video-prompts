@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:24.974Z",
+  "model": "opus5.5",
+  "prompt": "turn my live visitor count into something worth looking at",
+  "promptTranslations": {
+    "en": "turn my live visitor count into something worth looking at"
+  },
+  "summary": "Author used Claude Opus 5.5 to build an interactive 3D globe and flat map visualizing real-time visitor counts.",
+  "summaryEn": "Interactive 3D Live Visitor Analytics Globe",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107683152865173619",
+    "canonicalUrl": "https://x.com/RyanSael/status/2107683152865173619",
+    "author": {
+      "username": "RyanSael",
+      "displayName": "Ryan Sael",
+      "profileUrl": "https://x.com/RyanSael"
+    },
+    "publishedAt": "2026-10-07T04:03:17.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "analytics, but less boring: https://t.co/qK4pxJxEtN\nI asked Opus 5.5 to turn my live visitor count into something worth looking at https://t.co/OETi29h5tZ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RyanSael/status/2107683152865173619",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107680165442854913/img/o21uzp6h_hfV_VA3.jpg",
+        "analysisUrl": "https://x.com/RyanSael/status/2107683152865173619"
+      }
+    ],
+    "metrics": {
+      "likeCount": 51,
+      "repostCount": 4,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 3069
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/RyanSael/status/2107768211303469117",
+        "text": "@Fluxora_Studios to be fair, there’s already analytics site that has a globe view and all that. I think Opus just copied it but added a few touches",
+        "author": "RyanSael"
+      },
+      {
+        "url": "https://sael.net/here/",
+        "text": "\n\n\nHere now: the world on sael.net\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinding out who is here…\n\n\n\n\n\n\n\n \n  Live on sael.net Here now\n\n  Everyone interacting with something on this site at this moment. Each one is placed in the country their connection comes from, which is all that is known about them, and none of it is kept.\n \n\n \n  Here now—\n\n  Countries—\n\n  Not placed—\n\n \n\n \n\n \n  By countryBy page\n\n  \n\n\n\n\n\n\n\n \n  World V · 1 2\n   GlobeFlat map\n\n\n  \n   \n   \n   \n   \n  \n\n \n\n\n\n\n\n\n\n Render —\n\n \n\n ↑↓ row · ←→ value · drag a bar · ⇧ coarse · 0 reset row · ⇧0 reset all · C copy · ⌘' close\n\n \n\n\n\n\n×\nWhat this is showing\n\nEvery page on sael.net joins a room when it opens, and leaves when it closes. The number of people in the room is the number on the left: everyone interacting with something on this site at this moment, counted on an open socket rather than guessed from traffic.\n\nHow much it knows, exactly\n\nOne thing: the two-letter country code that Cloudflare reads off the connection, which this site asks for once per browser session. No city, no coordinates, no address, no name, no identifier of any sort, and nothing written down. A dot therefore means somebody in that country, nothing finer. Within the country it is dropped at a fixed, made-up spot on land, so five people in Brazil read as five dots rather than one, but no dot is anybody's address.\n\nWhen a visitor's country never arrives, because an older copy of the site's script is cached, or the request was blocked, or they are on a local preview, they count as not placed and are shown as a figure beside the map. They are real people. Guessing at them would be worse than saying so.\n\nThis page joins the room as a watcher, so opening it does not add you to the count you are looking at. If your own country is known, it is ringed and marked \"you\".\n\nDay and night are real\n\nThe lit half is the actual lit half, taken from your clock: the sun's longitude from the time, its latitude from the date. The small lights on the dark side are the world's larger cities, the same set the Starlink piece uses.\n\nGlobe and flat map are the same object\n\nThere is one world here, not two. The flat map is an Equal Earth projection, where a country's area on the page is proportional to its area on the ground, and the globe unrolls into it by moving every vertex along its own path. Wherever a country's dot is on the globe, it is the same dot on the map.\n\nKeys\n\n1 globe · 2 flat map · 3 where I am · 4 labels · C cinematic cameras · 0 reset the view · / hide the interface · drag to turn the globe · scroll or pinch to zoom · WASD or the arrows turn it too, Q E spin it · on the flat map, right-drag or WASD to move over it · ⌘' render tuning.\n\nWhere the shapes come from\n\nThe coastlines and the city lights are Natural Earth, public domain. The country positions are the public-domain country centroids published by Esri from the same source. All of it is baked into this page: it asks the network for nothing except the live count.\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "RyanSael"
+      },
+      {
+        "url": "https://x.com/RyanSael/status/2107683152865173619",
+        "text": "Ryan Sael on X: \"analytics, but less boring: https://t.co/qK4pxJxEtN\nI asked Opus 5.5 to turn my live visitor count into something worth looking at\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRyan Sael on X: \"analytics, but less boring: https://t.co/qK4pxJxEtN\nI asked Opus 5.5 to turn my live visitor count into something worth looking at\"\n\n\n\nRyan Sael\n\n@RyanSael\n\n\n\n\nanalytics, but less boring: sael.net/here\nI asked Opus 5.5 to turn my live visitor count into something worth looking at\n\n\n00:00\n\n\n\n\n\n\n\n\n4:03 AM · Oct 7, 2026·3,069\nViews\n\n\n\n1\n4\n51\n30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRyan Sael@RyanSaelFollow\nAAA quality AI slop\nhttps://t.co/JAkNEGRhHf\n\n3D, Product Design, AI, Game Dev, and a little bit of everything else\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Sael\n\n@RyanSael\n\n\n\n\nanalytics, but less boring: sael.net/here\nI asked Opus 5.5 to turn my live visitor count into something worth looking at\n\n\n00:00\n\n\n\n\n\n\n\n\n4:03 AM · Oct 7, 2026·3,069\nViews\n\n\n\n1\n4\n51\n30\n\n\n\n\n\n\n\n\n\nFluxora\n\n@Fluxora_Studios\nOct 7\n\n\nthe new age of visual analaytics is upon us LFG bro! This is beautiful\n\n\n1\n\n1\n73\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "RyanSael"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/RyanSael/status/2107683152865173619",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107680165442854913/img/o21uzp6h_hfV_VA3.jpg",
+  "coverPath": "data/covers/2107683152865173619-wide.jpg",
+  "gifPath": "data/gifs/2107683152865173619.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2107680165442854913/vid/avc1/480x270/LjkBJEdwJMn3rQ22.mp4?tag=29",
+    "x-video:2107680165442854913",
+    "x-post:2107683152865173619"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Live Visitor Analytics Globe",
+      "summary": "Author used Claude Opus 5.5 to build an interactive 3D globe and flat map visualizing real-time visitor counts.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to turn my live visitor count into something worth looking at"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "turn my live visitor count into something worth looking at",
+        "englishText": "turn my live visitor count into something worth looking at",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt and code generation instructions",
+          "Specific 3D morphing and geometry implementation requirements"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive 3D globe morphing into an Equal Earth flat map showing live visitor data.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "data stream",
+          "description": "Cloudflare real-time socket connections and country codes",
+          "available": false,
+          "evidence": "Every page on sael.net joins a room when it opens... counted on an open socket",
+          "origin": "user"
+        },
+        {
+          "kind": "geographic data",
+          "description": "Natural Earth coastlines, city lights, and Esri country centroids",
+          "available": true,
+          "evidence": "The coastlines and the city lights are Natural Earth... country positions are the public-domain country centroids published by Esri",
+          "sourceUrl": "https://sael.net/here/",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js",
+          "role": "Browser-based 3D scene rendering and vertex morphing",
+          "evidence": "GlobeFlat map... moving every vertex along its own path",
+          "sourceUrl": "https://sael.net/here/",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Live Visitor Map Visualization",
+        "topic": "3d-scenes",
+        "tags": [
+          "analytics",
+          "3d-globe",
+          "data-visualization",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation and interactive visual design",
+      "outputSource": "Client-side WebGL canvas runtime",
+      "divisionEvidence": "Author prompted Opus 5.5 to design and code the visualizer; browser renders the resulting 3D geometry in real time.",
+      "video": {
+        "shots": "Single continuous screen recording capturing globe rotation, map projection morphing, and camera maneuvers.",
+        "duration": "00:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 demonstration producing interactive 3D code, verified with screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/RyanSael/status/2107683152865173619",
+        "start": 72,
+        "end": 130
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/RyanSael/status/2107683152865173619",
+        "author": "RyanSael",
+        "postId": "2107683152865173619",
+        "publishedAt": "2026-10-07T04:03:17.000Z"
+      },
+      "checkedAt": "2026-10-12T17:01:02.216Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RyanSael/status/2107683152865173619",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 to build an interactive 3D globe and flat map visualizing real-time visitor counts.",
+    "summaryEn": "Interactive 3D Live Visitor Analytics Globe",
+    "originalPrompt": "turn my live visitor count into something worth looking at",
+    "sourceRange": {
+      "start": 72,
+      "end": 130
+    },
+    "translations": {
+      "zh": "turn my live visitor count into something worth looking at",
+      "en": "turn my live visitor count into something worth looking at"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Live Visitor Map Visualization",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt and code generation instructions",
+        "Specific 3D morphing and geometry implementation requirements"
+      ],
+      "evidence": "Screen recording demonstrates an interactive 3D globe morphing into an Equal Earth flat map showing live visitor data."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

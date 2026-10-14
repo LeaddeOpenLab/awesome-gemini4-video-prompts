@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:50.749Z",
+  "model": "opus5.5",
+  "prompt": "design a working 6-joint robot arm i can build for $122",
+  "promptTranslations": {
+    "en": "design a working 6-joint robot arm i can build for $122"
+  },
+  "summary": "Claude Opus 5.5 generates a working 6-joint robot arm CAD and kinematics physics simulation from a concise single-sentence prompt.",
+  "summaryEn": "6-Joint Robotic Arm Physics Simulation Generated from a Natural Language Specification",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108914859492483132",
+    "canonicalUrl": "https://x.com/0x_meden/status/2108914859492483132",
+    "author": {
+      "username": "0x_meden",
+      "displayName": "Martin",
+      "profileUrl": "https://x.com/0x_meden"
+    },
+    "publishedAt": "2026-10-10T13:37:38.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "en",
+    "originalText": "i don't know how to use CAD. i've never built a robot\n\nlast night opus 5.5 built me one anyway\n\n> watched the free stanford robotics guide\n> opened claude, typed one sentence: \"design a working 6-joint robot arm i can build for $122\"\n> went to sleep\n> woke up to this\n> 6 joints. working gripper. every joint moving in a physics sim exactly like the real thing\n> 0 lines of CAD written by me\n\ncompanies pay robotics engineers $200K–$400K to do this\n\ni did it with a $20 subscription and a free guide\n\nnext week i order the parts. the week after, it moves on my desk\n\nthe guide is in the article below. you're about 12 hours from your own",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0x_meden/status/2108914859492483132",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108914815439699968/img/wCpeIEoDoIS02Pls.jpg",
+        "analysisUrl": "https://x.com/0x_meden/status/2108914859492483132"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 3,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 2056
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0x_meden/status/2108914859492483132",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108914815439699968/img/wCpeIEoDoIS02Pls.jpg",
+  "coverPath": "data/covers/2108914859492483132-wide.jpg",
+  "gifPath": "data/gifs/2108914859492483132.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108914815439699968/vid/avc1/332x270/CD7erysOfCKx11U3.mp4?tag=29",
+    "x-video:2108914815439699968",
+    "x-post:2108914859492483132"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "6-Joint Robotic Arm Physics Simulation Generated from a Natural Language Specification",
+      "summary": "Claude Opus 5.5 generates a working 6-joint robot arm CAD and kinematics physics simulation from a concise single-sentence prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "last night opus 5.5 built me one anyway\n\n> watched the free stanford robotics guide\n> opened claude, typed one sentence: \"design a working 6-joint robot arm i can build for $122\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "design a working 6-joint robot arm i can build for $122",
+        "englishText": "design a working 6-joint robot arm i can build for $122",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Simulation runtime / rendering environment script or CAD generation pipeline used by Claude"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays an animated 3D physics simulation rendering of a white 6-joint articulating robotic arm with a gripper cycling through kinematics and rotations on a grid floor.",
+        "textualResultQuote": "6 joints. working gripper. every joint moving in a physics sim exactly like the real thing\n> 0 lines of CAD written by me"
+      },
+      "inputs": [
+        {
+          "kind": "guide",
+          "description": "Free Stanford robotics guide referenced as preparatory context",
+          "available": false,
+          "evidence": "watched the free stanford robotics guide",
+          "origin": "searched",
+          "sourceUrl": "https://x.com/0x_meden/status/2108914859492483132"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "3D Physics Simulator",
+          "role": "Execution and rendering environment for the robot kinematics simulation",
+          "evidence": "every joint moving in a physics sim exactly like the real thing",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/0x_meden/status/2108914859492483132"
+        }
+      ],
+      "purpose": {
+        "label": "Robotic Arm Kinematics Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "robotics",
+          "physics-simulation",
+          "cad",
+          "3d-model",
+          "kinematics"
+        ]
+      },
+      "targetModelRole": "Code and CAD design generation for a 6-joint robot arm and its associated kinematic simulation",
+      "outputSource": "Inferred 3D simulation/CAD software playback recorded as video",
+      "divisionEvidence": "Claude Opus 5.5 generated the CAD/simulation code ('0 lines of CAD written by me'), which was run in a 3D physics simulation renderer to animate the arm.",
+      "video": {
+        "shots": "Single 360-degree rotating camera view around the articulated robotic arm",
+        "duration": "12s",
+        "aspectRatio": "16:13",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 designing and articulating a complex 3D robotic model rendered in motion in a simulation environment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0x_meden/status/2108914859492483132",
+        "start": 177,
+        "end": 232
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0x_meden/status/2108914859492483132",
+        "author": "0x_meden",
+        "postId": "2108914859492483132",
+        "publishedAt": "2026-10-10T13:37:38.000Z"
+      },
+      "checkedAt": "2026-10-12T06:03:51.194Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0x_meden/status/2108914859492483132",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a working 6-joint robot arm CAD and kinematics physics simulation from a concise single-sentence prompt.",
+    "summaryEn": "6-Joint Robotic Arm Physics Simulation Generated from a Natural Language Specification",
+    "originalPrompt": "design a working 6-joint robot arm i can build for $122",
+    "sourceRange": {
+      "start": 177,
+      "end": 232
+    },
+    "translations": {
+      "zh": "design a working 6-joint robot arm i can build for $122",
+      "en": "design a working 6-joint robot arm i can build for $122"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Robotic Arm Kinematics Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Simulation runtime / rendering environment script or CAD generation pipeline used by Claude"
+      ],
+      "evidence": "The attached video displays an animated 3D physics simulation rendering of a white 6-joint articulating robotic arm with a gripper cycling through kinematics and rotations on a grid floor."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

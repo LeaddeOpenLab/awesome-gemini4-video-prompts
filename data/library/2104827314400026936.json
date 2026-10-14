@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:50.185Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API."
+  },
+  "summary": "Bennett prompted Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel for fal highlighting multi-modal AI generation capabilities.",
+  "summaryEn": "fal API Showreel Motion Graphics Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104827314400026936",
+    "canonicalUrl": "https://x.com/influencer_seo/status/2104827314400026936",
+    "author": {
+      "username": "influencer_seo",
+      "displayName": "Bennett | Generative Media | AI SEO @ fal",
+      "profileUrl": "https://x.com/influencer_seo"
+    },
+    "publishedAt": "2026-09-29T06:55:12.000Z",
+    "collectedAt": "2026-09-30T06:50:02.363Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is insanely good at motion design!!\n\nprompt: make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.\n\nThis is one shot, no edits https://t.co/ipXjr82YzP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/influencer_seo/status/2104827314400026936",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104826969703768065/img/67L--BzCgwiAs35D.jpg",
+        "analysisUrl": "https://x.com/influencer_seo/status/2104827314400026936"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 555
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/influencer_seo/status/2104827314400026936",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104826969703768065/img/67L--BzCgwiAs35D.jpg",
+  "coverPath": "data/covers/2104827314400026936-wide.jpg",
+  "gifPath": "data/gifs/2104827314400026936.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104826969703768065",
+    "x-post:2104827314400026936"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "fal API Showreel Motion Graphics Video",
+      "summary": "Bennett prompted Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel for fal highlighting multi-modal AI generation capabilities.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 is insanely good at motion design!!"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+        "englishText": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Animation rendering environment or framework configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 15-second polished motion graphics sequence demonstrating fal API endpoints (image, video, audio, 3D), developer stats, and prompt workflows.",
+        "textualResultQuote": "This is one shot, no edits"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "fal API",
+          "role": "API service for AI media generation models referenced in the motion graphics",
+          "evidence": "Use the fal API.",
+          "sourceUrl": "https://x.com/influencer_seo/status/2104827314400026936",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "fal Motion Design Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "showreel",
+          "fal-api",
+          "creative-coding",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code and motion design orchestration for a 15-second multi-scene promotional video",
+      "outputSource": "Programmatic motion graphics renderer executed from Opus 5.5 instructions",
+      "divisionEvidence": "Opus 5.5 is insanely good at motion design!!\\n\\nprompt: make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+      "video": {
+        "shots": "Multiple dynamic motion scenes in a continuous seamless sequence",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Claude Opus 5.5, verbatim user prompt, and attached high-resolution motion design video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/influencer_seo/status/2104827314400026936",
+        "start": 54,
+        "end": 231
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/influencer_seo/status/2104827314400026936",
+        "author": "influencer_seo",
+        "postId": "2104827314400026936",
+        "publishedAt": "2026-09-29T06:55:12.000Z"
+      },
+      "checkedAt": "2026-09-30T06:16:15.446Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/influencer_seo/status/2104827314400026936",
+        "evidence": ""
+      }
+    },
+    "summary": "Bennett prompted Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel for fal highlighting multi-modal AI generation capabilities.",
+    "summaryEn": "fal API Showreel Motion Graphics Video",
+    "originalPrompt": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+    "sourceRange": {
+      "start": 54,
+      "end": 231
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
+      "en": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "fal Motion Design Showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Animation rendering environment or framework configuration"
+      ],
+      "evidence": "The video shows a 15-second polished motion graphics sequence demonstrating fal API endpoints (image, video, audio, 3D), developer stats, and prompt workflows."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

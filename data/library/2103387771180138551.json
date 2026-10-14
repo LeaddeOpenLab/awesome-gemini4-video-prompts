@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:07.921Z",
+  "model": "opus5.5",
+  "prompt": "make a 4-minute animated short that blows my mind.",
+  "promptTranslations": {
+    "en": "make a 4-minute animated short that blows my mind."
+  },
+  "summary": "Farouk Alogba shares the prompt given to Claude Opus 5.5 to direct agents, compose music, and generate an animated short film.",
+  "summaryEn": "Mind-Blowing 4-Minute Animated Short Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103387771180138551",
+    "canonicalUrl": "https://x.com/faroukzy/status/2103387771180138551",
+    "author": {
+      "username": "faroukzy",
+      "displayName": "Farouk Alogba",
+      "profileUrl": "https://x.com/faroukzy"
+    },
+    "publishedAt": "2026-09-25T07:34:58.000Z",
+    "collectedAt": "2026-09-28T08:20:04.128Z",
+    "language": "en",
+    "originalText": "I gave Claude Opus 5.5 one prompt: make a 4-minute animated short that blows my mind.\n\nIt wrote the story, directed 12 AI agents, and generated every frame, the orchestral score, and all sound effects in code. Voices by @elevenlabsio.\n\nRendered on my MacBook. 🎬 https://t.co/Uklfs651mL",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/faroukzy/status/2103387771180138551",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103384925428752384/img/dxak3JMtUREXjBs7.jpg",
+        "analysisUrl": "https://x.com/faroukzy/status/2103387771180138551"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 85
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/faroukzy/status/2103387771180138551",
+        "text": "Farouk Alogba on X: \"I gave Claude Opus 5.5 one prompt: make a 4-minute animated short that blows my mind.\n\nIt wrote the story, directed 12 AI agents, and generated every frame, the orchestral score, and all sound effects in code. Voices by @elevenlabsio.\n\nRendered on my MacBook. 🎬\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nFarouk Alogba on X: \"I gave Claude Opus 5.5 one prompt: make a 4-minute animated short that blows my mind.\n\nIt wrote the story, directed 12 AI agents, and generated every frame, the orchestral score, and all sound effects in code. Voices by @elevenlabsio.\n\nRendered on my MacBook. 🎬\"\n\n\n\nFarouk Alogba\n@faroukzy\n\n\n\n\nI gave Claude Opus 5.5 one prompt: make a 4-minute animated short that blows my mind.\n\nIt wrote the story, directed 12 AI agents, and generated every frame, the orchestral score, and all sound effects in code. Voices by @elevenlabsio.\n\nRendered on my MacBook. 🎬\n\n\n00:00\n\n\n\n\n\n\n\n\n7:34 AM · Sep 25, 2026·85\nViews\n\n\n\n\n\n2\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nFarouk Alogba@faroukzyFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarouk Alogba\n@faroukzy\n\n\n\n\nI gave Claude Opus 5.5 one prompt: make a 4-minute animated short that blows my mind.\n\nIt wrote the story, directed 12 AI agents, and generated every frame, the orchestral score, and all sound effects in code. Voices by @elevenlabsio.\n\nRendered on my MacBook. 🎬\n\n\n00:00\n\n\n\n\n\n\n\n\n7:34 AM · Sep 25, 2026·85\nViews\n\n\n\n\n\n2\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "faroukzy"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/faroukzy/status/2103387771180138551",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103384925428752384/img/dxak3JMtUREXjBs7.jpg",
+  "coverPath": "data/covers/2103387771180138551-wide.jpg",
+  "gifPath": "data/gifs/2103387771180138551.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103384925428752384",
+    "x-post:2103387771180138551"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Mind-Blowing 4-Minute Animated Short Prompt",
+      "summary": "Farouk Alogba shares the prompt given to Claude Opus 5.5 to direct agents, compose music, and generate an animated short film.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 4-minute animated short that blows my mind.",
+        "englishText": "make a 4-minute animated short that blows my mind.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/faroukzy/status/2103387771180138551",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/faroukzy/status/2103387771180138551",
+        "start": 35,
+        "end": 85
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/faroukzy/status/2103387771180138551",
+        "author": "faroukzy",
+        "postId": "2103387771180138551",
+        "publishedAt": "2026-09-25T07:34:58.000Z"
+      },
+      "checkedAt": "2026-09-28T08:21:20.647Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/faroukzy/status/2103387771180138551",
+        "evidence": ""
+      }
+    },
+    "summary": "Farouk Alogba shares the prompt given to Claude Opus 5.5 to direct agents, compose music, and generate an animated short film.",
+    "summaryEn": "Mind-Blowing 4-Minute Animated Short Prompt",
+    "originalPrompt": "make a 4-minute animated short that blows my mind.",
+    "sourceRange": {
+      "start": 35,
+      "end": 85
+    },
+    "translations": {
+      "zh": "make a 4-minute animated short that blows my mind.",
+      "en": "make a 4-minute animated short that blows my mind."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Farouk Alogba shares the prompt given to Claude Opus 5.5 to direct agents, compose music, and generate an animated short film.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

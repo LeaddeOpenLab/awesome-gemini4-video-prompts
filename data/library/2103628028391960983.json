@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:56.411Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "A prompt used with Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel video.",
+  "summaryEn": "Dynamic Motion Designer Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103628028391960983",
+    "canonicalUrl": "https://x.com/leadnotifi/status/2103628028391960983",
+    "author": {
+      "username": "leadnotifi",
+      "displayName": "Sushil Kumar",
+      "profileUrl": "https://x.com/leadnotifi"
+    },
+    "publishedAt": "2026-09-25T23:29:40.000Z",
+    "collectedAt": "2026-09-28T07:59:57.957Z",
+    "language": "en",
+    "originalText": "Opus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/UbXMZ415pS",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/leadnotifi/status/2103628028391960983",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103627469576450049/img/d6du3TJrVDTns5Fy.jpg",
+        "analysisUrl": "https://x.com/leadnotifi/status/2103628028391960983"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 50
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/leadnotifi/status/2103628028391960983",
+        "text": "Sushil Kumar on X: \"Opus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSushil Kumar on X: \"Opus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\"\n\n\n\nSushil Kumar\n@leadnotifi\n\n\n\n\nOpus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Sep 25, 2026·50\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSushil Kumar@leadnotifiFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nSushil Kumar\n@leadnotifi\n\n\n\n\nOpus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Sep 25, 2026·50\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "leadnotifi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/leadnotifi/status/2103628028391960983",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103627469576450049/img/d6du3TJrVDTns5Fy.jpg",
+  "coverPath": "data/covers/2103628028391960983-wide.jpg",
+  "gifPath": "data/gifs/2103628028391960983.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103627469576450049",
+    "x-post:2103628028391960983"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Designer Showreel",
+      "summary": "A prompt used with Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel video.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Made with claude OPUS 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/leadnotifi/status/2103628028391960983",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/leadnotifi/status/2103628028391960983",
+        "start": 112,
+        "end": 263
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/leadnotifi/status/2103628028391960983",
+        "author": "leadnotifi",
+        "postId": "2103628028391960983",
+        "publishedAt": "2026-09-25T23:29:40.000Z"
+      },
+      "checkedAt": "2026-09-28T08:00:50.028Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/leadnotifi/status/2103628028391960983",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt used with Claude Opus 5.5 to create a dynamic 15-second motion graphics showreel video.",
+    "summaryEn": "Dynamic Motion Designer Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 112,
+      "end": 263
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

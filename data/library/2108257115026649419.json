@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:24.991Z",
+  "model": "opus5.5",
+  "prompt": "make a minecraft clone. insane quality",
+  "promptTranslations": {
+    "en": "make a minecraft clone. insane quality"
+  },
+  "summary": "Author compares Claude Opus 5.5, Sonnet 5.5, and Haiku 5.5 on a single prompt to generate a Minecraft clone in one HTML file, demonstrating Opus 5.5's raw WebGL2 implementation with dynamic lighting and TNT in a synchronized gameplay screen recording.",
+  "summaryEn": "Opus 5.5 Single-File Raw WebGL2 Minecraft Clone Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108257115026649419",
+    "canonicalUrl": "https://x.com/sgarlen01/status/2108257115026649419",
+    "author": {
+      "username": "sgarlen01",
+      "displayName": "sgarlen",
+      "profileUrl": "https://x.com/sgarlen01"
+    },
+    "publishedAt": "2026-10-08T18:04:00.000Z",
+    "collectedAt": "2026-10-09T15:58:14.620Z",
+    "language": "en",
+    "originalText": "i gave 3 Claude models the same lazy prompt and one of them built creepers\n\nthe prompt: \"make a minecraft clone. insane quality\"\n\nno specs. one HTML file each\n\nwhat came back:\n\n-> Haiku 5.5: 5 min, 31 KB. hills, trees, caves, mining. leans on three.js and the world just ends after 128 blocks\n-> Sonnet 5.5: 10.6 min, 73 KB. raw WebGL2, infinite world, water, clouds, minimap, cracks when you mine. tbh way closer to Opus than i expected\n-> Opus 5.5: ~15 min, 77 KB. raw WebGL2, real sun shadows, torch light that actually spreads, pigs, sheep, creepers at night, TNT with chain reactions\n\nnobody asked for TNT\n\nthen i sent the exact same keypresses to all three at once. video below\n\nwanna try it tonight:\n\n1. pick one dumb prompt\n2. run it on all 3 models, don't touch the output\n3. put them side by side\n\ntakes about 30 seconds to see which one is worth paying for\n\nsave this before you pick a plan",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sgarlen01/status/2108257115026649419",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107945900458811392/img/pOGgVPNaX2wohT9N.jpg",
+        "analysisUrl": "https://x.com/sgarlen01/status/2108257115026649419"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 114
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:tasks:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sgarlen01/status/2108257115026649419",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107945900458811392/img/pOGgVPNaX2wohT9N.jpg",
+  "coverPath": "data/covers/2108257115026649419-wide.jpg",
+  "gifPath": "data/gifs/2108257115026649419.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2107945900458811392",
+    "x-post:2108257115026649419"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Single-File Raw WebGL2 Minecraft Clone Comparison",
+      "summary": "Author compares Claude Opus 5.5, Sonnet 5.5, and Haiku 5.5 on a single prompt to generate a Minecraft clone in one HTML file, demonstrating Opus 5.5's raw WebGL2 implementation with dynamic lighting and TNT in a synchronized gameplay screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "-> Opus 5.5: ~15 min, 77 KB. raw WebGL2, real sun shadows, torch light that actually spreads, pigs, sheep, creepers at night, TNT with chain reactions"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a minecraft clone. insane quality",
+        "englishText": "make a minecraft clone. insane quality",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording shows a synchronized three-way side-by-side test where Opus 5.5 (labeled OPUSCRAFT on the left) renders a full voxel 3D environment via WebGL2, handling movement, block destruction, placement, and TNT block physics.",
+        "textualResultQuote": "-> Opus 5.5: ~15 min, 77 KB. raw WebGL2, real sun shadows, torch light that actually spreads, pigs, sheep, creepers at night, TNT with chain reactions"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / JavaScript",
+          "role": "Single-file browser application execution environment",
+          "evidence": "no specs. one HTML file each",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/sgarlen01/status/2108257115026649419"
+        },
+        {
+          "name": "WebGL2",
+          "role": "In-browser graphics rendering API",
+          "evidence": "raw WebGL2, real sun shadows, torch light that actually spreads",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/sgarlen01/status/2108257115026649419"
+        }
+      ],
+      "purpose": {
+        "label": "Minecraft voxel engine clone in single HTML file",
+        "topic": "games-interactive",
+        "tags": [
+          "webgl2",
+          "minecraft-clone",
+          "voxel",
+          "creative-coding",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Generates complete self-contained HTML and JavaScript code implementing a 3D WebGL2 voxel engine.",
+      "outputSource": "Web browser executing the Claude-generated single HTML file.",
+      "divisionEvidence": "Author notes 'no specs. one HTML file each' and 'Opus 5.5: ~15 min, 77 KB. raw WebGL2', then executes the file locally in browser and records gameplay.",
+      "video": {
+        "shots": "Single continuous side-by-side comparison screen recording",
+        "duration": "25s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding case demonstrating an interactive 3D WebGL2 application produced from a minimal prompt and captured via screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sgarlen01/status/2108257115026649419",
+        "start": 89,
+        "end": 127
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sgarlen01/status/2108257115026649419",
+        "author": "sgarlen01",
+        "postId": "2108257115026649419",
+        "publishedAt": "2026-10-08T18:04:00.000Z"
+      },
+      "checkedAt": "2026-10-09T17:57:20.516Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sgarlen01/status/2108257115026649419",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares Claude Opus 5.5, Sonnet 5.5, and Haiku 5.5 on a single prompt to generate a Minecraft clone in one HTML file, demonstrating Opus 5.5's raw WebGL2 implementation with dynamic lighting and TNT in a synchronized gameplay screen recording.",
+    "summaryEn": "Opus 5.5 Single-File Raw WebGL2 Minecraft Clone Comparison",
+    "originalPrompt": "make a minecraft clone. insane quality",
+    "sourceRange": {
+      "start": 89,
+      "end": 127
+    },
+    "translations": {
+      "zh": "make a minecraft clone. insane quality",
+      "en": "make a minecraft clone. insane quality"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Minecraft voxel engine clone in single HTML file",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording shows a synchronized three-way side-by-side test where Opus 5.5 (labeled OPUSCRAFT on the left) renders a full voxel 3D environment via WebGL2, handling movement, block destruction, placement, and TNT block physics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

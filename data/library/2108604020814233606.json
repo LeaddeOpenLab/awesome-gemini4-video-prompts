@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:02.661Z",
+  "model": "opus5.5",
+  "prompt": "make Attack on Titan in Minecraft",
+  "promptTranslations": {
+    "en": "make Attack on Titan in Minecraft"
+  },
+  "summary": "Author used Claude Opus 5.5 to generate an interactive multiplayer Attack on Titan-themed Minecraft-style web game.",
+  "summaryEn": "Attack on Titan Minecraft Web Game with Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108604020814233606",
+    "canonicalUrl": "https://x.com/nicksaraev/status/2108604020814233606",
+    "author": {
+      "username": "nicksaraev",
+      "displayName": "nicksaraev",
+      "profileUrl": "https://x.com/nicksaraev"
+    },
+    "publishedAt": "2026-10-09T17:02:29.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "I am not joking when I say this.\n\nTraditional game development is over.\n\nI asked Opus-5.5 to make Attack on Titan in Minecraft. Took ~1hr and cost less than $25 start to finish.\n\nThe end result is extremely fun. And multiplayer!\n\nGuide + link to play below. https://t.co/SwqKzRET4D",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nicksaraev/status/2108604020814233606",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108603026898653184/img/S6dK-12uXD6j1an7.jpg",
+        "analysisUrl": "https://x.com/nicksaraev/status/2108604020814233606"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1799,
+      "repostCount": 102,
+      "replyCount": 82,
+      "quoteCount": 22,
+      "viewCount": 99993
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/nicksaraev/status/2108604020814233606",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108603026898653184/img/S6dK-12uXD6j1an7.jpg",
+  "coverPath": "data/covers/2108604020814233606-wide.jpg",
+  "gifPath": "data/gifs/2108604020814233606.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108603026898653184",
+    "x-post:2108604020814233606"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Attack on Titan Minecraft Web Game with Opus 5.5",
+      "summary": "Author used Claude Opus 5.5 to generate an interactive multiplayer Attack on Titan-themed Minecraft-style web game.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus-5.5 to make Attack on Titan in Minecraft."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make Attack on Titan in Minecraft",
+        "englishText": "make Attack on Titan in Minecraft",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt",
+          "full instructions",
+          "game mechanics specifications",
+          "code generation workflow"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 3D blocky Minecraft-style scene with the Colossal Titan and an ODM gear player character.",
+        "textualResultQuote": "The end result is extremely fun. And multiplayer!"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Netlify",
+          "role": "web hosting platform",
+          "evidence": "attack-on-titancraft.netlify.app",
+          "sourceUrl": "https://x.com/nicksaraev/status/2108604020814233606",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Attack on Titan Minecraft Game",
+        "topic": "games-interactive",
+        "tags": [
+          "minecraft",
+          "attack-on-titan",
+          "browser-game",
+          "threejs",
+          "multiplayer"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive browser game",
+      "outputSource": "Web browser / 3D web game engine",
+      "divisionEvidence": "I asked Opus-5.5 to make Attack on Titan in Minecraft. Took ~1hr and cost less than $25 start to finish.",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates interactive 3D web scene/game creation generated via Claude Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nicksaraev/status/2108604020814233606",
+        "start": 93,
+        "end": 126
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nicksaraev/status/2108604020814233606",
+        "author": "nicksaraev",
+        "postId": "2108604020814233606",
+        "publishedAt": "2026-10-09T17:02:29.000Z"
+      },
+      "checkedAt": "2026-10-09T18:11:00.968Z",
+      "checkMethod": "video-preview",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nicksaraev/status/2108604020814233606",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 to generate an interactive multiplayer Attack on Titan-themed Minecraft-style web game.",
+    "summaryEn": "Attack on Titan Minecraft Web Game with Opus 5.5",
+    "originalPrompt": "make Attack on Titan in Minecraft",
+    "sourceRange": {
+      "start": 93,
+      "end": 126
+    },
+    "translations": {
+      "zh": "make Attack on Titan in Minecraft",
+      "en": "make Attack on Titan in Minecraft"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Attack on Titan Minecraft Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt",
+        "full instructions",
+        "game mechanics specifications",
+        "code generation workflow"
+      ],
+      "evidence": "The video shows a 3D blocky Minecraft-style scene with the Colossal Titan and an ODM gear player character."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

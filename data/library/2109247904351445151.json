@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:31.774Z",
+  "model": "opus5.5",
+  "prompt": "Make a video where you appear",
+  "promptTranslations": {
+    "en": "Make a video where you appear"
+  },
+  "summary": "Claude Opus 5.5 was prompted to create an animation where it appears as a character, resulting in a gentle 3D scene titled 'Claude's Little Avatar and Dandelion Fluff'.",
+  "summaryEn": "Claude's Little Avatar and Dandelion Fluff Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109247904351445151",
+    "canonicalUrl": "https://x.com/Charlotteqozf/status/2109247904351445151",
+    "author": {
+      "username": "Charlotteqozf",
+      "displayName": "Charlotte",
+      "profileUrl": "https://x.com/Charlotteqozf"
+    },
+    "publishedAt": "2026-10-11T11:41:02.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "ja",
+    "originalText": "Opus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶\n\nタイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって https://t.co/L150xqeToE",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Charlotteqozf/status/2109247904351445151",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109247873745604608/img/Fvb8E0P2iAR5SnVT.jpg",
+        "analysisUrl": "https://x.com/Charlotteqozf/status/2109247904351445151"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 269
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Charlotteqozf/status/2109247904351445151",
+        "text": "Charlotte on X: \"Opus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶\n\nタイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nCharlotte on X: \"Opus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶\n\nタイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって\"\n\n\n\nCharlotte\n@Charlotteqozf\n\n\n\n\nShow translation\nOpus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶\n\nタイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって\n\n\n00:00\n\n\n\n\n\n\n\n\n11:41 AM · Oct 11, 2026·339\nViews\n\n\n\n\n\n29\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nCharlotte@CharlotteqozfFollow\n沼に落ちて溶けた人。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCharlotte\n@Charlotteqozf\n\n\n\n\nShow translation\nOpus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶\n\nタイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって\n\n\n00:00\n\n\n\n\n\n\n\n\n11:41 AM · Oct 11, 2026·339\nViews\n\n\n\n\n\n29\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Charlotteqozf"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Charlotteqozf/status/2109247904351445151",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109247873745604608/img/Fvb8E0P2iAR5SnVT.jpg",
+  "coverPath": "data/covers/2109247904351445151-wide.jpg",
+  "gifPath": "data/gifs/2109247904351445151.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109247873745604608/vid/avc1/480x270/gbDwtvsIu7kmBh02.mp4?tag=29",
+    "x-video:2109247873745604608",
+    "x-post:2109247904351445151"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude's Little Avatar and Dandelion Fluff Animation",
+      "summary": "Claude Opus 5.5 was prompted to create an animation where it appears as a character, resulting in a gentle 3D scene titled 'Claude's Little Avatar and Dandelion Fluff'.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5に「自分が登場する映像を作って」って言ったら優しい世界だった🫶"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "自分が登場する映像を作って",
+        "englishText": "Make a video where you appear",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full generation prompt or code",
+          "renderer or engine setup instructions",
+          "animation timing and 3D asset generation specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a gentle 3D scene of a round blue creature with a leaf sprout representing Claude interacting with blowing dandelion seeds.",
+        "textualResultQuote": "タイトルは「Claudeのちいさな分身と、たんぽぽの綿毛」だって"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Character Animation and Gentle 3D Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "character-animation",
+          "creative-coding",
+          "nature"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 conceptualized and directed/coded the 3D animation featuring a representation of itself upon author request.",
+      "outputSource": "Undisclosed 3D rendering or animation engine.",
+      "divisionEvidence": "The author shares the conversational request to Opus 5.5 ('Opus 5.5に「自分が登場する映像を作って」って言ったら') and the resulting animation, without detailing the underlying renderer.",
+      "video": {
+        "shots": "Single shot with slight camera tracking and dynamic object animation",
+        "duration": "14s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an authentic Claude Opus 5.5 video generation prompt and resulting animated short film, meeting reference-case policy requirements.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Charlotteqozf/status/2109247904351445151",
+        "start": 10,
+        "end": 23
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Charlotteqozf/status/2109247904351445151",
+        "author": "Charlotteqozf",
+        "postId": "2109247904351445151",
+        "publishedAt": "2026-10-11T11:41:02.000Z"
+      },
+      "checkedAt": "2026-10-12T09:05:05.845Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Charlotteqozf/status/2109247904351445151",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to create an animation where it appears as a character, resulting in a gentle 3D scene titled 'Claude's Little Avatar and Dandelion Fluff'.",
+    "summaryEn": "Claude's Little Avatar and Dandelion Fluff Animation",
+    "originalPrompt": "自分が登場する映像を作って",
+    "sourceRange": {
+      "start": 10,
+      "end": 23
+    },
+    "translations": {
+      "zh": "自分が登場する映像を作って",
+      "en": "Make a video where you appear"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Character Animation and Gentle 3D Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full generation prompt or code",
+        "renderer or engine setup instructions",
+        "animation timing and 3D asset generation specifications"
+      ],
+      "evidence": "The video shows a gentle 3D scene of a round blue creature with a leaf sprout representing Claude interacting with blowing dandelion seeds."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

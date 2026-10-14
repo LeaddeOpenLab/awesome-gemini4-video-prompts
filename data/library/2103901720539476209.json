@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:32.861Z",
+  "model": "opus5.5",
+  "prompt": "Create a mini documentary explaining how a Transformer works, focusing on the Encoding stage (of the input prompt) and Decoding (output generation). You can use Portuguese labels and generated sounds simulating a machine in operation. Use camera movement to show the process across its stages. Represent the Transformer as a large vertical machine, with processing going from the top (input context) to the base (output context).",
+  "promptTranslations": {
+    "en": "Create a mini documentary explaining how a Transformer works, focusing on the Encoding stage (of the input prompt) and Decoding (output generation). You can use Portuguese labels and generated sounds simulating a machine in operation. Use camera movement to show the process across its stages. Represent the Transformer as a large vertical machine, with processing going from the top (input context) to the base (output context)."
+  },
+  "summary": "Educational motion graphics mini-documentary conceptualizing a Transformer model as a massive vertical industrial machine, explaining prompt encoding from the top down to autoregressive token decoding at the base.",
+  "summaryEn": "A Máquina Transformer Mini-Documentary",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103901720539476209",
+    "canonicalUrl": "https://x.com/joaoli13/status/2103901720539476209",
+    "author": {
+      "username": "joaoli13",
+      "displayName": "João Lima",
+      "profileUrl": "https://x.com/joaoli13"
+    },
+    "publishedAt": "2026-09-26T17:37:13.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "pt",
+    "originalText": "Como um Transformer lê o seu prompt e escreve a resposta?\n\nFiz um mini filme que mostra isso como uma máquina gigante: a pergunta entra no topo (encoding) e a resposta sai na base, um token de cada vez (decoding)\n\nAssista com SOM: a trilha também foi gerada pelo Opus 5.5\n[ prompt no próximo post ]",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/joaoli13/status/2103901720539476209",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103900658776551424/img/_rEX0IxWGvfJk4Ih.jpg",
+        "analysisUrl": "https://x.com/joaoli13/status/2103901720539476209"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 1503
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/joaoli13/status/2103901722879967696",
+        "text": "PROMPT UTILIZADO:\n\nCrie um mini documentário que explique como funciona um Transformer, com foco na etapa de Encoding (do prompt de entrada) e do Decoding (geração da saída). Pode usar labels em português e sons gerados simulando uma máquina em funcionamento. Use movimento de câmera para mostrar o processo em suas etapas. Represente o Transformer como uma grande máquina vertical, com o processamento do topo (contexto da entrada) para a base (contexto de saída).",
+        "author": "joaoli13"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/joaoli13/status/2103901720539476209",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103900658776551424/img/_rEX0IxWGvfJk4Ih.jpg",
+  "coverPath": "data/covers/2103901720539476209-wide.jpg",
+  "gifPath": "data/gifs/2103901720539476209.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2103900658776551424/vid/avc1/480x270/KzF2DiUtAjIqJfHD.mp4?tag=29",
+    "x-video:2103900658776551424",
+    "x-post:2103901720539476209"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "A Máquina Transformer Mini-Documentary",
+      "summary": "Educational motion graphics mini-documentary conceptualizing a Transformer model as a massive vertical industrial machine, explaining prompt encoding from the top down to autoregressive token decoding at the base.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Assista com SOM: a trilha também foi gerada pelo Opus 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Crie um mini documentário que explique como funciona um Transformer, com foco na etapa de Encoding (do prompt de entrada) e do Decoding (geração da saída). Pode usar labels em português e sons gerados simulando uma máquina em funcionamento. Use movimento de câmera para mostrar o processo em suas etapas. Represente o Transformer como uma grande máquina vertical, com o processamento do topo (contexto da entrada) para a base (contexto de saída).",
+        "englishText": "Create a mini documentary explaining how a Transformer works, focusing on the Encoding stage (of the input prompt) and Decoding (output generation). You can use Portuguese labels and generated sounds simulating a machine in operation. Use camera movement to show the process across its stages. Represent the Transformer as a large vertical machine, with processing going from the top (input context) to the base (output context).",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The animation directly displays the Transformer as an intricate vertical industrial machine, showing top-down prompt input, tokenization, embeddings, self-attention, encoding memory, and bottom autoregressive decoding with Portuguese labels and machine sound effects.",
+        "textualResultQuote": "A MÁQUINA TRANSFORMER - como um modelo lê o seu prompt e escreve a resposta"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Code-based audio and visual generation",
+          "role": "Programmatic rendering and audio synthesis generated by Claude Opus 5.5",
+          "evidence": "Imagem e som gerados por código.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Transformer Architecture Explainer",
+        "topic": "explainers",
+        "tags": [
+          "transformer",
+          "llm",
+          "encoding",
+          "decoding",
+          "motion-graphics",
+          "deep-learning"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 orchestrated the full concept, animation logic, Portuguese labeling, camera motion sequencing, and audio/sound synthesis via generated code.",
+      "outputSource": "Code-rendered animation engine",
+      "divisionEvidence": "Author confirms Claude Opus 5.5 handled prompt execution and sound generation ('a trilha também foi gerada pelo Opus 5.5'), while the end credits state 'Imagem e som gerados por código.'",
+      "video": {
+        "shots": "Continuous vertical tracking shots and section pan/zooms down the multi-tiered transformer rig",
+        "duration": "05:01",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Complete original author prompt, explicit Claude Opus 5.5 attribution, and a fully consistent technical motion graphics explainer video with synthesized mechanical audio.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/joaoli13/status/2103901722879967696",
+        "start": 19,
+        "end": 465
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/joaoli13/status/2103901720539476209",
+        "author": "joaoli13",
+        "postId": "2103901720539476209",
+        "publishedAt": "2026-09-26T17:37:13.000Z"
+      },
+      "checkedAt": "2026-10-10T16:46:19.056Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/joaoli13/status/2103901722879967696",
+        "evidence": ""
+      }
+    },
+    "summary": "Educational motion graphics mini-documentary conceptualizing a Transformer model as a massive vertical industrial machine, explaining prompt encoding from the top down to autoregressive token decoding at the base.",
+    "summaryEn": "A Máquina Transformer Mini-Documentary",
+    "originalPrompt": "Crie um mini documentário que explique como funciona um Transformer, com foco na etapa de Encoding (do prompt de entrada) e do Decoding (geração da saída). Pode usar labels em português e sons gerados simulando uma máquina em funcionamento. Use movimento de câmera para mostrar o processo em suas etapas. Represente o Transformer como uma grande máquina vertical, com o processamento do topo (contexto da entrada) para a base (contexto de saída).",
+    "sourceRange": {
+      "start": 19,
+      "end": 465
+    },
+    "translations": {
+      "zh": "Crie um mini documentário que explique como funciona um Transformer, com foco na etapa de Encoding (do prompt de entrada) e do Decoding (geração da saída). Pode usar labels em português e sons gerados simulando uma máquina em funcionamento. Use movimento de câmera para mostrar o processo em suas etapas. Represente o Transformer como uma grande máquina vertical, com o processamento do topo (contexto da entrada) para a base (contexto de saída).",
+      "en": "Create a mini documentary explaining how a Transformer works, focusing on the Encoding stage (of the input prompt) and Decoding (output generation). You can use Portuguese labels and generated sounds simulating a machine in operation. Use camera movement to show the process across its stages. Represent the Transformer as a large vertical machine, with processing going from the top (input context) to the base (output context)."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Transformer Architecture Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The animation directly displays the Transformer as an intricate vertical industrial machine, showing top-down prompt input, tokenization, embeddings, self-attention, encoding memory, and bottom autoregressive decoding with Portuguese labels and machine sound effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

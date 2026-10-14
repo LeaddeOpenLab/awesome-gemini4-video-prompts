@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:28.463Z",
+  "model": "opus5.5",
+  "prompt": "Create a 15-second music video in Japanese anime style where a maid fights a Shoggoth while dancing.",
+  "promptTranslations": {
+    "en": "Create a 15-second music video in Japanese anime style where a maid fights a Shoggoth while dancing."
+  },
+  "summary": "A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.",
+  "summaryEn": "Anime Maid vs Shoggoth 15-Second Animated MV",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104509397535961220",
+    "canonicalUrl": "https://x.com/itnavi2022/status/2104509397535961220",
+    "author": {
+      "username": "itnavi2022",
+      "displayName": "IT navi",
+      "profileUrl": "https://x.com/itnavi2022"
+    },
+    "publishedAt": "2026-09-28T09:51:54.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "ja",
+    "originalText": "📹Opus 5.5による動画生成のテスト２\n\nプロンプト「日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して」 \n所要時間　20分 https://t.co/NHNO1tLJ6T",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/itnavi2022/status/2104509397535961220",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104509321124220928/img/5rRy_zdXC9lX-KFD.jpg",
+        "analysisUrl": "https://x.com/itnavi2022/status/2104509397535961220"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 429
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/itnavi2022/status/2104509397535961220",
+        "text": "IT navi on X: \"📹Opus 5.5による動画生成のテスト２\n\nプロンプト「日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して」 \n所要時間　20分\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nIT navi on X: \"📹Opus 5.5による動画生成のテスト２\n\nプロンプト「日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して」 \n所要時間　20分\"\n\n\n\nIT navi\n\n@itnavi2022\n\n\n\n\nShow translation\n📹Opus 5.5による動画生成のテスト２\n\nプロンプト「日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して」 \n所要時間　20分\n\n\n00:00\n\n\n\n\n\n\n\n\n9:51 AM · Sep 28, 2026·433\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nIT navi@itnavi2022Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nIT navi\n\n@itnavi2022\n\n\n\n\nShow translation\n📹Opus 5.5による動画生成のテスト２\n\nプロンプト「日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して」 \n所要時間　20分\n\n\n00:00\n\n\n\n\n\n\n\n\n9:51 AM · Sep 28, 2026·433\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "itnavi2022"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/itnavi2022/status/2104509397535961220",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104509321124220928/img/5rRy_zdXC9lX-KFD.jpg",
+  "coverPath": "data/covers/2104509397535961220-wide.jpg",
+  "gifPath": "data/gifs/2104509397535961220.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104509321124220928",
+    "x-post:2104509397535961220"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Anime Maid vs Shoggoth 15-Second Animated MV",
+      "summary": "A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "📹Opus 5.5による動画生成のテスト２"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して",
+        "englishText": "Create a 15-second music video in Japanese anime style where a maid fights a Shoggoth while dancing.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent execution runtime",
+          "Animation rendering library or engine specification"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 15-second vertical video presents a stylized 2D anime-style music video featuring a pink-haired maid dancing with a broom, battling an ink-like Shoggoth creature across multiple animated sequences with on-screen rhythm game lyrics and text effects.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Agent orchestrator and code/animation generator",
+      "outputSource": "unknown",
+      "divisionEvidence": "The post explicitly credits Opus 5.5 ('Opus 5.5による動画生成のテスト２') and notes a generation/execution duration of 20 minutes ('所要時間　20分'), but does not specify whether Opus directly authored Remotion, Canvas, SVG, or another external rendering pipeline.",
+      "video": {
+        "shots": "Multi-scene animated sequence including title card, dance/combat rhythm shots, attack cut-in, and victory outro",
+        "duration": "PT15S",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic author demonstration showing Opus 5.5 generating a complete 15-second animated music video from a direct prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/itnavi2022/status/2104509397535961220",
+        "start": 30,
+        "end": 70
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/itnavi2022/status/2104509397535961220",
+        "author": "itnavi2022",
+        "postId": "2104509397535961220",
+        "publishedAt": "2026-09-28T09:51:54.000Z"
+      },
+      "checkedAt": "2026-09-28T11:24:49.285Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/itnavi2022/status/2104509397535961220",
+        "evidence": ""
+      }
+    },
+    "summary": "A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.",
+    "summaryEn": "Anime Maid vs Shoggoth 15-Second Animated MV",
+    "originalPrompt": "日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して",
+    "sourceRange": {
+      "start": 30,
+      "end": 70
+    },
+    "translations": {
+      "zh": "日本のアニメスタイルで、メイドがダンスしながらショゴスと戦う15秒MVを作成して",
+      "en": "Create a 15-second music video in Japanese anime style where a maid fights a Shoggoth while dancing."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent execution runtime",
+        "Animation rendering library or engine specification"
+      ],
+      "evidence": "The attached 15-second vertical video presents a stylized 2D anime-style music video featuring a pink-haired maid dancing with a broom, battling an ink-like Shoggoth creature across multiple animated sequences with on-screen rhythm game lyrics and text effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

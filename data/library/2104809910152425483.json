@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:03.664Z",
+  "model": "opus5.5",
+  "prompt": "Turn this song into a 1-minute perler bead pixel-art MV: design original characters based on lyrics, each pixel being a holed bead ironed into a white-bordered sticker; grid paper background with pink-white checkered floor; actions synced to the beat, karaoke subtitles at the bottom.",
+  "promptTranslations": {
+    "en": "Turn this song into a 1-minute perler bead pixel-art MV: design original characters based on lyrics, each pixel being a holed bead ironed into a white-bordered sticker; grid paper background with pink-white checkered floor; actions synced to the beat, karaoke subtitles at the bottom."
+  },
+  "summary": "A 1-minute perler-bead pixel-art music video choreographed to Suno-generated audio, featuring animated fuse-bead characters, rhythm-synced motion, and bilingual karaoke subtitles.",
+  "summaryEn": "Perler Bead Pixel Music Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104809910152425483",
+    "canonicalUrl": "https://x.com/hahazwei/status/2104809910152425483",
+    "author": {
+      "username": "hahazwei",
+      "displayName": "haha🌈.eth",
+      "profileUrl": "https://x.com/hahazwei"
+    },
+    "publishedAt": "2026-09-29T05:46:02.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "zh",
+    "originalText": "用 SUNO 跟 Opus 5.5 一起做了一首歌的 MV！\n因为大家都试过了矢量动态动画～\n我就试试拼豆风格！完成度真的好好好好好好好棒！\nCC 居然搞了个双语字幕！无敌！好厉害！！！！\n这首歌也很好听诶！\n\n提示词👇\n把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hahazwei/status/2104809910152425483",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104807097582170112/img/Kn6ccqQq6SPOBa55.jpg",
+        "analysisUrl": "https://x.com/hahazwei/status/2104809910152425483"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 1,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 2761
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/hahazwei/status/2104811010599293328",
+        "text": "@IvanBullish 巧了吗不是，我也一样",
+        "author": "hahazwei"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/hahazwei/status/2104809910152425483",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104807097582170112/img/Kn6ccqQq6SPOBa55.jpg",
+  "coverPath": "data/covers/2104809910152425483-wide.jpg",
+  "gifPath": "data/gifs/2104809910152425483.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104807097582170112",
+    "x-post:2104809910152425483"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Perler Bead Pixel Music Video",
+      "summary": "A 1-minute perler-bead pixel-art music video choreographed to Suno-generated audio, featuring animated fuse-bead characters, rhythm-synced motion, and bilingual karaoke subtitles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "用 SUNO 跟 Opus 5.5 一起做了一首歌的 MV！"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。",
+        "englishText": "Turn this song into a 1-minute perler bead pixel-art MV: design original characters based on lyrics, each pixel being a holed bead ironed into a white-bordered sticker; grid paper background with pink-white checkered floor; actions synced to the beat, karaoke subtitles at the bottom.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows perler-bead sticker characters, grid paper background, pink-and-white checkered floor, beat-synced animation, and bilingual karaoke lyrics. Evaluation based on a lower-bitrate preview.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Original AI song generated via Suno",
+          "available": true,
+          "evidence": "用 SUNO 跟 Opus 5.5 一起做了一首歌的 MV！",
+          "sourceUrl": "https://x.com/hahazwei/status/2104809910152425483",
+          "origin": "generated"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Executes generation and video rendering",
+          "evidence": "CC 居然搞了个双语字幕！",
+          "sourceUrl": "https://x.com/hahazwei/status/2104809910152425483",
+          "status": "inferred"
+        },
+        {
+          "name": "Suno",
+          "role": "Generates the underlying music track",
+          "evidence": "用 SUNO 跟 Opus 5.5 一起做了一首歌的 MV！",
+          "sourceUrl": "https://x.com/hahazwei/status/2104809910152425483",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Perler Bead Pixel Art Music Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "pixel-art",
+          "perler-bead",
+          "music-video",
+          "karaoke-subtitles"
+        ]
+      },
+      "targetModelRole": "Generates code and animation logic for the perler-bead music video choreography",
+      "outputSource": "Claude-assisted code execution pipeline",
+      "divisionEvidence": "Author used Suno for the music and Opus 5.5 / CC for the animated MV and subtitles.",
+      "video": {
+        "shots": "Multi-scene dynamic transitions with beat-synced perler bead animations",
+        "duration": "01:04",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 orchestrating an animated music video with clear author prompt and corresponding video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/hahazwei/status/2104809910152425483",
+        "start": 112,
+        "end": 193
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/hahazwei/status/2104809910152425483",
+        "author": "hahazwei",
+        "postId": "2104809910152425483",
+        "publishedAt": "2026-09-29T05:46:02.000Z"
+      },
+      "checkedAt": "2026-09-30T06:23:00.938Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/hahazwei/status/2104809910152425483",
+        "evidence": ""
+      }
+    },
+    "summary": "A 1-minute perler-bead pixel-art music video choreographed to Suno-generated audio, featuring animated fuse-bead characters, rhythm-synced motion, and bilingual karaoke subtitles.",
+    "summaryEn": "Perler Bead Pixel Music Video",
+    "originalPrompt": "把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。",
+    "sourceRange": {
+      "start": 112,
+      "end": 193
+    },
+    "translations": {
+      "zh": "把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。",
+      "en": "Turn this song into a 1-minute perler bead pixel-art MV: design original characters based on lyrics, each pixel being a holed bead ironed into a white-bordered sticker; grid paper background with pink-white checkered floor; actions synced to the beat, karaoke subtitles at the bottom."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Perler Bead Pixel Art Music Video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows perler-bead sticker characters, grid paper background, pink-and-white checkered floor, beat-synced animation, and bilingual karaoke lyrics. Evaluation based on a lower-bitrate preview."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

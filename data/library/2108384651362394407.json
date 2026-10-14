@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:37.036Z",
+  "model": "opus5.5",
+  "prompt": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+  "promptTranslations": {
+    "en": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind"
+  },
+  "summary": "Trago prompted Opus 5.5 to create an HTML5 3D illusion demo, resulting in a self-contained procedural shader project featuring a rotating tesseract with six distinct mathematical universes.",
+  "summaryEn": "Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108384651362394407",
+    "canonicalUrl": "https://x.com/TragoBuilds/status/2108384651362394407",
+    "author": {
+      "username": "TragoBuilds",
+      "displayName": "Trago",
+      "profileUrl": "https://x.com/TragoBuilds"
+    },
+    "publishedAt": "2026-10-09T02:30:47.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Opus 5.5 on medium in 15 minutes\n\n&gt; do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind\n\n5.5 is the first model with taste https://t.co/ZdQ1bHdOgr",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TragoBuilds/status/2108384651362394407",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108384460882210816/img/gGokEIxGVWDrubcC.jpg",
+        "analysisUrl": "https://x.com/TragoBuilds/status/2108384651362394407"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/TragoBuilds/status/2108384651362394407",
+        "text": "Trago on X: \"Opus 5.5 on medium in 15 minutes\n\n> do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind\n\n5.5 is the first model with taste\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nTrago on X: \"Opus 5.5 on medium in 15 minutes\n\n> do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind\n\n5.5 is the first model with taste\"\n\n\n\nTrago\n@TragoBuilds\n\n\n\n\nOpus 5.5 on medium in 15 minutes\n\n> do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind\n\n5.5 is the first model with taste\n\n\n00:00\n\n\n\n\n\n\n\n\n2:30 AM · Oct 9, 2026·1\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nTrago@TragoBuildsFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrago\n@TragoBuilds\n\n\n\n\nOpus 5.5 on medium in 15 minutes\n\n> do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind\n\n5.5 is the first model with taste\n\n\n00:00\n\n\n\n\n\n\n\n\n2:30 AM · Oct 9, 2026·1\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "TragoBuilds"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/TragoBuilds/status/2108384651362394407",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108384460882210816/img/gGokEIxGVWDrubcC.jpg",
+  "coverPath": "data/covers/2108384651362394407-wide.jpg",
+  "gifPath": "data/gifs/2108384651362394407.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108384460882210816",
+    "x-post:2108384651362394407"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)",
+      "summary": "Trago prompted Opus 5.5 to create an HTML5 3D illusion demo, resulting in a self-contained procedural shader project featuring a rotating tesseract with six distinct mathematical universes.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 on medium in 15 minutes"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+        "englishText": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D HTML5/WebGL shader demo featuring a rotating cube titled 'TESSERACT six universes · one box' with six raymarched interior scenes ('The Golden Bulb', 'Gyroid Sea', 'Infinite Cathedral', 'Neon Tide', 'Ice Engine', 'Bottled Giant') ending with 'ONE SHADER · NO MODELS · NO TEXTURES · JUST MATH'.",
+        "textualResultQuote": "TESSERACT six universes · one box [...] ONE SHADER · NO MODELS · NO TEXTURES · JUST MATH"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / WebGL",
+          "role": "Execution runtime for the single-shader 3D raymarching canvas demo generated by Claude Opus",
+          "evidence": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+          "sourceUrl": "https://x.com/TragoBuilds/status/2108384651362394407",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Tesseract 3D Shader Illusion",
+        "topic": "3d-scenes",
+        "tags": [
+          "html5",
+          "webgl",
+          "raymarching",
+          "shader",
+          "creative-coding",
+          "optical-illusion"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete HTML5 and WebGL shader code implementing the 3D tesseract illusion demo.",
+      "outputSource": "Web browser rendering the generated HTML5/WebGL shader code",
+      "divisionEvidence": "Opus 5.5 on medium in 15 minutes\n\n> do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+      "video": {
+        "shots": "Single continuous orbit around the rotating tesseract with dynamic camera zooms to individual window faces",
+        "duration": "0:44",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 creative coding for 3D interactive graphics, accompanied by full original prompt instructions and video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/TragoBuilds/status/2108384651362394407",
+        "start": 39,
+        "end": 144
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/TragoBuilds/status/2108384651362394407",
+        "author": "TragoBuilds",
+        "postId": "2108384651362394407",
+        "publishedAt": "2026-10-09T02:30:47.000Z"
+      },
+      "checkedAt": "2026-10-09T12:54:21.561Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/TragoBuilds/status/2108384651362394407",
+        "evidence": ""
+      }
+    },
+    "summary": "Trago prompted Opus 5.5 to create an HTML5 3D illusion demo, resulting in a self-contained procedural shader project featuring a rotating tesseract with six distinct mathematical universes.",
+    "summaryEn": "Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)",
+    "originalPrompt": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+    "sourceRange": {
+      "start": 39,
+      "end": 144
+    },
+    "translations": {
+      "zh": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind",
+      "en": "do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tesseract 3D Shader Illusion",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a 3D HTML5/WebGL shader demo featuring a rotating cube titled 'TESSERACT six universes · one box' with six raymarched interior scenes ('The Golden Bulb', 'Gyroid Sea', 'Infinite Cathedral', 'Neon Tide', 'Ice Engine', 'Bottled Giant') ending with 'ONE SHADER · NO MODELS · NO TEXTURES · JUST MATH'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

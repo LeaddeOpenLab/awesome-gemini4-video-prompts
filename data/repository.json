@@ -1,0 +1,44 @@
+{
+  "model": "gemini4",
+  "name": "Gemini 4",
+  "slug": "awesome-gemini4-video-prompts",
+  "description": "Gemini 4 video prompts for motion graphics, explainers, 3D scenes and interactive demos. Browse by use case, with previews, required inputs and tools.",
+  "topics": [
+    "gemini",
+    "gemini4",
+    "awesome-list",
+    "ai-video",
+    "creative-coding",
+    "video-prompts",
+    "motion",
+    "motion-graphics",
+    "explainers",
+    "threejs",
+    "webgl",
+    "ai-agents",
+    "remotion",
+    "manim",
+    "animation",
+    "prompts"
+  ],
+  "categories": [
+    "canvas-interactive",
+    "manim",
+    "remotion",
+    "blender",
+    "external-video-model",
+    "other-animation"
+  ],
+  "searches": [
+    "gemini 4 video prompts",
+    "gemini 4 animation prompts",
+    "gemini 4 remotion",
+    "gemini 4 manim",
+    "gemini 4 blender",
+    "gemini 4 motion graphics"
+  ],
+  "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts",
+  "verifiedCases": 9,
+  "referenceCases": 609,
+  "pendingCases": 0
+}

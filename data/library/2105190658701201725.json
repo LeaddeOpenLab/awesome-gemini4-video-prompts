@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:02.410Z",
+  "model": "opus5.5",
+  "prompt": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+  "promptTranslations": {
+    "en": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch."
+  },
+  "summary": "Claude Opus 5.5 generates a standalone HTML interactive 3D WebGPU application featuring a deformable gummy squid with soft-body physics, realistic translucent jelly materials, and customizable controls.",
+  "summaryEn": "Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105190658701201725",
+    "canonicalUrl": "https://x.com/vib3coded/status/2105190658701201725",
+    "author": {
+      "username": "vib3coded",
+      "displayName": "Vib3Coded",
+      "profileUrl": "https://x.com/vib3coded"
+    },
+    "publishedAt": "2026-09-30T06:59:00.000Z",
+    "collectedAt": "2026-09-30T08:03:25.845Z",
+    "language": "en",
+    "originalText": "Opus looks tastier, but that price difference bites 🦑😂\n\nClaude Opus 5.5 vs GPT-6.1 Sol - two gummy squids\n\nI prefer Opus’s colors, gloss, and softer movement. It looks like candy you just want to grab by a tentacle\n\nBut $14.56 vs $4.84 for Sol - almost three times the estimated API cost. Sol looks simpler, but at that price, it’s a pretty solid result\n\nWould you pay extra for the squish? 👀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vib3coded/status/2105190658701201725",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105083662987337728/img/QH01-I1poSOgK2h-.jpg",
+        "analysisUrl": "https://x.com/vib3coded/status/2105190658701201725"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 10,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 2423
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105202128537145704",
+        "text": "@s7anit thanks! glad you enjoyed it, half the fun is getting to play with it yourself 🙌",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105197698098065680",
+        "text": "@LeeWyattCorp exactly 😂 \nmy eyes picked opus, my wallet picked sol",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105197605034569760",
+        "text": "@JustLingonberry right? i keep finding excuses to make more of these 😂",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105196523680342159",
+        "text": "@AntarexBTC right? looks like it should come in a little bag covered in sugar 😂",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105195662480716136",
+        "text": "@0xPifagor same prompt",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105195624723533894",
+        "text": "@0xPifagor GPT-6.1 Sol on Ultra, Opus 5.5 on Extra",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105195334615847136",
+        "text": "@Alchem1stTech fair lol, those tentacles are charging a premium 😂",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105195154340725069",
+        "text": "@Artless101 yeah, makes sense. no need to pay opus prices every time i decide the squid needs to be a little squishier 😂",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105195038019863015",
+        "text": "@0xPifagor you’re welcome! would love to see how yours turns out, send it over when it’s ready 🙌",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105191658010939745",
+        "text": "https://t.co/vRqBy9qFtR",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2105191295765319697",
+        "text": "PROMPT:\nPROMPT:\nCreate “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+        "author": "vib3coded"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/vRqBy9qFtR"
+    ]
+  },
+  "xUrl": "https://x.com/vib3coded/status/2105190658701201725",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105083662987337728/img/QH01-I1poSOgK2h-.jpg",
+  "coverPath": "data/covers/2105190658701201725-wide.jpg",
+  "gifPath": "data/gifs/2105190658701201725.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105083662987337728",
+    "x-post:2105190658701201725"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation",
+      "summary": "Claude Opus 5.5 generates a standalone HTML interactive 3D WebGPU application featuring a deformable gummy squid with soft-body physics, realistic translucent jelly materials, and customizable controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Extra",
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Opus 5.5 vs GPT-6.1 Sol - two gummy squids\" and \"@0xPifagor GPT-6.1 Sol on Ultra, Opus 5.5 on Extra\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+        "englishText": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording shows side-by-side interactive browser demonstrations comparing Claude Opus 5.5 and GPT-6.1 Sol outputs. The Opus rendering matches all requested art direction specifications: translucent glossy gummy material, Coral, Lagoon, and Grape palette switching, interactive tentacle and mantle stretching with soft-body deformation, UI layout with editorial typography, and control sliders.",
+        "textualResultQuote": "Opus looks tastier, but that price difference bites 🦑😂\n\nClaude Opus 5.5 vs GPT-6.1 Sol - two gummy squids\n\nI prefer Opus’s colors, gloss, and softer movement. It looks like candy you just want to grab by a tentacle"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Deliver a complete standalone HTML file using genuine WebGPU.",
+          "sourceUrl": "https://x.com/vib3coded/status/2105191295765319697",
+          "status": "required"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "evidence": "Use real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.",
+          "sourceUrl": "https://x.com/vib3coded/status/2105191295765319697",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D WebGPU Gummy Squid Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "webgpu",
+          "interactive",
+          "soft-body",
+          "procedural-geometry",
+          "wgsl"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generates the entire standalone HTML file containing procedural 3D geometry, WGSL shaders, soft-body physics simulation, UI layout, and WebGPU pipeline.",
+      "outputSource": "Web browser running native WebGPU/WGSL shaders",
+      "divisionEvidence": "\"Deliver a complete standalone HTML file using genuine WebGPU.\"",
+      "video": {
+        "shots": "1",
+        "duration": "18s",
+        "aspectRatio": "1080:1408",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete original prompt for interactive WebGPU 3D soft-body physics production using Claude Opus 5.5, with full screen recording verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vib3coded/status/2105191295765319697",
+        "start": 16,
+        "end": 3958
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vib3coded/status/2105190658701201725",
+        "author": "vib3coded",
+        "postId": "2105190658701201725",
+        "publishedAt": "2026-09-30T06:59:00.000Z"
+      },
+      "checkedAt": "2026-09-30T08:15:34.455Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vib3coded/status/2105191295765319697",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a standalone HTML interactive 3D WebGPU application featuring a deformable gummy squid with soft-body physics, realistic translucent jelly materials, and customizable controls.",
+    "summaryEn": "Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation",
+    "originalPrompt": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+    "sourceRange": {
+      "start": 16,
+      "end": 3958
+    },
+    "translations": {
+      "zh": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch.",
+      "en": "Create “Squid Jelly” — a beautiful, interactive 3D gummy squid that users can grab, stretch, and squish directly in their browser. Deliver a complete standalone HTML file using genuine WebGPU.\n\nART DIRECTION\n\nMake the squid look like a premium translucent gummy candy:\n- An elongated, tapered mantle with a rounded tip.\n- Two broad, thin, diamond-shaped side fins.\n- Eight shorter curled arms and two longer feeding tentacles with rounded club-shaped tips.\n- Small suction cups and a cute, understated face.\n\nUse a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the squid large and centered, with an elegant, uncluttered composition.\n\nGEOMETRY\n\nGenerate all geometry procedurally. No external models or image files.\n\nConnect the arms, tentacles, and fins smoothly to the body. Their roots must remain embedded and attached during strong pulls, with no visible gaps or floating parts.\n\nSuction cups and eyes must follow the deforming surface. Give the fins a thin, flexible profile and the longer tentacles slender shafts with thicker tips.\n\nJELLY MATERIAL\n\nCreate convincing glossy, translucent jelly:\n- Thickness-dependent color absorption.\n- Refraction and soft internal light scattering.\n- Smooth studio reflections and delicate rim highlights.\n- A few tiny bubbles embedded inside the material.\n- Richer color in thick areas and greater translucency along thin fins and tentacle tips.\n\nAvoid opaque plastic, washed-out colors, blown-out highlights, visible mesh seams, and flickering transparency.\n\nSOFT-BODY PHYSICS\n\nUse a stable mass-spring or position-based dynamics simulation with approximate volume preservation.\n\nThe mantle should feel soft but substantial. Arms should bend independently, while long tentacles and fins should be more flexible.\n\nLet users grab the body, fins, or tentacles at the clicked location. Pulling must deform the nearby geometry first, with the rest following elastically. Do not fake softness by scaling or rotating the entire model.\n\nOn release, the squid should wobble, recover its shape, and gradually settle. Include gravity, floor collisions, friction, and damping. Prevent appendages from passing through the floor.\n\nUse fixed simulation steps, bounded stretching, and robust attachment constraints so repeated strong pulls cannot tear the model apart or destabilize the simulation.\n\nINTERACTION\n\n- Left-click or touch the squid to grab and stretch it.\n- Right-drag or drag empty space to gently orbit the camera.\n- Support limited zoom and mobile touch controls.\n- Keep camera gestures separate from object dragging.\n\nAdd:\n- Give it a nudge\n- Reset\n- Reset view\n- Pause\n- Firmness slider\n- Internal damping slider\n- ¼ speed toggle\n- Show mesh toggle\n\nProvide three material palettes: Coral, Lagoon, and Grape. Switching colors must not reset the simulation.\n\nINTERFACE\n\nUse a minimal editorial layout:\n- Top left: small “MATERIAL STUDIES” label.\n- Large italic serif heading: “Squid Jelly.”\n- Caption: “A little ink. A little wiggle. A very sweet sea creature.”\n- Top right: WebGPU status indicator.\n- Right side: compact “THE SPECIMEN” control panel.\n- Bottom left: a short interaction hint.\n\nUse clean sans-serif controls, thin borders, and generous whitespace. Adapt the layout for mobile without covering the squid.\n\nQUALITY AND PERFORMANCE\n\nUse real 3D geometry and native WebGPU rendering with WGSL shaders, not a 2D imitation or prerecorded animation.\n\nReuse meshes and buffers. Do not reconstruct geometry during dragging. Prioritize stable interactions and smooth performance.\n\nTest strong pulls, repeated releases, appendage attachments, floor collisions, palette changes, pause, reset, and camera controls.\n\nProvide a clear fallback message if WebGPU is unavailable.\n\nDeliver the full working HTML, not a mockup or code fragment. The result should feel like a little living gummy toy: glossy, weighty, flexible, and irresistibly satisfying to stretch."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D WebGPU Gummy Squid Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video recording shows side-by-side interactive browser demonstrations comparing Claude Opus 5.5 and GPT-6.1 Sol outputs. The Opus rendering matches all requested art direction specifications: translucent glossy gummy material, Coral, Lagoon, and Grape palette switching, interactive tentacle and mantle stretching with soft-body deformation, UI layout with editorial typography, and control sliders."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

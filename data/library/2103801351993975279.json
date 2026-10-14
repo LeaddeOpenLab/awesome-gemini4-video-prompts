@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:18.276Z",
+  "model": "opus5.5",
+  "prompt": "make educational video out of article.",
+  "promptTranslations": {
+    "en": "make educational video out of article."
+  },
+  "summary": "Henk van Ess shares a simple prompt used with Claude Opus 5.5 to generate an educational tutorial video directly from an article.",
+  "summaryEn": "Educational Video from Article",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103801351993975279",
+    "canonicalUrl": "https://x.com/henkvaness/status/2103801351993975279",
+    "author": {
+      "username": "henkvaness",
+      "displayName": "𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜",
+      "profileUrl": "https://x.com/henkvaness"
+    },
+    "publishedAt": "2026-09-26T10:58:23.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "The new Claude Opus 5.5 made this tutorial out of my article. Although it contains a few errors, I am amazed that I could produce this on my phone with just one prompt: \n\nmake educational video out of article. \n\n (5 minutes and 37 seconds) https://t.co/rvIjMaDzdK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/henkvaness/status/2103801351993975279",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103801214924132352/img/d-L3O7TLgQTFRLtK.jpg",
+        "analysisUrl": "https://x.com/henkvaness/status/2103801351993975279"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 2,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1452
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/henkvaness/status/2103801351993975279",
+        "text": "𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜 on X: \"The new Claude Opus 5.5 made this tutorial out of my article. Although it contains a few errors, I am amazed that I could produce this on my phone with just one prompt: \n\nmake educational video out of article. \n\n (5 minutes and 37 seconds)\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜 on X: \"The new Claude Opus 5.5 made this tutorial out of my article. Although it contains a few errors, I am amazed that I could produce this on my phone with just one prompt: \n\nmake educational video out of article. \n\n (5 minutes and 37 seconds)\"\n\n\n\n𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜\n\n@henkvaness\n\n\n\n\nThe new Claude Opus 5.5 made this tutorial out of my article. Although it contains a few errors, I am amazed that I could produce this on my phone with just one prompt: \n\nmake educational video out of article. \n\n (5 minutes and 37 seconds)\n\n\n00:00\n\n\n\n\n\n\n\n\n10:58 AM · Sep 26, 2026·1,452\nViews\n\n\n\n2\n2\n8\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜@henkvanessFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n𝚑𝚎𝚗𝚔 𝚟𝚊𝚗 𝚎𝚜𝚜\n\n@henkvaness\n\n\n\n\nThe new Claude Opus 5.5 made this tutorial out of my article. Although it contains a few errors, I am amazed that I could produce this on my phone with just one prompt: \n\nmake educational video out of article. \n\n (5 minutes and 37 seconds)\n\n\n00:00\n\n\n\n\n\n\n\n\n10:58 AM · Sep 26, 2026·1,452\nViews\n\n\n\n2\n2\n8\n7\n\n\n\n\n\n\n\n\n\n❤️\n\n@BachmannNatalia\nSep 26\n\n\nMay I ask what the errors in this video are?..\n\n\n\n\n\n28\n\n\n\n\n\n\n\n\n\n\n\nAnspruch\n\n@anspruchde\nSep 26\n\n\none prompt on the phone. wild\n\n\n\n\n\n36\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "henkvaness"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/henkvaness/status/2103801351993975279",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103801214924132352/img/d-L3O7TLgQTFRLtK.jpg",
+  "coverPath": "data/covers/2103801351993975279-wide.jpg",
+  "gifPath": "data/gifs/2103801351993975279.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103801214924132352",
+    "x-post:2103801351993975279"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Educational Video from Article",
+      "summary": "Henk van Ess shares a simple prompt used with Claude Opus 5.5 to generate an educational tutorial video directly from an article.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "The new Claude Opus 5.5 made this tutorial out of my article."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make educational video out of article.",
+        "englishText": "make educational video out of article.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/henkvaness/status/2103801351993975279",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/henkvaness/status/2103801351993975279",
+        "start": 171,
+        "end": 209
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/henkvaness/status/2103801351993975279",
+        "author": "henkvaness",
+        "postId": "2103801351993975279",
+        "publishedAt": "2026-09-26T10:58:23.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:13.032Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/henkvaness/status/2103801351993975279",
+        "evidence": "make educational video out of article."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "Henk van Ess shares a simple prompt used with Claude Opus 5.5 to generate an educational tutorial video directly from an article.",
+    "summaryEn": "Educational Video from Article",
+    "originalPrompt": "make educational video out of article.",
+    "sourceRange": {
+      "start": 171,
+      "end": 209
+    },
+    "translations": {
+      "zh": "make educational video out of article.",
+      "en": "make educational video out of article."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

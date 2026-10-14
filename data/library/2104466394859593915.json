@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T10:42:10.296Z",
+  "model": "opus5.5",
+  "prompt": "- From 1996 to 2015, neon-style year markers slam in while 3D rotating with spring physics.\n- From university research to reorganization into a holding company, each year's events are progressively drawn in line-art SVG.\n- End with the closing line 'From search, to everything.'",
+  "promptTranslations": {
+    "en": "- From 1996 to 2015, neon-style year markers slam in while 3D rotating with spring physics.\n- From university research to reorganization into a holding company, each year's events are progressively drawn in line-art SVG.\n- End with the closing line 'From search, to everything.'"
+  },
+  "summary": "Author used Claude Opus 5.5 to write Remotion code generating a 15-second motion graphics timeline depicting the history of search from 1996 to 2015 with neon numbers and SVG illustrations.",
+  "summaryEn": "Remotion Search History 15s Timeline Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104466394859593915",
+    "canonicalUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+    "author": {
+      "username": "rpa_dake",
+      "displayName": "RPA | tool製作",
+      "profileUrl": "https://x.com/rpa_dake"
+    },
+    "publishedAt": "2026-09-28T07:01:02.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら、めちゃくちゃアツい🔥\n\n・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。\n・大学の研究から持株会社への再編まで、各年の出来事を線画のSVGで描き足していく。\n・最後は「検索から、すべてへ。」で締める\n\n歴史ものの勢いは、情報量より場面を叩きつける間で決まる。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rpa_dake/status/2104466394859593915",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104466252731490304/img/eIXfhgFJbIUbQVjT.jpg",
+        "analysisUrl": "https://x.com/rpa_dake/status/2104466394859593915"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 180
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104466252731490304/img/eIXfhgFJbIUbQVjT.jpg",
+  "coverPath": "data/covers/2104466394859593915-wide.jpg",
+  "gifPath": "data/gifs/2104466394859593915.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104466252731490304",
+    "x-post:2104466394859593915"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Remotion Search History 15s Timeline Animation",
+      "summary": "Author used Claude Opus 5.5 to write Remotion code generating a 15-second motion graphics timeline depicting the history of search from 1996 to 2015 with neon numbers and SVG illustrations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 に Remotion のコードを書かせて"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。\n・大学の研究から持株会社への再編まで、各年の出来事を線画のSVGで描き足していく。\n・最後は「検索から、すべてへ。」で締める",
+        "englishText": "- From 1996 to 2015, neon-style year markers slam in while 3D rotating with spring physics.\n- From university research to reorganization into a holding company, each year's events are progressively drawn in line-art SVG.\n- End with the closing line 'From search, to everything.'",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete verbatim prompt instruction given to Claude Opus 5.5",
+          "Remotion setup and styling parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second square video displays the years 1996 to 2015 rotating with spring physics, animated SVG line art illustrations for key milestones, and ends with the exact text '検索から、すべてへ。'.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Programmatic video rendering engine and React animation framework",
+          "evidence": "Remotion のコードを書かせて",
+          "sourceUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generated the Remotion React animation code and SVG sequence logic based on user specifications.",
+      "outputSource": "Remotion renderer",
+      "divisionEvidence": "Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら",
+      "video": {
+        "shots": "Continuous 2D/3D motion graphics timeline transitions through 1996, 1998, 2004, 2008, 2015, and outro",
+        "duration": "15s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 generating Remotion motion graphics code for video production with verified accompanying video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rpa_dake/status/2104466394859593915",
+        "start": 71,
+        "end": 182
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rpa_dake/status/2104466394859593915",
+        "author": "rpa_dake",
+        "postId": "2104466394859593915",
+        "publishedAt": "2026-09-28T07:01:02.000Z"
+      },
+      "checkedAt": "2026-09-28T10:16:08.986Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 to write Remotion code generating a 15-second motion graphics timeline depicting the history of search from 1996 to 2015 with neon numbers and SVG illustrations.",
+    "summaryEn": "Remotion Search History 15s Timeline Animation",
+    "originalPrompt": "・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。\n・大学の研究から持株会社への再編まで、各年の出来事を線画のSVGで描き足していく。\n・最後は「検索から、すべてへ。」で締める",
+    "sourceRange": {
+      "start": 71,
+      "end": 182
+    },
+    "translations": {
+      "zh": "・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。\n・大学の研究から持株会社への再編まで、各年の出来事を線画のSVGで描き足していく。\n・最後は「検索から、すべてへ。」で締める",
+      "en": "- From 1996 to 2015, neon-style year markers slam in while 3D rotating with spring physics.\n- From university research to reorganization into a holding company, each year's events are progressively drawn in line-art SVG.\n- End with the closing line 'From search, to everything.'"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Author used Claude Opus 5.5 to write Remotion code generating a 15-second motion graphics timeline depicting the history of search from 1996 to 2015 with neon numbers and SVG illustrations.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete verbatim prompt instruction given to Claude Opus 5.5",
+        "Remotion setup and styling parameters"
+      ],
+      "evidence": "The 15-second square video displays the years 1996 to 2015 rotating with spring physics, animated SVG line art illustrations for key milestones, and ends with the exact text '検索から、すべてへ。'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

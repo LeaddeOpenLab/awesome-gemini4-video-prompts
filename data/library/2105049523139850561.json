@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:14.441Z",
+  "model": "opus5.5",
+  "prompt": "Like a Star Wars speeder bike, asking for 2m above ground and 550 km/h",
+  "promptTranslations": {
+    "en": "Like a Star Wars speeder bike, asking for 2m above ground and 550 km/h"
+  },
+  "summary": "Procedural Mars flight video using NASA elevation data rendered via Three.js and Claude Code Opus 5.5.",
+  "summaryEn": "NASA Mars Canyon Flight Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105049523139850561",
+    "canonicalUrl": "https://x.com/Mochi_AGI/status/2105049523139850561",
+    "author": {
+      "username": "Mochi_AGI",
+      "displayName": "Mochi",
+      "profileUrl": "https://x.com/Mochi_AGI"
+    },
+    "publishedAt": "2026-09-29T21:38:10.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "ja",
+    "originalText": "Opus 5.5で動画づくり\n今回は画像生成なしのお試しで、NASA の測量データで火星の峡谷を飛ぶ\n\n地形は NASA の火星の高さデータと Viking の写真から\n画像生成も動画生成もなし、画はデータとコードだけ\n\n話はフィクションで、峡谷の底にいるお母さんから地球の娘へのメッセージ\n\n「この谷どれくらい大きいの？」に、測った数字で答える設定\n\n声は英語で Gemini 3.8 Flash TTS、字幕は日本語\n\n最初は時速251kmで飛んでたけど、火星のスケールだと遅すぎたので\n→ スター・ウォーズのスピーダーバイクくらい、と頼んで地面から2m・時速550km\n→ 岩の柱が真横をびゅんびゅん抜けていく\n→ 高さは2倍に強調、1倍だと崖がなだらかな丘にしか見えない\n深さ7.14kmと長さ4,047kmは、データの上で実際に測った数字\n\n飛んでる間は、速さや高度の数字を画面の中の計器に表示\n崖から飛び出す瞬間に、谷底までの高さ8,127mが出て、音楽が一番大きく鳴る仕様\n音楽と効果音もぜんぶコードで合成\n\n「谷を測ってる」って言いながら、谷っぽくないなだらかな坂を測ってました😂\n次からは、0.5秒刻みで全部見てから確認に出すといいかも\n\n使用ツール\n・Claude Code の Opus 5.5 企画、地形と計器のコード、音楽と効果音の合成、仕上がりのチェック\n・Gemini 3.8 Flash TTS 英語の声\n・NASA MOLA／USGS Viking 火星の地形と色のデータ\n・Three.js 3Dの描画\n・whisper 声の時刻合わせと、読み違いのチェック\n・Playwright ブラウザで1コマずつ書き出し\n・ffmpeg 動画の書き出し\n\n使ったAIの量\n・Claude Code（Opus 5.5） 約1億3,000万トークン（ほとんどがキャッシュの読み込み） サブスク内\n・Gemini 3.8 Flash TTS 5回、約2,400トークン 約3円\n\nかかった時間\n・約4時間45分",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Mochi_AGI/status/2105049523139850561",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105049096583282688/img/s28Vhe0WY1ot6q18.jpg",
+        "analysisUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 332
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Mochi_AGI/status/2105049523139850561",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105049096583282688/img/s28Vhe0WY1ot6q18.jpg",
+  "coverPath": "data/covers/2105049523139850561-wide.jpg",
+  "gifPath": "data/gifs/2105049523139850561.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105049096583282688",
+    "x-post:2105049523139850561"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "NASA Mars Canyon Flight Simulation",
+      "summary": "Procedural Mars flight video using NASA elevation data rendered via Three.js and Claude Code Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Code の Opus 5.5 企画、地形と計器のコード、音楽と効果音の合成、仕上がりのチェック"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "スター・ウォーズのスピーダーバイクくらい、と頼んで地面から2m・時速550km",
+        "englishText": "Like a Star Wars speeder bike, asking for 2m above ground and 550 km/h",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial project orchestration prompt",
+          "Three.js terrain shader and rendering code prompts",
+          "Telemetry HUD layout and telemetry generation prompts",
+          "Audio and sound synthesis script instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Preview displays low-altitude flight across Mars terrain with HUD instruments reading 552 km/h ground speed and 2.0m altitude AGL.",
+        "textualResultQuote": "飛んでる間は、速さや高度の数字を画面の中の計器に表示"
+      },
+      "inputs": [
+        {
+          "kind": "elevation_and_imagery_data",
+          "description": "NASA MOLA elevation and USGS Viking Mars color data",
+          "available": true,
+          "evidence": "NASA MOLA／USGS Viking 火星の地形と色のデータ",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Planning, code generation for terrain/HUD/audio synthesis, and quality review",
+          "evidence": "Claude Code の Opus 5.5 企画、地形と計器のコード、音楽と効果音の合成、仕上がりのチェック",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        },
+        {
+          "name": "ffmpeg",
+          "role": "Video stitching and export",
+          "evidence": "ffmpeg 動画の書き出し",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        },
+        {
+          "name": "Gemini 3.8 Flash TTS",
+          "role": "Voice narration generation",
+          "evidence": "Gemini 3.8 Flash TTS 英語の声",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        },
+        {
+          "name": "Playwright",
+          "role": "Frame-by-frame browser rendering export",
+          "evidence": "Playwright ブラウザで1コマずつ書き出し",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering",
+          "evidence": "Three.js 3Dの描画",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        },
+        {
+          "name": "whisper",
+          "role": "Timestamp alignment and pronunciation verification",
+          "evidence": "whisper 声の時刻合わせと、読み違いのチェック",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561"
+        }
+      ],
+      "purpose": {
+        "label": "Mars Canyon Procedural Flight",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "creative-coding",
+          "nasa-data",
+          "procedural",
+          "hud"
+        ]
+      },
+      "targetModelRole": "Code generation, pipeline orchestration, sound synthesis, and review agent",
+      "outputSource": "Three.js rendered via Playwright and compiled with ffmpeg",
+      "divisionEvidence": "画像生成も動画生成もなし、画はデータとコードだけ ... Three.js 3Dの描画 / Playwright ブラウザで1コマずつ書き出し",
+      "video": {
+        "shots": "Single continuous cockpit-style low-altitude flight camera",
+        "duration": null,
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 agent workflow demonstrating procedural 3D video creation using NASA data, Three.js, and headless browser rendering.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Mochi_AGI/status/2105049523139850561",
+        "start": 248,
+        "end": 287
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Mochi_AGI/status/2105049523139850561",
+        "author": "Mochi_AGI",
+        "postId": "2105049523139850561",
+        "publishedAt": "2026-09-29T21:38:10.000Z"
+      },
+      "checkedAt": "2026-10-09T11:09:58.504Z",
+      "checkMethod": "video-preview",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Mochi_AGI/status/2105049523139850561",
+        "evidence": ""
+      }
+    },
+    "summary": "Procedural Mars flight video using NASA elevation data rendered via Three.js and Claude Code Opus 5.5.",
+    "summaryEn": "NASA Mars Canyon Flight Simulation",
+    "originalPrompt": "スター・ウォーズのスピーダーバイクくらい、と頼んで地面から2m・時速550km",
+    "sourceRange": {
+      "start": 248,
+      "end": 287
+    },
+    "translations": {
+      "zh": "スター・ウォーズのスピーダーバイクくらい、と頼んで地面から2m・時速550km",
+      "en": "Like a Star Wars speeder bike, asking for 2m above ground and 550 km/h"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Mars Canyon Procedural Flight",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial project orchestration prompt",
+        "Three.js terrain shader and rendering code prompts",
+        "Telemetry HUD layout and telemetry generation prompts",
+        "Audio and sound synthesis script instructions"
+      ],
+      "evidence": "Preview displays low-altitude flight across Mars terrain with HUD instruments reading 552 km/h ground speed and 2.0m altitude AGL."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

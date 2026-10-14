@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:31:34.842Z",
+  "model": "opus5.5",
+  "prompt": "Make something",
+  "promptTranslations": {
+    "en": "Make something"
+  },
+  "summary": "Dynamic 3D scene transitioning from subdivision cubes to particle galaxy via Three.js.",
+  "summaryEn": "Three.js Morphing Cube and Galaxy Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108547315971793119",
+    "canonicalUrl": "https://x.com/narukijima/status/2108547315971793119",
+    "author": {
+      "username": "narukijima",
+      "displayName": "Naru Kijima",
+      "profileUrl": "https://x.com/narukijima"
+    },
+    "publishedAt": "2026-10-09T13:17:09.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "ja",
+    "originalText": "なにか作って — made with Claude Opus 5.5 × Three.js https://t.co/bGuTaKJr6F",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108546900811227136/img/mWE8EmTxq4nZ9PZ1.jpg",
+        "analysisUrl": "https://x.com/narukijima/status/2108547315971793119"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 22
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/narukijima/status/2108547315971793119",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108546900811227136/img/mWE8EmTxq4nZ9PZ1.jpg",
+  "coverPath": "data/covers/2108547315971793119-wide.jpg",
+  "gifPath": "data/gifs/2108547315971793119.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108546900811227136",
+    "x-post:2108547315971793119"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Morphing Cube and Galaxy Animation",
+      "summary": "Dynamic 3D scene transitioning from subdivision cubes to particle galaxy via Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "made with Claude Opus 5.5 × Three.js"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "なにか作って",
+        "englishText": "Make something",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete Three.js implementation script",
+          "Camera and animation control instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "3D WebGL animation showing geometric subdivision, terrain waves, and particle galaxy matching Three.js output (evaluated on available lower-bitrate stream).",
+        "textualResultQuote": "完成しました。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL graphics renderer",
+          "evidence": "made with Claude Opus 5.5 × Three.js",
+          "sourceUrl": "https://x.com/narukijima/status/2108547315971793119",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural 3D Visualizer",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "creative-coding",
+          "procedural",
+          "particles"
+        ]
+      },
+      "targetModelRole": "Code generation and animation choreography",
+      "outputSource": "Three.js WebGL canvas rendering",
+      "divisionEvidence": "made with Claude Opus 5.5 × Three.js",
+      "video": {
+        "shots": "Sequence of morphing 3D scene transitions",
+        "duration": "00:44",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 and Three.js creative coding animation showcase.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "start": 0,
+        "end": 6
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "author": "narukijima",
+        "postId": "2108547315971793119",
+        "publishedAt": "2026-10-09T13:17:09.000Z"
+      },
+      "checkedAt": "2026-10-10T07:03:37.925Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/narukijima/status/2108547315971793119",
+        "evidence": ""
+      }
+    },
+    "summary": "Dynamic 3D scene transitioning from subdivision cubes to particle galaxy via Three.js.",
+    "summaryEn": "Three.js Morphing Cube and Galaxy Animation",
+    "originalPrompt": "なにか作って",
+    "sourceRange": {
+      "start": 0,
+      "end": 6
+    },
+    "translations": {
+      "zh": "なにか作って",
+      "en": "Make something"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural 3D Visualizer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete Three.js implementation script",
+        "Camera and animation control instructions"
+      ],
+      "evidence": "3D WebGL animation showing geometric subdivision, terrain waves, and particle galaxy matching Three.js output (evaluated on available lower-bitrate stream)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

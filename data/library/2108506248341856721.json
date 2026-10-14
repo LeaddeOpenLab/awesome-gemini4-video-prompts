@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:33:31.147Z",
+  "model": "opus5.5",
+  "prompt": "Help me make an introductory video on the history of AI, as stunning as an interview portfolio.",
+  "promptTranslations": {
+    "en": "Help me make an introductory video on the history of AI, as stunning as an interview portfolio."
+  },
+  "summary": "作者使用单句提示词让 Claude Opus 5.5 自主编写代码，生成分镜、解说、配乐并逐帧渲染出一支 4 分钟的 AI 发展史动效讲解视频。",
+  "summaryEn": "Claude Opus 5.5 生成 AI 发展史动画视频",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108506248341856721",
+    "canonicalUrl": "https://x.com/Nuseti5/status/2108506248341856721",
+    "author": {
+      "username": "Nuseti5",
+      "displayName": "Nus",
+      "profileUrl": "https://x.com/Nuseti5"
+    },
+    "publishedAt": "2026-10-09T10:33:58.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "zh",
+    "originalText": "只用一句话，让 Opus 5.5 做了一支 4 分钟的 AI 发展史视频 🎬\n\n「帮我做一支 AI 发展史的介绍视频，像面试作品集那样惊艳」\n\n分镜、旁白、配乐、16 个镜头的动画全是它自己写代码生成，逐帧渲染出 1080p，约 1 小时出片。 https://t.co/JrZRlMzdP7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Nuseti5/status/2108506248341856721",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108506010419900418/img/1gUTIX-E1xe8zd0M.jpg",
+        "analysisUrl": "https://x.com/Nuseti5/status/2108506248341856721"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Nuseti5/status/2108506248341856721",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108506010419900418/img/1gUTIX-E1xe8zd0M.jpg",
+  "coverPath": "data/covers/2108506248341856721-wide.jpg",
+  "gifPath": "data/gifs/2108506248341856721.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108506010419900418/vid/avc1/480x270/VBGiE6MbCEgZCZy5.mp4?tag=14",
+    "x-video:2108506010419900418",
+    "x-post:2108506248341856721"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 生成 AI 发展史动画视频",
+      "summary": "作者使用单句提示词让 Claude Opus 5.5 自主编写代码，生成分镜、解说、配乐并逐帧渲染出一支 4 分钟的 AI 发展史动效讲解视频。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "只用一句话，让 Opus 5.5 做了一支 4 分钟的 AI 发展史视频"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "帮我做一支 AI 发展史的介绍视频，像面试作品集那样惊艳",
+        "englishText": "Help me make an introductory video on the history of AI, as stunning as an interview portfolio.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent 运行环境与执行工具流配置"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频呈现了从 1950 年图灵之问至 2026 年的 16 个镜头动画，含图表动效、中英字幕、旁白合成与配乐，全长约 4 分 20 秒。",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "text_prompt",
+          "description": "要求制作 AI 发展史介绍视频的一句话提示词",
+          "available": true,
+          "evidence": "「帮我做一支 AI 发展史的介绍视频，像面试作品集那样惊艳」",
+          "origin": "user",
+          "sourceUrl": "https://x.com/Nuseti5/status/2108506248341856721"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML + SVG Animation Engine",
+          "role": "基于网页矢量技术的动效编写与逐帧渲染",
+          "evidence": "编写动画引擎 · HTML + SVG，逐帧渲染 7,811 帧",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Speech & Music Synthesizer",
+          "role": "旁白语音生成与程序化配乐合成",
+          "evidence": "合成旁白语音，程序化生成配乐",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Video Encoder (H.264)",
+          "role": "视频压制与编码导出",
+          "evidence": "编码输出 ai-history.mp4 · 1920×1080 · 30fps · H.264",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "AI 发展史动效科普视频",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "ai-history",
+          "creative-coding",
+          "data-visualization"
+        ]
+      },
+      "targetModelRole": "规划视频分镜、撰写旁白脚本、编写动画及音频合成代码并调度渲染流程",
+      "outputSource": "基于 HTML/SVG 渲染器与音频合成流水线导出的 1080p MP4 视频",
+      "divisionEvidence": "分镜、旁白、配乐、16 个镜头的动画全是它自己写代码生成，逐帧渲染出 1080p",
+      "video": {
+        "shots": "16",
+        "duration": "04:20",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "具备明确的 Opus 5.5 版本声明、完整公开的原始指令、高质量视频成品以及清晰的代码编排角色划分。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Nuseti5/status/2108506248341856721",
+        "start": 42,
+        "end": 70
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Nuseti5/status/2108506248341856721",
+        "author": "Nuseti5",
+        "postId": "2108506248341856721",
+        "publishedAt": "2026-10-09T10:33:58.000Z"
+      },
+      "checkedAt": "2026-10-10T08:33:31.144Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Nuseti5/status/2108506248341856721",
+        "evidence": ""
+      }
+    },
+    "summary": "作者使用单句提示词让 Claude Opus 5.5 自主编写代码，生成分镜、解说、配乐并逐帧渲染出一支 4 分钟的 AI 发展史动效讲解视频。",
+    "summaryEn": "Claude Opus 5.5 生成 AI 发展史动画视频",
+    "originalPrompt": "帮我做一支 AI 发展史的介绍视频，像面试作品集那样惊艳",
+    "sourceRange": {
+      "start": 42,
+      "end": 70
+    },
+    "translations": {
+      "zh": "帮我做一支 AI 发展史的介绍视频，像面试作品集那样惊艳",
+      "en": "Help me make an introductory video on the history of AI, as stunning as an interview portfolio."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI 发展史动效科普视频",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent 运行环境与执行工具流配置"
+      ],
+      "evidence": "视频呈现了从 1950 年图灵之问至 2026 年的 16 个镜头动画，含图表动效、中英字幕、旁白合成与配乐，全长约 4 分 20 秒。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

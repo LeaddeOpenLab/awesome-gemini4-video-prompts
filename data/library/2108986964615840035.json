@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:24.515Z",
+  "model": "opus5.5",
+  "prompt": "build a whale breaching at sunrise in Three.js",
+  "promptTranslations": {
+    "en": "build a whale breaching at sunrise in Three.js"
+  },
+  "summary": "Side-by-side benchmark comparison where Claude Opus 5.5 generates a cinematic 3D Three.js animation of a whale breaching at sunrise.",
+  "summaryEn": "Breaching Whale at Sunrise in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108986964615840035",
+    "canonicalUrl": "https://x.com/Bhavani_00007/status/2108986964615840035",
+    "author": {
+      "username": "Bhavani_00007",
+      "displayName": "Bhavy☄️",
+      "profileUrl": "https://x.com/Bhavani_00007"
+    },
+    "publishedAt": "2026-10-10T18:24:10.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs GPT 6.1 Sol\n\nI asked both to build a whale breaching at sunrise in Three.js, each capped at $2.\n\nIn my opinion, Opus 5.5 won this one, and I’m loving it.\n\nSame budget, but Opus finished in ~7 mins and Sol took ~10 mins.\n\nSol’s leap is bigger and splashier, but Opus feels more cinematic to me.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Bhavani_00007/status/2108986964615840035",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108986921640955904/img/Su0tMaOTzOL07X8A.jpg",
+        "analysisUrl": "https://x.com/Bhavani_00007/status/2108986964615840035"
+      }
+    ],
+    "metrics": {
+      "likeCount": 72,
+      "repostCount": 1,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 8475
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Bhavani_00007/status/2108989177765433761",
+        "text": "@SahilPanhotra Same😭😭",
+        "author": "Bhavani_00007"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Bhavani_00007/status/2108988442734735438",
+        "text": "@SahilPanhotra More to come, all for Argon🤣",
+        "author": "Bhavani_00007"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Bhavani_00007/status/2108986964615840035",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108986921640955904/img/Su0tMaOTzOL07X8A.jpg",
+  "coverPath": "data/covers/2108986964615840035-wide.jpg",
+  "gifPath": "data/gifs/2108986964615840035.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108986921640955904/vid/avc1/320x426/WCx-BMDs34vXC61t.mp4?tag=29",
+    "x-video:2108986921640955904",
+    "x-post:2108986964615840035"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Breaching Whale at Sunrise in Three.js",
+      "summary": "Side-by-side benchmark comparison where Claude Opus 5.5 generates a cinematic 3D Three.js animation of a whale breaching at sunrise.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 vs GPT 6.1 Sol\n\nI asked both to build a whale breaching at sunrise in Three.js, each capped at $2."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a whale breaching at sunrise in Three.js",
+        "englishText": "build a whale breaching at sunrise in Three.js",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt or environment scaffolding instructions",
+          "Specific asset/mesh and particle system configuration",
+          "Detailed lighting, shader, and water animation parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side screen recording comparing Three.js 3D animations: the top pane labeled 'Opus 5.5' features water shaders, birds, a sunrise sky, and a cinematic whale leaping out of the water creating spray and splash effects.",
+        "textualResultQuote": "Same budget, but Opus finished in ~7 mins and Sol took ~10 mins.\n\nSol’s leap is bigger and splashier, but Opus feels more cinematic to me."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics rendering engine used to execute the generated animation code in browser",
+          "evidence": "I asked both to build a whale breaching at sunrise in Three.js",
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2108986964615840035",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "build a whale breaching at sunrise in Three.js",
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2108986964615840035",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Whale Breaching Sunrise 3D Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "3d-animation",
+          "creative-coding",
+          "water-simulation"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing Three.js WebGL scene, particle effects, and animation logic",
+      "outputSource": "Three.js WebGL browser rendering canvas",
+      "divisionEvidence": "Opus 5.5 vs GPT 6.1 Sol\n\nI asked both to build a whale breaching at sunrise in Three.js",
+      "video": {
+        "shots": "Single continuous camera shot",
+        "duration": "16s",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author post demonstrating Claude Opus 5.5 agentic production of a 3D Three.js animation scene complete with video screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Bhavani_00007/status/2108986964615840035",
+        "start": 41,
+        "end": 87
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Bhavani_00007/status/2108986964615840035",
+        "author": "Bhavani_00007",
+        "postId": "2108986964615840035",
+        "publishedAt": "2026-10-10T18:24:10.000Z"
+      },
+      "checkedAt": "2026-10-12T16:57:04.793Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Bhavani_00007/status/2108986964615840035",
+        "evidence": ""
+      }
+    },
+    "summary": "Side-by-side benchmark comparison where Claude Opus 5.5 generates a cinematic 3D Three.js animation of a whale breaching at sunrise.",
+    "summaryEn": "Breaching Whale at Sunrise in Three.js",
+    "originalPrompt": "build a whale breaching at sunrise in Three.js",
+    "sourceRange": {
+      "start": 41,
+      "end": 87
+    },
+    "translations": {
+      "zh": "build a whale breaching at sunrise in Three.js",
+      "en": "build a whale breaching at sunrise in Three.js"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Whale Breaching Sunrise 3D Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt or environment scaffolding instructions",
+        "Specific asset/mesh and particle system configuration",
+        "Detailed lighting, shader, and water animation parameters"
+      ],
+      "evidence": "The video shows a side-by-side screen recording comparing Three.js 3D animations: the top pane labeled 'Opus 5.5' features water shaders, birds, a sunrise sky, and a cinematic whale leaping out of the water creating spray and splash effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:53.790Z",
+  "model": "opus5.5",
+  "prompt": "How do bike gears work?",
+  "promptTranslations": {
+    "en": "How do bike gears work?"
+  },
+  "summary": "Harshit shares a 3D animated explainer illustrating how bike gears work, created via Claude Opus 5.5 in ~10 iterations hosted on Claude Artifacts.",
+  "summaryEn": "Bike Gears Explainer 3D Wireframe Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108410208708169910",
+    "canonicalUrl": "https://x.com/harshitsatija/status/2108410208708169910",
+    "author": {
+      "username": "harshitsatija",
+      "displayName": "Harshit",
+      "profileUrl": "https://x.com/harshitsatija"
+    },
+    "publishedAt": "2026-10-09T04:12:20.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "How do bike gears work?\n\nby Opus 5.5 (~10 iterations)\n\nhttps://t.co/uexYEtXVv6 https://t.co/GHJC0cxhW5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/harshitsatija/status/2108410208708169910",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108409447702056960/img/F3cJqrQWmy40WfMc.jpg",
+        "analysisUrl": "https://x.com/harshitsatija/status/2108410208708169910"
+      }
+    ],
+    "metrics": {
+      "likeCount": 379,
+      "repostCount": 26,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 12500
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/harshitsatija/status/2108410208708169910",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108409447702056960/img/F3cJqrQWmy40WfMc.jpg",
+  "coverPath": "data/covers/2108410208708169910-wide.jpg",
+  "gifPath": "data/gifs/2108410208708169910.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108409447702056960",
+    "x-post:2108410208708169910"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bike Gears Explainer 3D Wireframe Animation",
+      "summary": "Harshit shares a 3D animated explainer illustrating how bike gears work, created via Claude Opus 5.5 in ~10 iterations hosted on Claude Artifacts.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "\"by Opus 5.5 (~10 iterations)\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "How do bike gears work?",
+        "englishText": "How do bike gears work?",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact iterative instructions across ~10 prompt rounds",
+          "Specific 3D/animation framework instructions or styling code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 3D schematic wireframe bike transmission system with chain, chainrings, derailleurs, and labels exploding out and rotating.",
+        "textualResultQuote": "How do bike gears work?\n\nby Opus 5.5 (~10 iterations)"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Artifacts",
+          "role": "Execution runtime and interactive artifact renderer",
+          "evidence": "Linked Claude Artifact URL: https://claude.ai/artifact/Ez6BXp1sGc4fCEGihotM61",
+          "sourceUrl": "https://claude.ai/artifact/Ez6BXp1sGc4fCEGihotM61",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Bike Gears Mechanism 3D Explainer",
+        "topic": "explainers",
+        "tags": [
+          "bike-gears",
+          "explainer",
+          "3d-animation",
+          "artifacts",
+          "claude-opus"
+        ]
+      },
+      "targetModelRole": "Code generation and iterative engineering for 3D animated bike gear explainer",
+      "outputSource": "Claude Artifacts WebGL/Canvas renderer",
+      "divisionEvidence": "Author confirms it was made \"by Opus 5.5 (~10 iterations)\" and hosted at \"claude.ai/artifact/Ez6BXp1sGc4fCEGihotM61\".",
+      "video": {
+        "shots": "Single continuous 3D exploded and reassembled wireframe schematic view",
+        "duration": "10s",
+        "aspectRatio": "5:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 producing an interactive/animated 3D explainer on Claude Artifacts, with verified author model attribution and attached video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/harshitsatija/status/2108410208708169910",
+        "start": 0,
+        "end": 23
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/harshitsatija/status/2108410208708169910",
+        "author": "harshitsatija",
+        "postId": "2108410208708169910",
+        "publishedAt": "2026-10-09T04:12:20.000Z"
+      },
+      "checkedAt": "2026-10-09T16:34:42.354Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/harshitsatija/status/2108410208708169910",
+        "evidence": ""
+      }
+    },
+    "summary": "Harshit shares a 3D animated explainer illustrating how bike gears work, created via Claude Opus 5.5 in ~10 iterations hosted on Claude Artifacts.",
+    "summaryEn": "Bike Gears Explainer 3D Wireframe Animation",
+    "originalPrompt": "How do bike gears work?",
+    "sourceRange": {
+      "start": 0,
+      "end": 23
+    },
+    "translations": {
+      "zh": "How do bike gears work?",
+      "en": "How do bike gears work?"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Bike Gears Mechanism 3D Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact iterative instructions across ~10 prompt rounds",
+        "Specific 3D/animation framework instructions or styling code"
+      ],
+      "evidence": "The video shows a 3D schematic wireframe bike transmission system with chain, chainrings, derailleurs, and labels exploding out and rotating."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

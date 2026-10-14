@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:34.983Z",
+  "model": "opus5.5",
+  "prompt": "Make me a Production level good quality trailer for my Roblox Game",
+  "promptTranslations": {
+    "en": "Make me a Production level good quality trailer for my Roblox Game"
+  },
+  "summary": "Claude Opus 5.5 is credited with producing a fast-paced 40-second gameplay trailer and motion graphics promo for a Roblox soccer game from a single-line prompt.",
+  "summaryEn": "Roblox Game Trailer for Last Strike",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108326197516198346",
+    "canonicalUrl": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+    "author": {
+      "username": "Aryanpxcr7",
+      "displayName": "Aryan P",
+      "profileUrl": "https://x.com/Aryanpxcr7"
+    },
+    "publishedAt": "2026-10-08T22:38:30.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Opus 5.5 made this Cool Trailer for my Roblox game\n\n----------------------------\n\n-> Prompt : \"Make me a Production level good quality trailer for my Roblox Game\"\n\nLiterally for one line prompt, this output is not bad,\nhowever we can increase the quality drastically by giving it more specific prompt",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108325861657313280/img/7cHNI6Vr-FMD9Arm.jpg",
+        "analysisUrl": "https://x.com/Aryanpxcr7/status/2108326197516198346"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 141
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108325861657313280/img/7cHNI6Vr-FMD9Arm.jpg",
+  "coverPath": "data/covers/2108326197516198346-wide.jpg",
+  "gifPath": "data/gifs/2108326197516198346.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108325861657313280",
+    "x-post:2108326197516198346"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Roblox Game Trailer for Last Strike",
+      "summary": "Claude Opus 5.5 is credited with producing a fast-paced 40-second gameplay trailer and motion graphics promo for a Roblox soccer game from a single-line prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 made this Cool Trailer for my Roblox game"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Make me a Production level good quality trailer for my Roblox Game",
+        "englishText": "Make me a Production level good quality trailer for my Roblox Game",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Roblox gameplay recordings and raw video footage",
+          "Game mode and ball asset UI graphic assets",
+          "Video editing tool or rendering engine integration scripts",
+          "Audio track and sound effect references"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 40-second edited trailer for a Roblox soccer game ('Last Strike') featuring gameplay clips, dynamic typography, UI displays, and sound design.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "gameplay_assets",
+          "description": "Pre-recorded gameplay footage, UI clips, ball cosmetic showcases, and audio for the Roblox game 'Last Strike'",
+          "available": false,
+          "evidence": "The trailer features specific gameplay, custom UI menus ('Football Cup', 'Road to Glory'), and 3D soccer ball models from the Roblox game.",
+          "origin": "unknown"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown Video Renderer / Editor",
+          "role": "Video editing and motion graphics rendering pipeline",
+          "evidence": "The author claims Opus 5.5 produced the video but does not name the code library, editing framework, or rendering tool utilized.",
+          "sourceUrl": "",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Roblox Game Promotional Trailer",
+        "topic": "motion-graphics",
+        "tags": [
+          "game-trailer",
+          "roblox",
+          "motion-graphics",
+          "video-editing",
+          "promo"
+        ]
+      },
+      "targetModelRole": "Agent orchestrating or generating the video trailer composition and editing instructions",
+      "outputSource": "External video editor / rendering pipeline",
+      "divisionEvidence": "The author states 'Opus 5.5 made this Cool Trailer for my Roblox game', but does not disclose whether Opus wrote Remotion/ffmpeg code, automated an editing tool, or directed an external pipeline.",
+      "video": {
+        "shots": "Multi-shot edited trailer with rapid cuts between gameplay, animated 3D titles, menu showcases, and call-to-action end cards",
+        "duration": "00:40",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an AI-assisted video production workflow generating a multi-shot promotional game trailer, even though the underlying video renderer and input assets remain undocumented.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+        "start": 95,
+        "end": 161
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+        "author": "Aryanpxcr7",
+        "postId": "2108326197516198346",
+        "publishedAt": "2026-10-08T22:38:30.000Z"
+      },
+      "checkedAt": "2026-10-09T13:32:08.801Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Aryanpxcr7/status/2108326197516198346",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 is credited with producing a fast-paced 40-second gameplay trailer and motion graphics promo for a Roblox soccer game from a single-line prompt.",
+    "summaryEn": "Roblox Game Trailer for Last Strike",
+    "originalPrompt": "Make me a Production level good quality trailer for my Roblox Game",
+    "sourceRange": {
+      "start": 95,
+      "end": 161
+    },
+    "translations": {
+      "zh": "Make me a Production level good quality trailer for my Roblox Game",
+      "en": "Make me a Production level good quality trailer for my Roblox Game"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Roblox Game Promotional Trailer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Roblox gameplay recordings and raw video footage",
+        "Game mode and ball asset UI graphic assets",
+        "Video editing tool or rendering engine integration scripts",
+        "Audio track and sound effect references"
+      ],
+      "evidence": "The video shows a 40-second edited trailer for a Roblox soccer game ('Last Strike') featuring gameplay clips, dynamic typography, UI displays, and sound design."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

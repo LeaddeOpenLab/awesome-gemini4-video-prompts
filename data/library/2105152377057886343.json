@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:17.547Z",
+  "model": "opus5.5",
+  "prompt": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+  "promptTranslations": {
+    "en": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer."
+  },
+  "summary": "Author compares Claude Opus 5.5 and GPT 6.1 Sol generating a 15-second minimal studio motion-design reel with kinetic typography, geometric morphing, and physics-based spring easing.",
+  "summaryEn": "Studio Motion-Design Reel Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105152377057886343",
+    "canonicalUrl": "https://x.com/threeaus/status/2105152377057886343",
+    "author": {
+      "username": "threeaus",
+      "displayName": "陆三金",
+      "profileUrl": "https://x.com/threeaus"
+    },
+    "publishedAt": "2026-09-30T04:26:53.000Z",
+    "collectedAt": "2026-09-30T08:03:25.845Z",
+    "language": "en",
+    "originalText": "motion graphics 对比测试\n\nSol 6.1 high vs Opus 5.5 high\n\n提示词：15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/threeaus/status/2105152377057886343",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105151540256473089/img/uNf4Q4a0d1i5dHQT.jpg",
+        "analysisUrl": "https://x.com/threeaus/status/2105152377057886343"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 269
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ]
+  },
+  "xUrl": "https://x.com/threeaus/status/2105152377057886343",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105151540256473089/img/uNf4Q4a0d1i5dHQT.jpg",
+  "coverPath": "data/covers/2105152377057886343-wide.jpg",
+  "gifPath": "data/gifs/2105152377057886343.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105151540256473089",
+    "x-post:2105152377057886343"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Studio Motion-Design Reel Comparison",
+      "summary": "Author compares Claude Opus 5.5 and GPT 6.1 Sol generating a 15-second minimal studio motion-design reel with kinetic typography, geometric morphing, and physics-based spring easing.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Sol 6.1 high vs Opus 5.5 high"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+        "englishText": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The split-screen comparison shows both models following the required sequence: toggle switch, 'Motion' text, shape morphs, dotted connector trajectory, rounded diamond, circular kinetic text, dot grid, and closing end card.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Studio Motion-Design Reel",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "kinetic-typography",
+          "product-studio",
+          "creative-coding",
+          "spring-physics"
+        ]
+      },
+      "targetModelRole": "Generates the programmatic motion graphics animation from the creative direction prompt.",
+      "outputSource": "Animation rendered from code generated by Claude Opus 5.5 alongside GPT 6.1 Sol.",
+      "divisionEvidence": "The prompt instructs the model to create a 15-second studio motion-design reel with zero manual keyframes, demonstrating automated motion design generation.",
+      "video": {
+        "shots": "8 sequential motion phases: toggle click, Motion typography, shape morphs, dotted connector, rounded diamond, kinetic type ring, dot grid, and end card",
+        "duration": "15s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Provides full verbatim prompt instructions alongside side-by-side video results evaluating Claude Opus 5.5 on programmatic motion graphics design.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/threeaus/status/2105152377057886343",
+        "start": 57,
+        "end": 564
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/threeaus/status/2105152377057886343",
+        "author": "threeaus",
+        "postId": "2105152377057886343",
+        "publishedAt": "2026-09-30T04:26:53.000Z"
+      },
+      "checkedAt": "2026-09-30T05:46:01.976Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/threeaus/status/2105152377057886343",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares Claude Opus 5.5 and GPT 6.1 Sol generating a 15-second minimal studio motion-design reel with kinetic typography, geometric morphing, and physics-based spring easing.",
+    "summaryEn": "Studio Motion-Design Reel Comparison",
+    "originalPrompt": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+    "sourceRange": {
+      "start": 57,
+      "end": 564
+    },
+    "translations": {
+      "zh": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
+      "en": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Studio Motion-Design Reel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The split-screen comparison shows both models following the required sequence: toggle switch, 'Motion' text, shape morphs, dotted connector trajectory, rounded diamond, circular kinetic text, dot grid, and closing end card."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

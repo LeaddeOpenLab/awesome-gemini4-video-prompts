@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T14:01:05.698Z",
+  "model": "opus5.5",
+  "prompt": "Make an ad video",
+  "promptTranslations": {
+    "en": "Make an ad video"
+  },
+  "summary": "The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.",
+  "summaryEn": "HIKARI SODA Animated Commercial",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104537329667104818",
+    "canonicalUrl": "https://x.com/ito1217yo/status/2104537329667104818",
+    "author": {
+      "username": "ito1217yo",
+      "displayName": "テト✨AI映像制作スタジオ",
+      "profileUrl": "https://x.com/ito1217yo"
+    },
+    "publishedAt": "2026-09-28T11:42:54.000Z",
+    "collectedAt": "2026-09-28T12:33:05.188Z",
+    "language": "ja",
+    "originalText": "Opus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。\n\nアニメーションもBGMも効果音も全部おまかせ。\n…ほんとすごい時代\n\n※HIKARI SODAは架空の商品です https://t.co/KBy7XnQpZR",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ito1217yo/status/2104537329667104818",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104536487748583424/img/Qwo74MWeR7BSDsZq.jpg",
+        "analysisUrl": "https://x.com/ito1217yo/status/2104537329667104818"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ito1217yo/status/2104537329667104818",
+        "text": "テト✨AI映像制作スタジオ on X: \"Opus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。\n\nアニメーションもBGMも効果音も全部おまかせ。\n…ほんとすごい時代\n\n※HIKARI SODAは架空の商品です\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nテト✨AI映像制作スタジオ on X: \"Opus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。\n\nアニメーションもBGMも効果音も全部おまかせ。\n…ほんとすごい時代\n\n※HIKARI SODAは架空の商品です\"\n\n\n\nテト✨AI映像制作スタジオ\n\n@ito1217yo\n\n\n\n\nShow translation\nOpus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。\n\nアニメーションもBGMも効果音も全部おまかせ。\n…ほんとすごい時代\n\n※HIKARI SODAは架空の商品です\n\n\n00:00\n\n\n\n\n\n\n\n\n11:42 AM · Sep 28, 2026·9\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nテト✨AI映像制作スタジオ@ito1217yoFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nテト✨AI映像制作スタジオ\n\n@ito1217yo\n\n\n\n\nShow translation\nOpus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。\n\nアニメーションもBGMも効果音も全部おまかせ。\n…ほんとすごい時代\n\n※HIKARI SODAは架空の商品です\n\n\n00:00\n\n\n\n\n\n\n\n\n11:42 AM · Sep 28, 2026·9\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ito1217yo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ito1217yo/status/2104537329667104818",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104536487748583424/img/Qwo74MWeR7BSDsZq.jpg",
+  "coverPath": "data/covers/2104537329667104818-wide.jpg",
+  "gifPath": "data/gifs/2104537329667104818.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104536487748583424",
+    "x-post:2104537329667104818"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "HIKARI SODA Animated Commercial",
+      "summary": "The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5が盛り上がってるので便乗して、「広告動画つくって」って頼んでみた。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "広告動画つくって",
+        "englishText": "Make an ad video",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Product details for HIKARI SODA",
+          "Specific animation parameters and scene structure",
+          "Audio and sound synthesis specifications",
+          "Target code framework or rendering environment"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays a vertical motion graphics ad for 'HIKARI SODA' featuring can animations, product statistics, sound effects, and background music matching the author's claims.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Orchestrating and generating the code for animation, BGM, and sound effects as described by the author.",
+      "outputSource": "Unknown rendering/playback engine",
+      "divisionEvidence": "アニメーションもBGMも効果音も全部おまかせ。",
+      "video": {
+        "shots": "Single multi-phase motion graphic sequence showcasing introductory text, can reveal, nutritional details, and release date screen",
+        "duration": "12s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Provides a genuine video production demonstration created with Claude Opus 5.5 with confirmed author use and corresponding media, suitable as a reference case despite an incomplete prompt fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ito1217yo/status/2104537329667104818",
+        "start": 24,
+        "end": 32
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ito1217yo/status/2104537329667104818",
+        "author": "ito1217yo",
+        "postId": "2104537329667104818",
+        "publishedAt": "2026-09-28T11:42:54.000Z"
+      },
+      "checkedAt": "2026-09-28T12:45:24.159Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ito1217yo/status/2104537329667104818",
+        "evidence": ""
+      }
+    },
+    "summary": "The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.",
+    "summaryEn": "HIKARI SODA Animated Commercial",
+    "originalPrompt": "広告動画つくって",
+    "sourceRange": {
+      "start": 24,
+      "end": 32
+    },
+    "translations": {
+      "zh": "広告動画つくって",
+      "en": "Make an ad video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Product details for HIKARI SODA",
+        "Specific animation parameters and scene structure",
+        "Audio and sound synthesis specifications",
+        "Target code framework or rendering environment"
+      ],
+      "evidence": "The attached video displays a vertical motion graphics ad for 'HIKARI SODA' featuring can animations, product statistics, sound effects, and background music matching the author's claims."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

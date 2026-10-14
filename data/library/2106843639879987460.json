@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:32.548Z",
+  "model": "opus5.5",
+  "prompt": "hook in the first 3 seconds, use project components, and research formats compatible with TikTok.",
+  "promptTranslations": {
+    "en": "hook in the first 3 seconds, use project components, and research formats compatible with TikTok."
+  },
+  "summary": "Explainer video created using Claude Opus 5.5 in Claude Code to generate script and Remotion code with beat-synced visuals.",
+  "summaryEn": "Med Organizer TikTok Explainer via Remotion",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2106843639879987460",
+    "canonicalUrl": "https://x.com/WillDobrev/status/2106843639879987460",
+    "author": {
+      "username": "WillDobrev",
+      "displayName": "Will Dobrev → criticalthinker.dev",
+      "profileUrl": "https://x.com/WillDobrev"
+    },
+    "publishedAt": "2026-10-04T20:27:21.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "pt",
+    "originalText": "Dia 4 usando o Higgsfield\n\nTestei um novo formato de video e um novo método de criação.\n\nSobre o formato, eu queria um video \"problem-solution explainer\" em vez de um \"pov\".\n\nO método foi o mais interessante. Usei claude code (Opus 5.5 max) + CLI + skills do Higgsfield + Remotion + python.\n\nMinhas únicas exigências foram: hook nos 3 primeiros segudos, usar componentes do projeto e pesquisa de formatos compatíveis com tiktok.\n\nFiz 9 videos com variações de ganchos, trilhas e com/sem música.\n\nModelos e ferramentas:\n- Conceito, roteiro e código: Opus 5.5\n- Fotos: GPT Image 2.5 (Higgsfield CLI)\n- Trilha: Sonilo Music (Higgsfield CLI)\n- Efeitos sonoros e análise de batida: Python, sem IA\n- Animação e render: Remotion, local\n- Skill usada: higgsfield-generate\n\nMétodos:\n- Descoberta: leitura do produto MED no repositório\n- Pesquisa: boas práticas de gancho e retenção no TikTok\n- Conceito: gancho, 2 pontos com título, imagens 1:1, resultado e marca\n- Montagem: app recriado em código, com cortes na batida da trilha\n- Revisão: quadros, zonas seguras do TikTok e volume do áudio\n- Variações: 3 ganchos, sem custo extra\n\nCusto\nHiggsfield: 12,32 créditos\nClaude Code: ~350 mil tokens, ~50 min fazendo\n\nPosso trazer de forma completa todos os prompts utilizados, além dos modelos, métodos e ferramentas também detalhadamente",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/WillDobrev/status/2106843639879987460",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2106843597630844928/img/stgLNOoFd39yv4V4.jpg",
+        "analysisUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+      }
+    ],
+    "metrics": {
+      "likeCount": 18,
+      "repostCount": 0,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 1478
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2107172349548397051",
+        "text": "@danielsspo Cara eu acho que pode ser o modelo sim. Afinal o papel do agente + LLM é justamente ir montando o prompt",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106909289751171319",
+        "text": "@pedroenr1c0 Show demais! Vou seguir essa call na próxima. Obrigado!\n\nSim, ideias diferentes!\nO pov que você não curtiu foi o que joga um tampão para o médico colocar? Haha",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106885116140089785",
+        "text": "@hadvibe Higgsfield é pago. Meu plano é de $15 dol. Mas no caso só usou o Higgsfield para gerar imagens. Remotion é uma lob opensource",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106881826803335621",
+        "text": "@andriyfernandes @andriyfernandes  boa, não vou usar o remotion para testar.\nObrigado!",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106877497690464387",
+        "text": "@andriyfernandes Mas você entende que não estou querendo fazer jogo ou qualquer outra geração 3D, certo?\n\nSe sim, ótimo seu feedback para eu entender aqui como melhorar essa geração de video.\n\nAlguma dica?",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106863540959150280",
+        "text": "@GabrilReis41195 Depois posta pra gente!",
+        "author": "WillDobrev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/WillDobrev/status/2106861200273244192",
+        "text": "@J_onasm Obrigado!\nTentando aprimorar sempre!",
+        "author": "WillDobrev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/WillDobrev/status/2106843639879987460",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2106843597630844928/img/stgLNOoFd39yv4V4.jpg",
+  "coverPath": "data/covers/2106843639879987460-wide.jpg",
+  "gifPath": "data/gifs/2106843639879987460.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2106843597630844928/vid/avc1/320x568/z1E_GfsUZcXdTk4C.mp4?tag=29",
+    "x-video:2106843597630844928",
+    "x-post:2106843639879987460"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Med Organizer TikTok Explainer via Remotion",
+      "summary": "Explainer video created using Claude Opus 5.5 in Claude Code to generate script and Remotion code with beat-synced visuals.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Usei claude code (Opus 5.5 max) + CLI + skills do Higgsfield + Remotion + python"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "hook nos 3 primeiros segudos, usar componentes do projeto e pesquisa de formatos compatíveis com tiktok.",
+        "englishText": "hook in the first 3 seconds, use project components, and research formats compatible with TikTok.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete agent workflow prompts",
+          "Full Remotion composition code",
+          "Asset generation prompts"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 20-second video demonstrates a vertical problem-solution format with UI overlays and timed cuts matching the Remotion pipeline.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "code repository",
+          "description": "MED product repository components",
+          "available": false,
+          "evidence": "leitura do produto MED no repositório",
+          "origin": "user",
+          "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "GPT Image 2.5",
+          "role": "Static image asset generation via Higgsfield CLI",
+          "evidence": "Fotos: GPT Image 2.5 (Higgsfield CLI)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+        },
+        {
+          "name": "Python",
+          "role": "Sound effects and audio beat analysis",
+          "evidence": "Efeitos sonoros e análise de batida: Python, sem IA",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+        },
+        {
+          "name": "Remotion",
+          "role": "Animation and local rendering",
+          "evidence": "Animação e render: Remotion, local",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+        },
+        {
+          "name": "Sonilo Music",
+          "role": "Music track generation via Higgsfield CLI",
+          "evidence": "Trilha: Sonilo Music (Higgsfield CLI)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460"
+        }
+      ],
+      "purpose": {
+        "label": "Mobile Product Explainer",
+        "topic": "explainers",
+        "tags": [
+          "remotion",
+          "tiktok",
+          "explainer",
+          "claude-code"
+        ]
+      },
+      "targetModelRole": "Scriptwriting, concept development, and Remotion video code generation",
+      "outputSource": "Remotion",
+      "divisionEvidence": "Conceito, roteiro e código: Opus 5.5; Fotos: GPT Image 2.5 (Higgsfield CLI); Trilha: Sonilo Music (Higgsfield CLI); Efeitos sonoros e análise de batida: Python, sem IA; Animação e render: Remotion, local",
+      "video": {
+        "shots": "Multiple UI card sequences cut to music beats",
+        "duration": "00:20",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Direct evidence of Claude Opus 5.5 acting as an agent coding a Remotion explainer video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/WillDobrev/status/2106843639879987460",
+        "start": 324,
+        "end": 428
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/WillDobrev/status/2106843639879987460",
+        "author": "WillDobrev",
+        "postId": "2106843639879987460",
+        "publishedAt": "2026-10-04T20:27:21.000Z"
+      },
+      "checkedAt": "2026-10-10T16:28:00.895Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/WillDobrev/status/2106843639879987460",
+        "evidence": ""
+      }
+    },
+    "summary": "Explainer video created using Claude Opus 5.5 in Claude Code to generate script and Remotion code with beat-synced visuals.",
+    "summaryEn": "Med Organizer TikTok Explainer via Remotion",
+    "originalPrompt": "hook nos 3 primeiros segudos, usar componentes do projeto e pesquisa de formatos compatíveis com tiktok.",
+    "sourceRange": {
+      "start": 324,
+      "end": 428
+    },
+    "translations": {
+      "zh": "hook nos 3 primeiros segudos, usar componentes do projeto e pesquisa de formatos compatíveis com tiktok.",
+      "en": "hook in the first 3 seconds, use project components, and research formats compatible with TikTok."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Mobile Product Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete agent workflow prompts",
+        "Full Remotion composition code",
+        "Asset generation prompts"
+      ],
+      "evidence": "The 20-second video demonstrates a vertical problem-solution format with UI overlays and timed cuts matching the Remotion pipeline."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

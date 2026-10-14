@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:00.388Z",
+  "model": "opus5.5",
+  "prompt": "[Identity Lock | Woman]\nAdult female, ~28, straight black hair, fair skin, dark brown eyes; knee-length bright red wool coat, black jeans, black ankle boots; red coat is the dominant color; continuous single actor, no face-swapping or outfit changes.\n\n[Identity Lock | Man]\nAdult male, ~30, short dark brown hair, light stubble, light olive skin; navy jacket, grey hoodie, dark jeans; holding two white paper coffee cups without logos; continuous single actor, no face-swapping or outfit changes.\n\n[Space]\nFixed geography: ~15m wide two-lane urban street flanked by storefronts; warm-lit cafe on left with glass door facing street; glass bus stop on right facing cafe; street extends to horizon; meteor streaks from top right to horizon, exploding outside city; dust wall surges towards camera; he exits cafe on left, she waits at bus stop on right, meeting in street center without screen direction inversion; ~10 pedestrians.\n\n[First Frame]\n24mm low-angle wide shot looking down street; quiet night street, shop lights, streetlamps, dark sky; top-right sky glows bright orange-white.\n\n[Timeline / SHOT 1]\n0.0–4.0s | 24mm low wide upward tilt: 0.0–1.5s sky lights up brighter than day, cast shadows swing rapidly; 1.5–3.0s pedestrians gaze up as massive burning meteor streaks across top-right sky towards horizon; 3.0–4.0s meteor glare reflects on cafe door glass, creating first match cut.\n\n[Timeline / SHOT 2]\n4.0–9.0s | Match cut from glare, 35mm handheld outside cafe: 4.0–5.5s he pushes door open holding two coffees, looks up and halts; 5.5–7.0s he sees her across the street at the bus stop, eyes meet; 7.0–8.0s both sprint into street; 8.0–9.0s massive white explosion at horizon washes out screen, creating second match cut.\n\n[Timeline / SHOT 3]\n9.0–15.0s | Match cut from whiteout, 35mm elevated street view: 9.0–11.0s whiteout fades to mushroom cloud and orange fireball; 11.0–13.5s shockwave blasts storefront windows successively towards camera, alarms blare, dust wall rolls forward; both sprint towards street center; 13.5–15.0s nearest window shatters toward lens, creating third match cut.\n\n[Timeline / SHOT 4]\n15.0–19.0s | Match cut from flying glass, 50mm eye-level profile, both in street center: 15.0–17.0s reaching out, he drops both coffees, liquid spills, glass whirls, dust wall 20m away, wind pulls hair; 17.0s time abruptly freezes completely; 17.0–19.0s absolute standstill except she slowly blinks, creating fourth match cut.\n\n[Timeline / SHOT 5]\n19.0–25.0s | Match cut from blink, 35mm handheld over her right shoulder: 19.0–20.5s realizing she can move, she looks around; 20.5–23.5s steps forward through suspended shards, gently deflects a floating glass shard which stays in place; passes frozen coffee spill, frozen pigeon, frozen pedestrians, frozen fiery dust wall; 23.5–25.0s approaches him and reaches out, creating fifth match cut.\n\n[Timeline / SHOT 6]\n25.0–30.0s | Match cut from reaching hand, 50mm close profile: 25.0–26.5s fingertips touch his frozen cheek; 26.5–28.0s he blinks, inhales, looks at her and unfreezes, clasping her hand; 28.0–30.0s adjacent suspended glass shard vibrates and drops; both watch it fall; scene cuts mid-fall.\n\n[Physics]\nMeteor illumination realistically shifts street shadows; shockwave shatters glass sequentially outward; dust wall is volumetric fire/dust; time freeze is total for all background elements with zero motion blur or drift; deflected shard stays at new position; gravity resumes on moving subjects; only final shard vibrates and drops.\n\n[Cinematography]\n6 sequential camera setups; 5 match cuts matched to ending elements (reflection, flash, shard, blink, hand); camera static during freeze except Shot 5 tracking; no slow motion, no hero low-angles.\n\n[Lighting/Color]\nOpens cold blue with warm shop light; switches to harsh orange-white under meteor; orange-red explosion lighting; frozen world back-lit by fire inside dust wall; red coat remains focal point.\n\n[Audio]\nShot 1 quiet traffic to escalating roar; Shot 2 doorbell, footsteps, distant impact; Shot 3 blast roar, shattering windows, alarms; Shot 4 wind/glass noise abruptly cuts to dead silence at 17s; Shot 5 quiet footsteps on glass and soft breath; Shot 6 sharp inhale and gentle glass hum.\n\n[Locks]\nStrictly 6 shots, 5 match cuts; zero spoken dialogue; continuous outfits and character identities without fusion; exact anatomical consistency; live-action film realism; video cuts while the shard falls.",
+  "promptTranslations": {
+    "en": "[Identity Lock | Woman]\nAdult female, ~28, straight black hair, fair skin, dark brown eyes; knee-length bright red wool coat, black jeans, black ankle boots; red coat is the dominant color; continuous single actor, no face-swapping or outfit changes.\n\n[Identity Lock | Man]\nAdult male, ~30, short dark brown hair, light stubble, light olive skin; navy jacket, grey hoodie, dark jeans; holding two white paper coffee cups without logos; continuous single actor, no face-swapping or outfit changes.\n\n[Space]\nFixed geography: ~15m wide two-lane urban street flanked by storefronts; warm-lit cafe on left with glass door facing street; glass bus stop on right facing cafe; street extends to horizon; meteor streaks from top right to horizon, exploding outside city; dust wall surges towards camera; he exits cafe on left, she waits at bus stop on right, meeting in street center without screen direction inversion; ~10 pedestrians.\n\n[First Frame]\n24mm low-angle wide shot looking down street; quiet night street, shop lights, streetlamps, dark sky; top-right sky glows bright orange-white.\n\n[Timeline / SHOT 1]\n0.0–4.0s | 24mm low wide upward tilt: 0.0–1.5s sky lights up brighter than day, cast shadows swing rapidly; 1.5–3.0s pedestrians gaze up as massive burning meteor streaks across top-right sky towards horizon; 3.0–4.0s meteor glare reflects on cafe door glass, creating first match cut.\n\n[Timeline / SHOT 2]\n4.0–9.0s | Match cut from glare, 35mm handheld outside cafe: 4.0–5.5s he pushes door open holding two coffees, looks up and halts; 5.5–7.0s he sees her across the street at the bus stop, eyes meet; 7.0–8.0s both sprint into street; 8.0–9.0s massive white explosion at horizon washes out screen, creating second match cut.\n\n[Timeline / SHOT 3]\n9.0–15.0s | Match cut from whiteout, 35mm elevated street view: 9.0–11.0s whiteout fades to mushroom cloud and orange fireball; 11.0–13.5s shockwave blasts storefront windows successively towards camera, alarms blare, dust wall rolls forward; both sprint towards street center; 13.5–15.0s nearest window shatters toward lens, creating third match cut.\n\n[Timeline / SHOT 4]\n15.0–19.0s | Match cut from flying glass, 50mm eye-level profile, both in street center: 15.0–17.0s reaching out, he drops both coffees, liquid spills, glass whirls, dust wall 20m away, wind pulls hair; 17.0s time abruptly freezes completely; 17.0–19.0s absolute standstill except she slowly blinks, creating fourth match cut.\n\n[Timeline / SHOT 5]\n19.0–25.0s | Match cut from blink, 35mm handheld over her right shoulder: 19.0–20.5s realizing she can move, she looks around; 20.5–23.5s steps forward through suspended shards, gently deflects a floating glass shard which stays in place; passes frozen coffee spill, frozen pigeon, frozen pedestrians, frozen fiery dust wall; 23.5–25.0s approaches him and reaches out, creating fifth match cut.\n\n[Timeline / SHOT 6]\n25.0–30.0s | Match cut from reaching hand, 50mm close profile: 25.0–26.5s fingertips touch his frozen cheek; 26.5–28.0s he blinks, inhales, looks at her and unfreezes, clasping her hand; 28.0–30.0s adjacent suspended glass shard vibrates and drops; both watch it fall; scene cuts mid-fall.\n\n[Physics]\nMeteor illumination realistically shifts street shadows; shockwave shatters glass sequentially outward; dust wall is volumetric fire/dust; time freeze is total for all background elements with zero motion blur or drift; deflected shard stays at new position; gravity resumes on moving subjects; only final shard vibrates and drops.\n\n[Cinematography]\n6 sequential camera setups; 5 match cuts matched to ending elements (reflection, flash, shard, blink, hand); camera static during freeze except Shot 5 tracking; no slow motion, no hero low-angles.\n\n[Lighting/Color]\nOpens cold blue with warm shop light; switches to harsh orange-white under meteor; orange-red explosion lighting; frozen world back-lit by fire inside dust wall; red coat remains focal point.\n\n[Audio]\nShot 1 quiet traffic to escalating roar; Shot 2 doorbell, footsteps, distant impact; Shot 3 blast roar, shattering windows, alarms; Shot 4 wind/glass noise abruptly cuts to dead silence at 17s; Shot 5 quiet footsteps on glass and soft breath; Shot 6 sharp inhale and gentle glass hum.\n\n[Locks]\nStrictly 6 shots, 5 match cuts; zero spoken dialogue; continuous outfits and character identities without fusion; exact anatomical consistency; live-action film realism; video cuts while the shard falls."
+  },
+  "summary": "MadMax shares a detailed cinematic Mandarin prompt polished by Claude Opus 5.5 and rendered with Seedance 2.5 via Flova.ai.",
+  "summaryEn": "Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108577475752054868",
+    "canonicalUrl": "https://x.com/MadMax_Series/status/2108577475752054868",
+    "author": {
+      "username": "MadMax_Series",
+      "displayName": "MadMax",
+      "profileUrl": "https://x.com/MadMax_Series"
+    },
+    "publishedAt": "2026-10-09T15:17:00.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "gm gm AI Video Creators\n\nCreated this video on Seedance 2.5 using just mandarin text prompt, no attachments. \nPrompt given below  \n\nOpus 5.5 is crazy polishing up the rough ideas and choreography.  \n\nMade with @Flovaai\n#flovaai #flovacpp\n\nPrompt: \n\n「身份锁定｜女人」\n成年女性，约二十八岁，黑色长直发，浅色皮肤，深棕色眼睛；身穿及膝的亮红色羊毛大衣、黑色牛仔裤、黑色短靴；亮红色大衣是画面中最醒目的颜色；全程同一人、同一服装，不换脸、不变装。\n\n「身份锁定｜男人」\n成年男性，约三十岁，深棕色短发，下巴有浅浅的胡茬，浅橄榄色皮肤；身穿深海军蓝夹克、灰色连帽衫、深色牛仔裤；开场双手各拿一杯白色纸杯咖啡（杯身无任何文字或标志）；全程同一人、同一服装，不换脸、不变装。\n\n「空间」\n固定地理：一条约十五米宽的双车道城市街道，两侧是带大玻璃橱窗的商店；街道左侧是一家亮着暖光的咖啡馆，玻璃门朝向街道；街道右侧正对着咖啡馆的是一个玻璃顶的公交车站；街道笔直延伸向远方，尽头是城市的地平线，陨石从画面右上方划向远方地平线，撞击发生在大街尽头的城外，尘墙从大街尽头沿街道朝镜头方向推进；他从左侧咖啡馆出来，她在右侧公交站，两人在街道中央相遇，左右关系全程不翻转；街上还有约十名行人。\n\n「首帧」\n24mm街道中央低位广角，朝向大街尽头，第一帧是安静的深夜街道：橱窗灯光、路灯、零星行人，夜空漆黑；此刻天空右上方已经开始泛起一片刺眼的橙白色光。\n\n「时间轴 / SHOT 1」\n0.0–4.0秒｜24mm街道低位广角，缓慢上仰：0.0–1.5秒天空在一瞬间由漆黑变得比白昼还亮，橙白色的强光照亮整条街，所有路灯、行人、停着的汽车的影子在路面上同时快速转动、扫过；1.5–3.0秒行人纷纷停下抬头，一颗山一样巨大的燃烧陨石拖着熊熊火焰与滚滚浓烟，从画面右上方划过夜空、飞向大街尽头的地平线，天空被它的火尾撕开；3.0–4.0秒陨石的强光在左侧咖啡馆的玻璃门上反射出一道耀眼的光斑，形成第一次动作匹配剪切。\n\n「时间轴 / SHOT 2」\n4.0–9.0秒｜从同一道玻璃门上的反射光斑切入，35mm手持在咖啡馆门外：4.0–5.5秒他推开玻璃门走出来，双手各拿一杯咖啡，抬头看见天空，脚步停住；5.5–7.0秒他低下头，目光穿过街道，看见对面公交站下穿红色大衣的她，她也正看着他，两人隔着街道对视；7.0–8.0秒两人同时迈步，冲向街道中央，他仍然攥着两杯咖啡；8.0–9.0秒大街尽头的地平线上爆出一团巨大的白光，白光瞬间吞没整个画面，形成第二次动作匹配剪切。\n\n「时间轴 / SHOT 3」\n9.0–15.0秒｜从同一团白光切入，35mm在街道中央略高处，朝大街尽头望去：9.0–11.0秒白光褪去，大街尽头的地平线上，一团橙红色的火光与蘑菇状尘云冲天而起；11.0–13.5秒冲击波沿着大街一路推来，两侧的橱窗从远到近一扇接一扇依次炸碎，玻璃向街心喷射，汽车警报响成一片，路边的汽车被推得晃动；一堵数十层楼高、内部翻滚着橙红火光的灰褐色尘墙沿着大街朝镜头方向席卷而来；他从画面左侧、她从画面右侧冲进画面，朝街心奔跑；13.5–15.0秒最近的一扇橱窗在镜头旁炸开，一大片玻璃碎片朝镜头飞来，形成第三次动作匹配剪切。\n\n「时间轴 / SHOT 4」\n15.0–19.0秒｜从同一片飞来的玻璃碎片切入，50mm侧面平视，两人位于街道中央，画面左侧是他、右侧是她，背景是逼近的尘墙：15.0–17.0秒两人相距只有三步，彼此伸出手，他松开双手，两杯咖啡翻滚着落下、咖啡泼溅而出，玻璃碎片在他们周围飞旋，尘墙已近在二十米外，她的头发和大衣被风压向后扬起；17.0秒一切骤然静止——空中的玻璃碎片、泼溅的咖啡、翻滚的纸杯、她扬起的头发、尘墙与其中的火焰、远处奔跑的行人全部定格在原位，没有任何运动；17.0–19.0秒整个画面完全静止，唯一的变化是她的眼睛缓缓眨了一下，形成第四次动作匹配剪切。\n\n「时间轴 / SHOT 5」\n19.0–25.0秒｜从同一双眨动的眼睛切入，35mm手持跟在她右肩后方：19.0–20.5秒她发现自己能动，缓缓环顾四周，她的头发和大衣随着她的动作重新垂下；20.5–23.5秒她小心地向前迈步，穿过成千上万片悬停在空中的玻璃碎片，碎片在橙红火光中闪烁；她用指尖轻轻推开挡在面前的一片玻璃，那片玻璃被推到旁边后就停在新的位置不再移动；她经过悬在半空的咖啡泼溅与翻滚中定格的纸杯、一只张开翅膀悬停在空中的鸽子、定格在奔跑姿势中的行人；尘墙像一道翻滚中被冻住的悬崖，火焰在其中凝固不动；23.5–25.0秒她走到定格的他面前，抬起右手伸向他的脸，形成第五次动作匹配剪切。\n\n「时间轴 / SHOT 6」\n25.0–30.0秒｜从同一只抬起的手切入，50mm两人侧面近景，背景是凝固的尘墙与悬停的玻璃：25.0–26.5秒她的指尖轻轻触碰到他定格的脸颊；26.5–28.0秒他眨了一下眼，胸口吸进一口气，眼珠转动，看向她——他也能动了；两人近在咫尺地对视，他抬手握住她的手；28.0–30.0秒就在他们身旁，一片悬停的玻璃碎片开始轻轻颤动，随后缓缓向下落去，两人同时转头看向那片下落的玻璃，画面在玻璃下落的过程中截断。\n\n「物理」\n陨石的强光真实地改变整条街的照明与影子方向；冲击波使橱窗按距离由远到近依次碎裂，玻璃从窗框向外喷射；尘墙是真实翻滚的灰尘与火焰体积；静止时刻是绝对的：除了她（以及之后的他）以外，一切物体保持在原位、原姿态，没有运动模糊、没有漂移；她推开的那片玻璃停留在被推到的新位置；静止前她头发和大衣被风扬起，她开始移动后，她身上的头发和衣物恢复受重力自然下垂；只有结尾那一片玻璃开始颤动并下落，其余一切仍保持静止；碎裂的橱窗、悬停的碎片与尘墙跨越所有剪切持续存在，绝不复原。\n\n「镜头」\nSHOT 1街道低位广角上仰揭示陨石，SHOT 2咖啡馆门外手持，SHOT 3街心略高处望向大街尽头看冲击波与尘墙，SHOT 4两人侧面平视直到定格，SHOT 5手持跟在她肩后穿过静止的世界，SHOT 6两人侧面近景；五次剪切都从上一个镜头结束时的同一元素切入（玻璃门反射光斑、白光、飞来的玻璃碎片、眨动的眼睛、抬起的手）；定格时刻摄影机也保持静止，只有在SHOT 5她移动时摄影机才跟随她移动；无慢动作、无英雄仰角、无胜利定格。\n\n「光线/色彩」\n开场深夜冷蓝色调与暖黄橱窗灯光；陨石出现后整条街被橙白色强光照亮、影子剧烈转动；冲击波与尘墙阶段为翻滚的橙红火光与灰褐尘雾；静止世界被尘墙内凝固的橙红火光从背后照亮，悬停的玻璃碎片反射出无数橙色光点；她的亮红色大衣始终是画面中最醒目的颜色。\n\n「声音」\nSHOT 1 <夜晚街道的安静车流、陨石划过天空的低沉轰鸣与空气撕裂声逐渐增强>；SHOT 2 <咖啡馆门铃与门被推开、他的脚步声、远方撞击的爆鸣>；SHOT 3 <冲击波的巨大轰响、橱窗依次爆碎、汽车警报连成一片、尘墙翻滚的低沉咆哮>；SHOT 4 <狂风与玻璃飞旋的声音在17秒戛然而止，变成完全的静止>；SHOT 5 <只有她的脚步踩在碎玻璃上的细响与她的呼吸，她推开玻璃时一声轻微的玻璃触碰声>；SHOT 6 <他吸进一口气的声音、两人的呼吸、那片玻璃开始颤动时细微的嗡嗡震响>。\n\n「锁定」\n严格六个镜头、五次动作匹配剪切；全片无对白、无人声说话；她的红色大衣与他的深蓝夹克全程不变，两人不换脸、不融合；静止后除了她、之后的他、以及结尾那一片玻璃以外，一切保持绝对静止、不漂移；碎裂的橱窗、悬停的玻璃碎片、定格的咖啡与鸽子、凝固的尘墙持续存在，绝不复原；每人两臂两腿、每手五指；全片保持真人实拍质感；结尾那片玻璃下落过程中画面截断。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MadMax_Series/status/2108577475752054868",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108575611354562560/img/kXrP83qxr16-ryv5.jpg",
+        "analysisUrl": "https://x.com/MadMax_Series/status/2108577475752054868"
+      }
+    ],
+    "metrics": {
+      "likeCount": 42,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 5105
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/MadMax_Series/status/2108577475752054868",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108575611354562560/img/kXrP83qxr16-ryv5.jpg",
+  "coverPath": "data/covers/2108577475752054868-wide.jpg",
+  "gifPath": "data/gifs/2108577475752054868.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108575611354562560",
+    "x-post:2108577475752054868"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opus 5.5",
+      "summary": "MadMax shares a detailed cinematic Mandarin prompt polished by Claude Opus 5.5 and rendered with Seedance 2.5 via Flova.ai.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 is crazy polishing up the rough ideas and choreography."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "「身份锁定｜女人」\n成年女性，约二十八岁，黑色长直发，浅色皮肤，深棕色眼睛；身穿及膝的亮红色羊毛大衣、黑色牛仔裤、黑色短靴；亮红色大衣是画面中最醒目的颜色；全程同一人、同一服装，不换脸、不变装。\n\n「身份锁定｜男人」\n成年男性，约三十岁，深棕色短发，下巴有浅浅的胡茬，浅橄榄色皮肤；身穿深海军蓝夹克、灰色连帽衫、深色牛仔裤；开场双手各拿一杯白色纸杯咖啡（杯身无任何文字或标志）；全程同一人、同一服装，不换脸、不变装。\n\n「空间」\n固定地理：一条约十五米宽的双车道城市街道，两侧是带大玻璃橱窗的商店；街道左侧是一家亮着暖光的咖啡馆，玻璃门朝向街道；街道右侧正对着咖啡馆的是一个玻璃顶的公交车站；街道笔直延伸向远方，尽头是城市的地平线，陨石从画面右上方划向远方地平线，撞击发生在大街尽头的城外，尘墙从大街尽头沿街道朝镜头方向推进；他从左侧咖啡馆出来，她在右侧公交站，两人在街道中央相遇，左右关系全程不翻转；街上还有约十名行人。\n\n「首帧」\n24mm街道中央低位广角，朝向大街尽头，第一帧是安静的深夜街道：橱窗灯光、路灯、零星行人，夜空漆黑；此刻天空右上方已经开始泛起一片刺眼的橙白色光。\n\n「时间轴 / SHOT 1」\n0.0–4.0秒｜24mm街道低位广角，缓慢上仰：0.0–1.5秒天空在一瞬间由漆黑变得比白昼还亮，橙白色的强光照亮整条街，所有路灯、行人、停着的汽车的影子在路面上同时快速转动、扫过；1.5–3.0秒行人纷纷停下抬头，一颗山一样巨大的燃烧陨石拖着熊熊火焰与滚滚浓烟，从画面右上方划过夜空、飞向大街尽头的地平线，天空被它的火尾撕开；3.0–4.0秒陨石的强光在左侧咖啡馆的玻璃门上反射出一道耀眼的光斑，形成第一次动作匹配剪切。\n\n「时间轴 / SHOT 2」\n4.0–9.0秒｜从同一道玻璃门上的反射光斑切入，35mm手持在咖啡馆门外：4.0–5.5秒他推开玻璃门走出来，双手各拿一杯咖啡，抬头看见天空，脚步停住；5.5–7.0秒他低下头，目光穿过街道，看见对面公交站下穿红色大衣的她，她也正看着他，两人隔着街道对视；7.0–8.0秒两人同时迈步，冲向街道中央，他仍然攥着两杯咖啡；8.0–9.0秒大街尽头的地平线上爆出一团巨大的白光，白光瞬间吞没整个画面，形成第二次动作匹配剪切。\n\n「时间轴 / SHOT 3」\n9.0–15.0秒｜从同一团白光切入，35mm在街道中央略高处，朝大街尽头望去：9.0–11.0秒白光褪去，大街尽头的地平线上，一团橙红色的火光与蘑菇状尘云冲天而起；11.0–13.5秒冲击波沿着大街一路推来，两侧的橱窗从远到近一扇接一扇依次炸碎，玻璃向街心喷射，汽车警报响成一片，路边的汽车被推得晃动；一堵数十层楼高、内部翻滚着橙红火光的灰褐色尘墙沿着大街朝镜头方向席卷而来；他从画面左侧、她从画面右侧冲进画面，朝街心奔跑；13.5–15.0秒最近的一扇橱窗在镜头旁炸开，一大片玻璃碎片朝镜头飞来，形成第三次动作匹配剪切。\n\n「时间轴 / SHOT 4」\n15.0–19.0秒｜从同一片飞来的玻璃碎片切入，50mm侧面平视，两人位于街道中央，画面左侧是他、右侧是她，背景是逼近的尘墙：15.0–17.0秒两人相距只有三步，彼此伸出手，他松开双手，两杯咖啡翻滚着落下、咖啡泼溅而出，玻璃碎片在他们周围飞旋，尘墙已近在二十米外，她的头发和大衣被风压向后扬起；17.0秒一切骤然静止——空中的玻璃碎片、泼溅的咖啡、翻滚的纸杯、她扬起的头发、尘墙与其中的火焰、远处奔跑的行人全部定格在原位，没有任何运动；17.0–19.0秒整个画面完全静止，唯一的变化是她的眼睛缓缓眨了一下，形成第四次动作匹配剪切。\n\n「时间轴 / SHOT 5」\n19.0–25.0秒｜从同一双眨动的眼睛切入，35mm手持跟在她右肩后方：19.0–20.5秒她发现自己能动，缓缓环顾四周，她的头发和大衣随着她的动作重新垂下；20.5–23.5秒她小心地向前迈步，穿过成千上万片悬停在空中的玻璃碎片，碎片在橙红火光中闪烁；她用指尖轻轻推开挡在面前的一片玻璃，那片玻璃被推到旁边后就停在新的位置不再移动；她经过悬在半空的咖啡泼溅与翻滚中定格的纸杯、一只张开翅膀悬停在空中的鸽子、定格在奔跑姿势中的行人；尘墙像一道翻滚中被冻住的悬崖，火焰在其中凝固不动；23.5–25.0秒她走到定格的他面前，抬起右手伸向他的脸，形成第五次动作匹配剪切。\n\n「时间轴 / SHOT 6」\n25.0–30.0秒｜从同一只抬起的手切入，50mm两人侧面近景，背景是凝固的尘墙与悬停的玻璃：25.0–26.5秒她的指尖轻轻触碰到他定格的脸颊；26.5–28.0秒他眨了一下眼，胸口吸进一口气，眼珠转动，看向她——他也能动了；两人近在咫尺地对视，他抬手握住她的手；28.0–30.0秒就在他们身旁，一片悬停的玻璃碎片开始轻轻颤动，随后缓缓向下落去，两人同时转头看向那片下落的玻璃，画面在玻璃下落的过程中截断。\n\n「物理」\n陨石的强光真实地改变整条街的照明与影子方向；冲击波使橱窗按距离由远到近依次碎裂，玻璃从窗框向外喷射；尘墙是真实翻滚的灰尘与火焰体积；静止时刻是绝对的：除了她（以及之后的他）以外，一切物体保持在原位、原姿态，没有运动模糊、没有漂移；她推开的那片玻璃停留在被推到的新位置；静止前她头发和大衣被风扬起，她开始移动后，她身上的头发和衣物恢复受重力自然下垂；只有结尾那一片玻璃开始颤动并下落，其余一切仍保持静止；碎裂的橱窗、悬停的碎片与尘墙跨越所有剪切持续存在，绝不复原。\n\n「镜头」\nSHOT 1街道低位广角上仰揭示陨石，SHOT 2咖啡馆门外手持，SHOT 3街心略高处望向大街尽头看冲击波与尘墙，SHOT 4两人侧面平视直到定格，SHOT 5手持跟在她肩后穿过静止的世界，SHOT 6两人侧面近景；五次剪切都从上一个镜头结束时的同一元素切入（玻璃门反射光斑、白光、飞来的玻璃碎片、眨动的眼睛、抬起的手）；定格时刻摄影机也保持静止，只有在SHOT 5她移动时摄影机才跟随她移动；无慢动作、无英雄仰角、无胜利定格。\n\n「光线/色彩」\n开场深夜冷蓝色调与暖黄橱窗灯光；陨石出现后整条街被橙白色强光照亮、影子剧烈转动；冲击波与尘墙阶段为翻滚的橙红火光与灰褐尘雾；静止世界被尘墙内凝固的橙红火光从背后照亮，悬停的玻璃碎片反射出无数橙色光点；她的亮红色大衣始终是画面中最醒目的颜色。\n\n「声音」\nSHOT 1 <夜晚街道的安静车流、陨石划过天空的低沉轰鸣与空气撕裂声逐渐增强>；SHOT 2 <咖啡馆门铃与门被推开、他的脚步声、远方撞击的爆鸣>；SHOT 3 <冲击波的巨大轰响、橱窗依次爆碎、汽车警报连成一片、尘墙翻滚的低沉咆哮>；SHOT 4 <狂风与玻璃飞旋的声音在17秒戛然而止，变成完全的静止>；SHOT 5 <只有她的脚步踩在碎玻璃上的细响与她的呼吸，她推开玻璃时一声轻微的玻璃触碰声>；SHOT 6 <他吸进一口气的声音、两人的呼吸、那片玻璃开始颤动时细微的嗡嗡震响>。\n\n「锁定」\n严格六个镜头、五次动作匹配剪切；全片无对白、无人声说话；她的红色大衣与他的深蓝夹克全程不变，两人不换脸、不融合；静止后除了她、之后的他、以及结尾那一片玻璃以外，一切保持绝对静止、不漂移；碎裂的橱窗、悬停的玻璃碎片、定格的咖啡与鸽子、凝固的尘墙持续存在，绝不复原；每人两臂两腿、每手五指；全片保持真人实拍质感；结尾那片玻璃下落过程中画面截断。",
+        "englishText": "[Identity Lock | Woman]\nAdult female, ~28, straight black hair, fair skin, dark brown eyes; knee-length bright red wool coat, black jeans, black ankle boots; red coat is the dominant color; continuous single actor, no face-swapping or outfit changes.\n\n[Identity Lock | Man]\nAdult male, ~30, short dark brown hair, light stubble, light olive skin; navy jacket, grey hoodie, dark jeans; holding two white paper coffee cups without logos; continuous single actor, no face-swapping or outfit changes.\n\n[Space]\nFixed geography: ~15m wide two-lane urban street flanked by storefronts; warm-lit cafe on left with glass door facing street; glass bus stop on right facing cafe; street extends to horizon; meteor streaks from top right to horizon, exploding outside city; dust wall surges towards camera; he exits cafe on left, she waits at bus stop on right, meeting in street center without screen direction inversion; ~10 pedestrians.\n\n[First Frame]\n24mm low-angle wide shot looking down street; quiet night street, shop lights, streetlamps, dark sky; top-right sky glows bright orange-white.\n\n[Timeline / SHOT 1]\n0.0–4.0s | 24mm low wide upward tilt: 0.0–1.5s sky lights up brighter than day, cast shadows swing rapidly; 1.5–3.0s pedestrians gaze up as massive burning meteor streaks across top-right sky towards horizon; 3.0–4.0s meteor glare reflects on cafe door glass, creating first match cut.\n\n[Timeline / SHOT 2]\n4.0–9.0s | Match cut from glare, 35mm handheld outside cafe: 4.0–5.5s he pushes door open holding two coffees, looks up and halts; 5.5–7.0s he sees her across the street at the bus stop, eyes meet; 7.0–8.0s both sprint into street; 8.0–9.0s massive white explosion at horizon washes out screen, creating second match cut.\n\n[Timeline / SHOT 3]\n9.0–15.0s | Match cut from whiteout, 35mm elevated street view: 9.0–11.0s whiteout fades to mushroom cloud and orange fireball; 11.0–13.5s shockwave blasts storefront windows successively towards camera, alarms blare, dust wall rolls forward; both sprint towards street center; 13.5–15.0s nearest window shatters toward lens, creating third match cut.\n\n[Timeline / SHOT 4]\n15.0–19.0s | Match cut from flying glass, 50mm eye-level profile, both in street center: 15.0–17.0s reaching out, he drops both coffees, liquid spills, glass whirls, dust wall 20m away, wind pulls hair; 17.0s time abruptly freezes completely; 17.0–19.0s absolute standstill except she slowly blinks, creating fourth match cut.\n\n[Timeline / SHOT 5]\n19.0–25.0s | Match cut from blink, 35mm handheld over her right shoulder: 19.0–20.5s realizing she can move, she looks around; 20.5–23.5s steps forward through suspended shards, gently deflects a floating glass shard which stays in place; passes frozen coffee spill, frozen pigeon, frozen pedestrians, frozen fiery dust wall; 23.5–25.0s approaches him and reaches out, creating fifth match cut.\n\n[Timeline / SHOT 6]\n25.0–30.0s | Match cut from reaching hand, 50mm close profile: 25.0–26.5s fingertips touch his frozen cheek; 26.5–28.0s he blinks, inhales, looks at her and unfreezes, clasping her hand; 28.0–30.0s adjacent suspended glass shard vibrates and drops; both watch it fall; scene cuts mid-fall.\n\n[Physics]\nMeteor illumination realistically shifts street shadows; shockwave shatters glass sequentially outward; dust wall is volumetric fire/dust; time freeze is total for all background elements with zero motion blur or drift; deflected shard stays at new position; gravity resumes on moving subjects; only final shard vibrates and drops.\n\n[Cinematography]\n6 sequential camera setups; 5 match cuts matched to ending elements (reflection, flash, shard, blink, hand); camera static during freeze except Shot 5 tracking; no slow motion, no hero low-angles.\n\n[Lighting/Color]\nOpens cold blue with warm shop light; switches to harsh orange-white under meteor; orange-red explosion lighting; frozen world back-lit by fire inside dust wall; red coat remains focal point.\n\n[Audio]\nShot 1 quiet traffic to escalating roar; Shot 2 doorbell, footsteps, distant impact; Shot 3 blast roar, shattering windows, alarms; Shot 4 wind/glass noise abruptly cuts to dead silence at 17s; Shot 5 quiet footsteps on glass and soft breath; Shot 6 sharp inhale and gentle glass hum.\n\n[Locks]\nStrictly 6 shots, 5 match cuts; zero spoken dialogue; continuous outfits and character identities without fusion; exact anatomical consistency; live-action film realism; video cuts while the shard falls.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video reproduces the described 6-shot sequence: meteor flash over street, man exiting cafe with coffees, horizon explosion, run towards center, mid-air freeze of coffee and glass shards, and interaction during standstill. Note: Inspected via low-bitrate preview stream.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Flova.ai",
+          "role": "Generation interface/platform.",
+          "evidence": "Made with @Flovaai #flovaai #flovacpp",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Seedance 2.5",
+          "role": "Video generation model rendering the cinematic output.",
+          "evidence": "Created this video on Seedance 2.5 using just mandarin text prompt, no attachments.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/MadMax_Series/status/2108577475752054868"
+        }
+      ],
+      "purpose": {
+        "label": "Cinematic sci-fi scene generation via prompt orchestration",
+        "topic": "3d-scenes",
+        "tags": [
+          "external-video-model",
+          "prompt-choreography",
+          "seedance",
+          "vfx",
+          "time-freeze"
+        ]
+      },
+      "targetModelRole": "Prompt engineering, narrative structure, shot breakdown, and choreography orchestration.",
+      "outputSource": "Seedance 2.5 via Flova.ai",
+      "divisionEvidence": "Created this video on Seedance 2.5 using just mandarin text prompt, no attachments... Opus 5.5 is crazy polishing up the rough ideas and choreography.",
+      "video": {
+        "shots": "6 shots connected by match cuts",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Author confirms Claude Opus 5.5 orchestrated the full choreography and shot-by-shot text instructions used to drive the external video model Seedance 2.5, with full prompt and consistent video provided.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/MadMax_Series/status/2108577475752054868",
+        "start": 249,
+        "end": 3303
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/MadMax_Series/status/2108577475752054868",
+        "author": "MadMax_Series",
+        "postId": "2108577475752054868",
+        "publishedAt": "2026-10-09T15:17:00.000Z"
+      },
+      "checkedAt": "2026-10-09T16:20:52.135Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/MadMax_Series/status/2108577475752054868",
+        "evidence": ""
+      }
+    },
+    "summary": "MadMax shares a detailed cinematic Mandarin prompt polished by Claude Opus 5.5 and rendered with Seedance 2.5 via Flova.ai.",
+    "summaryEn": "Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opus 5.5",
+    "originalPrompt": "「身份锁定｜女人」\n成年女性，约二十八岁，黑色长直发，浅色皮肤，深棕色眼睛；身穿及膝的亮红色羊毛大衣、黑色牛仔裤、黑色短靴；亮红色大衣是画面中最醒目的颜色；全程同一人、同一服装，不换脸、不变装。\n\n「身份锁定｜男人」\n成年男性，约三十岁，深棕色短发，下巴有浅浅的胡茬，浅橄榄色皮肤；身穿深海军蓝夹克、灰色连帽衫、深色牛仔裤；开场双手各拿一杯白色纸杯咖啡（杯身无任何文字或标志）；全程同一人、同一服装，不换脸、不变装。\n\n「空间」\n固定地理：一条约十五米宽的双车道城市街道，两侧是带大玻璃橱窗的商店；街道左侧是一家亮着暖光的咖啡馆，玻璃门朝向街道；街道右侧正对着咖啡馆的是一个玻璃顶的公交车站；街道笔直延伸向远方，尽头是城市的地平线，陨石从画面右上方划向远方地平线，撞击发生在大街尽头的城外，尘墙从大街尽头沿街道朝镜头方向推进；他从左侧咖啡馆出来，她在右侧公交站，两人在街道中央相遇，左右关系全程不翻转；街上还有约十名行人。\n\n「首帧」\n24mm街道中央低位广角，朝向大街尽头，第一帧是安静的深夜街道：橱窗灯光、路灯、零星行人，夜空漆黑；此刻天空右上方已经开始泛起一片刺眼的橙白色光。\n\n「时间轴 / SHOT 1」\n0.0–4.0秒｜24mm街道低位广角，缓慢上仰：0.0–1.5秒天空在一瞬间由漆黑变得比白昼还亮，橙白色的强光照亮整条街，所有路灯、行人、停着的汽车的影子在路面上同时快速转动、扫过；1.5–3.0秒行人纷纷停下抬头，一颗山一样巨大的燃烧陨石拖着熊熊火焰与滚滚浓烟，从画面右上方划过夜空、飞向大街尽头的地平线，天空被它的火尾撕开；3.0–4.0秒陨石的强光在左侧咖啡馆的玻璃门上反射出一道耀眼的光斑，形成第一次动作匹配剪切。\n\n「时间轴 / SHOT 2」\n4.0–9.0秒｜从同一道玻璃门上的反射光斑切入，35mm手持在咖啡馆门外：4.0–5.5秒他推开玻璃门走出来，双手各拿一杯咖啡，抬头看见天空，脚步停住；5.5–7.0秒他低下头，目光穿过街道，看见对面公交站下穿红色大衣的她，她也正看着他，两人隔着街道对视；7.0–8.0秒两人同时迈步，冲向街道中央，他仍然攥着两杯咖啡；8.0–9.0秒大街尽头的地平线上爆出一团巨大的白光，白光瞬间吞没整个画面，形成第二次动作匹配剪切。\n\n「时间轴 / SHOT 3」\n9.0–15.0秒｜从同一团白光切入，35mm在街道中央略高处，朝大街尽头望去：9.0–11.0秒白光褪去，大街尽头的地平线上，一团橙红色的火光与蘑菇状尘云冲天而起；11.0–13.5秒冲击波沿着大街一路推来，两侧的橱窗从远到近一扇接一扇依次炸碎，玻璃向街心喷射，汽车警报响成一片，路边的汽车被推得晃动；一堵数十层楼高、内部翻滚着橙红火光的灰褐色尘墙沿着大街朝镜头方向席卷而来；他从画面左侧、她从画面右侧冲进画面，朝街心奔跑；13.5–15.0秒最近的一扇橱窗在镜头旁炸开，一大片玻璃碎片朝镜头飞来，形成第三次动作匹配剪切。\n\n「时间轴 / SHOT 4」\n15.0–19.0秒｜从同一片飞来的玻璃碎片切入，50mm侧面平视，两人位于街道中央，画面左侧是他、右侧是她，背景是逼近的尘墙：15.0–17.0秒两人相距只有三步，彼此伸出手，他松开双手，两杯咖啡翻滚着落下、咖啡泼溅而出，玻璃碎片在他们周围飞旋，尘墙已近在二十米外，她的头发和大衣被风压向后扬起；17.0秒一切骤然静止——空中的玻璃碎片、泼溅的咖啡、翻滚的纸杯、她扬起的头发、尘墙与其中的火焰、远处奔跑的行人全部定格在原位，没有任何运动；17.0–19.0秒整个画面完全静止，唯一的变化是她的眼睛缓缓眨了一下，形成第四次动作匹配剪切。\n\n「时间轴 / SHOT 5」\n19.0–25.0秒｜从同一双眨动的眼睛切入，35mm手持跟在她右肩后方：19.0–20.5秒她发现自己能动，缓缓环顾四周，她的头发和大衣随着她的动作重新垂下；20.5–23.5秒她小心地向前迈步，穿过成千上万片悬停在空中的玻璃碎片，碎片在橙红火光中闪烁；她用指尖轻轻推开挡在面前的一片玻璃，那片玻璃被推到旁边后就停在新的位置不再移动；她经过悬在半空的咖啡泼溅与翻滚中定格的纸杯、一只张开翅膀悬停在空中的鸽子、定格在奔跑姿势中的行人；尘墙像一道翻滚中被冻住的悬崖，火焰在其中凝固不动；23.5–25.0秒她走到定格的他面前，抬起右手伸向他的脸，形成第五次动作匹配剪切。\n\n「时间轴 / SHOT 6」\n25.0–30.0秒｜从同一只抬起的手切入，50mm两人侧面近景，背景是凝固的尘墙与悬停的玻璃：25.0–26.5秒她的指尖轻轻触碰到他定格的脸颊；26.5–28.0秒他眨了一下眼，胸口吸进一口气，眼珠转动，看向她——他也能动了；两人近在咫尺地对视，他抬手握住她的手；28.0–30.0秒就在他们身旁，一片悬停的玻璃碎片开始轻轻颤动，随后缓缓向下落去，两人同时转头看向那片下落的玻璃，画面在玻璃下落的过程中截断。\n\n「物理」\n陨石的强光真实地改变整条街的照明与影子方向；冲击波使橱窗按距离由远到近依次碎裂，玻璃从窗框向外喷射；尘墙是真实翻滚的灰尘与火焰体积；静止时刻是绝对的：除了她（以及之后的他）以外，一切物体保持在原位、原姿态，没有运动模糊、没有漂移；她推开的那片玻璃停留在被推到的新位置；静止前她头发和大衣被风扬起，她开始移动后，她身上的头发和衣物恢复受重力自然下垂；只有结尾那一片玻璃开始颤动并下落，其余一切仍保持静止；碎裂的橱窗、悬停的碎片与尘墙跨越所有剪切持续存在，绝不复原。\n\n「镜头」\nSHOT 1街道低位广角上仰揭示陨石，SHOT 2咖啡馆门外手持，SHOT 3街心略高处望向大街尽头看冲击波与尘墙，SHOT 4两人侧面平视直到定格，SHOT 5手持跟在她肩后穿过静止的世界，SHOT 6两人侧面近景；五次剪切都从上一个镜头结束时的同一元素切入（玻璃门反射光斑、白光、飞来的玻璃碎片、眨动的眼睛、抬起的手）；定格时刻摄影机也保持静止，只有在SHOT 5她移动时摄影机才跟随她移动；无慢动作、无英雄仰角、无胜利定格。\n\n「光线/色彩」\n开场深夜冷蓝色调与暖黄橱窗灯光；陨石出现后整条街被橙白色强光照亮、影子剧烈转动；冲击波与尘墙阶段为翻滚的橙红火光与灰褐尘雾；静止世界被尘墙内凝固的橙红火光从背后照亮，悬停的玻璃碎片反射出无数橙色光点；她的亮红色大衣始终是画面中最醒目的颜色。\n\n「声音」\nSHOT 1 <夜晚街道的安静车流、陨石划过天空的低沉轰鸣与空气撕裂声逐渐增强>；SHOT 2 <咖啡馆门铃与门被推开、他的脚步声、远方撞击的爆鸣>；SHOT 3 <冲击波的巨大轰响、橱窗依次爆碎、汽车警报连成一片、尘墙翻滚的低沉咆哮>；SHOT 4 <狂风与玻璃飞旋的声音在17秒戛然而止，变成完全的静止>；SHOT 5 <只有她的脚步踩在碎玻璃上的细响与她的呼吸，她推开玻璃时一声轻微的玻璃触碰声>；SHOT 6 <他吸进一口气的声音、两人的呼吸、那片玻璃开始颤动时细微的嗡嗡震响>。\n\n「锁定」\n严格六个镜头、五次动作匹配剪切；全片无对白、无人声说话；她的红色大衣与他的深蓝夹克全程不变，两人不换脸、不融合；静止后除了她、之后的他、以及结尾那一片玻璃以外，一切保持绝对静止、不漂移；碎裂的橱窗、悬停的玻璃碎片、定格的咖啡与鸽子、凝固的尘墙持续存在，绝不复原；每人两臂两腿、每手五指；全片保持真人实拍质感；结尾那片玻璃下落过程中画面截断。",
+    "sourceRange": {
+      "start": 249,
+      "end": 3303
+    },
+    "translations": {
+      "zh": "「身份锁定｜女人」\n成年女性，约二十八岁，黑色长直发，浅色皮肤，深棕色眼睛；身穿及膝的亮红色羊毛大衣、黑色牛仔裤、黑色短靴；亮红色大衣是画面中最醒目的颜色；全程同一人、同一服装，不换脸、不变装。\n\n「身份锁定｜男人」\n成年男性，约三十岁，深棕色短发，下巴有浅浅的胡茬，浅橄榄色皮肤；身穿深海军蓝夹克、灰色连帽衫、深色牛仔裤；开场双手各拿一杯白色纸杯咖啡（杯身无任何文字或标志）；全程同一人、同一服装，不换脸、不变装。\n\n「空间」\n固定地理：一条约十五米宽的双车道城市街道，两侧是带大玻璃橱窗的商店；街道左侧是一家亮着暖光的咖啡馆，玻璃门朝向街道；街道右侧正对着咖啡馆的是一个玻璃顶的公交车站；街道笔直延伸向远方，尽头是城市的地平线，陨石从画面右上方划向远方地平线，撞击发生在大街尽头的城外，尘墙从大街尽头沿街道朝镜头方向推进；他从左侧咖啡馆出来，她在右侧公交站，两人在街道中央相遇，左右关系全程不翻转；街上还有约十名行人。\n\n「首帧」\n24mm街道中央低位广角，朝向大街尽头，第一帧是安静的深夜街道：橱窗灯光、路灯、零星行人，夜空漆黑；此刻天空右上方已经开始泛起一片刺眼的橙白色光。\n\n「时间轴 / SHOT 1」\n0.0–4.0秒｜24mm街道低位广角，缓慢上仰：0.0–1.5秒天空在一瞬间由漆黑变得比白昼还亮，橙白色的强光照亮整条街，所有路灯、行人、停着的汽车的影子在路面上同时快速转动、扫过；1.5–3.0秒行人纷纷停下抬头，一颗山一样巨大的燃烧陨石拖着熊熊火焰与滚滚浓烟，从画面右上方划过夜空、飞向大街尽头的地平线，天空被它的火尾撕开；3.0–4.0秒陨石的强光在左侧咖啡馆的玻璃门上反射出一道耀眼的光斑，形成第一次动作匹配剪切。\n\n「时间轴 / SHOT 2」\n4.0–9.0秒｜从同一道玻璃门上的反射光斑切入，35mm手持在咖啡馆门外：4.0–5.5秒他推开玻璃门走出来，双手各拿一杯咖啡，抬头看见天空，脚步停住；5.5–7.0秒他低下头，目光穿过街道，看见对面公交站下穿红色大衣的她，她也正看着他，两人隔着街道对视；7.0–8.0秒两人同时迈步，冲向街道中央，他仍然攥着两杯咖啡；8.0–9.0秒大街尽头的地平线上爆出一团巨大的白光，白光瞬间吞没整个画面，形成第二次动作匹配剪切。\n\n「时间轴 / SHOT 3」\n9.0–15.0秒｜从同一团白光切入，35mm在街道中央略高处，朝大街尽头望去：9.0–11.0秒白光褪去，大街尽头的地平线上，一团橙红色的火光与蘑菇状尘云冲天而起；11.0–13.5秒冲击波沿着大街一路推来，两侧的橱窗从远到近一扇接一扇依次炸碎，玻璃向街心喷射，汽车警报响成一片，路边的汽车被推得晃动；一堵数十层楼高、内部翻滚着橙红火光的灰褐色尘墙沿着大街朝镜头方向席卷而来；他从画面左侧、她从画面右侧冲进画面，朝街心奔跑；13.5–15.0秒最近的一扇橱窗在镜头旁炸开，一大片玻璃碎片朝镜头飞来，形成第三次动作匹配剪切。\n\n「时间轴 / SHOT 4」\n15.0–19.0秒｜从同一片飞来的玻璃碎片切入，50mm侧面平视，两人位于街道中央，画面左侧是他、右侧是她，背景是逼近的尘墙：15.0–17.0秒两人相距只有三步，彼此伸出手，他松开双手，两杯咖啡翻滚着落下、咖啡泼溅而出，玻璃碎片在他们周围飞旋，尘墙已近在二十米外，她的头发和大衣被风压向后扬起；17.0秒一切骤然静止——空中的玻璃碎片、泼溅的咖啡、翻滚的纸杯、她扬起的头发、尘墙与其中的火焰、远处奔跑的行人全部定格在原位，没有任何运动；17.0–19.0秒整个画面完全静止，唯一的变化是她的眼睛缓缓眨了一下，形成第四次动作匹配剪切。\n\n「时间轴 / SHOT 5」\n19.0–25.0秒｜从同一双眨动的眼睛切入，35mm手持跟在她右肩后方：19.0–20.5秒她发现自己能动，缓缓环顾四周，她的头发和大衣随着她的动作重新垂下；20.5–23.5秒她小心地向前迈步，穿过成千上万片悬停在空中的玻璃碎片，碎片在橙红火光中闪烁；她用指尖轻轻推开挡在面前的一片玻璃，那片玻璃被推到旁边后就停在新的位置不再移动；她经过悬在半空的咖啡泼溅与翻滚中定格的纸杯、一只张开翅膀悬停在空中的鸽子、定格在奔跑姿势中的行人；尘墙像一道翻滚中被冻住的悬崖，火焰在其中凝固不动；23.5–25.0秒她走到定格的他面前，抬起右手伸向他的脸，形成第五次动作匹配剪切。\n\n「时间轴 / SHOT 6」\n25.0–30.0秒｜从同一只抬起的手切入，50mm两人侧面近景，背景是凝固的尘墙与悬停的玻璃：25.0–26.5秒她的指尖轻轻触碰到他定格的脸颊；26.5–28.0秒他眨了一下眼，胸口吸进一口气，眼珠转动，看向她——他也能动了；两人近在咫尺地对视，他抬手握住她的手；28.0–30.0秒就在他们身旁，一片悬停的玻璃碎片开始轻轻颤动，随后缓缓向下落去，两人同时转头看向那片下落的玻璃，画面在玻璃下落的过程中截断。\n\n「物理」\n陨石的强光真实地改变整条街的照明与影子方向；冲击波使橱窗按距离由远到近依次碎裂，玻璃从窗框向外喷射；尘墙是真实翻滚的灰尘与火焰体积；静止时刻是绝对的：除了她（以及之后的他）以外，一切物体保持在原位、原姿态，没有运动模糊、没有漂移；她推开的那片玻璃停留在被推到的新位置；静止前她头发和大衣被风扬起，她开始移动后，她身上的头发和衣物恢复受重力自然下垂；只有结尾那一片玻璃开始颤动并下落，其余一切仍保持静止；碎裂的橱窗、悬停的碎片与尘墙跨越所有剪切持续存在，绝不复原。\n\n「镜头」\nSHOT 1街道低位广角上仰揭示陨石，SHOT 2咖啡馆门外手持，SHOT 3街心略高处望向大街尽头看冲击波与尘墙，SHOT 4两人侧面平视直到定格，SHOT 5手持跟在她肩后穿过静止的世界，SHOT 6两人侧面近景；五次剪切都从上一个镜头结束时的同一元素切入（玻璃门反射光斑、白光、飞来的玻璃碎片、眨动的眼睛、抬起的手）；定格时刻摄影机也保持静止，只有在SHOT 5她移动时摄影机才跟随她移动；无慢动作、无英雄仰角、无胜利定格。\n\n「光线/色彩」\n开场深夜冷蓝色调与暖黄橱窗灯光；陨石出现后整条街被橙白色强光照亮、影子剧烈转动；冲击波与尘墙阶段为翻滚的橙红火光与灰褐尘雾；静止世界被尘墙内凝固的橙红火光从背后照亮，悬停的玻璃碎片反射出无数橙色光点；她的亮红色大衣始终是画面中最醒目的颜色。\n\n「声音」\nSHOT 1 <夜晚街道的安静车流、陨石划过天空的低沉轰鸣与空气撕裂声逐渐增强>；SHOT 2 <咖啡馆门铃与门被推开、他的脚步声、远方撞击的爆鸣>；SHOT 3 <冲击波的巨大轰响、橱窗依次爆碎、汽车警报连成一片、尘墙翻滚的低沉咆哮>；SHOT 4 <狂风与玻璃飞旋的声音在17秒戛然而止，变成完全的静止>；SHOT 5 <只有她的脚步踩在碎玻璃上的细响与她的呼吸，她推开玻璃时一声轻微的玻璃触碰声>；SHOT 6 <他吸进一口气的声音、两人的呼吸、那片玻璃开始颤动时细微的嗡嗡震响>。\n\n「锁定」\n严格六个镜头、五次动作匹配剪切；全片无对白、无人声说话；她的红色大衣与他的深蓝夹克全程不变，两人不换脸、不融合；静止后除了她、之后的他、以及结尾那一片玻璃以外，一切保持绝对静止、不漂移；碎裂的橱窗、悬停的玻璃碎片、定格的咖啡与鸽子、凝固的尘墙持续存在，绝不复原；每人两臂两腿、每手五指；全片保持真人实拍质感；结尾那片玻璃下落过程中画面截断。",
+      "en": "[Identity Lock | Woman]\nAdult female, ~28, straight black hair, fair skin, dark brown eyes; knee-length bright red wool coat, black jeans, black ankle boots; red coat is the dominant color; continuous single actor, no face-swapping or outfit changes.\n\n[Identity Lock | Man]\nAdult male, ~30, short dark brown hair, light stubble, light olive skin; navy jacket, grey hoodie, dark jeans; holding two white paper coffee cups without logos; continuous single actor, no face-swapping or outfit changes.\n\n[Space]\nFixed geography: ~15m wide two-lane urban street flanked by storefronts; warm-lit cafe on left with glass door facing street; glass bus stop on right facing cafe; street extends to horizon; meteor streaks from top right to horizon, exploding outside city; dust wall surges towards camera; he exits cafe on left, she waits at bus stop on right, meeting in street center without screen direction inversion; ~10 pedestrians.\n\n[First Frame]\n24mm low-angle wide shot looking down street; quiet night street, shop lights, streetlamps, dark sky; top-right sky glows bright orange-white.\n\n[Timeline / SHOT 1]\n0.0–4.0s | 24mm low wide upward tilt: 0.0–1.5s sky lights up brighter than day, cast shadows swing rapidly; 1.5–3.0s pedestrians gaze up as massive burning meteor streaks across top-right sky towards horizon; 3.0–4.0s meteor glare reflects on cafe door glass, creating first match cut.\n\n[Timeline / SHOT 2]\n4.0–9.0s | Match cut from glare, 35mm handheld outside cafe: 4.0–5.5s he pushes door open holding two coffees, looks up and halts; 5.5–7.0s he sees her across the street at the bus stop, eyes meet; 7.0–8.0s both sprint into street; 8.0–9.0s massive white explosion at horizon washes out screen, creating second match cut.\n\n[Timeline / SHOT 3]\n9.0–15.0s | Match cut from whiteout, 35mm elevated street view: 9.0–11.0s whiteout fades to mushroom cloud and orange fireball; 11.0–13.5s shockwave blasts storefront windows successively towards camera, alarms blare, dust wall rolls forward; both sprint towards street center; 13.5–15.0s nearest window shatters toward lens, creating third match cut.\n\n[Timeline / SHOT 4]\n15.0–19.0s | Match cut from flying glass, 50mm eye-level profile, both in street center: 15.0–17.0s reaching out, he drops both coffees, liquid spills, glass whirls, dust wall 20m away, wind pulls hair; 17.0s time abruptly freezes completely; 17.0–19.0s absolute standstill except she slowly blinks, creating fourth match cut.\n\n[Timeline / SHOT 5]\n19.0–25.0s | Match cut from blink, 35mm handheld over her right shoulder: 19.0–20.5s realizing she can move, she looks around; 20.5–23.5s steps forward through suspended shards, gently deflects a floating glass shard which stays in place; passes frozen coffee spill, frozen pigeon, frozen pedestrians, frozen fiery dust wall; 23.5–25.0s approaches him and reaches out, creating fifth match cut.\n\n[Timeline / SHOT 6]\n25.0–30.0s | Match cut from reaching hand, 50mm close profile: 25.0–26.5s fingertips touch his frozen cheek; 26.5–28.0s he blinks, inhales, looks at her and unfreezes, clasping her hand; 28.0–30.0s adjacent suspended glass shard vibrates and drops; both watch it fall; scene cuts mid-fall.\n\n[Physics]\nMeteor illumination realistically shifts street shadows; shockwave shatters glass sequentially outward; dust wall is volumetric fire/dust; time freeze is total for all background elements with zero motion blur or drift; deflected shard stays at new position; gravity resumes on moving subjects; only final shard vibrates and drops.\n\n[Cinematography]\n6 sequential camera setups; 5 match cuts matched to ending elements (reflection, flash, shard, blink, hand); camera static during freeze except Shot 5 tracking; no slow motion, no hero low-angles.\n\n[Lighting/Color]\nOpens cold blue with warm shop light; switches to harsh orange-white under meteor; orange-red explosion lighting; frozen world back-lit by fire inside dust wall; red coat remains focal point.\n\n[Audio]\nShot 1 quiet traffic to escalating roar; Shot 2 doorbell, footsteps, distant impact; Shot 3 blast roar, shattering windows, alarms; Shot 4 wind/glass noise abruptly cuts to dead silence at 17s; Shot 5 quiet footsteps on glass and soft breath; Shot 6 sharp inhale and gentle glass hum.\n\n[Locks]\nStrictly 6 shots, 5 match cuts; zero spoken dialogue; continuous outfits and character identities without fusion; exact anatomical consistency; live-action film realism; video cuts while the shard falls."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "Cinematic sci-fi scene generation via prompt orchestration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video reproduces the described 6-shot sequence: meteor flash over street, man exiting cafe with coffees, horizon explosion, run towards center, mid-air freeze of coffee and glass shards, and interaction during standstill. Note: Inspected via low-bitrate preview stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

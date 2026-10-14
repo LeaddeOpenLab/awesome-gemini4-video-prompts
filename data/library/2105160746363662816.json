@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:20.518Z",
+  "model": "opus5.5",
+  "prompt": "turn Kart Royale into a spacing racing game",
+  "promptTranslations": {
+    "en": "turn Kart Royale into a spacing racing game"
+  },
+  "summary": "Ryan Campbell shares a screen recording of 'Span Nine', a multiplayer space racing game originally converted from Kart Royale using Opus 5.1 and subsequently improved and converted to multiplayer online using Claude Opus 5.5.",
+  "summaryEn": "Span Nine Space Racing Game Evolution",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105160746363662816",
+    "canonicalUrl": "https://x.com/Ryancampbell/status/2105160746363662816",
+    "author": {
+      "username": "Ryancampbell",
+      "displayName": "Ryan Campbell",
+      "profileUrl": "https://x.com/Ryancampbell"
+    },
+    "publishedAt": "2026-09-30T05:00:08.000Z",
+    "collectedAt": "2026-09-30T06:50:02.363Z",
+    "language": "en",
+    "originalText": "I originally asked Opus 5.1 to turn Kart Royale into a spacing racing game. Now Opus 5.5 has improved it further and made it multiplayer online :)\n\nSpan Nine. Play on your desktop, phone, or TV in your browser ONLINE here:\nhttps://t.co/3SgDmzVDwp https://t.co/n7F5HZu9bV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Ryancampbell/status/2105160746363662816",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105160335338721280/img/v8fxprQ-g2zHgFve.jpg",
+        "analysisUrl": "https://x.com/Ryancampbell/status/2105160746363662816"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 2,
+      "viewCount": 462
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Ryancampbell/status/2105160746363662816",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105160335338721280/img/v8fxprQ-g2zHgFve.jpg",
+  "coverPath": "data/covers/2105160746363662816-wide.jpg",
+  "gifPath": "data/gifs/2105160746363662816.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105160335338721280",
+    "x-post:2105160746363662816"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Span Nine Space Racing Game Evolution",
+      "summary": "Ryan Campbell shares a screen recording of 'Span Nine', a multiplayer space racing game originally converted from Kart Royale using Opus 5.1 and subsequently improved and converted to multiplayer online using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I originally asked Opus 5.1 to turn Kart Royale into a spacing racing game. Now Opus 5.5 has improved it further and made it multiplayer online :)"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "turn Kart Royale into a spacing racing game",
+        "englishText": "turn Kart Royale into a spacing racing game",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full conversation history and exact prompts sent to Opus 5.5",
+          "Multiplayer implementation instructions and codebase architecture",
+          "Source code for Kart Royale baseline"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows actual 3D space racing gameplay of 'Span Nine' running smoothly in 3D perspective with leaderboards, multiple racing hulls on a magnetic strip track in space, and race results matching the game description.",
+        "textualResultQuote": "Span Nine. Play on your desktop, phone, or TV in your browser ONLINE here: homie.rocks/span-nine/"
+      },
+      "inputs": [
+        {
+          "kind": "codebase",
+          "description": "Kart Royale base project code",
+          "available": false,
+          "evidence": "I originally asked Opus 5.1 to turn Kart Royale into a spacing racing game.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/Ryancampbell/status/2105160746363662816"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Web browser / WebGL 3D engine",
+          "role": "Game runtime and 3D graphics rendering environment",
+          "evidence": "Play on your desktop, phone, or TV in your browser ONLINE here: homie.rocks/span-nine/",
+          "sourceUrl": "https://homie.rocks/span-nine/",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Browser Space Racing Game",
+        "topic": "games-interactive",
+        "tags": [
+          "webgl",
+          "3d-racing",
+          "game-dev",
+          "multiplayer",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code generation and enhancement for converting game design and implementing online multiplayer architecture",
+      "outputSource": "In-browser WebGL/canvas game engine executing code generated or modified by Opus",
+      "divisionEvidence": "Author notes Opus 5.5 improved the game and made it multiplayer online, while the game is hosted and rendered inside a standard web browser at homie.rocks/span-nine/.",
+      "video": {
+        "shots": "Single continuous screen recording showing in-game race play across multiple craft perspectives and leaderboard HUD views",
+        "duration": "00:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author demonstration of an interactive 3D browser game generated/enhanced using Claude Opus 5.5, with direct video recording proof of functionality.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Ryancampbell/status/2105160746363662816",
+        "start": 31,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Ryancampbell/status/2105160746363662816",
+        "author": "Ryancampbell",
+        "postId": "2105160746363662816",
+        "publishedAt": "2026-09-30T05:00:08.000Z"
+      },
+      "checkedAt": "2026-09-30T05:48:23.075Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ryancampbell/status/2105160746363662816",
+        "evidence": ""
+      }
+    },
+    "summary": "Ryan Campbell shares a screen recording of 'Span Nine', a multiplayer space racing game originally converted from Kart Royale using Opus 5.1 and subsequently improved and converted to multiplayer online using Claude Opus 5.5.",
+    "summaryEn": "Span Nine Space Racing Game Evolution",
+    "originalPrompt": "turn Kart Royale into a spacing racing game",
+    "sourceRange": {
+      "start": 31,
+      "end": 74
+    },
+    "translations": {
+      "zh": "turn Kart Royale into a spacing racing game",
+      "en": "turn Kart Royale into a spacing racing game"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Browser Space Racing Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full conversation history and exact prompts sent to Opus 5.5",
+        "Multiplayer implementation instructions and codebase architecture",
+        "Source code for Kart Royale baseline"
+      ],
+      "evidence": "The video shows actual 3D space racing gameplay of 'Span Nine' running smoothly in 3D perspective with leaderboards, multiple racing hulls on a magnetic strip track in space, and race results matching the game description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

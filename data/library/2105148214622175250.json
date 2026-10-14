@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:02.135Z",
+  "model": "opus5.5",
+  "prompt": "Use Three.js to write a 9-second 3D animation web page for me. It starts with points of light flying randomly across the screen, gathering into a rotating sphere within three seconds, and then the title appears. Dark blue background, orange accents, vertical screen.",
+  "promptTranslations": {
+    "en": "Use Three.js to write a 9-second 3D animation web page for me. It starts with points of light flying randomly across the screen, gathering into a rotating sphere within three seconds, and then the title appears. Dark blue background, orange accents, vertical screen."
+  },
+  "summary": "The author demonstrates how Claude Opus 5.5 writes Three.js code to create a 3D title animation where scattered light particles assemble into a rotating sphere followed by title text display, converted to video via screen recording.",
+  "summaryEn": "Three.js 3D Particle Sphere Title Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105148214622175250",
+    "canonicalUrl": "https://x.com/cheery9998/status/2105148214622175250",
+    "author": {
+      "username": "cheery9998",
+      "displayName": "Cheery",
+      "profileUrl": "https://x.com/cheery9998"
+    },
+    "publishedAt": "2026-09-30T04:10:20.000Z",
+    "collectedAt": "2026-09-30T08:03:25.845Z",
+    "language": "zh",
+    "originalText": "我跟 Opus 5.5 说：帮我做个视频。\n它回我一句：抱歉，我不能直接生成视频。\n可这，就是 Opus 5.5 做出来的视频效果。\n后来我才知道，怎么让 Opus 5.5 做出这种惊艳的效果，以及它背后的原理。\n\n先说最关键的一点。\nOpus 和即梦这类视频模型，干的根本不是一种活。\n即梦是\"画\"视频，画面是它一帧一帧想象出来的。\nOpus 5.5 不画，它是用代码\"写\"视频。\n打个比方：即梦是直接端给你一盘菜，Opus 写的是一份精确到秒的菜谱，电脑照着菜谱把菜做出来。\n那它到底是怎么\"写\"视频的？\n\n我们先想一个小时候玩过的东西：手翻书。\n每一页画一张图，快速一翻，画面就动了。\n视频也是这个原理。一秒钟放几十张图，眼睛就看成了连续的动作。\n那问题来了，这几十张图，谁来画？\nOpus 不画。它只写一件事：每一个东西，在每一秒，在什么位置。\n位置怎么说清楚？用三个数字。\n你把屏幕里的世界想成一个房间。\n左右一根尺子，上下一根尺子，前后一根尺子。\n一个球在哪儿，就是三个数：左右第几格，上下第几格，前后第几格。\n那球怎么动起来？\n很简单，让这个数字跟着时间变。\n比如一行代码写的是：球的左右位置，等于时间乘以二。\n意思就是，每过一秒，球往右走两格。\n就这么一行，球就动了。\n所以你看，动画的本质，不是画画，是写公式。\n公式写好了，谁把它变成画面？\n这里就要提到一个东西，叫 Three.js。\n你告诉它：这里有个球，在这个位置；相机在那儿，往这边看。\n它就帮你算出来，从相机看过去，这一瞬间的画面长什么样，再交给电脑的显卡画出来。\n一秒钟算几十次，就是几十页手翻书。\n所以你可以把 Three.js 理解成一个翻译：\n把\"球在哪、相机在哪\"这些数字，翻译成你眼睛能看到的画面。\n\n现在再回头看开头那个片头，你就懂了。\n屏幕上一共两千六百个光点。\n每一个光点，Opus 都给了它两个位置。\n一个是起点，乱七八糟地散在屏幕各处。\n一个是终点，整整齐齐地排在一个球面上。\n然后它只写了一条规则：三秒钟之内，从起点走到终点。\n两千六百个点同时出发，乱飞的光点，就聚成了一个球。\n\n所以 Opus 写的，从来都不是画面，而是规则。\n画面，是电脑照着规则，一帧一帧算出来的。\n原理懂了，怎么让它做？\n问题就出在你的说法上。\n你说\"做个视频\"，它理解成让它直接生成一个视频文件，这个它做不到。\n你要换个说法：让它用 Three.js 写一个网页动画。\n比如你可以这样说：\n用 Three.js 帮我写一个九秒的 3D 动画网页。\n开头是满屏乱飞的光点，三秒内聚成一个旋转的球，然后出现标题。\n深蓝色背景，橙色点缀，竖屏。\n你看，就说清楚这几件事：多长时间，画面里有什么，每一秒发生什么，什么颜色，横屏还是竖屏。\n说得越清楚，它做得越准。\n不满意就接着说：字大一点，节奏慢一点，把球换成地球。\n它只改你说的那一处，别的地方不动。\n\n最后一步，网页动画怎么变成视频？\n最简单的办法：打开网页，录屏。\n录下来拖进剪映，就是一段可以直接用的素材。\n还有一个好处你可能想不到。\n用即梦做视频，画面里的中文字经常会乱。\n但 Opus 写出来的字，是代码直接打上去的，不是画出来的，一个都不会错。\n而且做好一个，下期换个标题，又是一个新片头。\n\n所以不是 AI 不会做视频，是我们没问对。\n即梦画画面，Opus 写规则，两个本事不一样。\n把你想要的画面，一秒一秒说清楚，你就是导演。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/cheery9998/status/2105148214622175250",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105148078340894721/img/hN5wLS2ySb25MfI6.jpg",
+        "analysisUrl": "https://x.com/cheery9998/status/2105148214622175250"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 677
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/cheery9998/status/2105148214622175250",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105148078340894721/img/hN5wLS2ySb25MfI6.jpg",
+  "coverPath": "data/covers/2105148214622175250-wide.jpg",
+  "gifPath": "data/gifs/2105148214622175250.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105148078340894721",
+    "x-post:2105148214622175250"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js 3D Particle Sphere Title Animation",
+      "summary": "The author demonstrates how Claude Opus 5.5 writes Three.js code to create a 3D title animation where scattered light particles assemble into a rotating sphere followed by title text display, converted to video via screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "我跟 Opus 5.5 说：帮我做个视频。... Opus 5.5 不画，它是用代码'写'视频。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "用 Three.js 帮我写一个九秒的 3D 动画网页。\n开头是满屏乱飞的光点，三秒内聚成一个旋转的球，然后出现标题。\n深蓝色背景，橙色点缀，竖屏。",
+        "englishText": "Use Three.js to write a 9-second 3D animation web page for me. It starts with points of light flying randomly across the screen, gathering into a rotating sphere within three seconds, and then the title appears. Dark blue background, orange accents, vertical screen.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt used to produce the shown '三分钟大白话' project",
+          "Full HTML/JavaScript Three.js source code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The attached screen recording shows a web browser rendering a Three.js canvas where floating particles coalesce into a 3D sphere with orbiting rings and the title '三分钟大白话'.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL rendering library executing in the browser",
+          "evidence": "这里就要提到一个东西，叫 Three.js。... 把'球在哪、相机在哪'这些数字，翻译成你眼睛能看到的画面。",
+          "sourceUrl": "https://x.com/cheery9998/status/2105148214622175250",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "用 Three.js 帮我写一个九秒的 3D 动画网页。",
+          "sourceUrl": "https://x.com/cheery9998/status/2105148214622175250",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "3D Particle Sphere Title Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "threejs",
+          "webgl",
+          "particles",
+          "title-intro",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Writing the Three.js 3D scene, particle simulation rules, and animation timeline code",
+      "outputSource": "Web browser executing Three.js code, captured via screen recording",
+      "divisionEvidence": "Opus 5.5 不画，它是用代码'写'视频。... 公式写好了，谁把它变成画面？这里就要提到一个东西，叫 Three.js。... 最简单的办法：打开网页，录屏。",
+      "video": {
+        "shots": "Single shot",
+        "duration": "13s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of using Claude Opus 5.5 to write interactive Three.js 3D animation code captured via screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/cheery9998/status/2105148214622175250",
+        "start": 1035,
+        "end": 1109
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/cheery9998/status/2105148214622175250",
+        "author": "cheery9998",
+        "postId": "2105148214622175250",
+        "publishedAt": "2026-09-30T04:10:20.000Z"
+      },
+      "checkedAt": "2026-09-30T04:46:03.977Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/cheery9998/status/2105148214622175250",
+        "evidence": ""
+      }
+    },
+    "summary": "The author demonstrates how Claude Opus 5.5 writes Three.js code to create a 3D title animation where scattered light particles assemble into a rotating sphere followed by title text display, converted to video via screen recording.",
+    "summaryEn": "Three.js 3D Particle Sphere Title Animation",
+    "originalPrompt": "用 Three.js 帮我写一个九秒的 3D 动画网页。\n开头是满屏乱飞的光点，三秒内聚成一个旋转的球，然后出现标题。\n深蓝色背景，橙色点缀，竖屏。",
+    "sourceRange": {
+      "start": 1035,
+      "end": 1109
+    },
+    "translations": {
+      "zh": "用 Three.js 帮我写一个九秒的 3D 动画网页。\n开头是满屏乱飞的光点，三秒内聚成一个旋转的球，然后出现标题。\n深蓝色背景，橙色点缀，竖屏。",
+      "en": "Use Three.js to write a 9-second 3D animation web page for me. It starts with points of light flying randomly across the screen, gathering into a rotating sphere within three seconds, and then the title appears. Dark blue background, orange accents, vertical screen."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Particle Sphere Title Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt used to produce the shown '三分钟大白话' project",
+        "Full HTML/JavaScript Three.js source code"
+      ],
+      "evidence": "The attached screen recording shows a web browser rendering a Three.js canvas where floating particles coalesce into a 3D sphere with orbiting rings and the title '三分钟大白话'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

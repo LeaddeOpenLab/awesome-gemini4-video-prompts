@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:56:38.114Z",
+  "model": "opus5.5",
+  "prompt": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.",
+  "promptTranslations": {
+    "en": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine."
+  },
+  "summary": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
+  "summaryEn": "Three.js Animated Story Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102989395359887481",
+    "canonicalUrl": "https://x.com/Ryzoft/status/2102989395359887481",
+    "author": {
+      "username": "Ryzoft",
+      "displayName": "Ryzoft",
+      "profileUrl": "https://x.com/Ryzoft"
+    },
+    "publishedAt": "2026-09-24T05:11:58.000Z",
+    "collectedAt": "2026-09-28T08:39:39.137Z",
+    "language": "en",
+    "originalText": "Unrelated to game development but, was playing around while waiting for my Opus 5.5 prompts to finish and had a background prompt make this, was just curios. \n\nPrompt was:\n\"I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Ryzoft/status/2102989395359887481",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102988926549913600/img/kInfdggF1trcXGVb.jpg",
+        "analysisUrl": "https://x.com/Ryzoft/status/2102989395359887481"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 836
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Ryzoft/status/2102989395359887481",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102988926549913600/img/kInfdggF1trcXGVb.jpg",
+  "coverPath": "data/covers/2102989395359887481-wide.jpg",
+  "gifPath": "data/gifs/2102989395359887481.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102988926549913600",
+    "x-post:2102989395359887481"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Animated Story Prompt",
+      "summary": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.",
+        "englishText": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/Ryzoft/status/2102989395359887481",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Ryzoft/status/2102989395359887481",
+        "start": 173,
+        "end": 333
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Ryzoft/status/2102989395359887481",
+        "author": "Ryzoft",
+        "postId": "2102989395359887481",
+        "publishedAt": "2026-09-24T05:11:58.000Z"
+      },
+      "checkedAt": "2026-09-28T08:40:42.687Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ryzoft/status/2102989395359887481",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
+    "summaryEn": "Three.js Animated Story Prompt",
+    "originalPrompt": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.",
+    "sourceRange": {
+      "start": 173,
+      "end": 333
+    },
+    "translations": {
+      "zh": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine.",
+      "en": "I want you to imagine a story. And then using threejs I want you to create full animation, star wars 80s-level quality 90s cartoon out of the story you imagine."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "games-interactive",
+    "useCase": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

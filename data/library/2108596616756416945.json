@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:01.910Z",
+  "model": "opus5.5",
+  "prompt": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+  "promptTranslations": {
+    "en": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable."
+  },
+  "summary": "Motion graphics showcasing Apple's timeline from 1976 to 2026 created using Claude Opus 5.5.",
+  "summaryEn": "Apple 50-Year Evolution Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108596616756416945",
+    "canonicalUrl": "https://x.com/aiRobertDaily/status/2108596616756416945",
+    "author": {
+      "username": "aiRobertDaily",
+      "displayName": "AIRobert",
+      "profileUrl": "https://x.com/aiRobertDaily"
+    },
+    "publishedAt": "2026-10-09T16:33:03.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "zh",
+    "originalText": "夯爆了！\n\n让 Claude Opus 5.5 当我顶级动态设计师，制作了一段 38 秒的 Apple 发展史动画效果。\n\n乔布斯时代，到如今的 AI 时代，整个动画的转场，也太丝滑到离谱了吧。\n\n这设计水平，设计师看到得全身发抖。\n\n参考提示词如下：\nCreate a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiRobertDaily/status/2108596616756416945",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108594482858037248/img/5WpCRnAIqv9a6pkZ.jpg",
+        "analysisUrl": "https://x.com/aiRobertDaily/status/2108596616756416945"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/aiRobertDaily/status/2108596616756416945",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108594482858037248/img/5WpCRnAIqv9a6pkZ.jpg",
+  "coverPath": "data/covers/2108596616756416945-wide.jpg",
+  "gifPath": "data/gifs/2108596616756416945.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108594482858037248",
+    "x-post:2108596616756416945"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Apple 50-Year Evolution Motion Graphics",
+      "summary": "Motion graphics showcasing Apple's timeline from 1976 to 2026 created using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "让 Claude Opus 5.5 当我顶级动态设计师"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+        "englishText": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Code implementation details",
+          "Rendering platform instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video visualizes Apple's timeline from 1976 to 2026 with themed era transitions. Assessed on lower-resolution stream.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Brand History Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "apple",
+          "timeline",
+          "motion-design",
+          "history"
+        ]
+      },
+      "targetModelRole": "Creative direction and animation logic/code generation.",
+      "outputSource": "Undisclosed video/canvas renderer.",
+      "divisionEvidence": "Post attributes design to Claude Opus 5.5 without specifying the rendering pipeline.",
+      "video": {
+        "shots": "Multi-scene timeline transition",
+        "duration": "38s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Demonstrates motion graphics timeline animation produced with Claude Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aiRobertDaily/status/2108596616756416945",
+        "start": 127,
+        "end": 433
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aiRobertDaily/status/2108596616756416945",
+        "author": "aiRobertDaily",
+        "postId": "2108596616756416945",
+        "publishedAt": "2026-10-09T16:33:03.000Z"
+      },
+      "checkedAt": "2026-10-09T20:13:34.285Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aiRobertDaily/status/2108596616756416945",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics showcasing Apple's timeline from 1976 to 2026 created using Claude Opus 5.5.",
+    "summaryEn": "Apple 50-Year Evolution Motion Graphics",
+    "originalPrompt": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+    "sourceRange": {
+      "start": 127,
+      "end": 433
+    },
+    "translations": {
+      "zh": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable.",
+      "en": "Create a stunning 30-second motion graphics video showcasing Apple's evolution from Steve Jobs in 1976 to 2026.\nEvolve from nostalgic vintage aesthetics to futuristic digital art, with seamless transitions and cinematic storytelling.\nPush your creativity to the limit. Go all out and make it unforgettable."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Brand History Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Code implementation details",
+        "Rendering platform instructions"
+      ],
+      "evidence": "Video visualizes Apple's timeline from 1976 to 2026 with themed era transitions. Assessed on lower-resolution stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

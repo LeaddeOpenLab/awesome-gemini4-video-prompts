@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:14.562Z",
+  "model": "opus5.5",
+  "prompt": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
+  "promptTranslations": {
+    "en": "Make a motion graphics video that explains how the First & 10 Yellow Line works."
+  },
+  "summary": "Motion graphics explainer demonstrating the sensor and camera mechanics behind the broadcast yellow line.",
+  "summaryEn": "First & 10 Yellow Line Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105116391439270222",
+    "canonicalUrl": "https://x.com/blueoctopusai/status/2105116391439270222",
+    "author": {
+      "username": "blueoctopusai",
+      "displayName": "Shannon 📐",
+      "profileUrl": "https://x.com/blueoctopusai"
+    },
+    "publishedAt": "2026-09-30T02:03:53.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "\"Make a motion graphics video that explains how the First & 10 Yellow Line works.\" \nOpus 5.5\n\nThis is mostly correct with the old sensor based system. The stadium it created looks like a bathtub and the sound is not great but I think this is a great result for one days work.\n\nNext up will be an interactive demo.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/blueoctopusai/status/2105116391439270222",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105113773853859840/img/aZ_nEcFx-WrsFVgP.jpg",
+        "analysisUrl": "https://x.com/blueoctopusai/status/2105116391439270222"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/blueoctopusai/status/2105116391439270222",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105113773853859840/img/aZ_nEcFx-WrsFVgP.jpg",
+  "coverPath": "data/covers/2105116391439270222-wide.jpg",
+  "gifPath": "data/gifs/2105116391439270222.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105113773853859840",
+    "x-post:2105116391439270222"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "First & 10 Yellow Line Explainer Video",
+      "summary": "Motion graphics explainer demonstrating the sensor and camera mechanics behind the broadcast yellow line.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
+        "englishText": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "rendering code scaffolding",
+          "scene assets",
+          "detailed system instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Visuals show multi-step 3D animations explaining camera telemetry, field curvature, and color keying.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "First & 10 System Explainer",
+        "topic": "explainers",
+        "tags": [
+          "motion-graphics",
+          "sports-broadcast",
+          "3d-scenes",
+          "explainer"
+        ]
+      },
+      "targetModelRole": "Code generation and narrative structure for the 3D animated explainer.",
+      "outputSource": "unknown",
+      "divisionEvidence": "Author notes Opus 5.5 created the stadium scene and overall explainer.",
+      "video": {
+        "shots": "Multiple dynamic 3D camera sweeps and graphical overlays.",
+        "duration": "02:48",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct author case showing Opus 5.5 orchestrating a complex technical explainer video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/blueoctopusai/status/2105116391439270222",
+        "start": 1,
+        "end": 81
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/blueoctopusai/status/2105116391439270222",
+        "author": "blueoctopusai",
+        "postId": "2105116391439270222",
+        "publishedAt": "2026-09-30T02:03:53.000Z"
+      },
+      "checkedAt": "2026-09-30T04:33:17.764Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/blueoctopusai/status/2105116391439270222",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics explainer demonstrating the sensor and camera mechanics behind the broadcast yellow line.",
+    "summaryEn": "First & 10 Yellow Line Explainer Video",
+    "originalPrompt": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
+    "sourceRange": {
+      "start": 1,
+      "end": 81
+    },
+    "translations": {
+      "zh": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
+      "en": "Make a motion graphics video that explains how the First & 10 Yellow Line works."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "First & 10 System Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "rendering code scaffolding",
+        "scene assets",
+        "detailed system instructions"
+      ],
+      "evidence": "Visuals show multi-step 3D animations explaining camera telemetry, field curvature, and color keying."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

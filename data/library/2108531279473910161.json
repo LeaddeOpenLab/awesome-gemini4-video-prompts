@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:41.394Z",
+  "model": "opus5.5",
+  "prompt": "make a plush goat",
+  "promptTranslations": {
+    "en": "make a plush goat"
+  },
+  "summary": "Claude Opus 5.5 generated an interactive 3D web application artifact simulating a plush goat that can be squished, stretched, brushed, and animated to walk or hop.",
+  "summaryEn": "Interactive 3D Plush Goat Artifact",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108531279473910161",
+    "canonicalUrl": "https://x.com/N1njaCodex/status/2108531279473910161",
+    "author": {
+      "username": "N1njaCodex",
+      "displayName": "NinjaCodex",
+      "profileUrl": "https://x.com/N1njaCodex"
+    },
+    "publishedAt": "2026-10-09T12:13:26.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "en",
+    "originalText": "Opus, why are this goat’s legs growing straight out of its udder?! 😭🐐\n\nAsked Claude Opus 5.5 to make a plush goat. It decided four legs were a waste of resources when there’s already an udder\n\nNow it walks on it. And jumps. Completely convinced this is how goats work\n\nYou can squish it, stretch it, and brush its fur. So far, brushing hasn’t fixed the anatomy\n\nPaid $6.58 for this\n\nIs this a failure or the next stage of evolution?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/N1njaCodex/status/2108531279473910161",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108530968386576384/img/hIvkhI_z4VwqfD_u.jpg",
+        "analysisUrl": "https://x.com/N1njaCodex/status/2108531279473910161"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 5,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 405
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108535565255598406",
+        "text": "@0xPifagor next update: milk sprint",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108531350018183368",
+        "text": "https://t.co/ygIZgpv7yY",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://claude.ai/artifact/SfY7LN1kgPYn1TF2ktCoZA",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/N1njaCodex/status/2108531279473910161",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108530968386576384/img/hIvkhI_z4VwqfD_u.jpg",
+  "coverPath": "data/covers/2108531279473910161-wide.jpg",
+  "gifPath": "data/gifs/2108531279473910161.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108530968386576384/vid/avc1/426x270/enasdtGThYUy66nF.mp4?tag=29",
+    "x-video:2108530968386576384",
+    "x-post:2108531279473910161"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Plush Goat Artifact",
+      "summary": "Claude Opus 5.5 generated an interactive 3D web application artifact simulating a plush goat that can be squished, stretched, brushed, and animated to walk or hop.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "Asked Claude Opus 5.5 to make a plush goat."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a plush goat",
+        "englishText": "make a plush goat",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full verbatim user instructions",
+          "System prompt or styling requirements",
+          "Interactive controls and animation specification"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows an interactive 3D plush goat application with interactive fur grooming, deformation physics, and animation modes matching the author's description.",
+        "textualResultQuote": "Plush Goat. A stuffed master goat who runs on her udders. Not by design, but because life threw bones where grass grows."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Artifacts",
+          "role": "Execution sandbox and renderer for interactive web code",
+          "evidence": "https://claude.ai/artifact/SfY7LN1kgPYn1TF2ktCoZA",
+          "sourceUrl": "https://claude.ai/artifact/SfY7LN1kgPYn1TF2ktCoZA",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGL / Three.js Canvas",
+          "role": "Interactive 3D rendering and physics simulation",
+          "evidence": "The interactive 3D viewport renders dynamic fur, shaded mesh geometry, and real-time cursor interactions.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Plush Toy Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "3d-scenes",
+          "canvas-interactive",
+          "creative-coding",
+          "physics"
+        ]
+      },
+      "targetModelRole": "Generates complete single-file interactive 3D application code",
+      "outputSource": "In-browser WebGL canvas rendered via Claude Artifacts",
+      "divisionEvidence": "Claude Opus 5.5 wrote the application code which was executed live in Claude Artifacts as shown in the screen recording and shared artifact link.",
+      "video": {
+        "shots": "Single continuous screen capture of interactive 3D web application",
+        "duration": "16s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 producing complex interactive 3D animation and deformation code with video documentation, despite the prompt being an informal fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/N1njaCodex/status/2108531279473910161",
+        "start": 98,
+        "end": 115
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/N1njaCodex/status/2108531279473910161",
+        "author": "N1njaCodex",
+        "postId": "2108531279473910161",
+        "publishedAt": "2026-10-09T12:13:26.000Z"
+      },
+      "checkedAt": "2026-10-09T13:55:15.290Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/N1njaCodex/status/2108531279473910161",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated an interactive 3D web application artifact simulating a plush goat that can be squished, stretched, brushed, and animated to walk or hop.",
+    "summaryEn": "Interactive 3D Plush Goat Artifact",
+    "originalPrompt": "make a plush goat",
+    "sourceRange": {
+      "start": 98,
+      "end": 115
+    },
+    "translations": {
+      "zh": "make a plush goat",
+      "en": "make a plush goat"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Plush Toy Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full verbatim user instructions",
+        "System prompt or styling requirements",
+        "Interactive controls and animation specification"
+      ],
+      "evidence": "The video shows an interactive 3D plush goat application with interactive fur grooming, deformation physics, and animation modes matching the author's description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

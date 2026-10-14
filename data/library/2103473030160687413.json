@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:21:40.105Z",
+  "model": "opus5.5",
+  "prompt": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+  "promptTranslations": {
+    "en": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound."
+  },
+  "summary": "A prompt instructing the model to produce a code-driven animation using an HTML/JS page rendered frame-by-frame via headless Chrome and assembled with ffmpeg including motion blur and generated sound.",
+  "summaryEn": "Code-Driven Animation Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103473030160687413",
+    "canonicalUrl": "https://x.com/xelandre__/status/2103473030160687413",
+    "author": {
+      "username": "xelandre__",
+      "displayName": "Alexandre",
+      "profileUrl": "https://x.com/xelandre__"
+    },
+    "publishedAt": "2026-09-25T13:13:45.000Z",
+    "collectedAt": "2026-09-28T08:14:34.039Z",
+    "language": "en",
+    "originalText": "WTF. Avec ce prompt, Opus 5.5 sort des vidéos de zinzin du premier coup. Testez-le !!\n\n\"Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/xelandre__/status/2103473030160687413",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103471876106272768/img/oiQSyZ1k6Cpf6nPd.jpg",
+        "analysisUrl": "https://x.com/xelandre__/status/2103473030160687413"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 140
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/xelandre__/status/2103473030160687413",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103471876106272768/img/oiQSyZ1k6Cpf6nPd.jpg",
+  "coverPath": "data/covers/2103473030160687413-wide.jpg",
+  "gifPath": "data/gifs/2103473030160687413.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103471876106272768",
+    "x-post:2103473030160687413"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Code-Driven Animation Prompt",
+      "summary": "A prompt instructing the model to produce a code-driven animation using an HTML/JS page rendered frame-by-frame via headless Chrome and assembled with ffmpeg including motion blur and generated sound.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+        "englishText": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+          "sourceUrl": "https://x.com/xelandre__/status/2103473030160687413",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+          "sourceUrl": "https://x.com/xelandre__/status/2103473030160687413",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/xelandre__/status/2103473030160687413",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/xelandre__/status/2103473030160687413",
+        "start": 88,
+        "end": 314
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/xelandre__/status/2103473030160687413",
+        "author": "xelandre__",
+        "postId": "2103473030160687413",
+        "publishedAt": "2026-09-25T13:13:45.000Z"
+      },
+      "checkedAt": "2026-09-28T08:15:35.497Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/xelandre__/status/2103473030160687413",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt instructing the model to produce a code-driven animation using an HTML/JS page rendered frame-by-frame via headless Chrome and assembled with ffmpeg including motion blur and generated sound.",
+    "summaryEn": "Code-Driven Animation Prompt",
+    "originalPrompt": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+    "sourceRange": {
+      "start": 88,
+      "end": 314
+    },
+    "translations": {
+      "zh": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.",
+      "en": "Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt instructing the model to produce a code-driven animation using an HTML/JS page rendered frame-by-frame via headless Chrome and assembled with ffmpeg including motion blur and generated sound.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

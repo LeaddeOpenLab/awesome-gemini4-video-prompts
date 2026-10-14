@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:21:28.354Z",
+  "model": "opus5.5",
+  "prompt": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+  "promptTranslations": {
+    "en": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)"
+  },
+  "summary": "Kiran shares a 30-second motion graphics product explainer video for DistilBook, claiming it was built using Claude Opus 5.5.",
+  "summaryEn": "DistilBook Motion Graphics Product Explainer Demo",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103761658745335993",
+    "canonicalUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+    "author": {
+      "username": "sudo_kiran",
+      "displayName": "Kiran",
+      "profileUrl": "https://x.com/sudo_kiran"
+    },
+    "publishedAt": "2026-09-26T08:20:40.000Z",
+    "collectedAt": "2026-09-28T07:13:05.687Z",
+    "language": "en",
+    "originalText": "Built a product demo with Claude Opus 5.5.\nThe level of output is honestly insane. 🚀\n\nprompt:\ncreate best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103761048969043968/img/YT4AXXDUDrlRSu0v.jpg",
+        "analysisUrl": "https://x.com/sudo_kiran/status/2103761658745335993"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 2436
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103761048969043968/img/YT4AXXDUDrlRSu0v.jpg",
+  "coverPath": "data/covers/2103761658745335993-wide.jpg",
+  "gifPath": "data/gifs/2103761658745335993.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103761048969043968",
+    "x-post:2103761658745335993"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "DistilBook Motion Graphics Product Explainer Demo",
+      "summary": "Kiran shares a 30-second motion graphics product explainer video for DistilBook, claiming it was built using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Built a product demo with Claude Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+        "englishText": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "actual product URL and product description parameters",
+          "underlying animation framework or code generation prompts",
+          "audio generation and voiceover pipeline details",
+          "rendering workflow and execution tools"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached media is a complete 30-second high-fidelity motion graphics explainer video for DistilBook with synchronized voiceover, animated typography, and visual transitions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Unknown; claimed broadly as having built the demo, but specific task allocation (scriptwriting, code generation, or orchestration) is unstated.",
+      "outputSource": "Unknown renderer or animation software.",
+      "divisionEvidence": "The post provides only high-level prompt text and the final video output without separating Claude's code/script generation from the rendering engine.",
+      "video": {
+        "shots": "Multi-scene animated explainer featuring typography, document icons, UI mockups, and hand-drawn style diagrams",
+        "duration": "00:30",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Presents a complete video production result attributed by the author to Claude Opus 5.5, qualifying as a relevant reference case under policy overrides despite missing tool and pipeline documentation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "start": 95,
+        "end": 434
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "author": "sudo_kiran",
+        "postId": "2103761658745335993",
+        "publishedAt": "2026-09-26T08:20:40.000Z"
+      },
+      "checkedAt": "2026-09-28T07:15:02.281Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "evidence": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "Kiran shares a 30-second motion graphics product explainer video for DistilBook, claiming it was built using Claude Opus 5.5.",
+    "summaryEn": "DistilBook Motion Graphics Product Explainer Demo",
+    "originalPrompt": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+    "sourceRange": {
+      "start": 95,
+      "end": 434
+    },
+    "translations": {
+      "zh": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+      "en": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "actual product URL and product description parameters",
+        "underlying animation framework or code generation prompts",
+        "audio generation and voiceover pipeline details",
+        "rendering workflow and execution tools"
+      ],
+      "evidence": "The attached media is a complete 30-second high-fidelity motion graphics explainer video for DistilBook with synchronized voiceover, animated typography, and visual transitions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

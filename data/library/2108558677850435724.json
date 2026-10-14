@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:58.150Z",
+  "model": "opus5.5",
+  "prompt": "Hey claude, turn this wolf kaiju into a tabby cat mech.",
+  "promptTranslations": {
+    "en": "Hey claude, turn this wolf kaiju into a tabby cat mech."
+  },
+  "summary": "Stuart Wade demonstrates using Claude Code with Opus 5.5 via the Maxon Cinema 4D MCP bridge to generate placeholder game geometry, modify 3D mechanical rigs, and animate an interactive Three.js kaiju stomping demo.",
+  "summaryEn": "Interactive Kaiju Stomp 3D Scene via Cinema 4D MCP and Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108558677850435724",
+    "canonicalUrl": "https://x.com/DLGNCE/status/2108558677850435724",
+    "author": {
+      "username": "DLGNCE",
+      "displayName": "Stuart Wade",
+      "profileUrl": "https://x.com/DLGNCE"
+    },
+    "publishedAt": "2026-10-09T14:02:18.000Z",
+    "collectedAt": "2026-10-09T15:58:14.620Z",
+    "language": "en",
+    "originalText": "An experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇 https://t.co/iFb5cnBHIl",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DLGNCE/status/2108558677850435724",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108558009861279744/img/9Ykcig8hrZh2oi7J.jpg",
+        "analysisUrl": "https://x.com/DLGNCE/status/2108558677850435724"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 193
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DLGNCE/status/2108568396216340666",
+        "text": "Obviously the output here is a bit wonky/unrefined, but this is realistically only a few hours of work. \n\nWith proper time &amp; attention, this could be a VERY powerful workflow. You could go nuts sculpting details or painting textures, then reimport into your game with a few clicks",
+        "author": "DLGNCE"
+      },
+      {
+        "url": "https://x.com/DLGNCE/status/2108567583754801277",
+        "text": "Stuart Wade on X: \"Hey claude, turn this wolf kaiju into a tabby cat mech.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nStuart Wade on X: \"Hey claude, turn this wolf kaiju into a tabby cat mech.\"\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nHey claude, turn this wolf kaiju into a tabby cat mech.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:37 PM · Oct 9, 2026·26\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nStuart Wade@DLGNCEFollow\nDiligence Studio ⚡ 3D for Art and Interaction\nLead Artist: @unbound_io\nTerraster: @TerrasterApp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n2h\n\n\nAn experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n3\n194\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n2h\n\n\nI started by asking CC for the basic game mechanics that i wanted, and to create everything with VERY BASIC placeholder geometry.\n\n\n\n\n\n\n\n1\n\n1\n30\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nThen CC exported that basic placeholder geometry as GLBs, then into Cinema 4d to modify with the MCP bridge. \n\nI told the agent to keep the hierarchy and grouping the same as the placeholder so the threejs IK rig stayed in tact.\n\n\n\n\n\n\n\n1\n\n1\n23\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nWhat&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\n\n1\n15\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nHey claude, turn this wolf kaiju into a tabby cat mech.\n\n\n00:00\n\n\n\n\n\n\n\n\n2:37 PM · Oct 9, 2026·26\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nObviously the output here is a bit wonky/unrefined, but this is realistically only a few hours of work. \n\nWith proper time & attention, this could be a VERY powerful workflow. You could go nuts sculpting details or painting textures, then reimport into your game with a few clicks\n\n\n\n\n1\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DLGNCE"
+      },
+      {
+        "url": "https://x.com/DLGNCE/status/2108564063164772547",
+        "text": "Stuart Wade on X: \"What&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nStuart Wade on X: \"What&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\"\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nWhat&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2:23 PM · Oct 9, 2026·15\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nStuart Wade@DLGNCEFollow\nDiligence Studio ⚡ 3D for Art and Interaction\nLead Artist: @unbound_io\nTerraster: @TerrasterApp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n2h\n\n\nAn experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n3\n194\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n2h\n\n\nI started by asking CC for the basic game mechanics that i wanted, and to create everything with VERY BASIC placeholder geometry.\n\n\n\n\n\n\n\n1\n\n1\n30\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nThen CC exported that basic placeholder geometry as GLBs, then into Cinema 4d to modify with the MCP bridge. \n\nI told the agent to keep the hierarchy and grouping the same as the placeholder so the threejs IK rig stayed in tact.\n\n\n\n\n\n\n\n1\n\n1\n23\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nWhat&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2:23 PM · Oct 9, 2026·15\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nHey claude, turn this wolf kaiju into a tabby cat mech.\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n26\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nObviously the output here is a bit wonky/unrefined, but this is realistically only a few hours of work. \n\nWith proper time & attention, this could be a VERY powerful workflow. You could go nuts sculpting details or painting textures, then reimport into your game with a few clicks\n\n\n\n\n1\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DLGNCE"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DLGNCE/status/2108560557976793256",
+        "text": "Then CC exported that basic placeholder geometry as GLBs, then into Cinema 4d to modify with the MCP bridge. \n\nI told the agent to keep the hierarchy and grouping the same as the placeholder so the threejs IK rig stayed in tact. https://t.co/gyd27zD5CR",
+        "author": "DLGNCE"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DLGNCE/status/2108559231884632329",
+        "text": "I started by asking CC for the basic game mechanics that i wanted, and to create everything with VERY BASIC placeholder geometry. https://t.co/qaJLHh6ky2",
+        "author": "DLGNCE"
+      },
+      {
+        "url": "https://x.com/DLGNCE/status/2108558677850435724",
+        "text": "Stuart Wade on X: \"An experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nStuart Wade on X: \"An experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\"\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nAn experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n2:02 PM · Oct 9, 2026·194\nViews\n\n\n\n1\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nStuart Wade@DLGNCEFollow\nDiligence Studio ⚡ 3D for Art and Interaction\nLead Artist: @unbound_io\nTerraster: @TerrasterApp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n\n\n\n\nAn experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs.\n\nBit about the process below. 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n2:02 PM · Oct 9, 2026·194\nViews\n\n\n\n1\n\n3\n\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n2h\n\n\nI started by asking CC for the basic game mechanics that i wanted, and to create everything with VERY BASIC placeholder geometry.\n\n\n\n\n\n\n\n1\n\n1\n30\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nThen CC exported that basic placeholder geometry as GLBs, then into Cinema 4d to modify with the MCP bridge. \n\nI told the agent to keep the hierarchy and grouping the same as the placeholder so the threejs IK rig stayed in tact.\n\n\n\n\n\n\n\n1\n\n1\n23\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nWhat&#x27;s great here is that three.js and cinema 4d are essentially connected, so I can tweak things by hand or request model updates from the agent. \n\nEither way I don&#x27;t have to worry about rigs, exporting, scale and orientation, textures, etc. Its all passed through automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\n\n1\n15\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nHey claude, turn this wolf kaiju into a tabby cat mech.\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n26\n\n\n\n\n\n\n\n\n\nStuart Wade\n@DLGNCE\n1h\n\n\nObviously the output here is a bit wonky/unrefined, but this is realistically only a few hours of work. \n\nWith proper time & attention, this could be a VERY powerful workflow. You could go nuts sculpting details or painting textures, then reimport into your game with a few clicks\n\n\n\n\n1\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DLGNCE"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DLGNCE/status/2108558677850435724",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108558009861279744/img/9Ykcig8hrZh2oi7J.jpg",
+  "coverPath": "data/covers/2108558677850435724-wide.jpg",
+  "gifPath": "data/gifs/2108558677850435724.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108558009861279744",
+    "x-post:2108558677850435724"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Kaiju Stomp 3D Scene via Cinema 4D MCP and Three.js",
+      "summary": "Stuart Wade demonstrates using Claude Code with Opus 5.5 via the Maxon Cinema 4D MCP bridge to generate placeholder game geometry, modify 3D mechanical rigs, and animate an interactive Three.js kaiju stomping demo.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "An experiment with @MaxonVFX new C4D MCP bridge, ClaudeCode + Opus5.5, and #threejs."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Hey claude, turn this wolf kaiju into a tabby cat mech.",
+        "englishText": "Hey claude, turn this wolf kaiju into a tabby cat mech.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial instructions defining the core game mechanics and placeholder geometry generation",
+          "Explicit instructions given to the agent regarding hierarchy, grouping, and Three.js IK rig preservation",
+          "Exact MCP bridge commands executed inside Cinema 4D and prompt modifications visible in the UI side panel"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D wolf kaiju mech model inside Cinema 4D being articulated, followed by a live Three.js screen recording of the mech stomping through a procedural neon city grid with physics and lighting effects.",
+        "textualResultQuote": "Obviously the output here is a bit wonky/unrefined, but this is realistically only a few hours of work. With proper time & attention, this could be a VERY powerful workflow."
+      },
+      "inputs": [
+        {
+          "kind": "3D Assets / Rig",
+          "description": "Placeholder GLB geometry exported from Claude Code and loaded into Cinema 4D with an IK rig structure.",
+          "available": false,
+          "evidence": "Then CC exported that basic placeholder geometry as GLBs, then into Cinema 4d to modify with the MCP bridge. I told the agent to keep the hierarchy and grouping the same as the placeholder so the threejs IK rig stayed in tact.",
+          "origin": "generated"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent orchestrating code generation, geometry commands, and MCP bridge calls",
+          "evidence": "ClaudeCode + Opus5.5",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/DLGNCE/status/2108558677850435724"
+        },
+        {
+          "name": "Maxon Cinema 4D MCP Bridge",
+          "role": "DCC application bridge allowing the AI agent to edit 3D geometry and hierarchies directly",
+          "evidence": "An experiment with @MaxonVFX new C4D MCP bridge",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/DLGNCE/status/2108558677850435724"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL renderer for the interactive game environment, lighting, IK rig, and real-time animation",
+          "evidence": "and #threejs... so the threejs IK rig stayed in tact.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Kaiju Stomp Game Demo",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "cinema-4d",
+          "mcp",
+          "game-development",
+          "claude-code"
+        ]
+      },
+      "targetModelRole": "Claude Code powered by Opus 5.5 acts as the creative coding agent and MCP bridge controller, generating game mechanics, placeholder geometry, and editing model hierarchies for real-time WebGL execution.",
+      "outputSource": "Rendered interactively in real time via Three.js in a web browser, with assets edited via Cinema 4D.",
+      "divisionEvidence": "Claude Code writes the gameplay logic, exports GLBs, and drives modifications via C4D MCP bridge, while Three.js handles real-time scene rendering and Cinema 4D handles DCC geometry operations.",
+      "video": {
+        "shots": "Split demonstration: Cinema 4D viewport rotating around a 3D wolf mech, followed by a continuous real-time gameplay recording in browser with third-person and overhead camera angles.",
+        "duration": "0:22",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 in Claude Code orchestrating real-time 3D interactive video/animation generation via Three.js and Cinema 4D MCP bridge.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DLGNCE/status/2108567583754801277",
+        "start": 19,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DLGNCE/status/2108558677850435724",
+        "author": "DLGNCE",
+        "postId": "2108558677850435724",
+        "publishedAt": "2026-10-09T14:02:18.000Z"
+      },
+      "checkedAt": "2026-10-09T16:08:25.754Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/DLGNCE/status/2108567583754801277",
+        "evidence": ""
+      }
+    },
+    "summary": "Stuart Wade demonstrates using Claude Code with Opus 5.5 via the Maxon Cinema 4D MCP bridge to generate placeholder game geometry, modify 3D mechanical rigs, and animate an interactive Three.js kaiju stomping demo.",
+    "summaryEn": "Interactive Kaiju Stomp 3D Scene via Cinema 4D MCP and Three.js",
+    "originalPrompt": "Hey claude, turn this wolf kaiju into a tabby cat mech.",
+    "sourceRange": {
+      "start": 19,
+      "end": 74
+    },
+    "translations": {
+      "zh": "Hey claude, turn this wolf kaiju into a tabby cat mech.",
+      "en": "Hey claude, turn this wolf kaiju into a tabby cat mech."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Kaiju Stomp Game Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial instructions defining the core game mechanics and placeholder geometry generation",
+        "Explicit instructions given to the agent regarding hierarchy, grouping, and Three.js IK rig preservation",
+        "Exact MCP bridge commands executed inside Cinema 4D and prompt modifications visible in the UI side panel"
+      ],
+      "evidence": "The video shows a 3D wolf kaiju mech model inside Cinema 4D being articulated, followed by a live Three.js screen recording of the mech stomping through a procedural neon city grid with physics and lighting effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

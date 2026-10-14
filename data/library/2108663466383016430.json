@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:06.453Z",
+  "model": "opus5.5",
+  "prompt": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video",
+  "promptTranslations": {
+    "en": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video"
+  },
+  "summary": "Andrew Rose showcases an automated animated explainer video created using Claude Opus 5.5 to explain transmission line permitting challenges in the US and the BAAJA legislation.",
+  "summaryEn": "Animated Explainer on the Bipartisan American Affordability and Jobs Act (BAAJA)",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108663466383016430",
+    "canonicalUrl": "https://x.com/__drewface/status/2108663466383016430",
+    "author": {
+      "username": "__drewface",
+      "displayName": "Andrew Rose",
+      "profileUrl": "https://x.com/__drewface"
+    },
+    "publishedAt": "2026-10-09T20:58:42.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "I asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video.\n\nHere's what it came up with after about an hour, with a little nudging. https://t.co/eKb8dTIU9X",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/__drewface/status/2108663466383016430",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108658980180434944/img/I7EpHc2jHsF7fcK3.jpg",
+        "analysisUrl": "https://x.com/__drewface/status/2108663466383016430"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 245
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/__drewface/status/2108664389662343560",
+        "text": "Overall, I'm pretty happy with the result. There's a lot I could improve about the writing. Normally, I would manually write or co-author my transcripts for videos like this, but this was more of an automated process because I am working today.",
+        "author": "__drewface"
+      },
+      {
+        "url": "https://x.com/__drewface/status/2108663466383016430",
+        "text": "Andrew Rose on X: \"I asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video.\n\nHere&#x27;s what it came up with after about an hour, with a little nudging.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAndrew Rose on X: \"I asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video.\n\nHere&#x27;s what it came up with after about an hour, with a little nudging.\"\n\n\n\nAndrew Rose\n\n@__drewface\n\n\n\n\nI asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video.\n\nHere&#x27;s what it came up with after about an hour, with a little nudging.\n\n\n00:00\n\n\n\n\n\n\n\n\n8:58 PM · Oct 9, 2026·247\nViews\n\n\n\n3\n\n6\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAndrew Rose@__drewfaceFollow\nHappy husband and father.\n\nTrying to make the world a teeny bit better each day with my family and friends. Teaching people to love the new era of computing.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndrew Rose\n\n@__drewface\n\n\n\n\nI asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video.\n\nHere&#x27;s what it came up with after about an hour, with a little nudging.\n\n\n00:00\n\n\n\n\n\n\n\n\n8:58 PM · Oct 9, 2026·247\nViews\n\n\n\n3\n\n6\n1\n\n\n\n\n\n\n\n\n\nAndrew Rose\n\n@__drewface\n1h\n\n\nOverall, I&#x27;m pretty happy with the result. There&#x27;s a lot I could improve about the writing. Normally, I would manually write or co-author my transcripts for videos like this, but this was more of an automated process because I am working today.\n\n\n\n\n3\n42\n\n\n\n\n\n\n\n\n\n\n\nFred\n@FriedKielbasa\n4m\n\n\nThat was pretty good! I watched start to finish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "__drewface"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/__drewface/status/2108663466383016430",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108658980180434944/img/I7EpHc2jHsF7fcK3.jpg",
+  "coverPath": "data/covers/2108663466383016430-wide.jpg",
+  "gifPath": "data/gifs/2108663466383016430.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108658980180434944",
+    "x-post:2108663466383016430"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Animated Explainer on the Bipartisan American Affordability and Jobs Act (BAAJA)",
+      "summary": "Andrew Rose showcases an automated animated explainer video created using Claude Opus 5.5 to explain transmission line permitting challenges in the US and the BAAJA legislation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video",
+        "englishText": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt transcript",
+          "system prompt / instructions",
+          "follow-up nudging prompts",
+          "animation framework code or pipeline specification"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video contains a fully voiced, 3-minute 58-second motion graphic explainer complete with interactive map styling, progress bars, timelines, and statutory text callouts illustrating the BAAJA legislation.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "BAAJA Energy Permitting Explainer",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "motion-graphics",
+          "data-visualization",
+          "policy",
+          "energy"
+        ]
+      },
+      "targetModelRole": "Writing the script/transcript and driving the animation production workflow.",
+      "outputSource": "Undisclosed video rendering pipeline / engine",
+      "divisionEvidence": "Author notes: 'I asked Opus 5.5 to explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video. Here's what it came up with after about an hour, with a little nudging.' and 'Normally, I would manually write or co-author my transcripts for videos like this, but this was more of an automated process because I am working today.'",
+      "video": {
+        "shots": "Continuous dynamic map pan and zoom transitions across the United States, chronological bar charts, stat overlays, and statutory bill excerpt callout cards.",
+        "duration": "03:58",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an authentic Claude Opus 5.5 video production workflow for an animated explainer, meeting reference-case relevance criteria despite missing the complete prompt and rendering engine details.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/__drewface/status/2108663466383016430",
+        "start": 20,
+        "end": 114
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/__drewface/status/2108663466383016430",
+        "author": "__drewface",
+        "postId": "2108663466383016430",
+        "publishedAt": "2026-10-09T20:58:42.000Z"
+      },
+      "checkedAt": "2026-10-09T22:22:54.623Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/__drewface/status/2108663466383016430",
+        "evidence": ""
+      }
+    },
+    "summary": "Andrew Rose showcases an automated animated explainer video created using Claude Opus 5.5 to explain transmission line permitting challenges in the US and the BAAJA legislation.",
+    "summaryEn": "Animated Explainer on the Bipartisan American Affordability and Jobs Act (BAAJA)",
+    "originalPrompt": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video",
+    "sourceRange": {
+      "start": 20,
+      "end": 114
+    },
+    "translations": {
+      "zh": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video",
+      "en": "explain BAAJA (the Bipartisan American Affordability and Jobs Act) by making an animated video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "BAAJA Energy Permitting Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt transcript",
+        "system prompt / instructions",
+        "follow-up nudging prompts",
+        "animation framework code or pipeline specification"
+      ],
+      "evidence": "The video contains a fully voiced, 3-minute 58-second motion graphic explainer complete with interactive map styling, progress bars, timelines, and statutory text callouts illustrating the BAAJA legislation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

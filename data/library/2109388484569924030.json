@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:23.456Z",
+  "model": "opus5.5",
+  "prompt": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+  "promptTranslations": {
+    "en": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option"
+  },
+  "summary": "Author experiments with MediaPipe and Framer 3D transforms via Opus 5.5 to manipulate 3D shapes with gestures.",
+  "summaryEn": "Interactive 3D Hand Gestures with Framer and MediaPipe",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109388484569924030",
+    "canonicalUrl": "https://x.com/emili_iv/status/2109388484569924030",
+    "author": {
+      "username": "emili_iv",
+      "displayName": "Emili",
+      "profileUrl": "https://x.com/emili_iv"
+    },
+    "publishedAt": "2026-10-11T20:59:39.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "Some weekend fun. Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5. Controlling 3D shapes with hand gestures is insanely cool. Prompt below 👇 https://t.co/DuSoBqjN2j",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/emili_iv/status/2109388484569924030",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109388287232102400/img/QODJm7vhTrOsJaid.jpg",
+        "analysisUrl": "https://x.com/emili_iv/status/2109388484569924030"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 4,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1302
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/emili_iv/status/2109521341498155267",
+        "text": "@yibaili530 Haha same here",
+        "author": "emili_iv"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/emili_iv/status/2109388487279722597",
+        "text": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+        "author": "emili_iv"
+      },
+      {
+        "url": "https://x.com/emili_iv/status/2109388484569924030",
+        "text": "Emili on X: \"Some weekend fun. Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5. Controlling 3D shapes with hand gestures is insanely cool. Prompt below 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nEmili on X: \"Some weekend fun. Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5. Controlling 3D shapes with hand gestures is insanely cool. Prompt below 👇\"\n\n\n\nEmili\n\n@emili_iv\n\n\n\n\nSome weekend fun. Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5. Controlling 3D shapes with hand gestures is insanely cool. Prompt below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n8:59 PM · Oct 11, 2026·1,303\nViews\n\n\n\n2\n4\n22\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEmili@emili_ivFollow\nmarketing designer @framer ✧ professional go-getter\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmili\n\n@emili_iv\n\n\n\n\nSome weekend fun. Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5. Controlling 3D shapes with hand gestures is insanely cool. Prompt below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n8:59 PM · Oct 11, 2026·1,303\nViews\n\n\n\n2\n4\n22\n2\n\n\n\n\n\n\n\n\n\nEmili\n\n@emili_iv\n19h\n\n\nBuild a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Show more\n\n\n\n\n\n1\n203\n\n\n\n\n\n\n\n\n\n\n\nLi Yibai\n\n@yibaili530\n12h\n\n\nSo fun! I’ve been playing with 3D gesture drawing too. Keep getting distracted just playing with it 😂\n\n\n1\n\n1\n65\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "emili_iv"
+      },
+      {
+        "url": "https://hidden.place/",
+        "text": "",
+        "kind": "linked_public_material",
+        "author": "emili_iv"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/emili_iv/status/2109388484569924030",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109388287232102400/img/QODJm7vhTrOsJaid.jpg",
+  "coverPath": "data/covers/2109388484569924030-wide.jpg",
+  "gifPath": "data/gifs/2109388484569924030.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109388287232102400/vid/avc1/438x270/DAoDPIWXitQbgxYo.mp4?tag=29",
+    "x-video:2109388287232102400",
+    "x-post:2109388484569924030"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Hand Gestures with Framer and MediaPipe",
+      "summary": "Author experiments with MediaPipe and Framer 3D transforms via Opus 5.5 to manipulate 3D shapes with gestures.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Framer Agent",
+        "authorUseConfirmed": true,
+        "evidence": "Experimenting with MediaPipe and 3D transforms using the Framer Agent with Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+        "englishText": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Ending instructions cut off after 'and an option'"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates gesture-based 3D rotation, scaling, and theme switching corresponding to prompt instructions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "video_stream",
+          "description": "User webcam feed for real-time MediaPipe hand tracking",
+          "available": true,
+          "evidence": "It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback).",
+          "origin": "user",
+          "sourceUrl": "https://x.com/emili_iv/status/2109388487279722597"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Framer",
+          "role": "Host environment and 3D transform rendering engine",
+          "evidence": "using the Framer Agent with Opus 5.5",
+          "sourceUrl": "https://x.com/emili_iv/status/2109388484569924030",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Google MediaPipe",
+          "role": "Hand gesture recognition and skeleton tracking",
+          "evidence": "Experimenting with MediaPipe and 3D transforms",
+          "sourceUrl": "https://x.com/emili_iv/status/2109388484569924030",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D gesture manipulation",
+        "topic": "games-interactive",
+        "tags": [
+          "mediapipe",
+          "framer",
+          "gesture-control",
+          "3d-transforms",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Code generation agent implementing the scene components and hand-tracking overrides",
+      "outputSource": "Framer canvas runtime",
+      "divisionEvidence": "using the Framer Agent with Opus 5.5",
+      "video": {
+        "shots": "Single continuous screen recording",
+        "duration": "23s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 driving an interactive 3D Framer scene via gesture control.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/emili_iv/status/2109388487279722597",
+        "start": 0,
+        "end": 3286
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/emili_iv/status/2109388484569924030",
+        "author": "emili_iv",
+        "postId": "2109388484569924030",
+        "publishedAt": "2026-10-11T20:59:39.000Z"
+      },
+      "checkedAt": "2026-10-12T16:37:28.454Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/emili_iv/status/2109388487279722597",
+        "evidence": ""
+      }
+    },
+    "summary": "Author experiments with MediaPipe and Framer 3D transforms via Opus 5.5 to manipulate 3D shapes with gestures.",
+    "summaryEn": "Interactive 3D Hand Gestures with Framer and MediaPipe",
+    "originalPrompt": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+    "sourceRange": {
+      "start": 0,
+      "end": 3286
+    },
+    "translations": {
+      "zh": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option",
+      "en": "Build a full-screen \"Themed Scene\" component (1200×1000) with two variants, Light (white background, black lines) and Dark (black background, white lines). It switches between them with a 0.4s ease-in-out tween. Put it on the home page so it fills the width.3D OBJECTS (built from Framer 3D transforms, not images)Each object uses the same three-layer nesting:1. Outer \"stage\" frame: sets perspective. A hand-tracking override that handles grab, move and scale goes here.2. \"Rotation\" frame: keeps children in 3D. A hand-tracking override that handles rotation goes here.3. Object frame: keeps children in 3D, with a resting tilt.a) Cube: stage 424×424, perspective 1600px. Rotation frame 300×300, centered. Cluster tilted -28° on X and 36° on Y. Inside it, one 150px cube built from 6 faces with 1.5px black outlines and no fill:  front: pushed forward 75px · back: turned 180° on Y and pushed back 75px  right: shifted right 75px and turned 90° on Y · left: shifted left 75px and turned -90° on Y  top: shifted up 75px and turned 90° on X · bottom: shifted down 75px and turned -90° on Xb) Box: stage 282×282, perspective 1200px. A 120w × 150h × 200d box tilted -22° on X and 38° on Y. Its faces are filled with the variant's background color and outlined, so the box reads as solid.c) Diamond (octahedron wireframe): stage 322×308, perspective 1600px. A 281px object turned -90° on Z. It's made of 12 lines, each 1.5px thick, placed freely and positioned with sideways turns, Z turns and depth offsets so they meet at 6 points. Edges at the back are lighter or https://t.co/nia9sbosrt the three objects loosely across the canvas so they don't overlap.LIGHT SWITCHA 120px-wide vertical stack with 16px rounded corners. It holds an \"on\" switch drawing, an \"off\" switch drawing and a label (\"Lights on\" / \"Lights off\"). Clicking it toggles the Light and Dark variants. A hand-press override goes on it.HAND TRACKING (one code file: three overrides plus a toggle button)- Toggle button: a pill-shaped \"Start hand tracking\" / \"Stop hand tracking\" button centered at the bottom. It starts the webcam and Google MediaPipe hand tracking (two hands, GPU with CPU fallback). A mirrored 240×180 webcam preview sits in the bottom-right corner with the hand skeleton drawn on top. Each hand gets an on-screen cursor: the left hand is a solid dot, the right hand a dashed ring, and the cursor fills in while it's holding or rotating something.- Gestures: • LEFT hand pinch (thumb to index) on an object = grab it. Moving the hand moves the object with a spring. Widening or tightening the pinch scales it (0.25× to 4×). • To let go, open the palm or touch thumb to middle finger. The object then rewinds about 450ms so it doesn't jump at the end. • RIGHT hand pinch on an object = rotate it. Hand movement turns it freely (about one full turn per 500px). Twisting the wrist turns it on the third axis. Rotation is in screen space so turns accumulate without limit and stay smooth at any angle, with no flipping. • Either hand pinching over the light switch = click it.- Make the tracking feel stable: smooth out jitter, use separate thresholds for starting and ending a pinch, and require the fingers to relax before a hand can grab again.- Add an option to swap left and right hands and an option"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D gesture manipulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Ending instructions cut off after 'and an option'"
+      ],
+      "evidence": "Screen recording demonstrates gesture-based 3D rotation, scaling, and theme switching corresponding to prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

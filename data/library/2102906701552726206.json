@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:56:31.725Z",
+  "model": "opus5.5",
+  "prompt": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+  "promptTranslations": {
+    "en": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming."
+  },
+  "summary": "A prompt instructing the model to generate a standalone HTML/WebGL2 animation resembling a dynamic, unglued glass and gold leaf mosaic with flocking tile creatures.",
+  "summaryEn": "Animated Mosaic Film in WebGL2",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102906701552726206",
+    "canonicalUrl": "https://x.com/zeezomb/status/2102906701552726206",
+    "author": {
+      "username": "zeezomb",
+      "displayName": "Zee",
+      "profileUrl": "https://x.com/zeezomb"
+    },
+    "publishedAt": "2026-09-23T23:43:22.000Z",
+    "collectedAt": "2026-09-28T08:39:39.137Z",
+    "language": "en",
+    "originalText": "The model has got taste now. Opus 5.5 - prompt below https://t.co/u78yaKC9lY",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zeezomb/status/2102906701552726206",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102906404621172736/img/PG2MnVqREUrWOl4V.jpg",
+        "analysisUrl": "https://x.com/zeezomb/status/2102906701552726206"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 58
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/zeezomb/status/2102906703087825273",
+        "text": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+        "author": "zeezomb"
+      },
+      {
+        "url": "https://x.com/zeezomb/status/2102906701552726206",
+        "text": "Zee on X: \"The model has got taste now. Opus 5.5 - prompt below\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nZee on X: \"The model has got taste now. Opus 5.5 - prompt below\"\n\n\n\nZee\n\n@zeezomb\n\n\n\n\nThe model has got taste now. Opus 5.5 - prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n11:43 PM · Sep 23, 2026·58\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nZee@zeezombFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nZee\n\n@zeezomb\n\n\n\n\nThe model has got taste now. Opus 5.5 - prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n11:43 PM · Sep 23, 2026·58\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nZee\n\n@zeezomb\nSep 23\n\n\nMake an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click Show more\n\n\n\n\n1\n21\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zeezomb"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/zeezomb/status/2102906701552726206",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102906404621172736/img/PG2MnVqREUrWOl4V.jpg",
+  "coverPath": "data/covers/2102906701552726206-wide.jpg",
+  "gifPath": "data/gifs/2102906701552726206.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102906404621172736",
+    "x-post:2102906701552726206"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Animated Mosaic Film in WebGL2",
+      "summary": "A prompt instructing the model to generate a standalone HTML/WebGL2 animation resembling a dynamic, unglued glass and gold leaf mosaic with flocking tile creatures.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+        "englishText": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files.",
+          "sourceUrl": "https://x.com/zeezomb/status/2102906703087825273",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/zeezomb/status/2102906701552726206",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/zeezomb/status/2102906703087825273",
+        "start": 0,
+        "end": 361
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/zeezomb/status/2102906701552726206",
+        "author": "zeezomb",
+        "postId": "2102906701552726206",
+        "publishedAt": "2026-09-23T23:43:22.000Z"
+      },
+      "checkedAt": "2026-09-28T08:40:29.733Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zeezomb/status/2102906703087825273",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt instructing the model to generate a standalone HTML/WebGL2 animation resembling a dynamic, unglued glass and gold leaf mosaic with flocking tile creatures.",
+    "summaryEn": "Animated Mosaic Film in WebGL2",
+    "originalPrompt": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+    "sourceRange": {
+      "start": 0,
+      "end": 361
+    },
+    "translations": {
+      "zh": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
+      "en": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt instructing the model to generate a standalone HTML/WebGL2 animation resembling a dynamic, unglued glass and gold leaf mosaic with flocking tile creatures.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

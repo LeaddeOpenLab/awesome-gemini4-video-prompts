@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:43:22.504Z",
+  "model": "opus5.5",
+  "prompt": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.",
+  "promptTranslations": {
+    "en": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it."
+  },
+  "summary": "Parker Rex shares an animated diagram of a token bucket rate limiter created with an AI prompt utilizing HTML5 canvas without external libraries.",
+  "summaryEn": "Token Bucket Rate Limiter Animation Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103206747846701462",
+    "canonicalUrl": "https://x.com/ParkerRex/status/2103206747846701462",
+    "author": {
+      "username": "ParkerRex",
+      "displayName": "Parker Rex",
+      "profileUrl": "https://x.com/ParkerRex"
+    },
+    "publishedAt": "2026-09-24T19:35:39.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "3/ Ole Lehmann's list of what Opus 5.5 animation is good for was bookmarked 2,100 times this week. Number 8 was animated diagrams. So I asked for one.\n\nOne prompt: explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.\n\n- 193 seconds, 70 cents, 10K characters of HTML\n- The count on screen matches the simulation at every frame. I asked for that and it held\n- Same pipeline as every other video in this thread, untouched\n\nThis is the b-roll Ole means. It took less time than finding a stock clip.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ParkerRex/status/2103206747846701462",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103205278728474624/img/D6ih3lsu4WkYEIfK.jpg",
+        "analysisUrl": "https://x.com/ParkerRex/status/2103206747846701462"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 70
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/ParkerRex/status/2103206747846701462",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103205278728474624/img/D6ih3lsu4WkYEIfK.jpg",
+  "coverPath": "data/covers/2103206747846701462-wide.jpg",
+  "gifPath": "data/gifs/2103206747846701462.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103205278728474624",
+    "x-post:2103206747846701462"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Token Bucket Rate Limiter Animation Prompt",
+      "summary": "Parker Rex shares an animated diagram of a token bucket rate limiter created with an AI prompt utilizing HTML5 canvas without external libraries.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.",
+        "englishText": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/ParkerRex/status/2103206747846701462",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ParkerRex/status/2103206747846701462",
+        "start": 164,
+        "end": 297
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ParkerRex/status/2103206747846701462",
+        "author": "ParkerRex",
+        "postId": "2103206747846701462",
+        "publishedAt": "2026-09-24T19:35:39.000Z"
+      },
+      "checkedAt": "2026-09-28T08:30:47.945Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ParkerRex/status/2103206747846701462",
+        "evidence": ""
+      }
+    },
+    "summary": "Parker Rex shares an animated diagram of a token bucket rate limiter created with an AI prompt utilizing HTML5 canvas without external libraries.",
+    "summaryEn": "Token Bucket Rate Limiter Animation Prompt",
+    "originalPrompt": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.",
+    "sourceRange": {
+      "start": 164,
+      "end": 297
+    },
+    "translations": {
+      "zh": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.",
+      "en": "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Parker Rex shares an animated diagram of a token bucket rate limiter created with an AI prompt utilizing HTML5 canvas without external libraries.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:32.504Z",
+  "model": "opus5.5",
+  "prompt": "an opening question with a number, a chain of causes, a \"but that's not enough\" to keep momentum going, and an ending with \"it's not that, it's not that, it's that\"",
+  "promptTranslations": {
+    "en": "an opening question with a number, a chain of causes, a \"but that's not enough\" to keep momentum going, and an ending with \"it's not that, it's not that, it's that\""
+  },
+  "summary": "Educational TikTok explainer video styled as an AI agent sea shanty, generated using lyrics and time-driven HTML5 canvas code from Claude Opus 5.5, audio from Suno v6, word-level subtitle alignment from Whisper, and rendered via headless Chromium with ffmpeg.",
+  "summaryEn": "AI Agent Explainer Sea Shanty Animation via Claude Opus 5.5 Canvas Code",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2106728230707159472",
+    "canonicalUrl": "https://x.com/leploutos/status/2106728230707159472",
+    "author": {
+      "username": "leploutos",
+      "displayName": "Le PLOUTOS",
+      "profileUrl": "https://x.com/leploutos"
+    },
+    "publishedAt": "2026-10-04T12:48:45.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "fr",
+    "originalText": "J'ai fait une vidéo TikTok qui explique les agents IA en chant de marin. Uniquement avec Suno v6, et Claude Opus 5.5. Paroles, musique, animation et karaoké synchronisé au mot près, sans ouvrir un logiciel de montage.\n\nLe format vient des vidéos éducatives chantées qui tournent sur TikTok en ce moment. J'ai donné à Claude la transcription de quelques vidéos, et on a repris sa mécanique : une question d'entrée avec un chiffre, une chaîne de causes, un « mais ça suffit pas » pour relancer, et un final en « c'est pas ça, c'est pas ça, c'est ça ».\n\nLa musique sort de @suno, et c'est elle qui a demandé le plus d'essais. Pour accélérer, j'ai empilé « fast », « shouted » et 128 BPM dans le prompt. Le chant de marin est devenu un mec énervé qui crie, avec un chœur de temps en temps. Revenir au prompt qui marchait et relancer jusqu'à avoir une version propre a réglé le problème.\n\nLa vidéo, c'est 100 % du code. Claude a écrit une animation canvas pilotée par le temps, Whisper a sorti le timing de chaque mot pour le karaoké, et les 2 310 images ont été rendues dans un Chromium headless puis assemblées avec ffmpeg.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/leploutos/status/2106728230707159472",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2106728180182622208/img/VYeGyR7EdgvNnpp_.jpg",
+        "analysisUrl": "https://x.com/leploutos/status/2106728230707159472"
+      }
+    ],
+    "metrics": {
+      "likeCount": 51,
+      "repostCount": 1,
+      "replyCount": 19,
+      "quoteCount": 1,
+      "viewCount": 4615
+    },
+    "matchedRuleIds": [
+      "group:opus:fr:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2107216716787069354",
+        "text": "@Eloise1041955 Direct 🫡",
+        "author": "leploutos"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2106783097748332581",
+        "text": "@justin_mecque Ouais !",
+        "author": "leploutos"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2106783002110112070",
+        "text": "@Eloise1041955 De ouf 🤯 Je m’attendais à devoir corriger 12x, et au final il a dépassé mon imagination dès le premier essai",
+        "author": "leploutos"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2106782847491006748",
+        "text": "@maxmenkmuller Ah, enfin l’effet voulu 😂",
+        "author": "leploutos"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2106744593358213387",
+        "text": "@rben_ll Le réveil du dimanche",
+        "author": "leploutos"
+      },
+      {
+        "url": "https://x.com/leploutos/status/2106738605268074860",
+        "text": "Le PLOUTOS on X: \"@RosoAI\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nLe PLOUTOS on X: \"@RosoAI\"\n\n\n\nLe PLOUTOS\n\n@leploutos\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n1:29 PM · Oct 4, 2026·153\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nLe PLOUTOS@leploutosFollow\nGourou de l’IA, je build des agents pour les entreprises. L&#x27;UE les taxera bientôt.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoso\n\n@RosoAI\nOct 4\n\n\nLa vidéo viens de me faire des traumatismes\n\n\n1\n\n1\n186\n\n\n\n\n\n\n\n\n\n\nLe PLOUTOS\n\n@leploutos\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n1:29 PM · Oct 4, 2026·153\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "leploutos"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/leploutos/status/2106730902386860348",
+        "text": "@barbinvest Je crois que certaine personnes aiment ce style 😅",
+        "author": "leploutos"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/leploutos/status/2106728230707159472",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2106728180182622208/img/VYeGyR7EdgvNnpp_.jpg",
+  "coverPath": "data/covers/2106728230707159472-wide.jpg",
+  "gifPath": "data/gifs/2106728230707159472.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2106728180182622208",
+    "x-post:2106728230707159472"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AI Agent Explainer Sea Shanty Animation via Claude Opus 5.5 Canvas Code",
+      "summary": "Educational TikTok explainer video styled as an AI agent sea shanty, generated using lyrics and time-driven HTML5 canvas code from Claude Opus 5.5, audio from Suno v6, word-level subtitle alignment from Whisper, and rendered via headless Chromium with ffmpeg.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Uniquement avec Suno v6, et Claude Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "une question d'entrée avec un chiffre, une chaîne de causes, un « mais ça suffit pas » pour relancer, et un final en « c'est pas ça, c'est pas ça, c'est ça »",
+        "englishText": "an opening question with a number, a chain of causes, a \"but that's not enough\" to keep momentum going, and an ending with \"it's not that, it's not that, it's that\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts and user instructions provided to Claude Opus 5.5",
+          "Full canvas animation rendering script and coordinate layouts",
+          "Transcripts of sample TikTok videos passed as reference context"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 9:16 vertical motion graphic with sea-shanty vocal track, word-by-word synced karaoke captions, server room illustrations, clock timelines, and task checklists exactly illustrating how an AI agent operates overnight.",
+        "textualResultQuote": "Paroles, musique, animation et karaoké synchronisé au mot près, sans ouvrir un logiciel de montage."
+      },
+      "inputs": [
+        {
+          "kind": "text",
+          "description": "Transcripts of educational TikTok videos used to establish formatting and storytelling mechanics.",
+          "available": false,
+          "evidence": "J'ai donné à Claude la transcription de quelques vidéos, et on a repris sa mécanique",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "kind": "audio",
+          "description": "Sea shanty audio track generated with Suno v6 (128 BPM, fast, shouted style).",
+          "available": true,
+          "evidence": "La musique sort de @suno, et c'est elle qui a demandé le plus d'essais. Pour accélérer, j'ai empilé « fast », « shouted » et 128 BPM dans le prompt.",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "kind": "data",
+          "description": "Word-level timestamp alignment extracted with Whisper from the Suno audio track.",
+          "available": false,
+          "evidence": "Whisper a sorti le timing de chaque mot pour le karaoké",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Chromium headless",
+          "role": "Rendered the 2,310 individual canvas frames",
+          "evidence": "les 2 310 images ont été rendues dans un Chromium headless",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "name": "Claude Opus 5.5",
+          "role": "Wrote the time-driven HTML5 canvas animation code and structured the lyrics",
+          "evidence": "Claude a écrit une animation canvas pilotée par le temps",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "name": "ffmpeg",
+          "role": "Assembled the rendered frames and audio into the final video file",
+          "evidence": "puis assemblées avec ffmpeg.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "name": "Suno v6",
+          "role": "Music and vocal generation",
+          "evidence": "Uniquement avec Suno v6, et Claude Opus 5.5.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        },
+        {
+          "name": "Whisper",
+          "role": "Extracted word-level timing for karaoke synchronization",
+          "evidence": "Whisper a sorti le timing de chaque mot pour le karaoké",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/leploutos/status/2106728230707159472"
+        }
+      ],
+      "purpose": {
+        "label": "Sea shanty AI agent vertical explainer",
+        "topic": "explainers",
+        "tags": [
+          "canvas",
+          "educational",
+          "motion-graphics",
+          "tiktok",
+          "karaoke",
+          "suno"
+        ]
+      },
+      "targetModelRole": "Writing the complete time-driven HTML5 canvas animation code and co-writing/structuring the sea shanty lyrics",
+      "outputSource": "Chromium headless rendering of Claude-generated HTML5 Canvas",
+      "divisionEvidence": "Claude a écrit une animation canvas pilotée par le temps, Whisper a sorti le timing de chaque mot pour le karaoké, et les 2 310 images ont été rendues dans un Chromium headless puis assemblées avec ffmpeg.",
+      "video": {
+        "shots": "Multiple dynamic 2D canvas graphic scenes (timer clock, smartphone apps, server tower, obstacle navigation bar, task completion checklist) sequenced across a timeline",
+        "duration": "01:17",
+        "aspectRatio": "9:16",
+        "referenceMaterials": [
+          "TikTok educational singing videos",
+          "Suno v6 audio track",
+          "Whisper word timestamps"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of video motion production driven entirely by code generated by Claude Opus 5.5, with full toolchain disclosure (Chromium headless, Whisper, Suno, ffmpeg) and accompanying finished video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/leploutos/status/2106728230707159472",
+        "start": 391,
+        "end": 548
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/leploutos/status/2106728230707159472",
+        "author": "leploutos",
+        "postId": "2106728230707159472",
+        "publishedAt": "2026-10-04T12:48:45.000Z"
+      },
+      "checkedAt": "2026-10-10T16:27:41.146Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/leploutos/status/2106728230707159472",
+        "evidence": ""
+      }
+    },
+    "summary": "Educational TikTok explainer video styled as an AI agent sea shanty, generated using lyrics and time-driven HTML5 canvas code from Claude Opus 5.5, audio from Suno v6, word-level subtitle alignment from Whisper, and rendered via headless Chromium with ffmpeg.",
+    "summaryEn": "AI Agent Explainer Sea Shanty Animation via Claude Opus 5.5 Canvas Code",
+    "originalPrompt": "une question d'entrée avec un chiffre, une chaîne de causes, un « mais ça suffit pas » pour relancer, et un final en « c'est pas ça, c'est pas ça, c'est ça »",
+    "sourceRange": {
+      "start": 391,
+      "end": 548
+    },
+    "translations": {
+      "zh": "une question d'entrée avec un chiffre, une chaîne de causes, un « mais ça suffit pas » pour relancer, et un final en « c'est pas ça, c'est pas ça, c'est ça »",
+      "en": "an opening question with a number, a chain of causes, a \"but that's not enough\" to keep momentum going, and an ending with \"it's not that, it's not that, it's that\""
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Sea shanty AI agent vertical explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts and user instructions provided to Claude Opus 5.5",
+        "Full canvas animation rendering script and coordinate layouts",
+        "Transcripts of sample TikTok videos passed as reference context"
+      ],
+      "evidence": "The video shows a 9:16 vertical motion graphic with sea-shanty vocal track, word-by-word synced karaoke captions, server room illustrations, clock timelines, and task checklists exactly illustrating how an AI agent operates overnight."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

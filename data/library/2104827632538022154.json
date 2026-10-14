@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:08.825Z",
+  "model": "opus5.5",
+  "prompt": "1. Import three@0.160.0 from CDN using importmap, without any build steps\n2. Dark background, approximately 12,000 glowing particles smoothly morphing between three shapes: 'Sphere → Heart → HI text' every 4 seconds\n3. For the text shape, draw text onto an offscreen canvas and sample particle positions without loading external fonts or images\n4. Gradient colors across particles based on shape, additive blending for a glowing effect, slow overall self-rotation, with parallax tracking mouse movement\n5. Display the current shape name in small text at the bottom right corner",
+  "promptTranslations": {
+    "en": "1. Import three@0.160.0 from CDN using importmap, without any build steps\n2. Dark background, approximately 12,000 glowing particles smoothly morphing between three shapes: 'Sphere → Heart → HI text' every 4 seconds\n3. For the text shape, draw text onto an offscreen canvas and sample particle positions without loading external fonts or images\n4. Gradient colors across particles based on shape, additive blending for a glowing effect, slow overall self-rotation, with parallax tracking mouse movement\n5. Display the current shape name in small text at the bottom right corner"
+  },
+  "summary": "Claude Opus 5.5 generated a standalone Three.js particle system featuring 12,000 glowing particles smoothly morphing across sphere, heart, and text shapes with interactive mouse parallax.",
+  "summaryEn": "Three.js 3D Particle Morphing Animation with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104827632538022154",
+    "canonicalUrl": "https://x.com/DaisyDiao2/status/2104827632538022154",
+    "author": {
+      "username": "DaisyDiao2",
+      "displayName": "daisydiao.eth",
+      "profileUrl": "https://x.com/DaisyDiao2"
+    },
+    "publishedAt": "2026-09-29T06:56:28.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "zh",
+    "originalText": "claude-opus-5-5做的，提示词见评论区 https://t.co/8PYZCPQhui",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DaisyDiao2/status/2104827632538022154",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104827358121443329/img/YvTm8rYeIKPAsXgj.jpg",
+        "analysisUrl": "https://x.com/DaisyDiao2/status/2104827632538022154"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 74
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DaisyDiao2/status/2104827778948616317",
+        "text": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次\n3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片\n4. 粒子按形态渐变颜色，加色混合出辉光感，整体缓慢自转，鼠标移动带视差\n5. 右下角小字显示当前形态名称",
+        "author": "DaisyDiao2"
+      },
+      {
+        "url": "https://x.com/DaisyDiao2/status/2104827632538022154",
+        "text": "daisydiao.eth on X: \"claude-opus-5-5做的，提示词见评论区\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\ndaisydiao.eth on X: \"claude-opus-5-5做的，提示词见评论区\"\n\n\n\ndaisydiao.eth\n@DaisyDiao2\n\n\n\n\nShow translation\nclaude-opus-5-5做的，提示词见评论区\n\n\n00:00\n\n\n\n\n\n\n\n\n6:56 AM · Sep 29, 2026·74\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\ndaisydiao.eth@DaisyDiao2Follow\nAi ❤️ AI & 🐱 & 🐶\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndaisydiao.eth\n@DaisyDiao2\n\n\n\n\nShow translation\nclaude-opus-5-5做的，提示词见评论区\n\n\n00:00\n\n\n\n\n\n\n\n\n6:56 AM · Sep 29, 2026·74\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\ndaisydiao.eth\n@DaisyDiao2\n23h\n\n\n1. 用 importmap 从 CDN 引入 [email&#160;protected]，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次\n3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片\n4. Show more\n\n\n\n\n\n42\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DaisyDiao2"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DaisyDiao2/status/2104827632538022154",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104827358121443329/img/YvTm8rYeIKPAsXgj.jpg",
+  "coverPath": "data/covers/2104827632538022154-wide.jpg",
+  "gifPath": "data/gifs/2104827632538022154.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104827358121443329",
+    "x-post:2104827632538022154"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js 3D Particle Morphing Animation with Claude Opus 5.5",
+      "summary": "Claude Opus 5.5 generated a standalone Three.js particle system featuring 12,000 glowing particles smoothly morphing across sphere, heart, and text shapes with interactive mouse parallax.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "claude-opus-5-5做的，提示词见评论区"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次\n3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片\n4. 粒子按形态渐变颜色，加色混合出辉光感，整体缓慢自转，鼠标移动带视差\n5. 右下角小字显示当前形态名称",
+        "englishText": "1. Import three@0.160.0 from CDN using importmap, without any build steps\n2. Dark background, approximately 12,000 glowing particles smoothly morphing between three shapes: 'Sphere → Heart → HI text' every 4 seconds\n3. For the text shape, draw text onto an offscreen canvas and sample particle positions without loading external fonts or images\n4. Gradient colors across particles based on shape, additive blending for a glowing effect, slow overall self-rotation, with parallax tracking mouse movement\n5. Display the current shape name in small text at the bottom right corner",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates ~12,000 particles cycling smoothly between a 3D sphere, a heart geometry, and the 'HI' letterforms every few seconds against a dark backdrop with glow blending and mouse-driven parallax.",
+        "textualResultQuote": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas API",
+          "role": "Offscreen canvas used to render text and sample pixel coordinates for particle target positions",
+          "evidence": "3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片",
+          "sourceUrl": "https://x.com/DaisyDiao2/status/2104827778948616317",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL rendering library imported via CDN importmap to drive particle shaders and 3D transformations",
+          "evidence": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤",
+          "sourceUrl": "https://x.com/DaisyDiao2/status/2104827778948616317",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Particle Morphing System",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "particles",
+          "webgl",
+          "morphing",
+          "interactive",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the complete client-side WebGL script using Three.js to construct the particle geometry, morphing math, offscreen canvas sampling, and interaction logic.",
+      "outputSource": "Web browser rendering Three.js WebGL canvas captured via screen recording.",
+      "divisionEvidence": "Author specified 'claude-opus-5-5做的' and supplied the prompt used to instruct Claude Opus to create the self-contained Three.js script without build steps.",
+      "video": {
+        "shots": "1 continuous interactive screen recording",
+        "duration": "00:30",
+        "aspectRatio": "2.17:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding video case featuring a complete original prompt, verified model version, and working Three.js interactive 3D particle demo.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DaisyDiao2/status/2104827778948616317",
+        "start": 0,
+        "end": 198
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DaisyDiao2/status/2104827632538022154",
+        "author": "DaisyDiao2",
+        "postId": "2104827632538022154",
+        "publishedAt": "2026-09-29T06:56:28.000Z"
+      },
+      "checkedAt": "2026-09-30T06:16:13.507Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/DaisyDiao2/status/2104827778948616317",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a standalone Three.js particle system featuring 12,000 glowing particles smoothly morphing across sphere, heart, and text shapes with interactive mouse parallax.",
+    "summaryEn": "Three.js 3D Particle Morphing Animation with Claude Opus 5.5",
+    "originalPrompt": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次\n3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片\n4. 粒子按形态渐变颜色，加色混合出辉光感，整体缓慢自转，鼠标移动带视差\n5. 右下角小字显示当前形态名称",
+    "sourceRange": {
+      "start": 0,
+      "end": 198
+    },
+    "translations": {
+      "zh": "1. 用 importmap 从 CDN 引入 three@0.160.0，不要任何构建步骤\n2. 深色背景，约 12000 个发光粒子，在\"球体 → 爱心 → HI 文字\"三种形态之间每 4 秒平滑变形一次\n3. 文字形态用离屏 canvas 画字再采样粒子位置，不要加载外部字体或图片\n4. 粒子按形态渐变颜色，加色混合出辉光感，整体缓慢自转，鼠标移动带视差\n5. 右下角小字显示当前形态名称",
+      "en": "1. Import three@0.160.0 from CDN using importmap, without any build steps\n2. Dark background, approximately 12,000 glowing particles smoothly morphing between three shapes: 'Sphere → Heart → HI text' every 4 seconds\n3. For the text shape, draw text onto an offscreen canvas and sample particle positions without loading external fonts or images\n4. Gradient colors across particles based on shape, additive blending for a glowing effect, slow overall self-rotation, with parallax tracking mouse movement\n5. Display the current shape name in small text at the bottom right corner"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Particle Morphing System",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates ~12,000 particles cycling smoothly between a 3D sphere, a heart geometry, and the 'HI' letterforms every few seconds against a dark backdrop with glow blending and mouse-driven parallax."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

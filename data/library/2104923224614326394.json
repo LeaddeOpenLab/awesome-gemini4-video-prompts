@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:06.962Z",
+  "model": "opus5.5",
+  "prompt": "Summarize the key points and proposals I especially emphasize in my past business negotiations and meetings into a video.",
+  "promptTranslations": {
+    "en": "Summarize the key points and proposals I especially emphasize in my past business negotiations and meetings into a video."
+  },
+  "summary": "Nishizawa Shimon showcases a 29-second motion graphics promotional explainer generated with Claude Opus 5.5 and Claude Code connected to Lark, summarizing recurring business proposals and negotiation transcripts into a video without manual storyboarding.",
+  "summaryEn": "Automated Corporate Explainer Video Generated from Lark Meeting Data via Claude Code and Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104923224614326394",
+    "canonicalUrl": "https://x.com/NishizawaShimon/status/2104923224614326394",
+    "author": {
+      "username": "NishizawaShimon",
+      "displayName": "西澤志門@AI中心の会社経営",
+      "profileUrl": "https://x.com/NishizawaShimon"
+    },
+    "publishedAt": "2026-09-29T13:16:18.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "ja",
+    "originalText": "Opus5.5で一発生成。\nそれもすごいが、ミソはそこではない。\n\nこの動画の構成も、入れる要素も、何も指示していない。\n伝えたのは、この一文だけ。\n\n『これまでの私の商談や会議内容から、私が特に主張、提案している内容を動画にまとめて』\n\nつまり、注目すべきは「どう指示したか」より、「動画の元になるデータがどこにあるか」。\n\nデータ＝素材。\nAI＝凄腕の料理人。\n\n日々の商談や会議を、素材として冷蔵庫に入れておく。\nしかも、AIがその冷蔵庫を開けられる状態にしておく。\n\nそうすれば、必要になったときに「この素材で動画を作って」と頼める。\n\n最初から動画用の台本を書いたわけじゃない。\n普段の仕事で残った情報が、そのまま動画の材料になった。\n\nさらに、料理人の腕が上がれば、同じ素材から作れる料理も、仕上がりも変わる。\n\nだから、最新モデルを追うだけでなく、今日の商談を残してほしい。\n\n凄腕の料理人を呼んでも、冷蔵庫が空なら、自社ならではの料理は出てこない。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/NishizawaShimon/status/2104923224614326394",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104923201910587392/img/uWsPVV52fbcOC77j.jpg",
+        "analysisUrl": "https://x.com/NishizawaShimon/status/2104923224614326394"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 743
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NishizawaShimon/status/2104925283128332557",
+        "text": "ちなみに弊社は、Larkに全てデータをいれている。\nメッセージもドキュメントも会議の録画も文字起こしもメールも全て。\n\nそして、Claude CodeとLarkを繋いでいるため、Claudeに一言言えば、私の主張通りの内容で動画を作ってくれる。\n\nこのデータがないと、見た目はすごい動画だが、中身がなんか違うなといった動画になる。\n\n100名未満の会社は問答無用にLarkにまとめることをお勧めする。",
+        "author": "NishizawaShimon"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/NishizawaShimon/status/2104923224614326394",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104923201910587392/img/uWsPVV52fbcOC77j.jpg",
+  "coverPath": "data/covers/2104923224614326394-wide.jpg",
+  "gifPath": "data/gifs/2104923224614326394.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104923201910587392",
+    "x-post:2104923224614326394"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Automated Corporate Explainer Video Generated from Lark Meeting Data via Claude Code and Opus 5.5",
+      "summary": "Nishizawa Shimon showcases a 29-second motion graphics promotional explainer generated with Claude Opus 5.5 and Claude Code connected to Lark, summarizing recurring business proposals and negotiation transcripts into a video without manual storyboarding.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Opus5.5で一発生成。 [...] そして、Claude CodeとLarkを繋いでいるため、Claudeに一言言えば、私の主張通りの内容で動画を作ってくれる。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "これまでの私の商談や会議内容から、私が特に主張、提案している内容を動画にまとめて",
+        "englishText": "Summarize the key points and proposals I especially emphasize in my past business negotiations and meetings into a video.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Internal Lark knowledge base containing meeting transcripts and negotiation notes",
+          "Video rendering engine/code toolchain integrated into the Claude Code environment"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 29-second video displays kinetic typography, stylized graphic cards, corporate branding (Souzoh LLC), voiceover, and audio summarizing business philosophies on AI adoption.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "database / knowledge base",
+          "description": "Lark database containing messages, documents, meeting recordings, transcripts, and emails.",
+          "available": false,
+          "evidence": "弊社は、Larkに全てデータをいれている。メッセージもドキュメントも会議の録画も文字起こしもメールも全て。",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent environment executing instructions and accessing Lark integration",
+          "evidence": "そして、Claude CodeとLarkを繋いでいるため、Claudeに一言言えば、私の主張通りの内容で動画を作ってくれる。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/NishizawaShimon/status/2104925283128332557"
+        },
+        {
+          "name": "Lark",
+          "role": "Corporate knowledge management system supplying source transcripts and meeting notes",
+          "evidence": "ちなみに弊社は、Larkに全てデータをいれている。メッセージもドキュメントも会議の録画も文字起こしもメールも全て。",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Corporate Philosophy Explainer Video",
+        "topic": "explainers",
+        "tags": [
+          "business",
+          "explainer",
+          "motion-graphics",
+          "claude-code",
+          "lark",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 synthesizes the business themes from Lark data and orchestrates video script, visuals, and generation instructions via Claude Code.",
+      "outputSource": "Video renderer / motion synthesis pipeline driven by Claude Code.",
+      "divisionEvidence": "この動画の構成も、入れる要素も、何も指示していない。伝えたのは、この一文だけ。『これまでの私の商談や会議内容から、私が特に主張、提案している内容を動画にまとめて』",
+      "video": {
+        "shots": "Multiple dynamic kinetic typography title cards, UI mockups, and portrait cutout with synchronized audio",
+        "duration": "00:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 operating via Claude Code to orchestrate and render an explainer video directly from unstructured corporate meeting records.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/NishizawaShimon/status/2104923224614326394",
+        "start": 77,
+        "end": 117
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/NishizawaShimon/status/2104923224614326394",
+        "author": "NishizawaShimon",
+        "postId": "2104923224614326394",
+        "publishedAt": "2026-09-29T13:16:18.000Z"
+      },
+      "checkedAt": "2026-09-30T09:20:23.383Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/NishizawaShimon/status/2104923224614326394",
+        "evidence": ""
+      }
+    },
+    "summary": "Nishizawa Shimon showcases a 29-second motion graphics promotional explainer generated with Claude Opus 5.5 and Claude Code connected to Lark, summarizing recurring business proposals and negotiation transcripts into a video without manual storyboarding.",
+    "summaryEn": "Automated Corporate Explainer Video Generated from Lark Meeting Data via Claude Code and Opus 5.5",
+    "originalPrompt": "これまでの私の商談や会議内容から、私が特に主張、提案している内容を動画にまとめて",
+    "sourceRange": {
+      "start": 77,
+      "end": 117
+    },
+    "translations": {
+      "zh": "これまでの私の商談や会議内容から、私が特に主張、提案している内容を動画にまとめて",
+      "en": "Summarize the key points and proposals I especially emphasize in my past business negotiations and meetings into a video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Corporate Philosophy Explainer Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Internal Lark knowledge base containing meeting transcripts and negotiation notes",
+        "Video rendering engine/code toolchain integrated into the Claude Code environment"
+      ],
+      "evidence": "The attached 29-second video displays kinetic typography, stylized graphic cards, corporate branding (Souzoh LLC), voiceover, and audio summarizing business philosophies on AI adoption."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

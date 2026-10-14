@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:40.699Z",
+  "model": "opus5.5",
+  "prompt": "Told Claude to make a cow that runs on its own teats and it just built the game.",
+  "promptTranslations": {
+    "en": "Told Claude to make a cow that runs on its own teats and it just built the game."
+  },
+  "summary": "AIMind_Ai demonstrates a QWOP-style 3D browser game created with Claude Opus 5.5 where players control four teats using Q, W, O, and P keys to make a legless cow sprint to a 100-meter finish line.",
+  "summaryEn": "Interactive browser game of a cow running on its teats built with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108428917509911018",
+    "canonicalUrl": "https://x.com/AIMind_Ai/status/2108428917509911018",
+    "author": {
+      "username": "AIMind_Ai",
+      "displayName": "AiMind",
+      "profileUrl": "https://x.com/AIMind_Ai"
+    },
+    "publishedAt": "2026-10-09T05:26:41.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "en",
+    "originalText": "The cow that runs on her udder is now a browser game.\n\nClaude Opus 5.5 built it. You control every teat yourself: Q, W, O, P. The finish is at 100 m.\n\nNobody is finishing this. I tried 20 times and didn't even make it halfway.\n\nLink in the replies. Drop your distance below. if you reach 100, post proof, because I won't believe you.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIMind_Ai/status/2108428917509911018",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108427629795631104/img/L_3ywq_pcXPax8y4.jpg",
+        "analysisUrl": "https://x.com/AIMind_Ai/status/2108428917509911018"
+      }
+    ],
+    "metrics": {
+      "likeCount": 396,
+      "repostCount": 43,
+      "replyCount": 30,
+      "quoteCount": 11,
+      "viewCount": 17427
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:tasks:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108573400557920537",
+        "text": "@shuizhuyu 20m is decent. Race conditions stay put, this one doesn’t. A few already finished the whole thing. Link’s in the replies.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108572781390537079",
+        "text": "@Shin__Aki That’s the plan. How far did you get?",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108572107416502730",
+        "text": "@Veeeee No legs is the bit. splayed ones would just make it normal.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108520735677325497",
+        "text": "@kingxiaoji Thanks, appreciate it. Try it and drop your distance.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108519516334624786",
+        "text": "@blooio_messages Yeah, that’s exactly it. Told Claude to make a cow that runs on its own teats and it just built the game.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108519215431033197",
+        "text": "@NameIsSpartacus Maybe we just started the next QWOP. Cow edition. Nobody’s finishing it yet.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108505495179022818",
+        "text": "@zgbygcd If a lot of people are interested in this, I’ll definitely add it.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108503083299066244",
+        "text": "@whydeso No cow haven’t named",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108496451252707375",
+        "text": "@Redundis It’s  wild. Still can’t finish it myself.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2108428957557076072",
+        "text": "https://t.co/aDedWtk4if",
+        "author": "AIMind_Ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/aDedWtk4if"
+    ]
+  },
+  "xUrl": "https://x.com/AIMind_Ai/status/2108428917509911018",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108427629795631104/img/L_3ywq_pcXPax8y4.jpg",
+  "coverPath": "data/covers/2108428917509911018-wide.jpg",
+  "gifPath": "data/gifs/2108428917509911018.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108427629795631104/vid/avc1/320x400/ZYtwzm4lqmUgqViq.mp4?tag=29",
+    "x-video:2108427629795631104",
+    "x-post:2108428917509911018"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive browser game of a cow running on its teats built with Claude Opus 5.5",
+      "summary": "AIMind_Ai demonstrates a QWOP-style 3D browser game created with Claude Opus 5.5 where players control four teats using Q, W, O, and P keys to make a legless cow sprint to a 100-meter finish line.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 built it. You control every teat yourself: Q, W, O, P."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Told Claude to make a cow that runs on its own teats and it just built the game.",
+        "englishText": "Told Claude to make a cow that runs on its own teats and it just built the game.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial code prompt",
+          "Physics and controls configuration parameters",
+          "3D scene rendering instructions",
+          "Key binding setup specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a screen recording of gameplay where the cow runs on four pink teats using Q, W, O, P controls, collapses on attempt 1 at 4.4 m with 'Udderly defeated', and reaches the 100 m finish line on attempt 2.",
+        "textualResultQuote": "100 metres. She did it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / Canvas Engine",
+          "role": "Execution and 3D rendering of the browser game code generated by Claude",
+          "evidence": "The cow that runs on her udder is now a browser game.",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/AIMind_Ai/status/2108428917509911018"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive QWOP-style Cow Runner Game",
+        "topic": "games-interactive",
+        "tags": [
+          "browser-game",
+          "interactive",
+          "creative-coding",
+          "physics-game",
+          "3d"
+        ]
+      },
+      "targetModelRole": "End-to-end coding of the browser game logic, kinematics, controls, and 3D presentation",
+      "outputSource": "Browser runtime executing generated code",
+      "divisionEvidence": "Claude Opus 5.5 built it. You control every teat yourself: Q, W, O, P. The finish is at 100 m.",
+      "video": {
+        "shots": "Single continuous screen recording showing two gameplay attempts with in-game fast-forward segments",
+        "duration": "0:51",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author demonstration of an interactive 3D browser game generated by Claude Opus 5.5, accompanied by a complete screen recording of gameplay.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIMind_Ai/status/2108519516334624786",
+        "start": 42,
+        "end": 122
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIMind_Ai/status/2108428917509911018",
+        "author": "AIMind_Ai",
+        "postId": "2108428917509911018",
+        "publishedAt": "2026-10-09T05:26:41.000Z"
+      },
+      "checkedAt": "2026-10-09T15:09:33.389Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AIMind_Ai/status/2108519516334624786",
+        "evidence": ""
+      }
+    },
+    "summary": "AIMind_Ai demonstrates a QWOP-style 3D browser game created with Claude Opus 5.5 where players control four teats using Q, W, O, and P keys to make a legless cow sprint to a 100-meter finish line.",
+    "summaryEn": "Interactive browser game of a cow running on its teats built with Claude Opus 5.5",
+    "originalPrompt": "Told Claude to make a cow that runs on its own teats and it just built the game.",
+    "sourceRange": {
+      "start": 42,
+      "end": 122
+    },
+    "translations": {
+      "zh": "Told Claude to make a cow that runs on its own teats and it just built the game.",
+      "en": "Told Claude to make a cow that runs on its own teats and it just built the game."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive QWOP-style Cow Runner Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial code prompt",
+        "Physics and controls configuration parameters",
+        "3D scene rendering instructions",
+        "Key binding setup specifications"
+      ],
+      "evidence": "The video shows a screen recording of gameplay where the cow runs on four pink teats using Q, W, O, P controls, collapses on attempt 1 at 4.4 m with 'Udderly defeated', and reaches the 100 m finish line on attempt 2."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

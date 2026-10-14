@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:14.873Z",
+  "model": "opus5.5",
+  "prompt": "Make a pop and cute commentary/explainer video",
+  "promptTranslations": {
+    "en": "Make a pop and cute commentary/explainer video"
+  },
+  "summary": "NOBU produced a pop, animated explainer video reviewing Kling 4.0 Flash using Claude Opus 5.5 based on structured Notion AI notes.",
+  "summaryEn": "Kling 4.0 Flash Review Animated Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104880176580731165",
+    "canonicalUrl": "https://x.com/nbykos/status/2104880176580731165",
+    "author": {
+      "username": "nbykos",
+      "displayName": "NOBU",
+      "profileUrl": "https://x.com/nbykos"
+    },
+    "publishedAt": "2026-09-29T10:25:15.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "ja",
+    "originalText": "Kling4.0 FlashのインプレッションをOpus5.5で動画化しました。謎のキャラクターは私です。\n\n作り方:\n- NotionのAIミーティングノートで気づきを口述\n- Notion AIでMECEに構造化\n- 上記NotionのページをClaudeのOpus5.5に渡す\n- ポップで可愛い感じの解説動画を作れと指示\n- 追加のやり取りで完成 https://t.co/26Ar5MqZOO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nbykos/status/2104880176580731165",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104879023893651456/img/xeWGEsUvffmiLqzu.jpg",
+        "analysisUrl": "https://x.com/nbykos/status/2104880176580731165"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 3,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1585
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/nbykos/status/2104880176580731165",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104879023893651456/img/xeWGEsUvffmiLqzu.jpg",
+  "coverPath": "data/covers/2104880176580731165-wide.jpg",
+  "gifPath": "data/gifs/2104880176580731165.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104879023893651456",
+    "x-post:2104880176580731165"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Kling 4.0 Flash Review Animated Explainer Video",
+      "summary": "NOBU produced a pop, animated explainer video reviewing Kling 4.0 Flash using Claude Opus 5.5 based on structured Notion AI notes.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Kling4.0 FlashのインプレッションをOpus5.5で動画化しました。... 上記NotionのページをClaudeのOpus5.5に渡す"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ポップで可愛い感じの解説動画を作れ",
+        "englishText": "Make a pop and cute commentary/explainer video",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial prompt text and system instructions passed to Claude Opus 5.5",
+          "Full Notion meeting note contents and MECE structure passed into context",
+          "Follow-up conversational prompt iterations",
+          "Exact animation/rendering framework code and configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 1 minute 11 second video displays a cute, pop 2D animated slide presentation reviewing Kling 4.0 Flash with comparisons, bullet lists, and the author's rabbit avatar.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "text",
+          "description": "Notion AI meeting notes with structured impressions of Kling 4.0 Flash",
+          "available": false,
+          "evidence": "NotionのAIミーティングノートで気づきを口述\n- Notion AIでMECEに構造化\n- 上記NotionのページをClaudeのOpus5.5に渡す",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/nbykos/status/2104880176580731165"
+        },
+        {
+          "kind": "character_asset",
+          "description": "Author's headphone-wearing mascot avatar used across slides",
+          "available": false,
+          "evidence": "謎のキャラクターは私です。",
+          "origin": "user",
+          "sourceUrl": "https://x.com/nbykos/status/2104880176580731165"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Notion AI",
+          "role": "Dictation transcription and MECE structuring of evaluation notes",
+          "evidence": "NotionのAIミーティングノートで気づきを口述\n- Notion AIでMECEに構造化",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/nbykos/status/2104880176580731165"
+        }
+      ],
+      "purpose": {
+        "label": "AI Model Review Explainer Animation",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "motion-graphics",
+          "kling-ai",
+          "opus-5-5",
+          "claude"
+        ]
+      },
+      "targetModelRole": "Agent generation and iterative refinement of the animated explainer video from input notes",
+      "outputSource": "Claude Opus 5.5 generated animation code/assets rendered to video",
+      "divisionEvidence": "上記NotionのページをClaudeのOpus5.5に渡す\n- ポップで可愛い感じの解説動画を作れと指示\n- 追加のやり取りで完成",
+      "video": {
+        "shots": null,
+        "duration": "01:11",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase featuring an animated explainer video generated from structured meeting notes.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nbykos/status/2104880176580731165",
+        "start": 144,
+        "end": 161
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nbykos/status/2104880176580731165",
+        "author": "nbykos",
+        "postId": "2104880176580731165",
+        "publishedAt": "2026-09-29T10:25:15.000Z"
+      },
+      "checkedAt": "2026-09-30T06:49:27.640Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nbykos/status/2104880176580731165",
+        "evidence": ""
+      }
+    },
+    "summary": "NOBU produced a pop, animated explainer video reviewing Kling 4.0 Flash using Claude Opus 5.5 based on structured Notion AI notes.",
+    "summaryEn": "Kling 4.0 Flash Review Animated Explainer Video",
+    "originalPrompt": "ポップで可愛い感じの解説動画を作れ",
+    "sourceRange": {
+      "start": 144,
+      "end": 161
+    },
+    "translations": {
+      "zh": "ポップで可愛い感じの解説動画を作れ",
+      "en": "Make a pop and cute commentary/explainer video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI Model Review Explainer Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial prompt text and system instructions passed to Claude Opus 5.5",
+        "Full Notion meeting note contents and MECE structure passed into context",
+        "Follow-up conversational prompt iterations",
+        "Exact animation/rendering framework code and configuration"
+      ],
+      "evidence": "The attached 1 minute 11 second video displays a cute, pop 2D animated slide presentation reviewing Kling 4.0 Flash with comparisons, bullet lists, and the author's rabbit avatar."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

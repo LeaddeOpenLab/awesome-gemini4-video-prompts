@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:01.156Z",
+  "model": "opus5.5",
+  "prompt": "build a fighting game where gods and monsters take on the icons of classic literature.",
+  "promptTranslations": {
+    "en": "build a fighting game where gods and monsters take on the icons of classic literature."
+  },
+  "summary": "A 2D pixel art fighting game called 'MYTHS vs INK' pitting mythological figures against classic literature characters, built with Claude Opus 5.5.",
+  "summaryEn": "Myths vs Ink Pixel Art Fighting Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108587180218327099",
+    "canonicalUrl": "https://x.com/Techsupersta/status/2108587180218327099",
+    "author": {
+      "username": "Techsupersta",
+      "displayName": "Tech superstar",
+      "profileUrl": "https://x.com/Techsupersta"
+    },
+    "publishedAt": "2026-10-09T15:55:34.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "Asked Claude Opus 5.5 to build a fighting game where gods and monsters take on the icons of classic literature.\n\n50 legends. Every power comes from their original myth or book. Thor vs Dracula, Medusa vs Sherlock, Heracles vs the Big Bad Wolf.\n\nWho wins in your matchup? \nhttps://t.co/kOj33soRZc\n\n@AnthropicAI @claudeai #AI #pixelart #indiedev",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Techsupersta/status/2108587180218327099",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108586708786905088/img/afJRf0CtD-BlmGSm.jpg",
+        "analysisUrl": "https://x.com/Techsupersta/status/2108587180218327099"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 29
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Techsupersta/status/2108587180218327099",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108586708786905088/img/afJRf0CtD-BlmGSm.jpg",
+  "coverPath": "data/covers/2108587180218327099-wide.jpg",
+  "gifPath": "data/gifs/2108587180218327099.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108586708786905088",
+    "x-post:2108587180218327099"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Myths vs Ink Pixel Art Fighting Game",
+      "summary": "A 2D pixel art fighting game called 'MYTHS vs INK' pitting mythological figures against classic literature characters, built with Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claude.ai",
+        "authorUseConfirmed": true,
+        "evidence": "Asked Claude Opus 5.5 to build a fighting game where gods and monsters take on the icons of classic literature."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a fighting game where gods and monsters take on the icons of classic literature.",
+        "englishText": "build a fighting game where gods and monsters take on the icons of classic literature.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete game engine logic",
+          "Character definitions and fighting mechanics",
+          "Sprite rendering/animation implementation",
+          "Dialogue and sound/effects code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows actual gameplay captures featuring Thor vs Count Dracula, Zeus/Medusa vs Frankenstein's Creature/Sherlock Holmes, and Heracles/Anubis vs The Big Bad Wolf/Captain Hook, ending with 'BUILT WITH CLAUDE OPUS 5.5'.",
+        "textualResultQuote": "MYTHS vs INK\nGODS & MONSTERS VS THE ICONS OF LITERATURE\n50 legends. Every move from their original stories.\nBUILT WITH CLAUDE OPUS 5.5"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Canvas/Web game framework",
+          "role": "Game rendering and interactive simulation",
+          "evidence": "Video showcases real-time pixel art rendering, health bars, dialogue bubbles, and hitboxes.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Myths vs Ink Fighting Game",
+        "topic": "games-interactive",
+        "tags": [
+          "fighting-game",
+          "pixel-art",
+          "canvas",
+          "interactive",
+          "claude-opus-5-5"
+        ]
+      },
+      "targetModelRole": "Generated the fighting game code, character abilities, and dialogue logic.",
+      "outputSource": "Web canvas / game engine screen recording",
+      "divisionEvidence": "Claude Opus 5.5 generated the game logic and asset configurations, which ran inside a browser/game environment captured as video.",
+      "video": {
+        "shots": "Multiple battle clips (Thor vs Dracula, Zeus/Medusa vs Frankenstein/Sherlock, Heracles/Anubis vs Big Bad Wolf/Captain Hook) followed by a victory and title card",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 2D pixel art game built with Claude Opus 5.5, supported by video evidence of game execution and explicit model attribution.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Techsupersta/status/2108587180218327099",
+        "start": 25,
+        "end": 111
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Techsupersta/status/2108587180218327099",
+        "author": "Techsupersta",
+        "postId": "2108587180218327099",
+        "publishedAt": "2026-10-09T15:55:34.000Z"
+      },
+      "checkedAt": "2026-10-09T20:36:03.824Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Techsupersta/status/2108587180218327099",
+        "evidence": ""
+      }
+    },
+    "summary": "A 2D pixel art fighting game called 'MYTHS vs INK' pitting mythological figures against classic literature characters, built with Claude Opus 5.5.",
+    "summaryEn": "Myths vs Ink Pixel Art Fighting Game",
+    "originalPrompt": "build a fighting game where gods and monsters take on the icons of classic literature.",
+    "sourceRange": {
+      "start": 25,
+      "end": 111
+    },
+    "translations": {
+      "zh": "build a fighting game where gods and monsters take on the icons of classic literature.",
+      "en": "build a fighting game where gods and monsters take on the icons of classic literature."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Myths vs Ink Fighting Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete game engine logic",
+        "Character definitions and fighting mechanics",
+        "Sprite rendering/animation implementation",
+        "Dialogue and sound/effects code"
+      ],
+      "evidence": "The video shows actual gameplay captures featuring Thor vs Count Dracula, Zeus/Medusa vs Frankenstein's Creature/Sherlock Holmes, and Heracles/Anubis vs The Big Bad Wolf/Captain Hook, ending with 'BUILT WITH CLAUDE OPUS 5.5'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

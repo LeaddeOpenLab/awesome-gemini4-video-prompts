@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:40.467Z",
+  "model": "opus5.5",
+  "prompt": "Please create a \"psychedelic / glitch style\" animated music video using the attached music track and character images.\n\n[Production Method]\nWrite the animation using HTML Canvas, capture it frame by frame with Playwright, and synthesize it with the audio via ffmpeg to output an MP4 (1280x720, 30fps, under 30MB).\nDo not use AI video generation; generate the entire animation programmatically.\n\n[Preprocessing]\n1. Make the background of all character images transparent, adding a white sticker-style outline and a soft drop shadow.\n2. Analyze the track: determine BPM, the position of the first beat, the start of each bar (4 beats), and the energy levels (intro / verse / chorus / bridge or drop) across each section.\n\n[Editing Rules]\n- Switch cuts on every beat. Randomly rotate cuts: full body, bust-up, extreme eye close-up, two poses side-by-side, five consecutive identical poses (each with different hues), and scene/background images.\n- Do not use the same pose on adjacent beats.\n- In low-energy sections, use scene images or quiet cuts to give breathing room.\n- Adjust effect intensity according to section: intro approx. 40%, verse 70%, chorus 100%.\n\n[Effects]\n1. White Flash: Flash on every beat and disappear immediately. The first beat of a measure is the strongest.\n2. Hue Flow: Continuous flowing rainbow patterns for the background (concentric spirals, rotating color wheel, melting rainbow waves, stripes, black-and-white checkerboard). In the chorus, hue-rotate the entire screen including the character.\n3. Screen Tearing: Apply horizontal band shifting + RGB split at the exact moment a beat drops, restoring it before the next beat so the character does not remain blurred constantly.\n4. Kaleidoscope: In the chorus, divide the screen into 8–12 mirrored sectors every other bar and slowly rotate.\n5. Large text per measure: Flash a giant word in the center of the screen for about 0.4 seconds at the start of a bar. Blend mode: difference, rainbow outline. Content of large text: [Insert desired text here, or specify \"choose keywords from lyrics\"].\n\n[Other]\n- Display a small title [Name] on the top left, [Date] on the top right, and the bar count on the bottom right.\n- Add subtle film grain and scanlines. Fade in from black at the beginning, fade out at the end.\n- Before final output, show a list of screenshots for each section for confirmation.",
+  "promptTranslations": {
+    "en": "Please create a \"psychedelic / glitch style\" animated music video using the attached music track and character images.\n\n[Production Method]\nWrite the animation using HTML Canvas, capture it frame by frame with Playwright, and synthesize it with the audio via ffmpeg to output an MP4 (1280x720, 30fps, under 30MB).\nDo not use AI video generation; generate the entire animation programmatically.\n\n[Preprocessing]\n1. Make the background of all character images transparent, adding a white sticker-style outline and a soft drop shadow.\n2. Analyze the track: determine BPM, the position of the first beat, the start of each bar (4 beats), and the energy levels (intro / verse / chorus / bridge or drop) across each section.\n\n[Editing Rules]\n- Switch cuts on every beat. Randomly rotate cuts: full body, bust-up, extreme eye close-up, two poses side-by-side, five consecutive identical poses (each with different hues), and scene/background images.\n- Do not use the same pose on adjacent beats.\n- In low-energy sections, use scene images or quiet cuts to give breathing room.\n- Adjust effect intensity according to section: intro approx. 40%, verse 70%, chorus 100%.\n\n[Effects]\n1. White Flash: Flash on every beat and disappear immediately. The first beat of a measure is the strongest.\n2. Hue Flow: Continuous flowing rainbow patterns for the background (concentric spirals, rotating color wheel, melting rainbow waves, stripes, black-and-white checkerboard). In the chorus, hue-rotate the entire screen including the character.\n3. Screen Tearing: Apply horizontal band shifting + RGB split at the exact moment a beat drops, restoring it before the next beat so the character does not remain blurred constantly.\n4. Kaleidoscope: In the chorus, divide the screen into 8–12 mirrored sectors every other bar and slowly rotate.\n5. Large text per measure: Flash a giant word in the center of the screen for about 0.4 seconds at the start of a bar. Blend mode: difference, rainbow outline. Content of large text: [Insert desired text here, or specify \"choose keywords from lyrics\"].\n\n[Other]\n- Display a small title [Name] on the top left, [Date] on the top right, and the bar count on the bottom right.\n- Add subtle film grain and scanlines. Fade in from black at the beginning, fade out at the end.\n- Before final output, show a list of screenshots for each section for confirmation."
+  },
+  "summary": "A detailed prompt for Opus 5.5 instructing it to create a psychedelic, glitch-style anime music video from still images and audio using programmatic HTML Canvas animation, Playwright capture, and FFmpeg encoding.",
+  "summaryEn": "Psychedelic Glitch Anime Music Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103722556918464968",
+    "canonicalUrl": "https://x.com/pound75423/status/2103722556918464968",
+    "author": {
+      "username": "pound75423",
+      "displayName": "Good FortuneX",
+      "profileUrl": "https://x.com/pound75423"
+    },
+    "publishedAt": "2026-09-26T05:45:17.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "ja",
+    "originalText": "I made a Japanese anime style MV using Opus 5.5. All you need to feed it are still images.\nOpus 5.5を使って和風アニメ風のMVを作りました。静止画を渡すだけで大丈夫です。\nprompt ↓↓↓ https://t.co/bwli5QJ5oV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/pound75423/status/2103722556918464968",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103721284228263936/img/WjA7dDuNXQLo_WEK.jpg",
+        "analysisUrl": "https://x.com/pound75423/status/2103722556918464968"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 276
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pound75423/status/2103722560462475314",
+        "text": "添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。\n\n【制作方法】\nHTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力してください（1280×720、30fps、30MB 以内）。\nAI 動画生成は使わず、すべてプログラムによるアニメーションで作ってください。\n\n【前処理】\n1. キャラクター画像はすべて背景を透過し、白いステッカー風の縁取りと薄い影をつける。\n2. 楽曲を解析する：BPM、最初の拍の位置、各小節（4 拍）の頭、\n   各セクションのエネルギーの高低（イントロ／A メロ／サビ／落ちる部分）を求める。\n\n【編集ルール】\n- 1 拍ごとにカットを切り替える。カットはランダムにローテーション：全身、\n  バストアップ、目の超アップ、2 ポーズ並び、同じポーズの 5 連（それぞれ色相違い）、シーン画像。\n- 隣り合う 2 拍で同じポーズを使わない。\n- エネルギーが低い箇所はシーン画像や静かなカットにして、ひと息つかせる。\n- エフェクトの強さはセクションに合わせる：イントロ約 40%、A メロ 70%、サビ 100%。\n\n【エフェクト】\n1. 白フラッシュ：毎拍フラッシュしてすぐ消える。小節の 1 拍目が一番強い。\n2. 色相の流れ：背景は流れ続ける虹色パターン（同心円スパイラル、回転するカラーホイール、\n   溶ける虹の波、ストライプ、白黒チェッカー）。サビではキャラクターごと画面全体を hue-rotate する。\n3. 画面の引き裂き：拍が落ちた瞬間に横方向の帯状ずれ＋RGB 3 色分離をかけ、\n   次の拍までに元に戻す。キャラクターがずっとぼやけたままにならないように。\n4. 万華鏡：サビでは 1 小節おきに、画面を 8～12 枚の鏡像の扇形に分けてゆっくり回転させる。\n5. 小節ごとの大文字：小節の頭で画面中央に巨大な文字を約 0.4 秒フラッシュさせる。\n   合成モードは反転（difference）、縁取りは虹色。\n   大文字の内容：【ここに使いたい文字を書く、または「歌詞からキーワードを選んで」と書く】\n\n【その他】\n- 左上に小さくタイトル【名前】、右上に【日付】、右下に小節数を表示。\n- フィルムグレインと走査線を少し加える。冒頭は黒からフェードイン、最後はフェードアウト。\n- 本番出力の前に、各セクションのスクリーンショット一覧を見せて確認させてください。",
+        "author": "pound75423"
+      },
+      {
+        "url": "https://x.com/pound75423/status/2103722556918464968",
+        "text": "Good FortuneX on X: \"I made a Japanese anime style MV using Opus 5.5. All you need to feed it are still images.\nOpus 5.5を使って和風アニメ風のMVを作りました。静止画を渡すだけで大丈夫です。\nprompt ↓↓↓\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nGood FortuneX on X: \"I made a Japanese anime style MV using Opus 5.5. All you need to feed it are still images.\nOpus 5.5を使って和風アニメ風のMVを作りました。静止画を渡すだけで大丈夫です。\nprompt ↓↓↓\"\n\n\n\nGood FortuneX\n\n@pound75423\n\n\n\n\nI made a Japanese anime style MV using Opus 5.5. All you need to feed it are still images.\nOpus 5.5を使って和風アニメ風のMVを作りました。静止画を渡すだけで大丈夫です。\nprompt ↓↓↓\n\n\n00:00\n\n\n\n\n\n\n\n\n5:45 AM · Sep 26, 2026·276\nViews\n\n\n\n1\n\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nGood FortuneX@pound75423Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nGood FortuneX\n\n@pound75423\n\n\n\n\nI made a Japanese anime style MV using Opus 5.5. All you need to feed it are still images.\nOpus 5.5を使って和風アニメ風のMVを作りました。静止画を渡すだけで大丈夫です。\nprompt ↓↓↓\n\n\n00:00\n\n\n\n\n\n\n\n\n5:45 AM · Sep 26, 2026·276\nViews\n\n\n\n1\n\n2\n2\n\n\n\n\n\n\n\n\n\nGood FortuneX\n\n@pound75423\nSep 26\n\n\n添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。\n\n【制作方法】\nHTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力してください（1280×720、30fps、30MB 以内）。 Show more\n\n\n\n\n\n284\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pound75423"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/pound75423/status/2103722556918464968",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103721284228263936/img/WjA7dDuNXQLo_WEK.jpg",
+  "coverPath": "data/covers/2103722556918464968-wide.jpg",
+  "gifPath": "data/gifs/2103722556918464968.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103721284228263936",
+    "x-post:2103722556918464968"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Psychedelic Glitch Anime Music Video Prompt",
+      "summary": "A detailed prompt for Opus 5.5 instructing it to create a psychedelic, glitch-style anime music video from still images and audio using programmatic HTML Canvas animation, Playwright capture, and FFmpeg encoding.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I made a Japanese anime style MV using Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。\n\n【制作方法】\nHTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力してください（1280×720、30fps、30MB 以内）。\nAI 動画生成は使わず、すべてプログラムによるアニメーションで作ってください。\n\n【前処理】\n1. キャラクター画像はすべて背景を透過し、白いステッカー風の縁取りと薄い影をつける。\n2. 楽曲を解析する：BPM、最初の拍の位置、各小節（4 拍）の頭、\n   各セクションのエネルギーの高低（イントロ／A メロ／サビ／落ちる部分）を求める。\n\n【編集ルール】\n- 1 拍ごとにカットを切り替える。カットはランダムにローテーション：全身、\n  バストアップ、目の超アップ、2 ポーズ並び、同じポーズの 5 連（それぞれ色相違い）、シーン画像。\n- 隣り合う 2 拍で同じポーズを使わない。\n- エネルギーが低い箇所はシーン画像や静かなカットにして、ひと息つかせる。\n- エフェクトの強さはセクションに合わせる：イントロ約 40%、A メロ 70%、サビ 100%。\n\n【エフェクト】\n1. 白フラッシュ：毎拍フラッシュしてすぐ消える。小節の 1 拍目が一番強い。\n2. 色相の流れ：背景は流れ続ける虹色パターン（同心円スパイラル、回転するカラーホイール、\n   溶ける虹の波、ストライプ、白黒チェッカー）。サビではキャラクターごと画面全体を hue-rotate する。\n3. 画面の引き裂き：拍が落ちた瞬間に横方向の帯状ずれ＋RGB 3 色分離をかけ、\n   次の拍までに元に戻す。キャラクターがずっとぼやけたままにならないように。\n4. 万華鏡：サビでは 1 小節おきに、画面を 8～12 枚の鏡像の扇形に分けてゆっくり回転させる。\n5. 小節ごとの大文字：小節の頭で画面中央に巨大な文字を約 0.4 秒フラッシュさせる。\n   合成モードは反転（difference）、縁取りは虹色。\n   大文字の内容：【ここに使いたい文字を書く、または「歌詞からキーワードを選んで」と書く】\n\n【その他】\n- 左上に小さくタイトル【名前】、右上に【日付】、右下に小節数を表示。\n- フィルムグレインと走査線を少し加える。冒頭は黒からフェードイン、最後はフェードアウト。\n- 本番出力の前に、各セクションのスクリーンショット一覧を見せて確認させてください。",
+        "englishText": "Please create a \"psychedelic / glitch style\" animated music video using the attached music track and character images.\n\n[Production Method]\nWrite the animation using HTML Canvas, capture it frame by frame with Playwright, and synthesize it with the audio via ffmpeg to output an MP4 (1280x720, 30fps, under 30MB).\nDo not use AI video generation; generate the entire animation programmatically.\n\n[Preprocessing]\n1. Make the background of all character images transparent, adding a white sticker-style outline and a soft drop shadow.\n2. Analyze the track: determine BPM, the position of the first beat, the start of each bar (4 beats), and the energy levels (intro / verse / chorus / bridge or drop) across each section.\n\n[Editing Rules]\n- Switch cuts on every beat. Randomly rotate cuts: full body, bust-up, extreme eye close-up, two poses side-by-side, five consecutive identical poses (each with different hues), and scene/background images.\n- Do not use the same pose on adjacent beats.\n- In low-energy sections, use scene images or quiet cuts to give breathing room.\n- Adjust effect intensity according to section: intro approx. 40%, verse 70%, chorus 100%.\n\n[Effects]\n1. White Flash: Flash on every beat and disappear immediately. The first beat of a measure is the strongest.\n2. Hue Flow: Continuous flowing rainbow patterns for the background (concentric spirals, rotating color wheel, melting rainbow waves, stripes, black-and-white checkerboard). In the chorus, hue-rotate the entire screen including the character.\n3. Screen Tearing: Apply horizontal band shifting + RGB split at the exact moment a beat drops, restoring it before the next beat so the character does not remain blurred constantly.\n4. Kaleidoscope: In the chorus, divide the screen into 8–12 mirrored sectors every other bar and slowly rotate.\n5. Large text per measure: Flash a giant word in the center of the screen for about 0.4 seconds at the start of a bar. Blend mode: difference, rainbow outline. Content of large text: [Insert desired text here, or specify \"choose keywords from lyrics\"].\n\n[Other]\n- Display a small title [Name] on the top left, [Date] on the top right, and the bar count on the bottom right.\n- Add subtle film grain and scanlines. Fade in from black at the beginning, fade out at the end.\n- Before final output, show a list of screenshots for each section for confirmation.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/pound75423/status/2103722556918464968",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/pound75423/status/2103722560462475314",
+        "start": 0,
+        "end": 1094
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/pound75423/status/2103722556918464968",
+        "author": "pound75423",
+        "postId": "2103722556918464968",
+        "publishedAt": "2026-09-26T05:45:17.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:26.155Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pound75423/status/2103722560462475314",
+        "evidence": ""
+      }
+    },
+    "summary": "A detailed prompt for Opus 5.5 instructing it to create a psychedelic, glitch-style anime music video from still images and audio using programmatic HTML Canvas animation, Playwright capture, and FFmpeg encoding.",
+    "summaryEn": "Psychedelic Glitch Anime Music Video Prompt",
+    "originalPrompt": "添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。\n\n【制作方法】\nHTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力してください（1280×720、30fps、30MB 以内）。\nAI 動画生成は使わず、すべてプログラムによるアニメーションで作ってください。\n\n【前処理】\n1. キャラクター画像はすべて背景を透過し、白いステッカー風の縁取りと薄い影をつける。\n2. 楽曲を解析する：BPM、最初の拍の位置、各小節（4 拍）の頭、\n   各セクションのエネルギーの高低（イントロ／A メロ／サビ／落ちる部分）を求める。\n\n【編集ルール】\n- 1 拍ごとにカットを切り替える。カットはランダムにローテーション：全身、\n  バストアップ、目の超アップ、2 ポーズ並び、同じポーズの 5 連（それぞれ色相違い）、シーン画像。\n- 隣り合う 2 拍で同じポーズを使わない。\n- エネルギーが低い箇所はシーン画像や静かなカットにして、ひと息つかせる。\n- エフェクトの強さはセクションに合わせる：イントロ約 40%、A メロ 70%、サビ 100%。\n\n【エフェクト】\n1. 白フラッシュ：毎拍フラッシュしてすぐ消える。小節の 1 拍目が一番強い。\n2. 色相の流れ：背景は流れ続ける虹色パターン（同心円スパイラル、回転するカラーホイール、\n   溶ける虹の波、ストライプ、白黒チェッカー）。サビではキャラクターごと画面全体を hue-rotate する。\n3. 画面の引き裂き：拍が落ちた瞬間に横方向の帯状ずれ＋RGB 3 色分離をかけ、\n   次の拍までに元に戻す。キャラクターがずっとぼやけたままにならないように。\n4. 万華鏡：サビでは 1 小節おきに、画面を 8～12 枚の鏡像の扇形に分けてゆっくり回転させる。\n5. 小節ごとの大文字：小節の頭で画面中央に巨大な文字を約 0.4 秒フラッシュさせる。\n   合成モードは反転（difference）、縁取りは虹色。\n   大文字の内容：【ここに使いたい文字を書く、または「歌詞からキーワードを選んで」と書く】\n\n【その他】\n- 左上に小さくタイトル【名前】、右上に【日付】、右下に小節数を表示。\n- フィルムグレインと走査線を少し加える。冒頭は黒からフェードイン、最後はフェードアウト。\n- 本番出力の前に、各セクションのスクリーンショット一覧を見せて確認させてください。",
+    "sourceRange": {
+      "start": 0,
+      "end": 1094
+    },
+    "translations": {
+      "zh": "添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。\n\n【制作方法】\nHTML Canvas でアニメーションを書き、Playwright で 1 フレームずつキャプチャし、ffmpeg で音声と合成して MP4 を出力してください（1280×720、30fps、30MB 以内）。\nAI 動画生成は使わず、すべてプログラムによるアニメーションで作ってください。\n\n【前処理】\n1. キャラクター画像はすべて背景を透過し、白いステッカー風の縁取りと薄い影をつける。\n2. 楽曲を解析する：BPM、最初の拍の位置、各小節（4 拍）の頭、\n   各セクションのエネルギーの高低（イントロ／A メロ／サビ／落ちる部分）を求める。\n\n【編集ルール】\n- 1 拍ごとにカットを切り替える。カットはランダムにローテーション：全身、\n  バストアップ、目の超アップ、2 ポーズ並び、同じポーズの 5 連（それぞれ色相違い）、シーン画像。\n- 隣り合う 2 拍で同じポーズを使わない。\n- エネルギーが低い箇所はシーン画像や静かなカットにして、ひと息つかせる。\n- エフェクトの強さはセクションに合わせる：イントロ約 40%、A メロ 70%、サビ 100%。\n\n【エフェクト】\n1. 白フラッシュ：毎拍フラッシュしてすぐ消える。小節の 1 拍目が一番強い。\n2. 色相の流れ：背景は流れ続ける虹色パターン（同心円スパイラル、回転するカラーホイール、\n   溶ける虹の波、ストライプ、白黒チェッカー）。サビではキャラクターごと画面全体を hue-rotate する。\n3. 画面の引き裂き：拍が落ちた瞬間に横方向の帯状ずれ＋RGB 3 色分離をかけ、\n   次の拍までに元に戻す。キャラクターがずっとぼやけたままにならないように。\n4. 万華鏡：サビでは 1 小節おきに、画面を 8～12 枚の鏡像の扇形に分けてゆっくり回転させる。\n5. 小節ごとの大文字：小節の頭で画面中央に巨大な文字を約 0.4 秒フラッシュさせる。\n   合成モードは反転（difference）、縁取りは虹色。\n   大文字の内容：【ここに使いたい文字を書く、または「歌詞からキーワードを選んで」と書く】\n\n【その他】\n- 左上に小さくタイトル【名前】、右上に【日付】、右下に小節数を表示。\n- フィルムグレインと走査線を少し加える。冒頭は黒からフェードイン、最後はフェードアウト。\n- 本番出力の前に、各セクションのスクリーンショット一覧を見せて確認させてください。",
+      "en": "Please create a \"psychedelic / glitch style\" animated music video using the attached music track and character images.\n\n[Production Method]\nWrite the animation using HTML Canvas, capture it frame by frame with Playwright, and synthesize it with the audio via ffmpeg to output an MP4 (1280x720, 30fps, under 30MB).\nDo not use AI video generation; generate the entire animation programmatically.\n\n[Preprocessing]\n1. Make the background of all character images transparent, adding a white sticker-style outline and a soft drop shadow.\n2. Analyze the track: determine BPM, the position of the first beat, the start of each bar (4 beats), and the energy levels (intro / verse / chorus / bridge or drop) across each section.\n\n[Editing Rules]\n- Switch cuts on every beat. Randomly rotate cuts: full body, bust-up, extreme eye close-up, two poses side-by-side, five consecutive identical poses (each with different hues), and scene/background images.\n- Do not use the same pose on adjacent beats.\n- In low-energy sections, use scene images or quiet cuts to give breathing room.\n- Adjust effect intensity according to section: intro approx. 40%, verse 70%, chorus 100%.\n\n[Effects]\n1. White Flash: Flash on every beat and disappear immediately. The first beat of a measure is the strongest.\n2. Hue Flow: Continuous flowing rainbow patterns for the background (concentric spirals, rotating color wheel, melting rainbow waves, stripes, black-and-white checkerboard). In the chorus, hue-rotate the entire screen including the character.\n3. Screen Tearing: Apply horizontal band shifting + RGB split at the exact moment a beat drops, restoring it before the next beat so the character does not remain blurred constantly.\n4. Kaleidoscope: In the chorus, divide the screen into 8–12 mirrored sectors every other bar and slowly rotate.\n5. Large text per measure: Flash a giant word in the center of the screen for about 0.4 seconds at the start of a bar. Blend mode: difference, rainbow outline. Content of large text: [Insert desired text here, or specify \"choose keywords from lyrics\"].\n\n[Other]\n- Display a small title [Name] on the top left, [Date] on the top right, and the bar count on the bottom right.\n- Add subtle film grain and scanlines. Fade in from black at the beginning, fade out at the end.\n- Before final output, show a list of screenshots for each section for confirmation."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A detailed prompt for Opus 5.5 instructing it to create a psychedelic, glitch-style anime music video from still images and audio using programmatic HTML Canvas animation, Playwright capture, and FFmpeg encoding.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

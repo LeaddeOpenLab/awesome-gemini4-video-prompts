@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:32.768Z",
+  "model": "opus5.5",
+  "prompt": "I want to test your video creation capabilities. I want you to create a launch-style video (like when Anthropic launches a new feature) to use as an App Store preview video. Look up best practices and what converts best for these types of videos.\n\nTo create the video, use only JavaScript, Playwright, and FFmpeg. I added the hyperframes skill and you can use it if you deem it necessary. Be creative and fun, aligned with the communication we already use in the App.",
+  "promptTranslations": {
+    "en": "I want to test your video creation capabilities. I want you to create a launch-style video (like when Anthropic launches a new feature) to use as an App Store preview video. Look up best practices and what converts best for these types of videos.\n\nTo create the video, use only JavaScript, Playwright, and FFmpeg. I added the hyperframes skill and you can use it if you deem it necessary. Be creative and fun, aligned with the communication we already use in the App."
+  },
+  "summary": "Author used Claude Opus 5.5 with JavaScript, Playwright, FFmpeg, and the hyperframes skill to render an App Store animated launch preview.",
+  "summaryEn": "App Store Launch Preview Video for Dog Training App",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105287909343428943",
+    "canonicalUrl": "https://x.com/JeanLucas/status/2105287909343428943",
+    "author": {
+      "username": "JeanLucas",
+      "displayName": "Jean Lucas de Carvalho",
+      "profileUrl": "https://x.com/JeanLucas"
+    },
+    "publishedAt": "2026-09-30T13:25:26.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "pt",
+    "originalText": "Pedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando e queria a opinião de vocês https://t.co/3Omv1kyCAO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/JeanLucas/status/2105287909343428943",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105287758654648320/img/9VH11WuX45ycrtyx.jpg",
+        "analysisUrl": "https://x.com/JeanLucas/status/2105287909343428943"
+      }
+    ],
+    "metrics": {
+      "likeCount": 54,
+      "repostCount": 2,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 3146
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/JeanLucas/status/2105288161030991884",
+        "text": "Apesar do vídeo estar legal eu acho que o roteiro vende mal a proposta do App\n\nEsse foi o prompt que eu usei no projeto:\n\nQuero testar suas capacidades de criar videos. quero que vc crie um video estilo lancamento (igual quando a anthropic lança uma nova feature) para usarmos como preview video na app store. Busque as boas práticas e o que mais converte para esse tipos de vídeos.\n\nPara criar o vídeo, use apenas javascript, playwright e ffmpeg. Adicionei a skill hyperframes e você pode usar se achar necessário. Seja criativo e divertido em alinhamento com a comunicação que já usamos no App.",
+        "author": "JeanLucas"
+      },
+      {
+        "url": "https://x.com/JeanLucas/status/2105287909343428943",
+        "text": "Jean Lucas de Carvalho on X: \"Pedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando e queria a opinião de vocês\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJean Lucas de Carvalho on X: \"Pedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando e queria a opinião de vocês\"\n\n\n\nJean Lucas de Carvalho\n\n@JeanLucas\n\n\n\n\nShow translation\nPedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando e queria a opinião de vocês\n\n\n00:00\n\n\n\n\n\n\n\n\n1:25 PM · Sep 30, 2026·3,146\nViews\n\n\n\n8\n2\n54\n19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJean Lucas de Carvalho@JeanLucasFollow\nCEO @tipspace\n\nhttps://t.co/hjTZ8NXeWh\nhttps://t.co/cXlvXUyCu6\nhttps://t.co/Ad4TRdjlim\nhttps://t.co/8I5QFApu0I\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJean Lucas de Carvalho\n\n@JeanLucas\n\n\n\n\nShow translation\nPedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando e queria a opinião de vocês\n\n\n00:00\n\n\n\n\n\n\n\n\n1:25 PM · Sep 30, 2026·3,146\nViews\n\n\n\n8\n2\n54\n19\n\n\n\n\n\n\n\n\n\nJean Lucas de Carvalho\n\n@JeanLucas\nSep 30\n\n\nApesar do vídeo estar legal eu acho que o roteiro vende mal a proposta do App\n\nEsse foi o prompt que eu usei no projeto:\n\nQuero testar suas capacidades de criar videos. quero que vc crie um video estilo lancamento (igual quando a anthropic lança uma nova feature) para usarmos Show more\n\n\n1\n\n2\n345\n\n\n\n\n\n\n\n\n\n\n\nAdriano Souza Costa\n\n@didisouzacosta\nSep 30\n\n\nFicou muito bom!\nNão sei se entendi bem a ideia, mas se for para de fazer entrar como preview na Apple Store, a Apple pode implicar. Eles tem uma politica de que o vídeo deve ter cenas \"reais\" do próprio app, sendo assim, usar o video gerado por IA pode gerar um reject. Show more\n\n\nApp Review Guidelines - Apple Developer\n\n\nFrom developer.apple.com\n\n\n\n2\n\n1\n178\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "JeanLucas"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/JeanLucas/status/2105287909343428943",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105287758654648320/img/9VH11WuX45ycrtyx.jpg",
+  "coverPath": "data/covers/2105287909343428943-wide.jpg",
+  "gifPath": "data/gifs/2105287909343428943.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2105287758654648320/vid/avc1/320x692/jt2nr0SBdkBJT9or.mp4?tag=29",
+    "x-video:2105287758654648320",
+    "x-post:2105287909343428943"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "App Store Launch Preview Video for Dog Training App",
+      "summary": "Author used Claude Opus 5.5 with JavaScript, Playwright, FFmpeg, and the hyperframes skill to render an App Store animated launch preview.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Pedi pro Opus 5.5 gerar o vídeo de preview da App Store do novo aplicativo que eu tô criando"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Quero testar suas capacidades de criar videos. quero que vc crie um video estilo lancamento (igual quando a anthropic lança uma nova feature) para usarmos como preview video na app store. Busque as boas práticas e o que mais converte para esse tipos de vídeos.\n\nPara criar o vídeo, use apenas javascript, playwright e ffmpeg. Adicionei a skill hyperframes e você pode usar se achar necessário. Seja criativo e divertido em alinhamento com a comunicação que já usamos no App.",
+        "englishText": "I want to test your video creation capabilities. I want you to create a launch-style video (like when Anthropic launches a new feature) to use as an App Store preview video. Look up best practices and what converts best for these types of videos.\n\nTo create the video, use only JavaScript, Playwright, and FFmpeg. I added the hyperframes skill and you can use it if you deem it necessary. Be creative and fun, aligned with the communication we already use in the App.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "App context and existing communication assets",
+          "Exact codebase or environment setup"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Vertical preview video showcasing the 'Megan' dog training app interface, animations, and feature captions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "skill",
+          "description": "Hyperframes automation skill",
+          "available": false,
+          "evidence": "Adicionei a skill hyperframes e você pode usar se achar necessário.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884"
+        },
+        {
+          "kind": "assets",
+          "description": "App branding, visual assets, and style guide",
+          "available": false,
+          "evidence": "em alinhamento com a comunicação que já usamos no App.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Para criar o vídeo, use apenas javascript, playwright e ffmpeg.",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884",
+          "status": "required"
+        },
+        {
+          "name": "hyperframes",
+          "role": "Agent skill for frame capture/rendering",
+          "evidence": "Adicionei a skill hyperframes e você pode usar se achar necessário.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Para criar o vídeo, use apenas javascript, playwright e ffmpeg.",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Para criar o vídeo, use apenas javascript, playwright e ffmpeg.",
+          "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "App Store Preview Promo",
+        "topic": "explainers",
+        "tags": [
+          "app-store-preview",
+          "playwright",
+          "ffmpeg",
+          "hyperframes",
+          "mobile-ui"
+        ]
+      },
+      "targetModelRole": "Code generation, creative direction, and orchestration of Playwright/FFmpeg pipeline.",
+      "outputSource": "Playwright headless browser recorded and stitched via FFmpeg.",
+      "divisionEvidence": "Opus 5.5 was prompted to orchestrate video creation using JavaScript, Playwright, and FFmpeg.",
+      "video": {
+        "shots": "Multi-scene product tour highlighting features, onboarding, and subscription screen",
+        "duration": "25s",
+        "aspectRatio": "9:19.5",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating a programmatic product promo video with accompanying instructions and output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/JeanLucas/status/2105288161030991884",
+        "start": 122,
+        "end": 596
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/JeanLucas/status/2105287909343428943",
+        "author": "JeanLucas",
+        "postId": "2105287909343428943",
+        "publishedAt": "2026-09-30T13:25:26.000Z"
+      },
+      "checkedAt": "2026-10-10T16:37:45.108Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/JeanLucas/status/2105288161030991884",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 with JavaScript, Playwright, FFmpeg, and the hyperframes skill to render an App Store animated launch preview.",
+    "summaryEn": "App Store Launch Preview Video for Dog Training App",
+    "originalPrompt": "Quero testar suas capacidades de criar videos. quero que vc crie um video estilo lancamento (igual quando a anthropic lança uma nova feature) para usarmos como preview video na app store. Busque as boas práticas e o que mais converte para esse tipos de vídeos.\n\nPara criar o vídeo, use apenas javascript, playwright e ffmpeg. Adicionei a skill hyperframes e você pode usar se achar necessário. Seja criativo e divertido em alinhamento com a comunicação que já usamos no App.",
+    "sourceRange": {
+      "start": 122,
+      "end": 596
+    },
+    "translations": {
+      "zh": "Quero testar suas capacidades de criar videos. quero que vc crie um video estilo lancamento (igual quando a anthropic lança uma nova feature) para usarmos como preview video na app store. Busque as boas práticas e o que mais converte para esse tipos de vídeos.\n\nPara criar o vídeo, use apenas javascript, playwright e ffmpeg. Adicionei a skill hyperframes e você pode usar se achar necessário. Seja criativo e divertido em alinhamento com a comunicação que já usamos no App.",
+      "en": "I want to test your video creation capabilities. I want you to create a launch-style video (like when Anthropic launches a new feature) to use as an App Store preview video. Look up best practices and what converts best for these types of videos.\n\nTo create the video, use only JavaScript, Playwright, and FFmpeg. I added the hyperframes skill and you can use it if you deem it necessary. Be creative and fun, aligned with the communication we already use in the App."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "App Store Preview Promo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "App context and existing communication assets",
+        "Exact codebase or environment setup"
+      ],
+      "evidence": "Vertical preview video showcasing the 'Megan' dog training app interface, animations, and feature captions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

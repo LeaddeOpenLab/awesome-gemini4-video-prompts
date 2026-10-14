@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:06.442Z",
+  "model": "opus5.5",
+  "prompt": "I want you to actually make a video here. I want to turn that process into an article.",
+  "promptTranslations": {
+    "en": "I want you to actually make a video here. I want to turn that process into an article."
+  },
+  "summary": "YEIKEN used Claude Opus 5.5 via Claude Code to plan, program, visually inspect, and render a 12.6-second motion graphics promo video using browser frame capture and ffmpeg.",
+  "summaryEn": "Autonomous Promotional Explainer Video Generated via Claude Code and Headless Browser Pipeline",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104820349838000492",
+    "canonicalUrl": "https://x.com/yeiken_app/status/2104820349838000492",
+    "author": {
+      "username": "yeiken_app",
+      "displayName": "世論が見える掲示板 | YEIKEN",
+      "profileUrl": "https://x.com/yeiken_app"
+    },
+    "publishedAt": "2026-09-29T06:27:31.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ https://t.co/19Vj1H7kQP https://t.co/LfCF0Pk9SY",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/yeiken_app/status/2104820349838000492",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104820170984501248/img/EwetVve9WZYOFWqk.jpg",
+        "analysisUrl": "https://x.com/yeiken_app/status/2104820349838000492"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d",
+        "text": "Claude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ | YEIKEN\n\n\nLog in\nYEIKEN公式1d ago\n\nClaude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？\n「Opus 5.5 に頼んだら、動画ができた」――。9月22日にAnthropic（アンソロピック）がAIモデル「Claude Opus 5.5」を公開してから、こんな報告がネットに増えています[1][3][4]。\n\n本当にできるのか。YEIKEN の紹介動画を、実際に Opus 5.5 に作ってもらいました。\n\nAt the end of this post, we&#x27;ll ask you: Claude Opus 5.5、使っている？\nOpus 5.5 は、動画を「コードで書く」\n\n最初に知っておきたいのは、Opus 5.5 が映像そのものを生み出すAIではない、ということです。\n\nOpus 5.5 が受け取れるのは文字と画像、返せるのは文字だけです[2]。Google の Veo のように、文章から映像を作るAIとは仕組みが違います[3]。\n\n代わりに Opus 5.5 は、動画の中身をプログラム（コード）で書きます。Webページのように画面を組み立て、ブラウザで1コマずつ絵にし、動画をまとめる無料のソフト（ffmpeg）で MP4 にします[3][4]。文字・図形・グラフが動く、説明用の動画に向いたやり方です。\n\nOpus 5.5 は、Claude の有料プラン（Pro・Max・Team・Enterprise）で使えます[1]。今回は、手元のパソコンでAIに作業をさせる「Claude Code」から使いました。\n\n\n実際に頼んだ流れ\n\nわたしが伝えたのは「ここで実際に動画を作ってほしい。その流れを記事にしたい」ということだけです。何を作るかは Opus 5.5 が決めました。\n\n\n中身を決める。 題材は YEIKEN の紹介。ロゴ → 問い（「iPhone派？ Android派？」）→ 年代別の結果 → 都道府県の地図 → 締めの一言、の5つの場面で、約12秒にしました。\n\n道具をそろえる。 パソコンに動画をまとめるソフトが入っていなかったので、Opus 5.5 が自分で取ってきて入れました。ブラウザを動かす部品もいくつか足りず、同じように補いました。\n\n場面をコードで書く。 「何秒目にどの絵か」を決める形で書くので、何度描いても同じ動画になります。\n\n静止画で確かめる。 5つの場面を1枚ずつ撮り、Opus 5.5 が自分で画像を見て確かめました。地図が画面の下にはみ出していたので、マスを小さくして直しました。\n\n書き出す。 378コマを撮って MP4 にまとめました。書き出しにかかったのは14秒です。\n\n\n場面を書き始めてから MP4 ができるまで、約3分半でした（道具をそろえる時間は除いています）。\n\nできた動画\n\n長さは12.6秒、大きさは 1280×720、ファイルは約310KB です。音は付けていません。\n\n年代別の割合や地図の色はすべて架空の数字で、画面の右下にも「サンプル・架空のデータ」と出しています。\n\n\n使う前に知っておきたいこと\n\n\n実写のような映像は作れない。 得意なのは文字・図形・グラフが動く動画です[3][5]。人や風景が映る映像は、映像を作るAIの仕事です。\n\nチャットだけでは MP4 にならない。 コードを動かすブラウザと、動画をまとめるソフトが要ります。今回は Claude Code で手元のパソコンを使わせましたが、そのぶん、足りない部品をそろえるところで手間取りました。\n\n\n\n読んだあなたはどう思う？\n\nOpus 5.5 は映像を生み出すのではなく、動画をコードで書き、自分で確かめて直すところまでこなしました。一方で、動かす道具をそろえるのは、まだ人の側の手間として残ります。\n\n\n出典\n\n\nAnthropic「Introducing Claude Opus 5.5」（2026年9月22日） https://www.anthropic.com/claude-opus-5-5\n\nAnthropic「Models overview」 https://platform.claude.com/docs/en/about-claude/models/overview\n\nMagicCreator「How to Use Claude Opus 5.5 to Make Videos with Code」 https://magiccreator.ai/posts/how-to-use-claude-opus-5-5-to-make-videos\n\nHugging Face「How to Make Videos with Claude Opus 5.5: A Deterministic Render Pipeline」 https://huggingface.co/blog/karmen-beatapi/how-to-make-videos-with-claude-opus-5-5\n\nアキソンのブログ「Opus5.5で動画作成できますか？｜MP4化の流れと注意点」（2026年9月28日） https://akisonblog.com/2026/09/28/opus-5-5-video-mp4/\n\n\n\n0RepostShare\n\nLog in to rate, save and repost.\n\n\n\nA question for you\nClaude Opus 5.5、使っている？\nOpen for answers5 days left\n\n使っている\n使っていない\n\n\nOptions使っている\n使っていない\nAnswer\n\n\nYou need an account to answer. Answering shows you the results. Answers cannot be changed later.\nTally so far by attribute\n\nAttributes are taken from the moment each answer was given.\nAll countries\nOverallAge groupGenderCountryRegion\nShown once you answer\n\nAll countries · Shown once you answerA. 使っている—\nB. 使っていない—\n\n\n“Indicative” marks groups with fewer than 5 answers. Because of rounding, totals may not add up to 100%.\nLog in and answer\n\n\n\nReplies\nSortMost popular\n\nWrite a reply\n\n\nNo replies yet.\n\n\nAnswer this post&#x27;s questionAbout YEIKENPlaygroundTermsPrivacy© YEIKEN\n\n\nSearch\n\n",
+        "kind": "linked_public_material",
+        "author": "yeiken_app"
+      },
+      {
+        "url": "https://x.com/yeiken_app/status/2104820349838000492",
+        "text": "世論が見える掲示板 | YEIKEN on X: \"Claude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ https://t.co/19Vj1H7kQP\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n世論が見える掲示板 | YEIKEN on X: \"Claude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ https://t.co/19Vj1H7kQP\"\n\n\n\n世論が見える掲示板 | YEIKEN\n@yeiken_app\n\n\n\n\nShow translation\nClaude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ yeiken.com/q/309f58eb-0c0…\n\n\n00:00\n\n\n\n\n\n\n\n\n6:27 AM · Sep 29, 2026·3\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n世論が見える掲示板 | YEIKEN@yeiken_appFollow\n世論を届けるペリカンです\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n世論が見える掲示板 | YEIKEN\n@yeiken_app\n\n\n\n\nShow translation\nClaude Opus 5.5に頼んだらプロモーション動画ができた。AIが「コードで書く」動画とは？ yeiken.com/q/309f58eb-0c0…\n\n\n00:00\n\n\n\n\n\n\n\n\n6:27 AM · Sep 29, 2026·3\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "yeiken_app"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/yeiken_app/status/2104820349838000492",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104820170984501248/img/EwetVve9WZYOFWqk.jpg",
+  "coverPath": "data/covers/2104820349838000492-wide.jpg",
+  "gifPath": "data/gifs/2104820349838000492.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104820170984501248",
+    "x-post:2104820349838000492"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Autonomous Promotional Explainer Video Generated via Claude Code and Headless Browser Pipeline",
+      "summary": "YEIKEN used Claude Opus 5.5 via Claude Code to plan, program, visually inspect, and render a 12.6-second motion graphics promo video using browser frame capture and ffmpeg.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "「Claude Opus 5.5に頼んだらプロモーション動画ができた」「今回は、手元のパソコンでAIに作業をさせる「Claude Code」から使いました。」"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "ここで実際に動画を作ってほしい。その流れを記事にしたい",
+        "englishText": "I want you to actually make a video here. I want to turn that process into an article.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Local workspace context and YEIKEN assets accessible to Claude Code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 12.6-second 1280x720 video shows the exact sequence documented: YEIKEN logo, question screen ('iPhone派？ Android派？'), demographic bar charts, regional map breakdown, and closing slogan.",
+        "textualResultQuote": "長さは12.6秒、大きさは 1280×720、ファイルは約310KB です。音は付けていません。"
+      },
+      "inputs": [
+        {
+          "kind": "context",
+          "description": "Local workspace and project context for the YEIKEN platform",
+          "available": false,
+          "evidence": "わたしが伝えたのは「ここで実際に動画を作ってほしい。その流れを記事にしたい」ということだけです。何を作るかは Opus 5.5 が決めました。題材は YEIKEN の紹介。",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent CLI runtime executing commands and managing file creation",
+          "evidence": "今回は、手元のパソコンでAIに作業をさせる「Claude Code」から使いました。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d"
+        },
+        {
+          "name": "ffmpeg",
+          "role": "Assembling captured frame images into an MP4 video",
+          "evidence": "動画をまとめる無料のソフト（ffmpeg）で MP4 にします",
+          "status": "author_confirmed",
+          "sourceUrl": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d"
+        },
+        {
+          "name": "Headless Browser",
+          "role": "Rendering web page elements frame by frame",
+          "evidence": "Webページのように画面を組み立て、ブラウザで1コマずつ絵にし",
+          "status": "author_confirmed",
+          "sourceUrl": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d"
+        }
+      ],
+      "purpose": {
+        "label": "Service Promotional Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "explainers",
+          "claude-code",
+          "html-animation",
+          "ffmpeg"
+        ]
+      },
+      "targetModelRole": "End-to-end agent production: storyboard concept, web animation programming, self-inspection/debugging of rendered frames, and shell pipeline orchestration.",
+      "outputSource": "Headless browser DOM capture stitched via ffmpeg into an MP4 video.",
+      "divisionEvidence": "「Opus 5.5 が映像そのものを生み出すAIではない、ということです。...代わりに Opus 5.5 は、動画の中身をプログラム（コード）で書きます。Webページのように画面を組み立て、ブラウザで1コマずつ絵にし、動画をまとめる無料のソフト（ffmpeg）で MP4 にします」",
+      "video": {
+        "shots": "5 scenes: brand logo, survey question card, age demographic bar chart, prefecture map visualization, closing tagline screen",
+        "duration": "12.6s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 writing code to drive an animation and rendering pipeline into an MP4 video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d",
+        "start": 782,
+        "end": 809
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/yeiken_app/status/2104820349838000492",
+        "author": "yeiken_app",
+        "postId": "2104820349838000492",
+        "publishedAt": "2026-09-29T06:27:31.000Z"
+      },
+      "checkedAt": "2026-09-30T06:36:53.082Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://yeiken.com/q/309f58eb-0c0d-4f60-9715-f273d5df434d",
+        "evidence": ""
+      }
+    },
+    "summary": "YEIKEN used Claude Opus 5.5 via Claude Code to plan, program, visually inspect, and render a 12.6-second motion graphics promo video using browser frame capture and ffmpeg.",
+    "summaryEn": "Autonomous Promotional Explainer Video Generated via Claude Code and Headless Browser Pipeline",
+    "originalPrompt": "ここで実際に動画を作ってほしい。その流れを記事にしたい",
+    "sourceRange": {
+      "start": 782,
+      "end": 809
+    },
+    "translations": {
+      "zh": "ここで実際に動画を作ってほしい。その流れを記事にしたい",
+      "en": "I want you to actually make a video here. I want to turn that process into an article."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Service Promotional Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Local workspace context and YEIKEN assets accessible to Claude Code"
+      ],
+      "evidence": "The attached 12.6-second 1280x720 video shows the exact sequence documented: YEIKEN logo, question screen ('iPhone派？ Android派？'), demographic bar charts, regional map breakdown, and closing slogan."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

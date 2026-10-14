@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:31.619Z",
+  "model": "opus5.5",
+  "prompt": "Desert bones -> tiger -> cliff leap -> eagle skimming sea -> underwater sharks.",
+  "promptTranslations": {
+    "en": "Desert bones -> tiger -> cliff leap -> eagle skimming sea -> underwater sharks."
+  },
+  "summary": "对比 GPT 6 Astra 与 Opus 5.5 在荒漠白骨化虎、飞鹰入海等五段连续渐变场景下的生成效果。",
+  "summaryEn": "GPT 6 Astra vs Opus 5.5 场景生成对比",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109243092142571577",
+    "canonicalUrl": "https://x.com/aiZttt__/status/2109243092142571577",
+    "author": {
+      "username": "aiZttt__",
+      "displayName": "mengtao wang",
+      "profileUrl": "https://x.com/aiZttt__"
+    },
+    "publishedAt": "2026-10-11T11:21:55.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "zh",
+    "originalText": "同一组提示词\nGPT 6 Astra vs Opus 5.5\n\n荒漠白骨 → 猛虎 → 悬崖一跃 → 鹰掠海面 → 水下鲨鱼。\n\n五个场景,逐帧对比 👇 https://t.co/7ssXWNkoR7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiZttt__/status/2109243092142571577",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109243053970247682/img/jJ8BNLPuCUtJZ13A.jpg",
+        "analysisUrl": "https://x.com/aiZttt__/status/2109243092142571577"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 15453
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aiZttt__/status/2109294000700309538",
+        "text": "@0_____v____0 是的，真差不多",
+        "author": "aiZttt__"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aiZttt__/status/2109255568829620296",
+        "text": "我感觉差不多，但opus5.5画面色彩更亮一些",
+        "author": "aiZttt__"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/7ssXWNkoR7"
+    ]
+  },
+  "xUrl": "https://x.com/aiZttt__/status/2109243092142571577",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109243053970247682/img/jJ8BNLPuCUtJZ13A.jpg",
+  "coverPath": "data/covers/2109243092142571577-wide.jpg",
+  "gifPath": "data/gifs/2109243092142571577.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109243053970247682/vid/avc1/320x568/9WNA-vL4lHiOgyWr.mp4?tag=29",
+    "x-video:2109243053970247682",
+    "x-post:2109243092142571577"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "GPT 6 Astra vs Opus 5.5 场景生成对比",
+      "summary": "对比 GPT 6 Astra 与 Opus 5.5 在荒漠白骨化虎、飞鹰入海等五段连续渐变场景下的生成效果。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "同一组提示词 GPT 6 Astra vs Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "荒漠白骨 → 猛虎 → 悬崖一跃 → 鹰掠海面 → 水下鲨鱼。",
+        "englishText": "Desert bones -> tiger -> cliff leap -> eagle skimming sea -> underwater sharks.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full video generation prompt",
+          "Model parameters and seed settings"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频呈现了白骨复苏化虎、跃崖化鹰并潜入水下化为鲨鱼的连续变形转换过程。",
+        "textualResultQuote": "五个场景,逐帧对比"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Continuous scene morphing comparison",
+        "topic": "motion-graphics",
+        "tags": [
+          "ai-video",
+          "morphing",
+          "comparison",
+          "opus-5.5"
+        ]
+      },
+      "targetModelRole": "End-to-end video generation model",
+      "outputSource": "Opus 5.5 direct video generation",
+      "divisionEvidence": "同一组提示词 GPT 6 Astra vs Opus 5.5",
+      "video": {
+        "shots": "5 continuous morphing shots",
+        "duration": "19s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "包含 Opus 5.5 视频生成演示与场景过渡展示。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aiZttt__/status/2109243092142571577",
+        "start": 32,
+        "end": 63
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aiZttt__/status/2109243092142571577",
+        "author": "aiZttt__",
+        "postId": "2109243092142571577",
+        "publishedAt": "2026-10-11T11:21:55.000Z"
+      },
+      "checkedAt": "2026-10-12T09:03:57.004Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aiZttt__/status/2109243092142571577",
+        "evidence": ""
+      }
+    },
+    "summary": "对比 GPT 6 Astra 与 Opus 5.5 在荒漠白骨化虎、飞鹰入海等五段连续渐变场景下的生成效果。",
+    "summaryEn": "GPT 6 Astra vs Opus 5.5 场景生成对比",
+    "originalPrompt": "荒漠白骨 → 猛虎 → 悬崖一跃 → 鹰掠海面 → 水下鲨鱼。",
+    "sourceRange": {
+      "start": 32,
+      "end": 63
+    },
+    "translations": {
+      "zh": "荒漠白骨 → 猛虎 → 悬崖一跃 → 鹰掠海面 → 水下鲨鱼。",
+      "en": "Desert bones -> tiger -> cliff leap -> eagle skimming sea -> underwater sharks."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "Continuous scene morphing comparison",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full video generation prompt",
+        "Model parameters and seed settings"
+      ],
+      "evidence": "视频呈现了白骨复苏化虎、跃崖化鹰并潜入水下化为鲨鱼的连续变形转换过程。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

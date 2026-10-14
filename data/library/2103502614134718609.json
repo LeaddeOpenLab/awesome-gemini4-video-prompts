@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:38:52.006Z",
+  "model": "opus5.5",
+  "prompt": "create a motion design video of a poster breaking out of its own frame.",
+  "promptTranslations": {
+    "en": "create a motion design video of a poster breaking out of its own frame."
+  },
+  "summary": "A motion design video prompt where a poster breaks out of its own frame, generated using Opus 5.5 with animated movement and synchronized audio.",
+  "summaryEn": "Poster Breaking Out of Frame Motion Design",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103502614134718609",
+    "canonicalUrl": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+    "author": {
+      "username": "pankajkumar_dev",
+      "displayName": "Pankaj Kumar",
+      "profileUrl": "https://x.com/pankajkumar_dev"
+    },
+    "publishedAt": "2026-09-25T15:11:19.000Z",
+    "collectedAt": "2026-09-28T07:34:16.859Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is insanely good at motion design.\n\nI gave it one prompt: \"create a motion design video of a poster breaking out of its own frame.\"\n\nThe animation, the camera moves, the sound design, even the music. It composed the whole soundtrack itself and synced every hit to the beat.\n\nSound on 🔊",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103501360423649280/img/eGvjdiAFv9ygWCj2.jpg",
+        "analysisUrl": "https://x.com/pankajkumar_dev/status/2103502614134718609"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 3,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 3750
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pankajkumar_dev/status/2103529457231540329",
+        "text": "@10xshivam yess",
+        "author": "pankajkumar_dev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pankajkumar_dev/status/2103504941780512964",
+        "text": "@100xdev_ https://t.co/n9RynqaAfc",
+        "author": "pankajkumar_dev"
+      },
+      {
+        "url": "https://x.com/pankajkumar_dev/status/2103504941780512964",
+        "text": "Pankaj Kumar on X: \"@100xdev_\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nPankaj Kumar on X: \"@100xdev_\"\n\n\n\nPankaj Kumar\n\n@pankajkumar_dev\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n3:20 PM · Sep 25, 2026·64\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPankaj Kumar@pankajkumar_devFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n100x dev\n@100xdev_\nSep 25\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n\n1\n\n1\n93\n\n\n\n\n\n\n\n\n\n\nPankaj Kumar\n\n@pankajkumar_dev\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n3:20 PM · Sep 25, 2026·64\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pankajkumar_dev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103501360423649280/img/eGvjdiAFv9ygWCj2.jpg",
+  "coverPath": "data/covers/2103502614134718609-wide.jpg",
+  "gifPath": "data/gifs/2103502614134718609.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103501360423649280",
+    "x-post:2103502614134718609"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Poster Breaking Out of Frame Motion Design",
+      "summary": "A motion design video prompt where a poster breaks out of its own frame, generated using Opus 5.5 with animated movement and synchronized audio.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a motion design video of a poster breaking out of its own frame.",
+        "englishText": "create a motion design video of a poster breaking out of its own frame.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+        "start": 68,
+        "end": 139
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+        "author": "pankajkumar_dev",
+        "postId": "2103502614134718609",
+        "publishedAt": "2026-09-25T15:11:19.000Z"
+      },
+      "checkedAt": "2026-09-28T07:34:51.048Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+        "evidence": "create a motion design video of a poster breaking out of its own frame."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A motion design video prompt where a poster breaks out of its own frame, generated using Opus 5.5 with animated movement and synchronized audio.",
+    "summaryEn": "Poster Breaking Out of Frame Motion Design",
+    "originalPrompt": "create a motion design video of a poster breaking out of its own frame.",
+    "sourceRange": {
+      "start": 68,
+      "end": 139
+    },
+    "translations": {
+      "zh": "create a motion design video of a poster breaking out of its own frame.",
+      "en": "create a motion design video of a poster breaking out of its own frame."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

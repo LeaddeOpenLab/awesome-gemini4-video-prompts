@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:31:15.706Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out."
+  },
+  "summary": "A prompt instructing the model to generate a dynamic 15-second motion graphics showcase video tailored to Alan AI.",
+  "summaryEn": "Dynamic Motion Graphics Video Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103315922098470926",
+      "canonicalUrl": "https://x.com/stephanlivera/status/2103315922098470926",
+      "author": {
+        "username": "stephanlivera",
+        "displayName": "Stephan Livera",
+        "profileUrl": "https://x.com/stephanlivera"
+      },
+      "originalText": "Opus 5.5 on Max effort - \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/nWPOFUOlvr"
+    },
+    "id": "2103728953785496049",
+    "canonicalUrl": "https://x.com/prasad_pilla/status/2103728953785496049",
+    "author": {
+      "username": "prasad_pilla",
+      "displayName": "Prasad Pilla",
+      "profileUrl": "https://x.com/prasad_pilla"
+    },
+    "publishedAt": "2026-09-26T06:10:42.000Z",
+    "collectedAt": "2026-09-28T07:27:53.901Z",
+    "language": "en",
+    "originalText": "WTF?!! \n\nMade entirely with Claude Opus 5.5!\n\nPrompt  \"make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.\"  \n\nIt went and read our site. Pulled our palette, our type stack, rebuilt our logo from the favicon.\n\nand came up with this!",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103727928219664384/img/i8FNJz3YQ_06sEEo.jpg",
+        "analysisUrl": "https://x.com/prasad_pilla/status/2103728953785496049"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103315748496302080/img/eScXkusmi5doSQFo.jpg",
+        "analysisUrl": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "sourcePostId": "2103315922098470926"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 3,
+      "replyCount": 8,
+      "quoteCount": 3,
+      "viewCount": 2689
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/prasad_pilla/status/2103728953785496049",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103727928219664384/img/i8FNJz3YQ_06sEEo.jpg",
+  "coverPath": "data/covers/2103728953785496049-wide.jpg",
+  "gifPath": "data/gifs/2103728953785496049.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103727928219664384",
+    "x-video:2103315748496302080",
+    "x-post:2103728953785496049",
+    "x-post:2103315922098470926"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Graphics Video Prompt",
+      "summary": "A prompt instructing the model to generate a dynamic 15-second motion graphics showcase video tailored to Alan AI.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Made entirely with Claude Opus 5.5!"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+        "englishText": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/prasad_pilla/status/2103728953785496049",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "start": 55,
+        "end": 184
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "author": "prasad_pilla",
+        "postId": "2103728953785496049",
+        "publishedAt": "2026-09-26T06:10:42.000Z"
+      },
+      "checkedAt": "2026-09-28T07:28:09.231Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "evidence": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt instructing the model to generate a dynamic 15-second motion graphics showcase video tailored to Alan AI.",
+    "summaryEn": "Dynamic Motion Graphics Video Prompt",
+    "originalPrompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+    "sourceRange": {
+      "start": 55,
+      "end": 184
+    },
+    "translations": {
+      "zh": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+      "en": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

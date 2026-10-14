@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:20:52.881Z",
+  "model": "opus5.5",
+  "prompt": "\"Camera work here should be like this\"\n\"This light isn't needed\"\n\"Depth of field should be like this\"\n\"Prism and flare should be like this\"\n\"Light/dark and color noise should be like this\"\n\"Color filter should be like this\"\n\"This scene, at 24 frames...\"",
+  "promptTranslations": {
+    "en": "\"Camera work here should be like this\"\n\"This light isn't needed\"\n\"Depth of field should be like this\"\n\"Prism and flare should be like this\"\n\"Light/dark and color noise should be like this\"\n\"Color filter should be like this\"\n\"This scene, at 24 frames...\""
+  },
+  "summary": "The author co-produced a full-length 3D animated music video with Claude Opus 5.5, which generated code in Blender to construct the 3D world, model and animate the dragon, and configure cameras and lighting.",
+  "summaryEn": "3D Animated Music Video Produced with Claude Opus 5.5 and Blender",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105091868149354753",
+    "canonicalUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+    "author": {
+      "username": "LugiAXETomXV",
+      "displayName": "龙紫熏Torn | Lóng Zĭxūn",
+      "profileUrl": "https://x.com/LugiAXETomXV"
+    },
+    "publishedAt": "2026-09-30T00:26:26.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "ja",
+    "originalText": "Opus 5.5と映像作品を共同制作してみました。\n\n僕が曲・監督・絵コンテを担当して、Opus 5.5がコードとBlenderで3Dを組み、ドラゴンのモデルや動き、光、カメラまわりの実装をしてくれました。\n\n画像＆動画生成は使っていません。全部コードで組んだ3Dです。\n\n「ここのカメラワークはこう」\n「この光はいらない」\n「被写界深度はこう」\n「プリズムやフレアはこう」\n「明暗とカラーノイズはこう」\n「カラーフィルターはこう」\n「ここのシーン、24フレで…」\n\nみたいなやり取りを何十回も重ねて、ここまで来ました。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105090722894630912/img/SXZzC0YMWRVo4r4-.jpg",
+        "analysisUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 486
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/LugiAXETomXV/status/2105091869973876977",
+        "text": "龙紫熏Torn | Lóng Zĭxūn on X: \"比較動画：\n左が最初の版（three.js）、右がBlenderで作り直した版です。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n龙紫熏Torn | Lóng Zĭxūn on X: \"比較動画：\n左が最初の版（three.js）、右がBlenderで作り直した版です。\"\n\n\n\n龙紫熏Torn | Lóng Zĭxūn\n\n@LugiAXETomXV\n\n\n\n\nShow translation\n比較動画：\n左が最初の版（three.js）、右がBlenderで作り直した版です。\n\n\n00:00\n\n\n\n\n\n\n\n\n12:26 AM · Sep 30, 2026·97\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n龙紫熏Torn | Lóng Zĭxūn@LugiAXETomXVFollow\nDnW Community Modder | Toolsmith\n\n純日本人です。\n呼び名:トム＆トロン 愛称:トム & ロン\n(龙紫熏は、ﾛﾝｽﾞｰｼｭﾝと読みます。)\n\nドラゴンとイルカと爬虫類好き。\n4カ国語いける人。\n\n創作垢🎨: @Lave_KunewRyu\nVRCID:龙紫熏Torn\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n龙紫熏Torn | Lóng Zĭxūn\n\n@LugiAXETomXV\n4h\n\n\nOpus 5.5と映像作品を共同制作してみました。\n\n僕が曲・監督・絵コンテを担当して、Opus 5.5がコードとBlenderで3Dを組み、ドラゴンのモデルや動き、光、カメラまわりの実装をしてくれました。\n\n画像＆動画生成は使っていません。全部コードで組んだ3Dです。\n\n「ここのカメラワークはこう」 Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n3\n487\n\n\n\n\n\n\n\n\n\n\n龙紫熏Torn | Lóng Zĭxūn\n\n@LugiAXETomXV\n\n\n\n\nShow translation\n比較動画：\n左が最初の版（three.js）、右がBlenderで作り直した版です。\n\n\n00:00\n\n\n\n\n\n\n\n\n12:26 AM · Sep 30, 2026·97\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "LugiAXETomXV"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105090722894630912/img/SXZzC0YMWRVo4r4-.jpg",
+  "coverPath": "data/covers/2105091868149354753-wide.jpg",
+  "gifPath": "data/gifs/2105091868149354753.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105090722894630912",
+    "x-post:2105091868149354753"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Animated Music Video Produced with Claude Opus 5.5 and Blender",
+      "summary": "The author co-produced a full-length 3D animated music video with Claude Opus 5.5, which generated code in Blender to construct the 3D world, model and animate the dragon, and configure cameras and lighting.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5と映像作品を共同制作してみました。僕が曲・監督・絵コンテを担当して、Opus 5.5がコードとBlenderで3Dを組み、ドラゴンのモデルや動き、光、カメラまわりの実装をしてくれました。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "「ここのカメラワークはこう」\n「この光はいらない」\n「被写界深度はこう」\n「プリズムやフレアはこう」\n「明暗とカラーノイズはこう」\n「カラーフィルターはこう」\n「ここのシーン、24フレで…」",
+        "englishText": "\"Camera work here should be like this\"\n\"This light isn't needed\"\n\"Depth of field should be like this\"\n\"Prism and flare should be like this\"\n\"Light/dark and color noise should be like this\"\n\"Color filter should be like this\"\n\"This scene, at 24 frames...\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial scene setup prompts",
+          "Dragon 3D modeling scripts",
+          "Camera motion code",
+          "Blender Python scripts",
+          "Post-processing and shader parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video presents an elaborate multi-shot 3D animated music video featuring a dragon flying over a stylized city, a subway station, clouds, and a full moon, accompanied by original music and on-screen credits attributing visuals to Opus 5.5.",
+        "textualResultQuote": "映像 Opus 5.5"
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Original musical composition created by the author",
+          "available": true,
+          "evidence": "僕が曲・監督・絵コンテを担当して",
+          "origin": "user",
+          "sourceUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753"
+        },
+        {
+          "kind": "storyboard",
+          "description": "Storyboards and directorial instructions created by the author",
+          "available": false,
+          "evidence": "僕が曲・監督・絵コンテを担当して",
+          "origin": "user",
+          "sourceUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene construction, dragon modeling, animation, lighting, camera movement, and video rendering",
+          "evidence": "Opus 5.5がコードとBlenderで3Dを組み、ドラゴンのモデルや動き、光、カメラまわりの実装をしてくれました。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753"
+        },
+        {
+          "name": "three.js",
+          "role": "Initial prototype engine used before recreating the piece in Blender",
+          "evidence": "比較動画：左が最初の版（three.js）、右がBlenderで作り直した版です。",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Animation / Music Video",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "3d",
+          "dragon",
+          "animation",
+          "creative-coding",
+          "music-video"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the procedural 3D generation code and Blender automation scripts to model, rig/animate the dragon, and manage cameras and lighting across dozens of iterations.",
+      "outputSource": "Blender",
+      "divisionEvidence": "僕が曲・監督・絵コンテを担当して、Opus 5.5がコードとBlenderで3Dを組み、ドラゴンのモデルや動き、光、カメラまわりの実装をしてくれました。画像＆動画生成は使っていません。全部コードで組んだ3Dです。",
+      "video": {
+        "shots": "multi-shot",
+        "duration": "03:47",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production reference case where the model generated Blender code to construct and render a 3D animated music video; verified with original creator video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+        "start": 137,
+        "end": 232
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+        "author": "LugiAXETomXV",
+        "postId": "2105091868149354753",
+        "publishedAt": "2026-09-30T00:26:26.000Z"
+      },
+      "checkedAt": "2026-09-30T04:30:26.219Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/LugiAXETomXV/status/2105091868149354753",
+        "evidence": ""
+      }
+    },
+    "summary": "The author co-produced a full-length 3D animated music video with Claude Opus 5.5, which generated code in Blender to construct the 3D world, model and animate the dragon, and configure cameras and lighting.",
+    "summaryEn": "3D Animated Music Video Produced with Claude Opus 5.5 and Blender",
+    "originalPrompt": "「ここのカメラワークはこう」\n「この光はいらない」\n「被写界深度はこう」\n「プリズムやフレアはこう」\n「明暗とカラーノイズはこう」\n「カラーフィルターはこう」\n「ここのシーン、24フレで…」",
+    "sourceRange": {
+      "start": 137,
+      "end": 232
+    },
+    "translations": {
+      "zh": "「ここのカメラワークはこう」\n「この光はいらない」\n「被写界深度はこう」\n「プリズムやフレアはこう」\n「明暗とカラーノイズはこう」\n「カラーフィルターはこう」\n「ここのシーン、24フレで…」",
+      "en": "\"Camera work here should be like this\"\n\"This light isn't needed\"\n\"Depth of field should be like this\"\n\"Prism and flare should be like this\"\n\"Light/dark and color noise should be like this\"\n\"Color filter should be like this\"\n\"This scene, at 24 frames...\""
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "blender",
+    "useCase": "3D Animation / Music Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial scene setup prompts",
+        "Dragon 3D modeling scripts",
+        "Camera motion code",
+        "Blender Python scripts",
+        "Post-processing and shader parameters"
+      ],
+      "evidence": "The video presents an elaborate multi-shot 3D animated music video featuring a dragon flying over a stylized city, a subway station, clouds, and a full moon, accompanied by original music and on-screen credits attributing visuals to Opus 5.5."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T06:23:18.363Z",
+  "model": "opus5.5",
+  "prompt": "Introduce what kind of videos you can make",
+  "promptTranslations": {
+    "en": "Introduce what kind of videos you can make"
+  },
+  "summaryTranslations": {
+    "en": "The author asks Opus 5.5 to introduce what types of videos it can create, and the model conceives an animated film titled \"I Can Only Write\" and generates a frame-by-frame drawn Canvas/code animation script along with voiceover."
+  },
+  "translationVersion": 2,
+  "summary": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
+  "summaryEn": "Opus 5.5 代码逐帧生成动画短片《我只会写字》",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104441050211475528",
+    "canonicalUrl": "https://x.com/kokoro_886/status/2104441050211475528",
+    "author": {
+      "username": "kokoro_886",
+      "displayName": "雷震Rayzen",
+      "profileUrl": "https://x.com/kokoro_886"
+    },
+    "publishedAt": "2026-09-28T05:20:19.000Z",
+    "collectedAt": "2026-09-28T05:56:20.121Z",
+    "language": "zh",
+    "originalText": "opus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》\n\n请收下我的膝盖！！ https://t.co/W1muUsdPFD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kokoro_886/status/2104441050211475528",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104440603736162304/img/HjlZ8Wy406XG78NI.jpg",
+        "analysisUrl": "https://x.com/kokoro_886/status/2104441050211475528"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/kokoro_886/status/2104441050211475528",
+        "text": "雷震Rayzen on X: \"opus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》\n\n请收下我的膝盖！！\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n雷震Rayzen on X: \"opus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》\n\n请收下我的膝盖！！\"\n\n\n\n雷震Rayzen\n\n@kokoro_886\n\n\n\n\nShow translation\nopus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》\n\n请收下我的膝盖！！\n\n\n00:00\n\n\n\n\n\n\n\n\n5:20 AM · Sep 28, 2026·12\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n雷震Rayzen@kokoro_886Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n雷震Rayzen\n\n@kokoro_886\n\n\n\n\nShow translation\nopus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》\n\n请收下我的膝盖！！\n\n\n00:00\n\n\n\n\n\n\n\n\n5:20 AM · Sep 28, 2026·12\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kokoro_886"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kokoro_886/status/2104441050211475528",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104440603736162304/img/HjlZ8Wy406XG78NI.jpg",
+  "coverPath": "data/covers/2104441050211475528-wide.jpg",
+  "gifPath": "data/gifs/2104441050211475528.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104440603736162304",
+    "x-post:2104441050211475528"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 代码逐帧生成动画短片《我只会写字》",
+      "summary": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5，你让我看到了新的未来\n\n我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "介绍自己能做什么样的视频",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "用于生成完整视频脚本的完整原始提示词",
+          "驱动动画逐帧渲染的 JavaScript/Canvas 源码",
+          "配音合成与音频工程调用指令"
+        ],
+        "englishText": "Introduce what kind of videos you can make"
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频全长3分31秒，展示了手绘水墨风格、像素风、物理图解与代码逐帧控制的动画短片《我只会写字》，旁白与画面完全契合，片尾注明每一幅均由代码逐帧绘制。",
+        "textualResultQuote": "我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子：《我只会写字》"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / JavaScript",
+          "role": "运行 Opus 生成的动画代码，在浏览器中逐帧执行绘制并导出视觉画面",
+          "evidence": "视频画面中展示 Canvas 绘制函数 `function frame(t) { sky.draw(t); ... return canvas; }`，台词说明「因为我写的是代码」「浏览器照着它，一帧一帧地画」。",
+          "status": "inferred"
+        },
+        {
+          "name": "MiniMax",
+          "role": "提供旁白语音合成支持",
+          "evidence": "片尾标注：「语音 MiniMax」。",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "根据用户提问撰写全片剧本、分镜脚本并编写 Canvas 逐帧动画代码与合成逻辑",
+      "outputSource": "HTML5 Canvas / 代码渲染引擎",
+      "divisionEvidence": "作者发帖称「我让opus 5.5介绍自己能做什么样的视频，它写出来这个片子」，片尾标注说明「每一幅都由代码逐帧绘制，配乐与声音由代码合成」。",
+      "video": {
+        "shots": "多镜头手绘图解、分镜切换及动态图表演示",
+        "duration": "03:31",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "展示了 Claude Opus 5.5 构思并编写代码完成逐帧动画短片制作的典型案例，附有完整的成片视频与工具链分工，符合 Opus 视频生成与动画制作案例库范畴。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kokoro_886/status/2104441050211475528",
+        "start": 31,
+        "end": 43
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kokoro_886/status/2104441050211475528",
+        "author": "kokoro_886",
+        "postId": "2104441050211475528",
+        "publishedAt": "2026-09-28T05:20:19.000Z"
+      },
+      "checkedAt": "2026-09-28T06:02:26.820Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kokoro_886/status/2104441050211475528",
+        "evidence": ""
+      }
+    },
+    "summary": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
+    "summaryEn": "Opus 5.5 代码逐帧生成动画短片《我只会写字》",
+    "originalPrompt": "介绍自己能做什么样的视频",
+    "sourceRange": {
+      "start": 31,
+      "end": 43
+    },
+    "translations": {
+      "zh": "介绍自己能做什么样的视频",
+      "en": "介绍自己能做什么样的视频"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "用于生成完整视频脚本的完整原始提示词",
+        "驱动动画逐帧渲染的 JavaScript/Canvas 源码",
+        "配音合成与音频工程调用指令"
+      ],
+      "evidence": "视频全长3分31秒，展示了手绘水墨风格、像素风、物理图解与代码逐帧控制的动画短片《我只会写字》，旁白与画面完全契合，片尾注明每一幅均由代码逐帧绘制。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

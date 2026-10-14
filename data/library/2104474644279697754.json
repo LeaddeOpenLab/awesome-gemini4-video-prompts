@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:27.732Z",
+  "model": "opus5.5",
+  "prompt": "break down what India’s Got Lalent really is",
+  "promptTranslations": {
+    "en": "break down what India’s Got Lalent really is"
+  },
+  "summary": "Ratnaksh Tyagi shares an animated motion graphics explainer breaking down the comedy talent show 'India's Got Latent', attributing the generation task to Opus 5.5.",
+  "summaryEn": "India's Got Latent Explainer Breakdown",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104474644279697754",
+    "canonicalUrl": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+    "author": {
+      "username": "ratnakshtyagi27",
+      "displayName": "Ratnaksh Tyagi",
+      "profileUrl": "https://x.com/ratnakshtyagi27"
+    },
+    "publishedAt": "2026-09-28T07:33:49.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "en",
+    "originalText": "Everyone knows India’s Got Latent… but do we actually know what’s happening behind the scenes? 👀\n\nI gave Opus 5.5 one simple task: break down what India’s Got Lalent really is.\n\nThe result? 👀🔥\n\nWatch the video and decide for yourself.\n\n@realsamayrainaa \n\n#samayraina https://t.co/6JD78kciCG",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104473278257696769/img/FMjGmS7miVH_WWPu.jpg",
+        "analysisUrl": "https://x.com/ratnakshtyagi27/status/2104474644279697754"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 30
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+        "text": "Ratnaksh Tyagi on X: \"Everyone knows India’s Got Latent… but do we actually know what’s happening behind the scenes? 👀\n\nI gave Opus 5.5 one simple task: break down what India’s Got Lalent really is.\n\nThe result? 👀🔥\n\nWatch the video and decide for yourself.\n\n@realsamayrainaa \n\n#samayraina\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRatnaksh Tyagi on X: \"Everyone knows India’s Got Latent… but do we actually know what’s happening behind the scenes? 👀\n\nI gave Opus 5.5 one simple task: break down what India’s Got Lalent really is.\n\nThe result? 👀🔥\n\nWatch the video and decide for yourself.\n\n@realsamayrainaa \n\n#samayraina\"\n\n\n\nRatnaksh Tyagi\n@ratnakshtyagi27\n\n\n\n\nEveryone knows India’s Got Latent… but do we actually know what’s happening behind the scenes? 👀\n\nI gave Opus 5.5 one simple task: break down what India’s Got Lalent really is.\n\nThe result? 👀🔥\n\nWatch the video and decide for yourself.\n\n@realsamayrainaa \n\n#samayraina\n\n\n00:00\n\n\n\n\n\n\n\n\n7:33 AM · Sep 28, 2026·30\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRatnaksh Tyagi@ratnakshtyagi27Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nRatnaksh Tyagi\n@ratnakshtyagi27\n\n\n\n\nEveryone knows India’s Got Latent… but do we actually know what’s happening behind the scenes? 👀\n\nI gave Opus 5.5 one simple task: break down what India’s Got Lalent really is.\n\nThe result? 👀🔥\n\nWatch the video and decide for yourself.\n\n@realsamayrainaa \n\n#samayraina\n\n\n00:00\n\n\n\n\n\n\n\n\n7:33 AM · Sep 28, 2026·30\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ratnakshtyagi27"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104473278257696769/img/FMjGmS7miVH_WWPu.jpg",
+  "coverPath": "data/covers/2104474644279697754-wide.jpg",
+  "gifPath": "data/gifs/2104474644279697754.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104473278257696769",
+    "x-post:2104474644279697754"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "India's Got Latent Explainer Breakdown",
+      "summary": "Ratnaksh Tyagi shares an animated motion graphics explainer breaking down the comedy talent show 'India's Got Latent', attributing the generation task to Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Opus 5.5 one simple task: break down what India’s Got Lalent really is."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "break down what India’s Got Lalent really is",
+        "englishText": "break down what India’s Got Lalent really is",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete prompt instructions",
+          "motion graphics/animation framework code",
+          "voiceover and sound asset specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 1-minute 47-second animated explainer breaking down the premise, scoring rules, hiatus, and return of India's Got Latent.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Content breakdown and explainer animation/script orchestration (exact role unspecified)",
+      "outputSource": "Rendered motion graphics explainer video with animated graphics, kinetic text, and voiceover",
+      "divisionEvidence": "The author notes 'I gave Opus 5.5 one simple task: break down what India’s Got Lalent really is' without detailing the rendering engine or code tools used.",
+      "video": {
+        "shots": null,
+        "duration": "01:47",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The post showcases an animated explainer video production attributed directly to Claude Opus 5.5, although full code instructions and tooling are not published.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+        "start": 132,
+        "end": 176
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+        "author": "ratnakshtyagi27",
+        "postId": "2104474644279697754",
+        "publishedAt": "2026-09-28T07:33:49.000Z"
+      },
+      "checkedAt": "2026-09-28T12:13:32.962Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ratnakshtyagi27/status/2104474644279697754",
+        "evidence": ""
+      }
+    },
+    "summary": "Ratnaksh Tyagi shares an animated motion graphics explainer breaking down the comedy talent show 'India's Got Latent', attributing the generation task to Opus 5.5.",
+    "summaryEn": "India's Got Latent Explainer Breakdown",
+    "originalPrompt": "break down what India’s Got Lalent really is",
+    "sourceRange": {
+      "start": 132,
+      "end": 176
+    },
+    "translations": {
+      "zh": "break down what India’s Got Lalent really is",
+      "en": "break down what India’s Got Lalent really is"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Ratnaksh Tyagi shares an animated motion graphics explainer breaking down the comedy talent show 'India's Got Latent', attributing the generation task to Opus 5.5.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete prompt instructions",
+        "motion graphics/animation framework code",
+        "voiceover and sound asset specifications"
+      ],
+      "evidence": "The video shows a 1-minute 47-second animated explainer breaking down the premise, scoring rules, hiatus, and return of India's Got Latent."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

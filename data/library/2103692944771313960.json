@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:46.290Z",
+  "model": "opus5.5",
+  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
+  "promptTranslations": {
+    "en": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out."
+  },
+  "summary": "A prompt testing Opus 5.5 to generate a dynamic 15-second motion graphics resume showreel video.",
+  "summaryEn": "Motion Designer Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103692944771313960",
+    "canonicalUrl": "https://x.com/motiondsgnr/status/2103692944771313960",
+    "author": {
+      "username": "motiondsgnr",
+      "displayName": "Danny",
+      "profileUrl": "https://x.com/motiondsgnr"
+    },
+    "publishedAt": "2026-09-26T03:47:37.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "Yo! Opus 5.5. RAW, UNFILTERED!! 🙀🙀\n\nBeen seeing this trend on X and decided to try this out.\n\nGave it one single prompt: \"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\"\n\nThe results? Mind-blowing! Might need some work. But imagine what this could do with detailed prompting...",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/motiondsgnr/status/2103692944771313960",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103692280049651712/img/X8GCqYMZQbBcf5Nh.jpg",
+        "analysisUrl": "https://x.com/motiondsgnr/status/2103692944771313960"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 105
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/motiondsgnr/status/2103702045924470784",
+        "text": "@TechboyAro 🔥🔥",
+        "author": "motiondsgnr"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/motiondsgnr/status/2103692944771313960",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103692280049651712/img/X8GCqYMZQbBcf5Nh.jpg",
+  "coverPath": "data/covers/2103692944771313960-wide.jpg",
+  "gifPath": "data/gifs/2103692944771313960.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103692280049651712",
+    "x-post:2103692944771313960"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Designer Showreel Prompt",
+      "summary": "A prompt testing Opus 5.5 to generate a dynamic 15-second motion graphics resume showreel video.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
+        "englishText": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/motiondsgnr/status/2103692944771313960",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/motiondsgnr/status/2103692944771313960",
+        "start": 124,
+        "end": 275
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/motiondsgnr/status/2103692944771313960",
+        "author": "motiondsgnr",
+        "postId": "2103692944771313960",
+        "publishedAt": "2026-09-26T03:47:37.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:50.986Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/motiondsgnr/status/2103692944771313960",
+        "evidence": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt testing Opus 5.5 to generate a dynamic 15-second motion graphics resume showreel video.",
+    "summaryEn": "Motion Designer Showreel Prompt",
+    "originalPrompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
+    "sourceRange": {
+      "start": 124,
+      "end": 275
+    },
+    "translations": {
+      "zh": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
+      "en": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

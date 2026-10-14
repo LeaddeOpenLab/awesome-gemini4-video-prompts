@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:03.857Z",
+  "model": "opus5.5",
+  "prompt": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+  "promptTranslations": {
+    "en": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs"
+  },
+  "summary": "The author prompted Claude Opus 5.5 to recreate the opening sequence of Dracula in 3D using Three.js, resulting in a 105-second cinematic render featuring a carriage ride, wolf encounter, Castle Dracula, and procedural sound design.",
+  "summaryEn": "Dracula Chapter 1 3D Scene Recreation with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105193450467389763",
+    "canonicalUrl": "https://x.com/original_ngv/status/2105193450467389763",
+    "author": {
+      "username": "original_ngv",
+      "displayName": "enji vi",
+      "profileUrl": "https://x.com/original_ngv"
+    },
+    "publishedAt": "2026-09-30T07:10:05.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "Inspired by @karpathy's test last month, I decided to see how good Opus 5.5 was at rendering 3D graphics.\n\nI'm taken aback by how good the sound design is more than the graphics themselves.\n\nI gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs\n\nAfter 6 hours of working it came back with this. Compared to @karpathy's test with Opus 5, where he asked it to recreate the first paragraph of Lord of the Rings, the results show a stark spike in capability.\n\nNot only is the scenery significantly improved, it also did an amazing job with the lighting and effects.\n\nI'm particularly in love with the wolf echo it made for the introduction of Dracula.\n\nWhile the human models can be improved significantly, compared to the rendition of LOR last month, this feels like a 10x or even 20x improvement in skill. \n\nI'm scared to think what a full blown Mythos-2 would look like creating a movie. \n\nThis is just a first pass. I might spend some more time improving this over the course of the next few weeks.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/original_ngv/status/2105193450467389763",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105193188030021632/img/TYcGca0SVfcdwd6m.jpg",
+        "analysisUrl": "https://x.com/original_ngv/status/2105193450467389763"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 3,
+      "viewCount": 682
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/original_ngv/status/2105201464561815817",
+        "text": "@_notapenguin @karpathy Hmmmm not a bad idea",
+        "author": "original_ngv"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/original_ngv/status/2105193450467389763",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105193188030021632/img/TYcGca0SVfcdwd6m.jpg",
+  "coverPath": "data/covers/2105193450467389763-wide.jpg",
+  "gifPath": "data/gifs/2105193450467389763.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105193188030021632",
+    "x-post:2105193450467389763"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dracula Chapter 1 3D Scene Recreation with Three.js",
+      "summary": "The author prompted Claude Opus 5.5 to recreate the opening sequence of Dracula in 3D using Three.js, resulting in a 105-second cinematic render featuring a carriage ride, wolf encounter, Castle Dracula, and procedural sound design.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I decided to see how good Opus 5.5 was at rendering 3D graphics."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+        "englishText": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Verbatim system or user prompt provided to Opus 5.5",
+          "Exact text excerpts from Dracula supplied as input",
+          "Multi-turn prompting and iteration code across the 6-hour workflow"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a full 3D animated cinematic sequence created with Three.js depicting Jonathan Harker's carriage journey through the Carpathians, nightfall, wolves circling the carriage, and the approach to Castle Dracula, complete with synchronized audio and quote subtitles. (Note: media inspected is a lower bitrate/resolution alternate stream; visual quality judgment is limited to this input stream).",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "text",
+          "description": "First few paragraphs of Bram Stoker's Dracula (Chapter 1)",
+          "available": false,
+          "evidence": "I gave it the first few paragraphs of Dracula",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/original_ngv/status/2105193450467389763"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics WebGL rendering library",
+          "evidence": "asked it to recreate the entire thing using @threejs",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/original_ngv/status/2105193450467389763"
+        }
+      ],
+      "purpose": {
+        "label": "Literary 3D Narrative Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "dracula",
+          "claude-opus",
+          "cinematic-animation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the Three.js code, arranged scenes, lighting, shaders, animations, and sound design.",
+      "outputSource": "Three.js WebGL renderer",
+      "divisionEvidence": "I decided to see how good Opus 5.5 was at rendering 3D graphics... I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+      "video": {
+        "shots": "Multiple dynamic tracking and establishing shots across daytime forest roads, twilight mountain passes, night snowfields, and Castle Dracula",
+        "duration": "01:45",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "Bram Stoker's Dracula (1897), Chapter 1"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an agentic video and 3D narrative animation production workflow using Claude Opus 5.5 and Three.js with full accompanying video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/original_ngv/status/2105193450467389763",
+        "start": 191,
+        "end": 294
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/original_ngv/status/2105193450467389763",
+        "author": "original_ngv",
+        "postId": "2105193450467389763",
+        "publishedAt": "2026-09-30T07:10:05.000Z"
+      },
+      "checkedAt": "2026-09-30T08:41:04.317Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/original_ngv/status/2105193450467389763",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 to recreate the opening sequence of Dracula in 3D using Three.js, resulting in a 105-second cinematic render featuring a carriage ride, wolf encounter, Castle Dracula, and procedural sound design.",
+    "summaryEn": "Dracula Chapter 1 3D Scene Recreation with Three.js",
+    "originalPrompt": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+    "sourceRange": {
+      "start": 191,
+      "end": 294
+    },
+    "translations": {
+      "zh": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs",
+      "en": "I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Literary 3D Narrative Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Verbatim system or user prompt provided to Opus 5.5",
+        "Exact text excerpts from Dracula supplied as input",
+        "Multi-turn prompting and iteration code across the 6-hour workflow"
+      ],
+      "evidence": "The video shows a full 3D animated cinematic sequence created with Three.js depicting Jonathan Harker's carriage journey through the Carpathians, nightfall, wolves circling the carriage, and the approach to Castle Dracula, complete with synchronized audio and quote subtitles. (Note: media inspected is a lower bitrate/resolution alternate stream; visual quality judgment is limited to this input stream)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

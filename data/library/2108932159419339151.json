@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:50.921Z",
+  "model": "opus5.5",
+  "prompt": "design a character that is a mix between Zed from League and SF from DotA 2",
+  "promptTranslations": {
+    "en": "design a character that is a mix between Zed from League and SF from DotA 2"
+  },
+  "summary": "A screen recording demonstrating an interactive 3D MOBA character design combining visual and gameplay traits of Zed from League of Legends and Shadow Fiend from Dota 2, attributed to Claude Opus 5.5.",
+  "summaryEn": "MOBA Character Design: Zed and Shadow Fiend Hybrid",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108932159419339151",
+    "canonicalUrl": "https://x.com/stablequan/status/2108932159419339151",
+    "author": {
+      "username": "stablequan",
+      "displayName": "Quan Nguyen",
+      "profileUrl": "https://x.com/stablequan"
+    },
+    "publishedAt": "2026-10-10T14:46:23.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "en",
+    "originalText": "Tell Opus 5.5 to design a character that is a mix between Zed from League and SF from DotA 2\n\nThe result looks incredible: https://t.co/EeIZNYpZZY",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/stablequan/status/2108932159419339151",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108931925263990784/img/VudrrmZh7aH_3ymO.jpg",
+        "analysisUrl": "https://x.com/stablequan/status/2108932159419339151"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 389
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/EeIZNYpZZY"
+    ]
+  },
+  "xUrl": "https://x.com/stablequan/status/2108932159419339151",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108931925263990784/img/VudrrmZh7aH_3ymO.jpg",
+  "coverPath": "data/covers/2108932159419339151-wide.jpg",
+  "gifPath": "data/gifs/2108932159419339151.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108931925263990784/vid/avc1/480x270/4BKNtueNXf0t36hF.mp4?tag=29",
+    "x-video:2108931925263990784",
+    "x-post:2108932159419339151"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "MOBA Character Design: Zed and Shadow Fiend Hybrid",
+      "summary": "A screen recording demonstrating an interactive 3D MOBA character design combining visual and gameplay traits of Zed from League of Legends and Shadow Fiend from Dota 2, attributed to Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Tell Opus 5.5 to design a character that is a mix between Zed from League and SF from DotA 2"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "design a character that is a mix between Zed from League and SF from DotA 2",
+        "englishText": "design a character that is a mix between Zed from League and SF from DotA 2",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete system prompt",
+          "game engine implementation code",
+          "character 3D model and asset instructions",
+          "spell logic and particle effect specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D top-down MOBA game environment featuring a dark, shadow-wielding character using blade and soul-like mechanics resembling Zed and Shadow Fiend while attacking creeps and towers.",
+        "textualResultQuote": "The result looks incredible:"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "OBS Studio",
+          "role": "Screen capture software used to record the gameplay session",
+          "evidence": "OBS Studio window is visible on screen during the final seconds of the video (00:40)",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D MOBA Character Demo",
+        "topic": "games-interactive",
+        "tags": [
+          "moba",
+          "character-design",
+          "interactive-3d",
+          "gaming",
+          "screen-recording"
+        ]
+      },
+      "targetModelRole": "Character design concept and underlying game/ability programming",
+      "outputSource": "Playable 3D game engine application",
+      "divisionEvidence": "Author credits Opus 5.5 with designing the character, while the output is executed in a 3D game client and recorded via OBS Studio",
+      "video": {
+        "shots": "Single continuous take of top-down MOBA gameplay concluding on desktop recording UI",
+        "duration": "41s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 3D game demo created with Claude Opus 5.5; qualifies under reference-case policy despite incomplete prompt text.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/stablequan/status/2108932159419339151",
+        "start": 17,
+        "end": 92
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/stablequan/status/2108932159419339151",
+        "author": "stablequan",
+        "postId": "2108932159419339151",
+        "publishedAt": "2026-10-10T14:46:23.000Z"
+      },
+      "checkedAt": "2026-10-12T06:19:38.117Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/stablequan/status/2108932159419339151",
+        "evidence": ""
+      }
+    },
+    "summary": "A screen recording demonstrating an interactive 3D MOBA character design combining visual and gameplay traits of Zed from League of Legends and Shadow Fiend from Dota 2, attributed to Claude Opus 5.5.",
+    "summaryEn": "MOBA Character Design: Zed and Shadow Fiend Hybrid",
+    "originalPrompt": "design a character that is a mix between Zed from League and SF from DotA 2",
+    "sourceRange": {
+      "start": 17,
+      "end": 92
+    },
+    "translations": {
+      "zh": "design a character that is a mix between Zed from League and SF from DotA 2",
+      "en": "design a character that is a mix between Zed from League and SF from DotA 2"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D MOBA Character Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete system prompt",
+        "game engine implementation code",
+        "character 3D model and asset instructions",
+        "spell logic and particle effect specifications"
+      ],
+      "evidence": "The video shows a 3D top-down MOBA game environment featuring a dark, shadow-wielding character using blade and soul-like mechanics resembling Zed and Shadow Fiend while attacking creeps and towers."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:10:52.190Z",
+  "model": "opus5.5",
+  "prompt": "build a game where you run a factory against an AI.",
+  "promptTranslations": {
+    "en": "build a game where you run a factory against an AI."
+  },
+  "summary": "Konstantin Saifoulline prompted Claude Opus 5.5 to create 'Factory God', an interactive discrete event simulation game where players design manufacturing lines to compete against an AI optimization agent.",
+  "summaryEn": "AI Factory Discrete Event Simulation Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105028528198541622",
+    "canonicalUrl": "https://x.com/konstantinsaifo/status/2105028528198541622",
+    "author": {
+      "username": "konstantinsaifo",
+      "displayName": "Konstantin Saifoulline",
+      "profileUrl": "https://x.com/konstantinsaifo"
+    },
+    "publishedAt": "2026-09-29T20:14:45.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to build a game where you run a factory against an AI.\n\nYou design the production line for a drone, an electric motor or a rocket engine. A real discrete event simulation runs it: machines break down, queues fill up, the bottleneck glows red.\n\nThen an AI designs its own line on the same simulation, with the same budget and the same luck.\n\nLowest cost per unit that still meets demand wins.\n\nCan you beat it?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/konstantinsaifo/status/2105028528198541622",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105028315568345088/img/hDSKlRQtw_ipc7qc.jpg",
+        "analysisUrl": "https://x.com/konstantinsaifo/status/2105028528198541622"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 4,
+      "replyCount": 2,
+      "quoteCount": 2,
+      "viewCount": 1495
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/konstantinsaifo/status/2105028528198541622",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105028315568345088/img/hDSKlRQtw_ipc7qc.jpg",
+  "coverPath": "data/covers/2105028528198541622-wide.jpg",
+  "gifPath": "data/gifs/2105028528198541622.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105028315568345088",
+    "x-post:2105028528198541622"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AI Factory Discrete Event Simulation Game",
+      "summary": "Konstantin Saifoulline prompted Claude Opus 5.5 to create 'Factory God', an interactive discrete event simulation game where players design manufacturing lines to compete against an AI optimization agent.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to build a game where you run a factory against an AI."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a game where you run a factory against an AI.",
+        "englishText": "build a game where you run a factory against an AI.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete application prompts",
+          "discrete event simulation engine rules",
+          "UI/visualization architecture and rendering code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 39-second screen recording of the playable interactive game 'Factory God' featuring real-time factory line simulation, glowing bottlenecks, and AI competitor comparison metrics.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Canvas / WebGL",
+          "role": "Interactive visual simulation and 3D factory line renderer",
+          "evidence": "Rendered interactive 3D simulation with dynamic camera angles and machine animations displayed in the web browser UI.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Discrete Event Simulation Game",
+        "topic": "games-interactive",
+        "tags": [
+          "factory-simulation",
+          "interactive-game",
+          "webgl",
+          "discrete-event",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Code generation and logic orchestration for the full-stack interactive discrete event simulation game.",
+      "outputSource": "Web browser application executing generated simulation and UI code.",
+      "divisionEvidence": "Claude Opus 5.5 was prompted to build the game logic and simulation code, which renders interactively in the web browser interface.",
+      "video": {
+        "shots": "Single continuous screen capture showing UI configuration, simulation execution, and score screen",
+        "duration": "00:39",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive simulation game built with Claude Opus 5.5, backed by a screen recording showing real-time graphics and animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/konstantinsaifo/status/2105028528198541622",
+        "start": 27,
+        "end": 78
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2105028528198541622",
+        "author": "konstantinsaifo",
+        "postId": "2105028528198541622",
+        "publishedAt": "2026-09-29T20:14:45.000Z"
+      },
+      "checkedAt": "2026-09-30T09:44:25.346Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2105028528198541622",
+        "evidence": ""
+      }
+    },
+    "summary": "Konstantin Saifoulline prompted Claude Opus 5.5 to create 'Factory God', an interactive discrete event simulation game where players design manufacturing lines to compete against an AI optimization agent.",
+    "summaryEn": "AI Factory Discrete Event Simulation Game",
+    "originalPrompt": "build a game where you run a factory against an AI.",
+    "sourceRange": {
+      "start": 27,
+      "end": 78
+    },
+    "translations": {
+      "zh": "build a game where you run a factory against an AI.",
+      "en": "build a game where you run a factory against an AI."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Discrete Event Simulation Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete application prompts",
+        "discrete event simulation engine rules",
+        "UI/visualization architecture and rendering code"
+      ],
+      "evidence": "The video shows a 39-second screen recording of the playable interactive game 'Factory God' featuring real-time factory line simulation, glowing bottlenecks, and AI competitor comparison metrics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

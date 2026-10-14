@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:29.393Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+  "promptTranslations": {
+    "en": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps."
+  },
+  "summary": "Claude Opus 5.5 generates a single-file WebGPU interactive 3D demo featuring an egg-shaped plush penguin chick with XPBD soft-body physics, real-time shell fur shaders, and interactive behaviors.",
+  "summaryEn": "Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109288662319919127",
+    "canonicalUrl": "https://x.com/vib3coded/status/2109288662319919127",
+    "author": {
+      "username": "vib3coded",
+      "displayName": "Vib3Coded",
+      "profileUrl": "https://x.com/vib3coded"
+    },
+    "publishedAt": "2026-10-11T14:23:00.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "en",
+    "originalText": "It’s just code. So why do I want to hug it? 🐧\n\nGPT-6 Astra vs Claude Opus 5.5 - same prompt, two interactive plush penguins\n\nAstra made a special little guy: big eyes, a cream belly and a personality of his own. Opus is fluffier, but Astra’s penguin is the one I’d actually buy\n\nBoth use WebGPU, soft-body physics and brushable fur, each in a single HTML file\n\nEstimated API cost:\n\nAstra: $13.07\nOpus: $11.05\n\nWhich one would you take home? 👀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vib3coded/status/2109288662319919127",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg",
+        "analysisUrl": "https://x.com/vib3coded/status/2109288662319919127"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 11,
+      "replyCount": 13,
+      "quoteCount": 0,
+      "viewCount": 1170
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109422201497940120",
+        "text": "@kurachimai same here! Astra’s penguin has so much more personality 😆",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109315187580813348",
+        "text": "@The1Broom yeah the fluff helps, but the way he flops is what makes him feel stuffed",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109314554022727918",
+        "text": "@thebitcode haha fair, gotta leave room in the budget for fish 😂",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109314001125716457",
+        "text": "@eVshevtsoV haha",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109294303378133161",
+        "text": "@N1njaCodex yeah it really makes you wanna pet him",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109293616363380798",
+        "text": "@AntarexBTC just a text prompt, no reference images",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109292236349313418",
+        "text": "@DrstaOne yeah the fluffy belly turned out really nice 😀",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109291702754140540",
+        "text": "@Jackeline362114 the prompt is in the comments 🙌",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109291558025433443",
+        "text": "@0xPifagor both use shell fur, layers of geometry with a shader creating the fluffy look rather than individual modeled hairs",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109290543293579721",
+        "text": "@maxt3chno those big eyes got me too",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109290461055660146",
+        "text": "@olezhavich fair, that extra fluff is hard to resist",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109288887176859745",
+        "text": "Opus 5.5 https://t.co/O2BoUvKtwp\nGPT-6 Astra https://t.co/uHa8m9mBNb",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2109288858701455535",
+        "text": "PROMPT:\nBuild a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://claude.ai/artifact/SGWL6fBnaLCoYkMbJpkMVh",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://plush-penguin-astra.vercel.app/",
+        "text": "\n\n\n\n\nPlush Penguin — Material Studies / No. 016\n\n\n\n\n\n\nMaterial Studies / No. 016\nSewing a little penguin\n\n\nPlush /Penguin.\nA fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\nPYGOSCELIS / SOFT GOODS\nTabletop specimen, 18 cm\nThe specimenfig. 016\n\n Touch\nHandFingerComb\n\n Plumage\nChickClassicLittle blue\n\n Stuffing 55%softplump\n\nPile 5.6 mmvelvetdown\n\nTable Feltfeltice\n\n\n WaddleBelly slideFlapToppleSmooth furReset\n¼ speedMesh\nPause\nPerfectly bad at standing still.\n\n\nJust a little soft around the edges.\n\nPick it up. Squash the fluff. Tug a flipper.\nDrag the empty table to orbit · scroll to zoom.\nMass— g\nVolume100.0 %\nSteps0\nSlide0.0 cm\n\n\nInside the experimentOne stuffed shape. An egg-shaped signed distance field becomes a smooth surface-net mesh. Beneath it, hexahedral cells shape-match and tetrahedra preserve volume using an XPBD soft-body solver.\nStuffing does the moving. A gentle posture constraint rotates the rest shape about the measured centre of mass. Alternating felt-foot contacts provide traction. There is no rigid body hiding under the down.\nSewn, not stuck on. Each flipper is a particle-cloth patch. Stretch, shear and bending constraints let it flop; barycentric seams transfer the pull back into the stuffing.\nBrushable down. Real-time fur shells use four-sample alpha-to-coverage. The face has shorter pile. Brushing changes the fibre direction, so against-grain strokes look darker and with-grain strokes catch the light.\nA slippery slope. Table adjusts Coulomb friction from felt to ice. Slide is measured from the body’s path during the toboggan; volume is the live signed-tetrahedron sum, relative to its rest state.\nNative WebGPU · no external assets · adaptive resolution.\n\nSTUFFED WITH NUMBERS.\nRENDERED WITH A LITTLE AFFECTION.\n\nFluffing the very important egg…\n\nA little more graphics power.\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vib3coded/status/2109288662319919127",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg",
+  "coverPath": "data/covers/2109288662319919127-wide.jpg",
+  "gifPath": "data/gifs/2109288662319919127.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109288603134095361/vid/avc1/320x404/YROFGUVsGNpc0LS0.mp4?tag=29",
+    "x-video:2109288603134095361",
+    "x-post:2109288662319919127"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur",
+      "summary": "Claude Opus 5.5 generates a single-file WebGPU interactive 3D demo featuring an egg-shaped plush penguin chick with XPBD soft-body physics, real-time shell fur shaders, and interactive behaviors.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "\"GPT-6 Astra vs Claude Opus 5.5 - same prompt, two interactive plush penguins\" and \"Opus 5.5 https://claude.ai/artifact/SGWL6fBnaLCoYkMbJpkMVh\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+        "englishText": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the interactive WebGPU application with the specified editorial layout, title, physics interactions (waddling, falling, sliding), and real-time fluffy shell fur shader generated by Claude Opus 5.5.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGPU",
+          "role": "Real-time 3D rendering API and shader execution pipeline for the soft-body mesh and shell fur simulation",
+          "evidence": "Both use WebGPU, soft-body physics and brushable fur, each in a single HTML file",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/vib3coded/status/2109288662319919127"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No.",
+          "sourceUrl": "https://x.com/vib3coded/status/2109288858701455535",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive WebGPU Plush Penguin 3D Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "webgpu",
+          "soft-body-physics",
+          "xpbd",
+          "shell-fur",
+          "3d-interactive",
+          "claude-artifacts"
+        ]
+      },
+      "targetModelRole": "Writing the entire standalone single-file HTML, JavaScript, and WebGPU shader code implementing the 3D scene, XPBD physics engine, shell fur rendering, and interactive UI controls.",
+      "outputSource": "WebGPU browser environment running the generated single-file HTML code artifact.",
+      "divisionEvidence": "\"Claude Opus 5.5 - same prompt, two interactive plush penguins\" ... \"Both use WebGPU, soft-body physics and brushable fur, each in a single HTML file\"",
+      "video": {
+        "shots": "Side-by-side split-screen comparison recording showing interactive testing and movement of both WebGPU demos",
+        "duration": "17s",
+        "aspectRatio": "320:404",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides explicit confirmation of Claude Opus 5.5, a complete verbatim prompt, and a matching screen recording of the generated interactive WebGPU 3D canvas simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vib3coded/status/2109288858701455535",
+        "start": 8,
+        "end": 1992
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vib3coded/status/2109288662319919127",
+        "author": "vib3coded",
+        "postId": "2109288662319919127",
+        "publishedAt": "2026-10-11T14:23:00.000Z"
+      },
+      "checkedAt": "2026-10-12T07:41:55.566Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vib3coded/status/2109288858701455535",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a single-file WebGPU interactive 3D demo featuring an egg-shaped plush penguin chick with XPBD soft-body physics, real-time shell fur shaders, and interactive behaviors.",
+    "summaryEn": "Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur",
+    "originalPrompt": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+    "sourceRange": {
+      "start": 8,
+      "end": 1992
+    },
+    "translations": {
+      "zh": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps.",
+      "en": "Build a single-file WebGPU \"material study\" page called \"Plush Penguin\": editorial studio layout, large italic serif title \"Plush / Penguin.\", kicker \"Material Studies / No. 016\", caption \"A fluffy egg on two felt feet. It waddles, it toboggans, it falls over — and always gets back up.\", live status chip, specimen panel on the right, stats row (Mass, Volume, Steps, Slide in cm), collapsible \"Inside the experiment\" notes. UI in English, works on mobile.\n\nThe toy: a round plush penguin chick — an egg-shaped stuffed body as one SDF meshed with surface nets, a dark cap and back, a pale fluffy face and belly, big glossy safety-glass eyes, a small felt beak, pink cheeks, two flat felt feet. Its flippers are separate cloth pieces (particle cloth sewn to points embedded in the body) that flop, flap and stretch.\n\nPhysics: XPBD soft body on a hex lattice (shape-matched cells + tetrahedral volume preservation, live volume readout), skinned to the mesh, standing on a table with Coulomb friction. Locomotion by posture: a weak pull of the whole body toward its rest shape turned to an orientation and carried with its centre of mass, so the stuffing does the moving. Behaviours: Waddle (rocks side to side, lifting each foot and setting it down ahead), Belly slide (a little hop, flops forward onto its tummy and toboggans across the table, then rocks back up), Flap (happy flapping and a couple of hops), Topple (falls onto its back, belly or side and rocks itself upright with an overshoot), Smooth fur, Reset. Finger: it waddles over to your finger; push it and it falls over. Hand: pick it up, squash it, pull a flipper and it comes along.\n\nFur: real-time shell fur with alpha-to-coverage — long fluffy down on the body, short on the face, combable with a Comb tool (against the grain darker, with it shinier). Sliders: Stuffing, Pile (mm), Table (felt ↔ ice friction, so it slides further on ice). Palettes: Chick, Classic, Little blue. ¼ speed and mesh toggles, Pause. 60 fps."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive WebGPU Plush Penguin 3D Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates the interactive WebGPU application with the specified editorial layout, title, physics interactions (waddling, falling, sliding), and real-time fluffy shell fur shader generated by Claude Opus 5.5."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

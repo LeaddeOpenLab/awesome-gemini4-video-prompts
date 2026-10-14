@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:32.930Z",
+  "model": "opus5.5",
+  "prompt": "Asked Claude Opus 5.5 for a camel.",
+  "promptTranslations": {
+    "en": "Asked Claude Opus 5.5 for a camel."
+  },
+  "summary": "Claude Opus 5.5 generated an interactive 3D browser runner game titled 'Hump Run' featuring an upside-down bouncing camel traversing a desert obstacle course.",
+  "summaryEn": "Hump Run: Inverted 3D Camel Runner Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108238386318180841",
+    "canonicalUrl": "https://x.com/N1njaCodex/status/2108238386318180841",
+    "author": {
+      "username": "N1njaCodex",
+      "displayName": "NinjaCodex",
+      "profileUrl": "https://x.com/N1njaCodex"
+    },
+    "publishedAt": "2026-10-08T16:49:35.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "WHY are the humps on the wrong side?! 😭🐪\n\nAsked Claude Opus 5.5 for a camel. Got a desert hopper with four legs pointing at the sky and two humps doing all the work. $10.75 well spent\n\nIt’s bouncing past palm trees like someone assembled a camel without reading the instructions. The legs are still there. They’re just management now\n\nThen I made it pink, because apparently the anatomy wasn’t enough of a problem",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/N1njaCodex/status/2108238386318180841",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108238312204869633/img/tPIJv_lGzpNfOHF7.jpg",
+        "analysisUrl": "https://x.com/N1njaCodex/status/2108238386318180841"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 4,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 550
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108321684490977281",
+        "text": "@sara_kumodeck I couldn’t fix his anatomy, but I could give him a look 😂",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108321540571820240",
+        "text": "@Vectorxeth The code works. The camel just disagrees with the instructions 😂",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108281859390177611",
+        "text": "@tamamogram i asked for a camel, the rest was his decision",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108255778142396621",
+        "text": "@DanielZambrini i should’ve specified which way up the camel goes",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108241046404735434",
+        "text": "@Alchem1stTech finally, someone with a degree in geography",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108240938766397743",
+        "text": "@0xPifagor first attempt. didn’t dare ask for a second one",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108240838140502315",
+        "text": "@shmopixbzn They get better reception than my Wi-Fi now",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2108238714967376344",
+        "text": "Opus 5.5 https://t.co/UA2lZSIooO",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://claude.ai/artifact/JtWYMKTE7mUsgW47MaPjPf",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/N1njaCodex/status/2108238386318180841",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108238312204869633/img/tPIJv_lGzpNfOHF7.jpg",
+  "coverPath": "data/covers/2108238386318180841-wide.jpg",
+  "gifPath": "data/gifs/2108238386318180841.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108238312204869633/vid/avc1/432x270/Ic8NIPMy5NjuhbmM.mp4?tag=29",
+    "x-video:2108238312204869633",
+    "x-post:2108238386318180841"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Hump Run: Inverted 3D Camel Runner Game",
+      "summary": "Claude Opus 5.5 generated an interactive 3D browser runner game titled 'Hump Run' featuring an upside-down bouncing camel traversing a desert obstacle course.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claude.ai",
+        "authorUseConfirmed": true,
+        "evidence": "Asked Claude Opus 5.5 for a camel."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Asked Claude Opus 5.5 for a camel.",
+        "englishText": "Asked Claude Opus 5.5 for a camel.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt text and game development specifications",
+          "UI configuration and game mechanics instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a functional 3D game named 'Hump Run' running inside a Claude Artifact where an upside-down camel hops on its humps past cacti and palm trees with dynamic controls.",
+        "textualResultQuote": "Hump Run"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Artifacts",
+          "role": "Interactive application runtime and hosting environment",
+          "evidence": "Claude Artifact",
+          "sourceUrl": "https://claude.ai/artifact/JtWYMKTE7mUsgW47MaPjPf",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js / WebGL",
+          "role": "Interactive 3D renderer executing procedural geometry and scene animation in the browser",
+          "evidence": "The code works. The camel just disagrees with the instructions",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2108321540571820240",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Desert Runner Game",
+        "topic": "games-interactive",
+        "tags": [
+          "game",
+          "canvas",
+          "threejs",
+          "interactive",
+          "runner"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D canvas game mechanics, controls, and scene rendering",
+      "outputSource": "Claude Artifacts runtime rendering WebGL/JavaScript",
+      "divisionEvidence": "The code works. The camel just disagrees with the instructions 😂",
+      "video": {
+        "shots": "Single take screen recording of real-time interactive 3D gameplay",
+        "duration": "10s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 generating an interactive 3D web-based runner game with custom animated procedural models, UI controls, and collision interactions.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/N1njaCodex/status/2108238386318180841",
+        "start": 44,
+        "end": 78
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/N1njaCodex/status/2108238386318180841",
+        "author": "N1njaCodex",
+        "postId": "2108238386318180841",
+        "publishedAt": "2026-10-08T16:49:35.000Z"
+      },
+      "checkedAt": "2026-10-09T13:36:54.628Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/N1njaCodex/status/2108238386318180841",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated an interactive 3D browser runner game titled 'Hump Run' featuring an upside-down bouncing camel traversing a desert obstacle course.",
+    "summaryEn": "Hump Run: Inverted 3D Camel Runner Game",
+    "originalPrompt": "Asked Claude Opus 5.5 for a camel.",
+    "sourceRange": {
+      "start": 44,
+      "end": 78
+    },
+    "translations": {
+      "zh": "Asked Claude Opus 5.5 for a camel.",
+      "en": "Asked Claude Opus 5.5 for a camel."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Desert Runner Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt text and game development specifications",
+        "UI configuration and game mechanics instructions"
+      ],
+      "evidence": "The video shows a functional 3D game named 'Hump Run' running inside a Claude Artifact where an upside-down camel hops on its humps past cacti and palm trees with dynamic controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

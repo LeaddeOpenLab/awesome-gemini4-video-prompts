@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:24.243Z",
+  "model": "opus5.5",
+  "prompt": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.",
+  "promptTranslations": {
+    "en": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow."
+  },
+  "summary": "An interactive Three.js 3D Zen garden created as a single HTML file by Claude Opus 5.5, featuring dynamic canvas heightmap displacement for sand raking and lighting modes for morning, golden hour, and night.",
+  "summaryEn": "Interactive 3D Zen Garden with Rakeable Sand",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108541814718292438",
+    "canonicalUrl": "https://x.com/arixxbt/status/2108541814718292438",
+    "author": {
+      "username": "arixxbt",
+      "displayName": "Arix",
+      "profileUrl": "https://x.com/arixxbt"
+    },
+    "publishedAt": "2026-10-09T12:55:18.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "en",
+    "originalText": "I BUILT A ZEN GARDEN I CAN RAKE WITHOUT OWNING A RAKE\n\nOpus 5.5 wrote it as one html file. drag across the sand and the rake cuts grooves behind the cursor. switch the time of day and the whole garden relights.\n\nwhat's inside:\n\n> SAND - a 1536px heightmap on a 440×440 grid, every drag repaints it\n> RAKE - 5 grooves and 6 ridges per stroke, cut along your path\n> LIGHT - golden hour drops the sun low, so every groove throws a shadow\n> GARDEN - 5 mossy rocks, 2 stone lanterns, a maple with 420 leaves\n> FIXES - 3 rounds: moss showing through the sand, blocky rocks, lanterns out of frame\n\nthe part that makes it feel real is not the 3D. it is the low sun. the same grooves are almost invisible in the morning and look carved at golden hour.\n\ntouching grass is for people with a lawn. i rake sand at golden hour.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arixxbt/status/2108541814718292438",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108541492151140352/img/PZSfY1K1MZdEJO9-.jpg",
+        "analysisUrl": "https://x.com/arixxbt/status/2108541814718292438"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 577
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:tasks:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/arixxbt/status/2108610735546761229",
+        "text": "@GreatAlexs23 roughly this, then 3 follow-ups:\n\n\"one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.\"\n\nfixes were: grass showing through the grooves, blocky rocks, lanterns out of frame",
+        "author": "arixxbt"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arixxbt/status/2108541814718292438",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108541492151140352/img/PZSfY1K1MZdEJO9-.jpg",
+  "coverPath": "data/covers/2108541814718292438-wide.jpg",
+  "gifPath": "data/gifs/2108541814718292438.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108541492151140352/vid/avc1/320x400/Jbuw4v_m024qC5Rr.mp4?tag=29",
+    "x-video:2108541492151140352",
+    "x-post:2108541814718292438"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Zen Garden with Rakeable Sand",
+      "summary": "An interactive Three.js 3D Zen garden created as a single HTML file by Claude Opus 5.5, featuring dynamic canvas heightmap displacement for sand raking and lighting modes for morning, golden hour, and night.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 wrote it as one html file."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.",
+        "englishText": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact text for the 3 iterative follow-up prompts fixing moss showing through sand, rock geometry, and lantern framing"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates cursor dragging over sand creating 5 grooves and 6 ridges in real time, with mossy rocks, lanterns, dropping maple leaves, and toggling through morning, golden hour, and night lighting states.",
+        "textualResultQuote": "drag across the sand and the rake cuts grooves behind the cursor. switch the time of day and the whole garden relights."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "Client-side 3D rendering library and WebGL scene renderer in a single HTML file",
+          "evidence": "one html file, three.js. zen garden seen from above.",
+          "sourceUrl": "https://x.com/arixxbt/status/2108610735546761229",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Zen Garden",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "zen-garden",
+          "interactive",
+          "webgl",
+          "heightmap",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete standalone HTML and Three.js application code.",
+      "outputSource": "Web browser executing Three.js WebGL rendering canvas.",
+      "divisionEvidence": "Opus 5.5 wrote it as one html file. drag across the sand and the rake cuts grooves behind the cursor.",
+      "video": {
+        "shots": "Single interactive viewport shot from above with mouse interaction and lighting toggles",
+        "duration": "14s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 interactive 3D WebGL scene demonstrating code generation for animated simulation, verified with video screen recording and author-disclosed prompt details.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arixxbt/status/2108610735546761229",
+        "start": 49,
+        "end": 446
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arixxbt/status/2108541814718292438",
+        "author": "arixxbt",
+        "postId": "2108541814718292438",
+        "publishedAt": "2026-10-09T12:55:18.000Z"
+      },
+      "checkedAt": "2026-10-09T19:22:45.598Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/arixxbt/status/2108610735546761229",
+        "evidence": ""
+      }
+    },
+    "summary": "An interactive Three.js 3D Zen garden created as a single HTML file by Claude Opus 5.5, featuring dynamic canvas heightmap displacement for sand raking and lighting modes for morning, golden hour, and night.",
+    "summaryEn": "Interactive 3D Zen Garden with Rakeable Sand",
+    "originalPrompt": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.",
+    "sourceRange": {
+      "start": 49,
+      "end": 446
+    },
+    "translations": {
+      "zh": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow.",
+      "en": "one html file, three.js. zen garden seen from above. the sand is a canvas heightmap used as displacement + bump, raking with the mouse paints 5 grooves and 6 ridges along the path. 5 mossy rocks with raked rings around them, 2 stone lanterns with point lights, a red maple dropping leaves. a pill toggle for morning / golden / night. at golden the sun sits very low so every groove casts a shadow."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Zen Garden",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact text for the 3 iterative follow-up prompts fixing moss showing through sand, rock geometry, and lantern framing"
+      ],
+      "evidence": "Screen recording demonstrates cursor dragging over sand creating 5 grooves and 6 ridges in real time, with mossy rocks, lanterns, dropping maple leaves, and toggling through morning, golden hour, and night lighting states."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

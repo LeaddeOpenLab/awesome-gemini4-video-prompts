@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:42:16.573Z",
+  "model": "opus5.5",
+  "prompt": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+  "promptTranslations": {
+    "en": "Hello Opus 5.5 show me what an incredible motion designer you are."
+  },
+  "summary": "Eugene C shares a prompt asking Opus 5.5 to demonstrate its motion design capabilities.",
+  "summaryEn": "Opus 5.5 Motion Designer Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103418664854622583",
+    "canonicalUrl": "https://x.com/zheke/status/2103418664854622583",
+    "author": {
+      "username": "zheke",
+      "displayName": "Eugene C",
+      "profileUrl": "https://x.com/zheke"
+    },
+    "publishedAt": "2026-09-25T09:37:43.000Z",
+    "collectedAt": "2026-09-28T07:35:52.811Z",
+    "language": "en",
+    "originalText": "Prompt: Hello Opus 5.5 show me what an incredible motion designer you are. https://t.co/msUVGn9EgK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zheke/status/2103418664854622583",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103410712672362496/img/2kYVCf-MSUHsrL34.jpg",
+        "analysisUrl": "https://x.com/zheke/status/2103418664854622583"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 6558
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/zheke/status/2103418664854622583",
+        "text": "Eugene C on X: \"Prompt: Hello Opus 5.5 show me what an incredible motion designer you are.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nEugene C on X: \"Prompt: Hello Opus 5.5 show me what an incredible motion designer you are.\"\n\n\n\nEugene C\n\n@zheke\n\n\n\n\nPrompt: Hello Opus 5.5 show me what an incredible motion designer you are.\n\n\n00:00\n\n\n\n\n\n\n\n\n9:37 AM · Sep 25, 2026·6,558\nViews\n\n\n\n1\n1\n16\n19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEugene C@zhekeFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nEugene C\n\n@zheke\n\n\n\n\nPrompt: Hello Opus 5.5 show me what an incredible motion designer you are.\n\n\n00:00\n\n\n\n\n\n\n\n\n9:37 AM · Sep 25, 2026·6,558\nViews\n\n\n\n1\n1\n16\n19\n\n\n\n\n\n\n\n\n\nneurasoft\n\n@neurasoftware\nSep 26\n\n\ninsane\n\n\n\n\n\n178\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "zheke"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/zheke/status/2103418664854622583",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103410712672362496/img/2kYVCf-MSUHsrL34.jpg",
+  "coverPath": "data/covers/2103418664854622583-wide.jpg",
+  "gifPath": "data/gifs/2103418664854622583.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103410712672362496",
+    "x-post:2103418664854622583"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Motion Designer Prompt",
+      "summary": "Eugene C shares a prompt asking Opus 5.5 to demonstrate its motion design capabilities.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+        "englishText": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/zheke/status/2103418664854622583",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/zheke/status/2103418664854622583",
+        "start": 8,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/zheke/status/2103418664854622583",
+        "author": "zheke",
+        "postId": "2103418664854622583",
+        "publishedAt": "2026-09-25T09:37:43.000Z"
+      },
+      "checkedAt": "2026-09-28T07:37:10.790Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zheke/status/2103418664854622583",
+        "evidence": ""
+      }
+    },
+    "summary": "Eugene C shares a prompt asking Opus 5.5 to demonstrate its motion design capabilities.",
+    "summaryEn": "Opus 5.5 Motion Designer Prompt",
+    "originalPrompt": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+    "sourceRange": {
+      "start": 8,
+      "end": 74
+    },
+    "translations": {
+      "zh": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+      "en": "Hello Opus 5.5 show me what an incredible motion designer you are."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Eugene C shares a prompt asking Opus 5.5 to demonstrate its motion design capabilities.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

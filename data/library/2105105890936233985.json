@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:20:57.433Z",
+  "model": "opus5.5",
+  "prompt": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.",
+  "promptTranslations": {
+    "en": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage."
+  },
+  "summary": "An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.",
+  "summaryEn": "Autonomous 14-Minute Documentary on Elon Musk Directed and Cut by Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105105890936233985",
+    "canonicalUrl": "https://x.com/Michaelzsguo/status/2105105890936233985",
+    "author": {
+      "username": "Michaelzsguo",
+      "displayName": "Michael Guo",
+      "profileUrl": "https://x.com/Michaelzsguo"
+    },
+    "publishedAt": "2026-09-30T01:22:10.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "I gave Opus 5.5 one brief: make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.\n\nIt did the rest: found and downloaded ~80 clips from 60 Minutes, NASA, SpaceX webcasts, and a 2008 documentary; transcribed all of them so it could cut on exact words; designed an original narrator voice from a text description, with no voice cloning; and even built a measurable test for “sounds human” when it realized it couldn’t hear.\n\nIt scored the film with Satie, Dvořák, Beethoven, Elgar, and Holst, then cut the footage to the music.\n\nMy job was to watch each cut and tell it what didn’t land. Four rounds.\n\nThe first version was honestly bad. By the fourth, it was finding flash frames I’d missed and fixing them across the entire film.\n\nAll local tools 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Michaelzsguo/status/2105105890936233985",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105102737176252416/img/1hb0AXrP5tN6iD5F.jpg",
+        "analysisUrl": "https://x.com/Michaelzsguo/status/2105105890936233985"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 328
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest",
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Michaelzsguo/status/2105105890936233985",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105102737176252416/img/1hb0AXrP5tN6iD5F.jpg",
+  "coverPath": "data/covers/2105105890936233985-wide.jpg",
+  "gifPath": "data/gifs/2105105890936233985.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105102737176252416",
+    "x-post:2105105890936233985"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Autonomous 14-Minute Documentary on Elon Musk Directed and Cut by Claude Opus 5.5",
+      "summary": "An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Opus 5.5 one brief: make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.",
+        "englishText": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts and tool-calling harness",
+          "Intermediary prompts across the four review rounds",
+          "Exact text of the generated narration script",
+          "Local python scripts (timeline_v4.py, tools/itts.py, tools/bites.py)"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The resulting 14:38 documentary ('THE FOURTH LAUNCH') matches the brief: it interweaves archival interviews, launch footage, title cards, classical score selections, and an Attenborough-styled voiceover across chronological chapters.",
+        "textualResultQuote": "THE FOURTH LAUNCH"
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Around 80 historical video clips downloaded from 60 Minutes, CBS, Bloomberg, NASA, SpaceX, and documentaries",
+          "available": false,
+          "evidence": "found and downloaded ~80 clips from 60 Minutes, NASA, SpaceX webcasts, and a 2008 documentary",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/Michaelzsguo/status/2105105890936233985"
+        },
+        {
+          "kind": "audio",
+          "description": "Public domain classical music recordings (Satie, Dvořák, Beethoven 7, Elgar, Holst)",
+          "available": false,
+          "evidence": "Wikimedia Commons API: public-domain recordings of Satie, Dvořák (Largo and finale), Elgar's Nimrod and Holst's Jupiter",
+          "origin": "unknown"
+        },
+        {
+          "kind": "audio",
+          "description": "Voice timbre WAV reference and emotion audio clips for TTS transfer",
+          "available": false,
+          "evidence": "The file is vo/refs/spk_grandfather.wav... Tender lines... use a clip of Kimbal speaking about his brother.",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "ffmpeg & Pillow & Python",
+          "role": "Timeline assembly, scene detection, visual overlays, audio mixing, and video rendering",
+          "evidence": "ffmpeg: all cutting, cropping, color, overlays, the music ducking under voices, and the -16 LUFS master; Pillow: chapter cards, lower-third captions and title cards",
+          "status": "inferred"
+        },
+        {
+          "name": "librosa",
+          "role": "Audio analysis for take selection and emotional arc pacing",
+          "evidence": "librosa: pitch-range, pause and loudness analysis, used to pick the most human-sounding narration takes",
+          "status": "inferred"
+        },
+        {
+          "name": "mlx-whisper",
+          "role": "Clip transcription and word-level timestamp generation",
+          "evidence": "mlx-whisper (large-v3-turbo): transcribed every clip with word-level timestamps, so every bite is cut on exact words",
+          "status": "inferred"
+        },
+        {
+          "name": "VoiceStudio (IndexTTS 2.5 / VoxCPM2)",
+          "role": "Voice generation and emotive TTS delivery synthesis",
+          "evidence": "The narrator is IndexTTS 2.5, one of the engines in VoiceStudio... Timbre comes from the VoxCPM2 voice, delivery from real human emotion references",
+          "status": "inferred"
+        },
+        {
+          "name": "yt-dlp & NASA Image/Video API & Internet Archive",
+          "role": "Footage and audio retrieval",
+          "evidence": "yt-dlp: downloaded the YouTube clips... NASA Image and Video Library API... Internet Archive",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Claude Opus 5.5 served as the autonomous directing agent, conducting clip research, drafting the voiceover script, configuring voice design parameters, generating the timeline edit decision list (EDL), and iterating on cut feedback.",
+      "outputSource": "Rendered locally via Python and FFmpeg stitching together downloaded archival footage, synthesized IndexTTS 2.5 audio, Pillow title overlays, and classical music beds.",
+      "divisionEvidence": "Author specifies: 'I gave Opus 5.5 one brief... It did the rest: found and downloaded ~80 clips... designed an original narrator voice... scored the film... cut the footage to the music. My job was to watch each cut and tell it what didn’t land.'",
+      "video": {
+        "shots": "Multi-shot archival documentary edit with interspersed countdown cards, interview close-ups, launch footage, and lower thirds",
+        "duration": "14:38",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "NASA Demo-2 launch footage",
+          "SpaceX Falcon 1 Flight 1-4 and Falcon Heavy webcasts",
+          "CBS 60 Minutes Elon Musk interview (2012)",
+          "Revenge of the Electric Car (2011 documentary)",
+          "Axios on HBO interview (2018)"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an end-to-end automated video production pipeline orchestrated by Claude Opus 5.5 acting as an agentic director, audio designer, and video editor through programmatic tools.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Michaelzsguo/status/2105105890936233985",
+        "start": 27,
+        "end": 196
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Michaelzsguo/status/2105105890936233985",
+        "author": "Michaelzsguo",
+        "postId": "2105105890936233985",
+        "publishedAt": "2026-09-30T01:22:10.000Z"
+      },
+      "checkedAt": "2026-09-30T03:23:02.624Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Michaelzsguo/status/2105105890936233985",
+        "evidence": ""
+      }
+    },
+    "summary": "An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.",
+    "summaryEn": "Autonomous 14-Minute Documentary on Elon Musk Directed and Cut by Claude Opus 5.5",
+    "originalPrompt": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.",
+    "sourceRange": {
+      "start": 27,
+      "end": 196
+    },
+    "translations": {
+      "zh": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage.",
+      "en": "make a 12-minute documentary on Elon Musk, using real footage, with a narrator in the Attenborough register, and make something people actually feel. Not a fact montage."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts and tool-calling harness",
+        "Intermediary prompts across the four review rounds",
+        "Exact text of the generated narration script",
+        "Local python scripts (timeline_v4.py, tools/itts.py, tools/bites.py)"
+      ],
+      "evidence": "The resulting 14:38 documentary ('THE FOURTH LAUNCH') matches the brief: it interweaves archival interviews, launch footage, title cards, classical score selections, and an Attenborough-styled voiceover across chronological chapters."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

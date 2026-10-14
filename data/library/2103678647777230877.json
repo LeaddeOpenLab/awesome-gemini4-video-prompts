@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:47.641Z",
+  "model": "opus5.5",
+  "prompt": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.",
+  "promptTranslations": {
+    "en": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme."
+  },
+  "summary": "Prompt used to generate an animated TypeScript/JavaScript data visualization and live audio synthesizer portraying Japan's hot 2026 weather in a hand-drawn pencil style.",
+  "summaryEn": "Japan Summer Weather Visualization",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103678647777230877",
+    "canonicalUrl": "https://x.com/GroundControl/status/2103678647777230877",
+    "author": {
+      "username": "GroundControl",
+      "displayName": "Rafael Mendiola",
+      "profileUrl": "https://x.com/GroundControl"
+    },
+    "publishedAt": "2026-09-26T02:50:48.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "I'm so blown away y'all. You should stop whatever you're doing and ask Opus 5.5 to make you a visualization.\n\nI was telling @Bostonasian about the new models, and decided to try making one about Japan's hot summer. I asked it to also have audio. It's so good! Prompt below \n\n🤯 https://t.co/Q6zu1Kt0fx",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GroundControl/status/2103678647777230877",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103677581761368064/img/yYwSzw639tJ7a9lK.jpg",
+        "analysisUrl": "https://x.com/GroundControl/status/2103678647777230877"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 404
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/GroundControl/status/2103679549519335860",
+        "text": "@Bostonasian wtf it synthesized the sound of cicadas",
+        "author": "GroundControl"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/GroundControl/status/2103679486629659063",
+        "text": "@Bostonasian Claude explains how it was built:\n\nIt's built with Vite and TypeScript, as nine scenes on one 3-minute timeline. Every frame, a 2D canvas redraws each pencil stroke from scratch as several slightly offset, wobbly passes. These are re-randomized 12 times a second, so the lines shimmer like hand-drawn animation. A WebGL shader then adds paper texture, grain, a vignette, subtle chromatic aberration, and heat haze that grows as the story gets hotter. The charts plot real data: JMA summer temperatures back to 1898, plus 2026 records from JMA releases and news reports.\n\nThere are no recordings at all. Every sound is synthesized live in the browser. The koto is a plucked-string simulation, the wind chimes use FM synthesis, and the flute, shō and taiko are built from oscillators and noise. Cicadas, rain and wind are filtered noise, and even the reverb is generated. The music plays from a written score, and the audio clock drives the animation, so sound and picture stay in sync.",
+        "author": "GroundControl"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/GroundControl/status/2103678916414132229",
+        "text": "@Bostonasian I just voice dumped into the prompt box: \n\n\"All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.\"",
+        "author": "GroundControl"
+      },
+      {
+        "url": "https://x.com/GroundControl/status/2103678647777230877",
+        "text": "Rafael Mendiola on X: \"I&#x27;m so blown away y&#x27;all. You should stop whatever you&#x27;re doing and ask Opus 5.5 to make you a visualization.\n\nI was telling @Bostonasian about the new models, and decided to try making one about Japan&#x27;s hot summer. I asked it to also have audio. It&#x27;s so good! Prompt below \n\n… / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRafael Mendiola on X: \"I&#x27;m so blown away y&#x27;all. You should stop whatever you&#x27;re doing and ask Opus 5.5 to make you a visualization.\n\nI was telling @Bostonasian about the new models, and decided to try making one about Japan&#x27;s hot summer. I asked it to also have audio. It&#x27;s so good! Prompt below \n\n🤯\"\n\n\n\nRafael Mendiola\n\n@GroundControl\n\n\n\n\nI&#x27;m so blown away y&#x27;all. You should stop whatever you&#x27;re doing and ask Opus 5.5 to make you a visualization.\n\nI was telling @Bostonasian about the new models, and decided to try making one about Japan&#x27;s hot summer. I asked it to also have audio. It&#x27;s so good! Prompt below \n\n🤯\n\n\n00:00\n\n\n\n\n\n\n\n\n2:50 AM · Sep 26, 2026·404\nViews\n\n\n\n1\n1\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRafael Mendiola@GroundControlFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nRafael Mendiola\n\n@GroundControl\n\n\n\n\nI&#x27;m so blown away y&#x27;all. You should stop whatever you&#x27;re doing and ask Opus 5.5 to make you a visualization.\n\nI was telling @Bostonasian about the new models, and decided to try making one about Japan&#x27;s hot summer. I asked it to also have audio. It&#x27;s so good! Prompt below \n\n🤯\n\n\n00:00\n\n\n\n\n\n\n\n\n2:50 AM · Sep 26, 2026·404\nViews\n\n\n\n1\n1\n3\n1\n\n\n\n\n\n\n\n\n\nRafael Mendiola\n\n@GroundControl\nSep 26\n\n\nI just voice dumped into the prompt box: \n\n\"All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan&#x27;s hot weather in 2026. Pull some online data to see why it was hot and how it compares Show more\n\n\n1\n\n\n41\n\n\n\n\n\n\n\n\n\nRafael Mendiola\n\n@GroundControl\nSep 26\n\n\nClaude explains how it was built:\n\nIt&#x27;s built with Vite and TypeScript, as nine scenes on one 3-minute timeline. Every frame, a 2D canvas redraws each pencil stroke from scratch as several slightly offset, wobbly passes. These are re-randomized 12 times a second, so the lines Show more\n\n\n1\n\n\n52\n\n\n\n\n\n\n\n\n\nRafael Mendiola\n\n@GroundControl\nSep 26\n\n\nwtf it synthesized the sound of cicadas\n\n\n\n\n\n34\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "GroundControl"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/GroundControl/status/2103678647777230877",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103677581761368064/img/yYwSzw639tJ7a9lK.jpg",
+  "coverPath": "data/covers/2103678647777230877-wide.jpg",
+  "gifPath": "data/gifs/2103678647777230877.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103677581761368064",
+    "x-post:2103678647777230877"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Japan Summer Weather Visualization",
+      "summary": "Prompt used to generate an animated TypeScript/JavaScript data visualization and live audio synthesizer portraying Japan's hot 2026 weather in a hand-drawn pencil style.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.",
+        "englishText": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Online weather data and historical comparisons",
+          "evidence": "Pull some online data",
+          "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+          "origin": "searched",
+          "available": false
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026.",
+          "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/GroundControl/status/2103678647777230877",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/GroundControl/status/2103678916414132229",
+        "start": 57,
+        "end": 646
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/GroundControl/status/2103678647777230877",
+        "author": "GroundControl",
+        "postId": "2103678647777230877",
+        "publishedAt": "2026-09-26T02:50:48.000Z"
+      },
+      "checkedAt": "2026-09-28T07:55:10.027Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+        "evidence": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration."
+      },
+      "purpose": {
+        "label": "Weather data visualization / Japan summer",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "Prompt used to generate an animated TypeScript/JavaScript data visualization and live audio synthesizer portraying Japan's hot 2026 weather in a hand-drawn pencil style.",
+    "summaryEn": "Japan Summer Weather Visualization",
+    "originalPrompt": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.",
+    "sourceRange": {
+      "start": 57,
+      "end": 646
+    },
+    "translations": {
+      "zh": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme.",
+      "en": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration. And maybe a bit of a pastiche look but it's supposed to look really, really cool. Also, use a JavaScript synthesizer to make a melody for this visualization that goes along with the theme."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Weather data visualization / Japan summer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

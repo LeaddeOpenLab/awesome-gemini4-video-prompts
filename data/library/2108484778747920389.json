@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:55.883Z",
+  "model": "opus5.5",
+  "prompt": "build an offline mode for my todolist iPhone & Android app and record videos for both",
+  "promptTranslations": {
+    "en": "build an offline mode for my todolist iPhone & Android app and record videos for both"
+  },
+  "summary": "The author prompted Claude Opus 5.5 vaguely to build an offline mode for their todolist iOS and Android app and record demonstration videos of both running apps.",
+  "summaryEn": "Offline Mode Implementation and Screen Recordings for Todo App",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108484778747920389",
+    "canonicalUrl": "https://x.com/equivalent8/status/2108484778747920389",
+    "author": {
+      "username": "equivalent8",
+      "displayName": "Equivalent",
+      "profileUrl": "https://x.com/equivalent8"
+    },
+    "publishedAt": "2026-10-09T09:08:39.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "Got bunch of unused tokens yesterday before going to bed, so I gave  a vague prompt to Opus 5.5 to build an offline mode for my todolist iPhone & Android app and record videos for both. Done a freaking good job. That little offline cloud icon next to each item that need sync - I would never  thought of that 😲",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/equivalent8/status/2108484778747920389",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108483570805219329/img/BlzoRO2tyB1UEYSQ.jpg",
+        "analysisUrl": "https://x.com/equivalent8/status/2108484778747920389"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/equivalent8/status/2108484778747920389",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108483660391350272/img/OZKG9QQenNDOabGj.jpg",
+        "analysisUrl": "https://x.com/equivalent8/status/2108484778747920389"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 27
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:tasks:backfill24h",
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/equivalent8/status/2108484778747920389",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108483570805219329/img/BlzoRO2tyB1UEYSQ.jpg",
+  "coverPath": "data/covers/2108484778747920389-wide.jpg",
+  "gifPath": "data/gifs/2108484778747920389.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108483570805219329",
+    "x-video:2108483660391350272",
+    "x-post:2108484778747920389"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Offline Mode Implementation and Screen Recordings for Todo App",
+      "summary": "The author prompted Claude Opus 5.5 vaguely to build an offline mode for their todolist iOS and Android app and record demonstration videos of both running apps.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave a vague prompt to Opus 5.5 to build an offline mode for my todolist iPhone & Android app and record videos for both."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build an offline mode for my todolist iPhone & Android app and record videos for both",
+        "englishText": "build an offline mode for my todolist iPhone & Android app and record videos for both",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact codebase / context supplied to Claude Opus 5.5",
+          "Full original verbatim prompt text",
+          "Instructions for test execution or video recording automation"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The videos show mobile screen recordings of the todolist app on Android and iOS handling offline changes, including cloud sync status indicators next to items as described by the author. Note: current media uses lower bitrate/resolution preview versions.",
+        "textualResultQuote": "Done a freaking good job. That little offline cloud icon next to each item that need sync - I would never thought of that 😲"
+      },
+      "inputs": [
+        {
+          "kind": "codebase",
+          "description": "Pre-existing todolist mobile application codebase for iPhone and Android",
+          "available": false,
+          "evidence": "my todolist iPhone & Android app",
+          "origin": "user",
+          "sourceUrl": "https://x.com/equivalent8/status/2108484778747920389"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Android Emulator / Screen Recorder",
+          "role": "Operating system and recording tool for Android demo",
+          "evidence": "record videos for both",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/equivalent8/status/2108484778747920389"
+        },
+        {
+          "name": "iOS Simulator / Screen Recorder",
+          "role": "Operating system and recording tool for iPhone demo",
+          "evidence": "record videos for both",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/equivalent8/status/2108484778747920389"
+        }
+      ],
+      "purpose": {
+        "label": "App Feature Implementation & Screen Recording Walkthrough",
+        "topic": "games-interactive",
+        "tags": [
+          "mobile-app",
+          "offline-mode",
+          "agent-demo",
+          "screen-recording",
+          "claude-opus"
+        ]
+      },
+      "targetModelRole": "Software engineering agent implementing offline synchronization logic and orchestrating recording",
+      "outputSource": "Android and iOS mobile operating systems / simulator screen capture",
+      "divisionEvidence": "Claude Opus 5.5 wrote the application code/features and automated running and recording the mobile apps.",
+      "video": {
+        "shots": null,
+        "duration": "05:09",
+        "aspectRatio": "9:20",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 acting as an agent to implement interactive application features and produce screen-recorded video walkthroughs of the result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/equivalent8/status/2108484778747920389",
+        "start": 99,
+        "end": 184
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/equivalent8/status/2108484778747920389",
+        "author": "equivalent8",
+        "postId": "2108484778747920389",
+        "publishedAt": "2026-10-09T09:08:39.000Z"
+      },
+      "checkedAt": "2026-10-09T21:52:05.156Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/equivalent8/status/2108484778747920389",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 vaguely to build an offline mode for their todolist iOS and Android app and record demonstration videos of both running apps.",
+    "summaryEn": "Offline Mode Implementation and Screen Recordings for Todo App",
+    "originalPrompt": "build an offline mode for my todolist iPhone & Android app and record videos for both",
+    "sourceRange": {
+      "start": 99,
+      "end": 184
+    },
+    "translations": {
+      "zh": "build an offline mode for my todolist iPhone & Android app and record videos for both",
+      "en": "build an offline mode for my todolist iPhone & Android app and record videos for both"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "App Feature Implementation & Screen Recording Walkthrough",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact codebase / context supplied to Claude Opus 5.5",
+        "Full original verbatim prompt text",
+        "Instructions for test execution or video recording automation"
+      ],
+      "evidence": "The videos show mobile screen recordings of the todolist app on Android and iOS handling offline changes, including cloud sync status indicators next to items as described by the author. Note: current media uses lower bitrate/resolution preview versions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

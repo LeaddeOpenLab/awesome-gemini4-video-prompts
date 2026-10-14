@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:49.049Z",
+  "model": "opus5.5",
+  "prompt": "a realistic lava lamp in a SINGLE HTML file with WebGL, without images or libraries. Brushed metal, conical glass, wax that rises, stretches, and splits; switch, color button, and temperature control.",
+  "promptTranslations": {
+    "en": "a realistic lava lamp in a SINGLE HTML file with WebGL, without images or libraries. Brushed metal, conical glass, wax that rises, stretches, and splits; switch, color button, and temperature control."
+  },
+  "summary": "Demonstration of Claude Opus 5.5 generating a standalone, library-free WebGL and HTML interactive 3D lava lamp with temperature control and color toggles.",
+  "summaryEn": "Interactive WebGL Lava Lamp in Single HTML",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108301452384870600",
+    "canonicalUrl": "https://x.com/juancarlos17626/status/2108301452384870600",
+    "author": {
+      "username": "juancarlos17626",
+      "displayName": "juan carlos mercedes",
+      "profileUrl": "https://x.com/juancarlos17626"
+    },
+    "publishedAt": "2026-10-08T21:00:11.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "Todos miran puntajes, pero a Haiku 5.5 y a Mistral Large 4 los reprobó una lámpara de lava (la prueba de BridgeBench). Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML. Pruébala con tu IA, el prompt va en el hilo. #IA #Claude #Tutorial https://t.co/N3Tr72e7aj",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/juancarlos17626/status/2108301452384870600",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2108301429215481857/pu/img/D4Jsc8dLmPJQ3yEs.jpg",
+        "analysisUrl": "https://x.com/juancarlos17626/status/2108301452384870600"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 34
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/juancarlos17626/status/2108301453907382690",
+        "text": "El prompt (resumen fiel): una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira y se parte; interruptor, botón de color y control de temperatura. Prompt completo en YouTube.",
+        "author": "juancarlos17626"
+      },
+      {
+        "url": "https://x.com/juancarlos17626/status/2108301452384870600",
+        "text": "juan carlos mercedes on X: \"Todos miran puntajes, pero a Haiku 5.5 y a Mistral Large 4 los reprobó una lámpara de lava (la prueba de BridgeBench). Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML. Pruébala con tu IA, el prompt va en el hilo. #IA #Claude #Tutorial\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\njuan carlos mercedes on X: \"Todos miran puntajes, pero a Haiku 5.5 y a Mistral Large 4 los reprobó una lámpara de lava (la prueba de BridgeBench). Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML. Pruébala con tu IA, el prompt va en el hilo. #IA #Claude #Tutorial\"\n\n\n\njuan carlos mercedes\n@juancarlos17626\n\n\n\n\nShow translation\nTodos miran puntajes, pero a Haiku 5.5 y a Mistral Large 4 los reprobó una lámpara de lava (la prueba de BridgeBench). Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML. Pruébala con tu IA, el prompt va en el hilo. #IA #Claude #Tutorial\n\n\n00:00\n\n\n\n\n\n\n\n\n9:00 PM · Oct 8, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\njuan carlos mercedes@juancarlos17626Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\njuan carlos mercedes\n@juancarlos17626\n\n\n\n\nShow translation\nTodos miran puntajes, pero a Haiku 5.5 y a Mistral Large 4 los reprobó una lámpara de lava (la prueba de BridgeBench). Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML. Pruébala con tu IA, el prompt va en el hilo. #IA #Claude #Tutorial\n\n\n00:00\n\n\n\n\n\n\n\n\n9:00 PM · Oct 8, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\njuan carlos mercedes\n@juancarlos17626\nOct 8\n\n\nEl prompt (resumen fiel): una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira y se parte; interruptor, botón de color y control de temperatura. Prompt completo en YouTube.\n\n\n\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "juancarlos17626"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/juancarlos17626/status/2108301452384870600",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2108301429215481857/pu/img/D4Jsc8dLmPJQ3yEs.jpg",
+  "coverPath": "data/covers/2108301452384870600-wide.jpg",
+  "gifPath": "data/gifs/2108301452384870600.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/ext_tw_video/2108301429215481857/pu/vid/avc1/320x568/z_wmkd_gRmbqJtEi.mp4?tag=12",
+    "x-video:2108301429215481857",
+    "x-post:2108301452384870600"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive WebGL Lava Lamp in Single HTML",
+      "summary": "Demonstration of Claude Opus 5.5 generating a standalone, library-free WebGL and HTML interactive 3D lava lamp with temperature control and color toggles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claude.ai",
+        "authorUseConfirmed": true,
+        "evidence": "Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira y se parte; interruptor, botón de color y control de temperatura.",
+        "englishText": "a realistic lava lamp in a SINGLE HTML file with WebGL, without images or libraries. Brushed metal, conical glass, wax that rises, stretches, and splits; switch, color button, and temperature control.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full generation prompt (author references external YouTube description)",
+          "exact follow-up adjustment prompt text (only summarized as 'Gotas separadas, no una sola masa')"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays screen recordings of the interactive WebGL lava lamp running in Chrome, featuring interactive controls (power switch, sunset/neon/classic color cycles, temperature slider) and fluid wax physics.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Google Chrome",
+          "role": "Web browser runtime executing the generated HTML file",
+          "evidence": "Ábrelo en Chrome / NUESTRO RESULTADO · GRABADO EN CHROME",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGL / HTML5 Canvas",
+          "role": "Client-side rendering engine for the 3D lava lamp simulation",
+          "evidence": "UN solo HTML con WebGL, sin imágenes ni librerías.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/juancarlos17626/status/2108301453907382690"
+        }
+      ],
+      "purpose": {
+        "label": "WebGL 3D Lava Lamp Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgl",
+          "creative-coding",
+          "interactive-demo",
+          "simulation",
+          "single-html"
+        ]
+      },
+      "targetModelRole": "Writing complete single-file HTML and raw WebGL shader/simulation code",
+      "outputSource": "Browser execution of the generated WebGL HTML file",
+      "divisionEvidence": "Claude Opus 5.5 generated the single HTML file with WebGL code ('Yo la hice con Claude Opus 5.5: 1 prompt + 1 ajuste, un solo HTML'), which was then executed and rendered directly in Google Chrome ('Guárdalo .html ... Ábrelo en Chrome').",
+      "video": {
+        "shots": "Alternating sequence between benchmark comparison cards, step-by-step instructions, and screen recordings of the interactive WebGL simulation running in Chrome.",
+        "duration": "00:50",
+        "aspectRatio": "9:16",
+        "referenceMaterials": [
+          "BridgeMind BridgeBench benchmark test posts"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 creative coding producing an interactive WebGL simulation rendered in-browser with accompanying video documentation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/juancarlos17626/status/2108301453907382690",
+        "start": 26,
+        "end": 232
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/juancarlos17626/status/2108301452384870600",
+        "author": "juancarlos17626",
+        "postId": "2108301452384870600",
+        "publishedAt": "2026-10-08T21:00:11.000Z"
+      },
+      "checkedAt": "2026-10-11T16:32:08.718Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/juancarlos17626/status/2108301453907382690",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of Claude Opus 5.5 generating a standalone, library-free WebGL and HTML interactive 3D lava lamp with temperature control and color toggles.",
+    "summaryEn": "Interactive WebGL Lava Lamp in Single HTML",
+    "originalPrompt": "una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira y se parte; interruptor, botón de color y control de temperatura.",
+    "sourceRange": {
+      "start": 26,
+      "end": 232
+    },
+    "translations": {
+      "zh": "una lámpara de lava realista en UN solo HTML con WebGL, sin imágenes ni librerías. Metal cepillado, vidrio en cono, cera que sube, se estira y se parte; interruptor, botón de color y control de temperatura.",
+      "en": "a realistic lava lamp in a SINGLE HTML file with WebGL, without images or libraries. Brushed metal, conical glass, wax that rises, stretches, and splits; switch, color button, and temperature control."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "WebGL 3D Lava Lamp Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full generation prompt (author references external YouTube description)",
+        "exact follow-up adjustment prompt text (only summarized as 'Gotas separadas, no una sola masa')"
+      ],
+      "evidence": "The video displays screen recordings of the interactive WebGL lava lamp running in Chrome, featuring interactive controls (power switch, sunset/neon/classic color cycles, temperature slider) and fluid wax physics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

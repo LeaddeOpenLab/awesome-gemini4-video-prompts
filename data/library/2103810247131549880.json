@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:49:31.936Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos",
+  "promptTranslations": {
+    "en": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos"
+  },
+  "summary": "A prompt for generating a modern, SaaS-style 20-second motion graphics video showcasing an email verification tool and its use cases, inspired by YC and Claude social media videos.",
+  "summaryEn": "Email Verification Tool SaaS Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103810247131549880",
+    "canonicalUrl": "https://x.com/KmAsiff/status/2103810247131549880",
+    "author": {
+      "username": "KmAsiff",
+      "displayName": "Khondokar MD Asiful Islam",
+      "profileUrl": "https://x.com/KmAsiff"
+    },
+    "publishedAt": "2026-09-26T11:33:44.000Z",
+    "collectedAt": "2026-09-28T07:45:55.783Z",
+    "language": "en",
+    "originalText": "prompt - opus 5.5 high\n\nmake a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos https://t.co/Qcq9WPQMHI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/KmAsiff/status/2103810247131549880",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103810053266710528/img/AOKxdAhs2r6_lmUo.jpg",
+        "analysisUrl": "https://x.com/KmAsiff/status/2103810247131549880"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 69
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/KmAsiff/status/2103810247131549880",
+        "text": "Khondokar MD Asiful Islam on X: \"prompt - opus 5.5 high\n\nmake a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out&#x27;\ni want you to make it really modern and saas style. inspiration is yc videos and claude s… / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nKhondokar MD Asiful Islam on X: \"prompt - opus 5.5 high\n\nmake a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out&#x27;\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos\"\n\n\n\nKhondokar MD Asiful Islam\n@KmAsiff\n\n\n\n\nprompt - opus 5.5 high\n\nmake a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out&#x27;\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos\n\n\n00:00\n\n\n\n\n\n\n\n\n11:33 AM · Sep 26, 2026·69\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKhondokar MD Asiful Islam@KmAsiffFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhondokar MD Asiful Islam\n@KmAsiff\n\n\n\n\nprompt - opus 5.5 high\n\nmake a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out&#x27;\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos\n\n\n00:00\n\n\n\n\n\n\n\n\n11:33 AM · Sep 26, 2026·69\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "KmAsiff"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/KmAsiff/status/2103810247131549880",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103810053266710528/img/AOKxdAhs2r6_lmUo.jpg",
+  "coverPath": "data/covers/2103810247131549880-wide.jpg",
+  "gifPath": "data/gifs/2103810247131549880.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103810053266710528",
+    "x-post:2103810247131549880"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Email Verification Tool SaaS Motion Graphics",
+      "summary": "A prompt for generating a modern, SaaS-style 20-second motion graphics video showcasing an email verification tool and its use cases, inspired by YC and Claude social media videos.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos",
+        "englishText": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/KmAsiff/status/2103810247131549880",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/KmAsiff/status/2103810247131549880",
+        "start": 24,
+        "end": 278
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/KmAsiff/status/2103810247131549880",
+        "author": "KmAsiff",
+        "postId": "2103810247131549880",
+        "publishedAt": "2026-09-26T11:33:44.000Z"
+      },
+      "checkedAt": "2026-09-28T07:47:15.519Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KmAsiff/status/2103810247131549880",
+        "evidence": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt for generating a modern, SaaS-style 20-second motion graphics video showcasing an email verification tool and its use cases, inspired by YC and Claude social media videos.",
+    "summaryEn": "Email Verification Tool SaaS Motion Graphics",
+    "originalPrompt": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos",
+    "sourceRange": {
+      "start": 24,
+      "end": 278
+    },
+    "translations": {
+      "zh": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos",
+      "en": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

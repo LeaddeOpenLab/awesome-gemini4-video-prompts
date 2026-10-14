@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:41.163Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+  "promptTranslations": {
+    "en": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!"
+  },
+  "summary": "Sourav Bhar shares a prompt tested with Opus 5.5 to create a dynamic 10-second motion graphics video showcasing the model.",
+  "summaryEn": "Dynamic Opus 5.5 Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103711849703477361",
+    "canonicalUrl": "https://x.com/souravbhar871/status/2103711849703477361",
+    "author": {
+      "username": "souravbhar871",
+      "displayName": "Sourav Bhar",
+      "profileUrl": "https://x.com/souravbhar871"
+    },
+    "publishedAt": "2026-09-26T05:02:44.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "my first experiment with Opus 5.5 at generating motion graphics with the most deadbeat simple prompt copied from X: \n\n\"make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!\"\n\nthis model is something else entirely. feels like alien technology tbh.\n\na year back, AI couldn't even do 10% of these effects. \n\nnow i think it's pretty must solved motion graphics.\n\nwe are very much in the midst of a very sharp exponential curve right now.\n\non one hand i hope this doesn't end until we've solved all of humanity's most important problems, like eliminating diseases, aging, fusion, et al.\n\non the other hand, i shudder at the thought of what residual value humans are going to generate in the forthcoming age of true superintelligence. \n\nif the AI can do pretty much anything better than humans ever could, what are humans going to do, apart from the 0.001% that continue to improve that said superintelligence?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/souravbhar871/status/2103711849703477361",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103709802467876864/img/wIXY73aF5wBToqvS.jpg",
+        "analysisUrl": "https://x.com/souravbhar871/status/2103711849703477361"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 58
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/souravbhar871/status/2103711849703477361",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103709802467876864/img/wIXY73aF5wBToqvS.jpg",
+  "coverPath": "data/covers/2103711849703477361-wide.jpg",
+  "gifPath": "data/gifs/2103711849703477361.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103709802467876864",
+    "x-post:2103711849703477361"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Opus 5.5 Motion Graphics",
+      "summary": "Sourav Bhar shares a prompt tested with Opus 5.5 to create a dynamic 10-second motion graphics video showcasing the model.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "my first experiment with Opus 5.5 at generating motion graphics with the most deadbeat simple prompt copied from X:"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+        "englishText": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/souravbhar871/status/2103711849703477361",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/souravbhar871/status/2103711849703477361",
+        "start": 119,
+        "end": 321
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/souravbhar871/status/2103711849703477361",
+        "author": "souravbhar871",
+        "postId": "2103711849703477361",
+        "publishedAt": "2026-09-26T05:02:44.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:19.153Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/souravbhar871/status/2103711849703477361",
+        "evidence": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Sourav Bhar shares a prompt tested with Opus 5.5 to create a dynamic 10-second motion graphics video showcasing the model.",
+    "summaryEn": "Dynamic Opus 5.5 Motion Graphics",
+    "originalPrompt": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+    "sourceRange": {
+      "start": 119,
+      "end": 321
+    },
+    "translations": {
+      "zh": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+      "en": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

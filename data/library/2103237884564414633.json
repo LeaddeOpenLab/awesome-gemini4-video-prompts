@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:40.208Z",
+  "model": "opus5.5",
+  "prompt": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+  "promptTranslations": {
+    "en": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on"
+  },
+  "summary": "A detailed HyperFrames prompt designed to generate a polished 27-second hype teaser video for NotchBrowser, featuring smooth continuous camera motion across a Mac desktop.",
+  "summaryEn": "NotchBrowser Teaser Video Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103165258433278229",
+      "canonicalUrl": "https://x.com/kirtandopamine/status/2103165258433278229",
+      "author": {
+        "username": "kirtandopamine",
+        "displayName": "govi",
+        "profileUrl": "https://x.com/kirtandopamine"
+      },
+      "originalText": "introducing NotchBrowser 👊\n\na browser that lives in your   mac's notch, built on webkit.\n\n→ tiny 1.7 mb (chrome &amp; dia: 1.4 gb) \n→ native \n→ ergonomic\n→ no extra window in the way\n\n(launching soon) https://t.co/bIX4TO1cIf"
+    },
+    "id": "2103237884564414633",
+    "canonicalUrl": "https://x.com/jake11moran/status/2103237884564414633",
+    "author": {
+      "username": "jake11moran",
+      "displayName": "Jake Moran",
+      "profileUrl": "https://x.com/jake11moran"
+    },
+    "publishedAt": "2026-09-24T21:39:22.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "excited to try this!\n\nthought your teaser could use a little TLC\n\nmade this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i'll paste below https://t.co/XVyDriG7XC",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jake11moran/status/2103237884564414633",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103237577138692096/img/H2c936Vj7VIhyhHx.jpg",
+        "analysisUrl": "https://x.com/jake11moran/status/2103237884564414633"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/jake11moran/status/2103237884564414633",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103163100782596097/img/tFy1ubjZg6xWL3UY.jpg",
+        "analysisUrl": "https://x.com/jake11moran/status/2103237884564414633",
+        "sourcePostId": "2103165258433278229"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 3,
+      "viewCount": 6755
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jake11moran/status/2103239225902874874",
+        "text": "@HyperFrames_ prompt:\n\nUsing HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+        "author": "jake11moran"
+      },
+      {
+        "url": "https://x.com/jake11moran/status/2103237884564414633",
+        "text": "Jake Moran on X: \"excited to try this!\n\nthought your teaser could use a little TLC\n\nmade this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i&#x27;ll paste below\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJake Moran on X: \"excited to try this!\n\nthought your teaser could use a little TLC\n\nmade this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i&#x27;ll paste below\"\n\n\n\nJake Moran\n\n@jake11moran\n\n\n\n\nexcited to try this!\n\nthought your teaser could use a little TLC\n\nmade this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i&#x27;ll paste below\n\n\n00:00\n\n\n\n\n\n\n\n\ngovi\n\n@kirtandopamine\nSep 24\n\nintroducing NotchBrowser 👊\n\na browser that lives in your   mac&#x27;s notch, built on webkit.\n\n→ tiny 1.7 mb (chrome & dia: 1.4 gb) \n→ native \n→ ergonomic\n→ no extra window in the way\n\n(launching soon)\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n9:39 PM · Sep 24, 2026·6,755\nViews\n\n\n\n2\n1\n38\n25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJake Moran@jake11moranFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nJake Moran\n\n@jake11moran\n\n\n\n\nexcited to try this!\n\nthought your teaser could use a little TLC\n\nmade this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i&#x27;ll paste below\n\n\n00:00\n\n\n\n\n\n\n\n\ngovi\n\n@kirtandopamine\nSep 24\n\nintroducing NotchBrowser 👊\n\na browser that lives in your   mac&#x27;s notch, built on webkit.\n\n→ tiny 1.7 mb (chrome & dia: 1.4 gb) \n→ native \n→ ergonomic\n→ no extra window in the way\n\n(launching soon)\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n9:39 PM · Sep 24, 2026·6,755\nViews\n\n\n\n2\n1\n38\n25\n\n\n\n\n\n\n\n\n\nJake Moran\n\n@jake11moran\nSep 24\n\n\nprompt:\n\nUsing HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post&#x27;s video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Show more\n\n\n\n\n11\n616\n\n\n\n\n\n\n\n\n\n\n\ngovi\n\n@kirtandopamine\nSep 25\n\n\nThe last time I had used @HyperFrames_ the results were not satisfactory but this one looks sick 😍\n\nthanks for demo!!\n\n\n\n\n3\n116\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jake11moran"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jake11moran/status/2103237884564414633",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103237577138692096/img/H2c936Vj7VIhyhHx.jpg",
+  "coverPath": "data/covers/2103237884564414633-wide.jpg",
+  "gifPath": "data/gifs/2103237884564414633.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103237577138692096",
+    "x-video:2103163100782596097",
+    "x-post:2103237884564414633",
+    "x-post:2103165258433278229"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "NotchBrowser Teaser Video Prompt",
+      "summary": "A detailed HyperFrames prompt designed to generate a polished 27-second hype teaser video for NotchBrowser, featuring smooth continuous camera motion across a Mac desktop.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "made this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i'll paste below https://t.co/XVyDriG7XC"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+        "englishText": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/jake11moran/status/2103237884564414633",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jake11moran/status/2103239225902874874",
+        "start": 23,
+        "end": 1982
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jake11moran/status/2103237884564414633",
+        "author": "jake11moran",
+        "postId": "2103237884564414633",
+        "publishedAt": "2026-09-24T21:39:22.000Z"
+      },
+      "checkedAt": "2026-09-28T08:30:22.579Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jake11moran/status/2103239225902874874",
+        "evidence": ""
+      }
+    },
+    "summary": "A detailed HyperFrames prompt designed to generate a polished 27-second hype teaser video for NotchBrowser, featuring smooth continuous camera motion across a Mac desktop.",
+    "summaryEn": "NotchBrowser Teaser Video Prompt",
+    "originalPrompt": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+    "sourceRange": {
+      "start": 23,
+      "end": 1982
+    },
+    "translations": {
+      "zh": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on",
+      "en": "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video \n\nMotion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.\n\n1. Open on a big centered line - \"in the AI era, the hard part is\" - entering word by word from the right with an orange colorama text wipe over it (the `colorama-wipe` registry component). Hold it about a second, then scale it down into place above a spinning list.\n2. The list rotates through 30 hard things about working in the AI era - spending tokens wisely, picking the right model, managing context windows, etc - each with a real app icon. Go fast, it's not meant to be read, then land slowly on \"managing your desktop\". 0.2s after it lands a question mark pops on after it.\n3. Pull the camera back to reveal the Mac desktop as windows pile in on top of each other, arriving from behind the camera - Claude, ChatGPT, Grok, Linear, Chrome, Spotify, Slack and Claude Code in a terminal. Build these as accurate recreations of the real apps with real icons. \n4. Push back in so the windows fly past the camera, back to text - \"don't make your browser / one of them\".\n5. Pan up to a really tight framing of just the notch and the top of the wallpaper. A cursor comes up and hovers - the notch morphs into a pill with the name \"NotchBrowser\", then opens into the browser panel exactly like in the video. \n6. Click through the tabs like the video does, then click the collapse chevron so the panel retracts into the notch.\n7. End on a checklist of the post's claims with rings and ticks drawing on"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A detailed HyperFrames prompt designed to generate a polished 27-second hype teaser video for NotchBrowser, featuring smooth continuous camera motion across a Mac desktop.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:44.879Z",
+  "model": "opus5.5",
+  "prompt": "I wonder how good of a motion graphics designer you are. To prove this to me, I want a 15-second motion graphics video from you. This video will promote https://t.co/0U8dP3HLuo and be seen by 10,000 people on X. Do your best",
+  "promptTranslations": {
+    "en": "I wonder how good of a motion graphics designer you are. To prove this to me, I want a 15-second motion graphics video from you. This video will promote https://t.co/0U8dP3HLuo and be seen by 10,000 people on X. Do your best"
+  },
+  "summary": "A Turkish prompt provided to Claude Code running Opus 5.5 to create a 15-second promotional motion graphics video for an application.",
+  "summaryEn": "Claude Code Motion Graphics Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103532681774424245",
+    "canonicalUrl": "https://x.com/cansincengiz_me/status/2103532681774424245",
+    "author": {
+      "username": "cansincengiz_me",
+      "displayName": "Cansın",
+      "profileUrl": "https://x.com/cansincengiz_me"
+    },
+    "publishedAt": "2026-09-25T17:10:47.000Z",
+    "collectedAt": "2026-09-28T08:12:48.941Z",
+    "language": "other",
+    "originalText": "bu videoyu sadece Claude Code kullanarak yaptım, prompt:\n\n\"merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak için 15 saniye sürecek bir hareketli grafik videosu istiyorum senden. Bu video https://t.co/0U8dP3HLuo 'i tanıtacak ve x üzerinde 10.000 kişinin karşısına çıkacak. Elinden geleni yap\"\n\npromptu proje dizininde çalıştırdım.\n\nOpus 5.5 with xhigh effort\n\nfor https://t.co/WCv5GQ1hym",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/cansincengiz_me/status/2103532681774424245",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103531878984675328/img/YjdaDNWipO2oGLJZ.jpg",
+        "analysisUrl": "https://x.com/cansincengiz_me/status/2103532681774424245"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 45
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://lidlezz.app/en",
+        "text": "Lidlezz — Run your coding agent with the lid closed\nLid-closed runs for AI coding agents\nClose the lid.\nKeep it running.\nLidlezz keeps your MacBook awake while your coding agent works, throttles everything the moment the lid closes, and puts the Mac to sleep before it gets hot or the battery runs low.\nDownload for macOS\nOne-time purchase\n7-day free trial\nApple Silicon · macOS 14 or later\n\nTerminalFileEditView84%Wed 23:41\nclaude — ~/work/api\n> refactor the auth module and run the tests\n● Reading src/auth/session.ts\n● Editing src/auth/session.ts\n● Running npm test … 128 passed\n· Updating middleware/refresh.ts\n· 2h 14m elapsed · lid closed\n\nStaying awakeClaude Code working · 2h 14m\n\nSoC temp61°throttle at 85°\nBattery84%sleeps at 15%\nPower6.2 WE-cores only\n\n\n40°85° throttle95° sleep\nKept alive\nclauderefactor the auth module · 128 tool callsbg QoS\nnodejest --watchAll=falsebg QoS\nPaused\nTime MachinePhotos analysisSpotlight indexing\nStay awake while a coding agent works\nKeep awake for 2 hours\nAllow sleep at15% battery\n\nAllow sleep after10 min idle\n\n\n\n\n\n\nYour Mac, closed\nand cool\nDrop the MacBook in a bag while the agent finishes the job. Lidlezz handles sleep, heat, battery and background noise, then gets out of the way.\nAwake only while neededLid-awareEfficiency coresLow Power ModeTemperature watchedBattery floorIdle timeoutSession resumeAgent hooksSigned helperOffline licenseCommand line\nAwake Only While the Agent Works\nYour agent&#x27;s own hooks tell Lidlezz when a session starts, works, waits for a usage limit or finishes. There is nothing to switch on. Every three seconds Lidlezz asks one question, whether the Mac may sleep right now, and holds sleep off only while an agent is actually working.\nSessionStartagent working\nUserPromptSubmitsleep held off\nPreToolUse128 calls\nStopwork finished\n+10 minMac sleeps\n\nClaude Code reports every step. Other agents report what they have.\nKept alive\nclaudemigrate billing to v3 · 412 tool callsbg QoS\nclaudewaiting for the usage limit to resetbg QoS\n\n\nThrottled the Moment the Lid Closes\nWith no external display attached, closing the lid moves the agent and everything it spawned to the efficiency cores, turns on Low Power Mode and pauses Time Machine and Photos analysis. Open the lid and it all comes back.\nLid open\nclaudeperformance cores\nLow Power Modeoff\nTime Machinerunning\nPhotos analysisrunning\n\n→\nLid closed\nclaudeE-cores · bg QoS\nLow Power Modeon\nTime Machinepaused\nPhotos analysispaused\n\n\n\nWatched Every Three Seconds\nLidlezz reads the SoC die sensors straight from IOKit, read-only, no root. At 85° it throttles harder. At 95° it saves the session, puts the Mac to sleep and shows the exact resume command when you open the lid.\n85° throttle95° sleep\n40°60°80°100°\n\nLidlezz put the Mac to sleepSoC reached 95°. Your session is saved.claude --resume 8f3a1c\n\n\n\nTwo Switches. Two Sliders.\nWhether Lidlezz holds sleep off by itself, a two-hour switch for tools that have no hooks, the battery level where it gives up, and how long it waits after the last job so the Mac does not drop off between two prompts. Everything else is automatic.\nStay awake while a coding agent works\nKeep awake for 2 hours\nAllow sleep at15% battery\n\nAllow sleep after10 min idle\n\n\n\nCommand Line Included\nThe CLI ships inside the app. Watch it work from a terminal, see which agents are wired up, check temperature and battery, or change the two settings without opening the menu bar.\n$ lidlezz status\nguarding  SoC 61°  battery 84%  lid closed\n$ lidlezz agents\nclaude cursor opencode  codex partial\n$ lidlezz hooks install cursor\n$ lidlezz battery 20\n\nA Helper That Does One Thing\nKeeping a closed Apple Silicon Mac awake needs root for one command. A small signed helper runs it, accepts calls only from Lidlezz&#x27;s Team ID, and touches nothing else.\npmset disablesleep on and off\nLow Power Mode and tmutil only\nOne approval in System Settings, once\nEverything undone the moment sleep is allowed again\n\nPlugs into the agent\nyou already use\nLidlezz wires itself into every agent it finds when you install it. Claude Code stays first class, and the rest get the same heat, battery and throttling protection from whatever their hooks report.\nAgentCoverageWhat it reports\nClaude CodeFullStart, tool calls, finish, and waits for a usage limit\nCursorFullStart, prompt, tool calls, stop, end\nAntigravityFullTool calls, stop\nopencodeFullTool calls, idle\nCodex CLIPartialOnly that a turn finished; the start shows in its processes\nClaude for MacManualNo hook API, so you flip a two-hour switch\n\nCodex&#x27;s hook never says a turn started, but its processes do: it spawns a child process for every tool it calls, and none while it waits on you. Lidlezz counts it as working whenever those children are there and idle again when the hook reports the turn ended, so later turns in an interactive session are covered too. It stays partial because a turn that calls no tool at all goes unnoticed, and Codex says nothing about usage limits. Claude for Mac has no hook API at all, so you flip a two-hour switch in the panel; it expires on its own, so there is nothing to leave on by mistake.\nBuilt for every long\nagent run\nFrom a big refactor on the train to an overnight migration on the kitchen table, Lidlezz keeps the session alive and the Mac in one piece.\nThe commute\nStart a task at the desk, close the lid, ride home. The agent keeps going on efficiency cores while the Mac stays cool in the bag.\nOvernight runs\nMigrations, test suites, dependency upgrades. Let them finish while you sleep, with a battery floor so the Mac never drains to zero.\nUsage-limit waits\nClaude Code hits a usage limit and waits. Lidlezz knows, keeps the Mac awake through the reset, and resumes the moment work continues.\nMeetings\nClose the lid, walk into the room. The task carries on in the background and the fans stay quiet on the table next to you.\nBig refactors\nHours of file edits and tool calls. Lidlezz watches the heat every three seconds and throttles harder before anything gets uncomfortable.\nOn battery\nPick the percentage where Lidlezz stops holding sleep off. It gives up before the battery does, and your session is saved either way.\n\n\nOne price.\nAll your Macs.\nOne-time payment. No subscription.\nTry it free for 7 days, no card needed.\nOne license per person, for every Mac you own. Keys are verified offline, so Lidlezz never phones home.\nLidlezz app for macOS\n$19one-time\nOne-time payment\n7-day free trial\nAll your Macs, one license\nUpdates included\nNative macOS app + CLI\nOffline, signed license key\nBuy with StripeDownload the free trial\nSecure checkout by Stripe. Prices are in USD, excluding VAT and may vary by location.\nLost your key? Get it emailed again.\nFrequently Asked\nQuestions\nEverything you need to know before closing the lid, from what needs root to what happens when the Mac gets hot.\nWhat is Lidlezz?A menu bar app for Apple Silicon Macs that keeps the Mac awake while your coding agent runs, throttles everything when the lid is closed, and puts the Mac to sleep before it overheats or runs out of battery.\nWhy does it need root?On Apple Silicon the only way to stay awake with the lid closed is pmset disablesleep, which requires root. A small signed helper daemon runs that command and nothing else. macOS asks you to allow it once in System Settings.\nIs it safe for my Mac?That is the whole point. Lidlezz reads the SoC temperature every three seconds. At 85° it throttles harder, at 95° it saves the session and puts the Mac to sleep. It also enforces a battery floor you choose.\nWhat happens to my session when it sleeps?The agent keeps its own session state. For Claude Code, Lidlezz shows the exact claude --resume command when you open the lid. For the others it names the tool and the folder instead, because there is no resume command it could hand you without guessing at one.\nDoes it work with an external display?Yes. With an external display attached macOS already stays awake, so Lidlezz skips the lid-closed throttling and only keeps watching temperature and battery.\nWhich agents does it work with?Claude Code, Cursor, Antigravity and opencode report enough for Lidlezz to hold sleep off on its own. Codex CLI reports only the end of a turn, so coverage there is partial. Claude for Mac has no hook API, so you flip a two-hour switch in the panel. Waiting out a usage limit is a Claude Code feature; no other agent reports it.\n\nWhich Macs are supported?Apple Silicon MacBooks on macOS 14 Sonoma or later. Usage-limit awareness needs Claude Code 2.1.234 or later.\nHow does the license work?After purchase you get a key in the form LZ-…. It is Ed25519 signed and verified on your Mac, offline. Paste it once under Enter license… in the menu bar panel.\nCan I use it on multiple Macs?Yes. One license per person covers all the Macs you own.\nDoes Lidlezz send any data anywhere?No. There is no account and no telemetry. The only network request is a check for a new version on launch and every six hours, which you can see in the panel.\nCan I install it with Homebrew?Yes: brew install --cask witcharon/tap/lidlezz. A DMG is also available on the releases page.\nWhat exactly changes when the lid closes?The agent and its child processes move to background QoS on the efficiency cores, Low Power Mode turns on, and Time Machine and Photos analysis pause. Opening the lid reverts all of it.\nDo I have to set each agent up?No. Lidlezz connects every agent it finds when you install it. If you would rather do it by hand, lidlezz agents shows what is wired up and lidlezz hooks install cursor connects one.\n\n\n\nLidlezz macOS app\nClose the lid.\nKeep it running.\nLidlezz keeps your MacBook awake while your coding agent works, throttles everything the moment the lid closes, and puts the Mac to sleep before it gets hot or the battery runs low.\nDownload for macOS© 2026 Lidlezz. All rights reserved.\nNot affiliated with Anthropic. Claude Code is a trademark of Anthropic, PBC.\n\nMenu\nHomeFeaturesHow it worksAgentsPricingFAQ\nGet it\nDownload DMGHomebrew tapRelease notesRecover licensePrivacyTerms\nCommand line\nlidlezz statuslidlezz agentslidlezz sensorslidlezz battery 20lidlezz hooks install\n\nLidlezz\n",
+        "kind": "linked_public_material",
+        "author": "cansincengiz_me"
+      },
+      {
+        "url": "https://lidlezz.app/en",
+        "text": "Lidlezz — Run your coding agent with the lid closed\nLid-closed runs for AI coding agents\nClose the lid.\nKeep it running.\nLidlezz keeps your MacBook awake while your coding agent works, throttles everything the moment the lid closes, and puts the Mac to sleep before it gets hot or the battery runs low.\nDownload for macOS\nOne-time purchase\n7-day free trial\nApple Silicon · macOS 14 or later\n\nTerminalFileEditView84%Wed 23:41\nclaude — ~/work/api\n> refactor the auth module and run the tests\n● Reading src/auth/session.ts\n● Editing src/auth/session.ts\n● Running npm test … 128 passed\n· Updating middleware/refresh.ts\n· 2h 14m elapsed · lid closed\n\nStaying awakeClaude Code working · 2h 14m\n\nSoC temp61°throttle at 85°\nBattery84%sleeps at 15%\nPower6.2 WE-cores only\n\n\n40°85° throttle95° sleep\nKept alive\nclauderefactor the auth module · 128 tool callsbg QoS\nnodejest --watchAll=falsebg QoS\nPaused\nTime MachinePhotos analysisSpotlight indexing\nStay awake while a coding agent works\nKeep awake for 2 hours\nAllow sleep at15% battery\n\nAllow sleep after10 min idle\n\n\n\n\n\n\nYour Mac, closed\nand cool\nDrop the MacBook in a bag while the agent finishes the job. Lidlezz handles sleep, heat, battery and background noise, then gets out of the way.\nAwake only while neededLid-awareEfficiency coresLow Power ModeTemperature watchedBattery floorIdle timeoutSession resumeAgent hooksSigned helperOffline licenseCommand line\nAwake Only While the Agent Works\nYour agent&#x27;s own hooks tell Lidlezz when a session starts, works, waits for a usage limit or finishes. There is nothing to switch on. Every three seconds Lidlezz asks one question, whether the Mac may sleep right now, and holds sleep off only while an agent is actually working.\nSessionStartagent working\nUserPromptSubmitsleep held off\nPreToolUse128 calls\nStopwork finished\n+10 minMac sleeps\n\nClaude Code reports every step. Other agents report what they have.\nKept alive\nclaudemigrate billing to v3 · 412 tool callsbg QoS\nclaudewaiting for the usage limit to resetbg QoS\n\n\nThrottled the Moment the Lid Closes\nWith no external display attached, closing the lid moves the agent and everything it spawned to the efficiency cores, turns on Low Power Mode and pauses Time Machine and Photos analysis. Open the lid and it all comes back.\nLid open\nclaudeperformance cores\nLow Power Modeoff\nTime Machinerunning\nPhotos analysisrunning\n\n→\nLid closed\nclaudeE-cores · bg QoS\nLow Power Modeon\nTime Machinepaused\nPhotos analysispaused\n\n\n\nWatched Every Three Seconds\nLidlezz reads the SoC die sensors straight from IOKit, read-only, no root. At 85° it throttles harder. At 95° it saves the session, puts the Mac to sleep and shows the exact resume command when you open the lid.\n85° throttle95° sleep\n40°60°80°100°\n\nLidlezz put the Mac to sleepSoC reached 95°. Your session is saved.claude --resume 8f3a1c\n\n\n\nTwo Switches. Two Sliders.\nWhether Lidlezz holds sleep off by itself, a two-hour switch for tools that have no hooks, the battery level where it gives up, and how long it waits after the last job so the Mac does not drop off between two prompts. Everything else is automatic.\nStay awake while a coding agent works\nKeep awake for 2 hours\nAllow sleep at15% battery\n\nAllow sleep after10 min idle\n\n\n\nCommand Line Included\nThe CLI ships inside the app. Watch it work from a terminal, see which agents are wired up, check temperature and battery, or change the two settings without opening the menu bar.\n$ lidlezz status\nguarding  SoC 61°  battery 84%  lid closed\n$ lidlezz agents\nclaude cursor opencode  codex partial\n$ lidlezz hooks install cursor\n$ lidlezz battery 20\n\nA Helper That Does One Thing\nKeeping a closed Apple Silicon Mac awake needs root for one command. A small signed helper runs it, accepts calls only from Lidlezz&#x27;s Team ID, and touches nothing else.\npmset disablesleep on and off\nLow Power Mode and tmutil only\nOne approval in System Settings, once\nEverything undone the moment sleep is allowed again\n\nPlugs into the agent\nyou already use\nLidlezz wires itself into every agent it finds when you install it. Claude Code stays first class, and the rest get the same heat, battery and throttling protection from whatever their hooks report.\nAgentCoverageWhat it reports\nClaude CodeFullStart, tool calls, finish, and waits for a usage limit\nCursorFullStart, prompt, tool calls, stop, end\nAntigravityFullTool calls, stop\nopencodeFullTool calls, idle\nCodex CLIPartialOnly that a turn finished; the start shows in its processes\nClaude for MacManualNo hook API, so you flip a two-hour switch\n\nCodex&#x27;s hook never says a turn started, but its processes do: it spawns a child process for every tool it calls, and none while it waits on you. Lidlezz counts it as working whenever those children are there and idle again when the hook reports the turn ended, so later turns in an interactive session are covered too. It stays partial because a turn that calls no tool at all goes unnoticed, and Codex says nothing about usage limits. Claude for Mac has no hook API at all, so you flip a two-hour switch in the panel; it expires on its own, so there is nothing to leave on by mistake.\nBuilt for every long\nagent run\nFrom a big refactor on the train to an overnight migration on the kitchen table, Lidlezz keeps the session alive and the Mac in one piece.\nThe commute\nStart a task at the desk, close the lid, ride home. The agent keeps going on efficiency cores while the Mac stays cool in the bag.\nOvernight runs\nMigrations, test suites, dependency upgrades. Let them finish while you sleep, with a battery floor so the Mac never drains to zero.\nUsage-limit waits\nClaude Code hits a usage limit and waits. Lidlezz knows, keeps the Mac awake through the reset, and resumes the moment work continues.\nMeetings\nClose the lid, walk into the room. The task carries on in the background and the fans stay quiet on the table next to you.\nBig refactors\nHours of file edits and tool calls. Lidlezz watches the heat every three seconds and throttles harder before anything gets uncomfortable.\nOn battery\nPick the percentage where Lidlezz stops holding sleep off. It gives up before the battery does, and your session is saved either way.\n\n\nOne price.\nAll your Macs.\nOne-time payment. No subscription.\nTry it free for 7 days, no card needed.\nOne license per person, for every Mac you own. Keys are verified offline, so Lidlezz never phones home.\nLidlezz app for macOS\n$19one-time\nOne-time payment\n7-day free trial\nAll your Macs, one license\nUpdates included\nNative macOS app + CLI\nOffline, signed license key\nBuy with StripeDownload the free trial\nSecure checkout by Stripe. Prices are in USD, excluding VAT and may vary by location.\nLost your key? Get it emailed again.\nFrequently Asked\nQuestions\nEverything you need to know before closing the lid, from what needs root to what happens when the Mac gets hot.\nWhat is Lidlezz?A menu bar app for Apple Silicon Macs that keeps the Mac awake while your coding agent runs, throttles everything when the lid is closed, and puts the Mac to sleep before it overheats or runs out of battery.\nWhy does it need root?On Apple Silicon the only way to stay awake with the lid closed is pmset disablesleep, which requires root. A small signed helper daemon runs that command and nothing else. macOS asks you to allow it once in System Settings.\nIs it safe for my Mac?That is the whole point. Lidlezz reads the SoC temperature every three seconds. At 85° it throttles harder, at 95° it saves the session and puts the Mac to sleep. It also enforces a battery floor you choose.\nWhat happens to my session when it sleeps?The agent keeps its own session state. For Claude Code, Lidlezz shows the exact claude --resume command when you open the lid. For the others it names the tool and the folder instead, because there is no resume command it could hand you without guessing at one.\nDoes it work with an external display?Yes. With an external display attached macOS already stays awake, so Lidlezz skips the lid-closed throttling and only keeps watching temperature and battery.\nWhich agents does it work with?Claude Code, Cursor, Antigravity and opencode report enough for Lidlezz to hold sleep off on its own. Codex CLI reports only the end of a turn, so coverage there is partial. Claude for Mac has no hook API, so you flip a two-hour switch in the panel. Waiting out a usage limit is a Claude Code feature; no other agent reports it.\n\nWhich Macs are supported?Apple Silicon MacBooks on macOS 14 Sonoma or later. Usage-limit awareness needs Claude Code 2.1.234 or later.\nHow does the license work?After purchase you get a key in the form LZ-…. It is Ed25519 signed and verified on your Mac, offline. Paste it once under Enter license… in the menu bar panel.\nCan I use it on multiple Macs?Yes. One license per person covers all the Macs you own.\nDoes Lidlezz send any data anywhere?No. There is no account and no telemetry. The only network request is a check for a new version on launch and every six hours, which you can see in the panel.\nCan I install it with Homebrew?Yes: brew install --cask witcharon/tap/lidlezz. A DMG is also available on the releases page.\nWhat exactly changes when the lid closes?The agent and its child processes move to background QoS on the efficiency cores, Low Power Mode turns on, and Time Machine and Photos analysis pause. Opening the lid reverts all of it.\nDo I have to set each agent up?No. Lidlezz connects every agent it finds when you install it. If you would rather do it by hand, lidlezz agents shows what is wired up and lidlezz hooks install cursor connects one.\n\n\n\nLidlezz macOS app\nClose the lid.\nKeep it running.\nLidlezz keeps your MacBook awake while your coding agent works, throttles everything the moment the lid closes, and puts the Mac to sleep before it gets hot or the battery runs low.\nDownload for macOS© 2026 Lidlezz. All rights reserved.\nNot affiliated with Anthropic. Claude Code is a trademark of Anthropic, PBC.\n\nMenu\nHomeFeaturesHow it worksAgentsPricingFAQ\nGet it\nDownload DMGHomebrew tapRelease notesRecover licensePrivacyTerms\nCommand line\nlidlezz statuslidlezz agentslidlezz sensorslidlezz battery 20lidlezz hooks install\n\nLidlezz\n",
+        "kind": "linked_public_material",
+        "author": "cansincengiz_me"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/cansincengiz_me/status/2103532681774424245",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103531878984675328/img/YjdaDNWipO2oGLJZ.jpg",
+  "coverPath": "data/covers/2103532681774424245-wide.jpg",
+  "gifPath": "data/gifs/2103532681774424245.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103531878984675328",
+    "x-post:2103532681774424245"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Code Motion Graphics Prompt",
+      "summary": "A Turkish prompt provided to Claude Code running Opus 5.5 to create a 15-second promotional motion graphics video for an application.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 with xhigh effort"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak için 15 saniye sürecek bir hareketli grafik videosu istiyorum senden. Bu video https://t.co/0U8dP3HLuo 'i tanıtacak ve x üzerinde 10.000 kişinin karşısına çıkacak. Elinden geleni yap",
+        "englishText": "I wonder how good of a motion graphics designer you are. To prove this to me, I want a 15-second motion graphics video from you. This video will promote https://t.co/0U8dP3HLuo and be seen by 10,000 people on X. Do your best",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/cansincengiz_me/status/2103532681774424245",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/cansincengiz_me/status/2103532681774424245",
+        "start": 59,
+        "end": 327
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/cansincengiz_me/status/2103532681774424245",
+        "author": "cansincengiz_me",
+        "postId": "2103532681774424245",
+        "publishedAt": "2026-09-25T17:10:47.000Z"
+      },
+      "checkedAt": "2026-09-28T08:13:42.163Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/cansincengiz_me/status/2103532681774424245",
+        "evidence": ""
+      }
+    },
+    "summary": "A Turkish prompt provided to Claude Code running Opus 5.5 to create a 15-second promotional motion graphics video for an application.",
+    "summaryEn": "Claude Code Motion Graphics Prompt",
+    "originalPrompt": "merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak için 15 saniye sürecek bir hareketli grafik videosu istiyorum senden. Bu video https://t.co/0U8dP3HLuo 'i tanıtacak ve x üzerinde 10.000 kişinin karşısına çıkacak. Elinden geleni yap",
+    "sourceRange": {
+      "start": 59,
+      "end": 327
+    },
+    "translations": {
+      "zh": "merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak için 15 saniye sürecek bir hareketli grafik videosu istiyorum senden. Bu video https://t.co/0U8dP3HLuo 'i tanıtacak ve x üzerinde 10.000 kişinin karşısına çıkacak. Elinden geleni yap",
+      "en": "I wonder how good of a motion graphics designer you are. To prove this to me, I want a 15-second motion graphics video from you. This video will promote https://t.co/0U8dP3HLuo and be seen by 10,000 people on X. Do your best"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A Turkish prompt provided to Claude Code running Opus 5.5 to create a 15-second promotional motion graphics video for an application.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T10:42:07.663Z",
+  "model": "opus5.5",
+  "prompt": "Please create a dynamic 15-second 3D motion graphics video. It's for an LP hero section, with a futuristic look and feel. Make full use of various 3D effects. No interactivity.",
+  "promptTranslations": {
+    "en": "Please create a dynamic 15-second 3D motion graphics video. It's for an LP hero section, with a futuristic look and feel. Make full use of various 3D effects. No interactivity."
+  },
+  "summary": "15-second futuristic 3D motion graphic created using Claude Opus 5.5 and Three.js for a landing page hero section.",
+  "summaryEn": "Three.js 15s 3D Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104471436039803295",
+    "canonicalUrl": "https://x.com/hiro19_k/status/2104471436039803295",
+    "author": {
+      "username": "hiro19_k",
+      "displayName": "かつら_地域・観光をAIでプロモーション",
+      "profileUrl": "https://x.com/hiro19_k"
+    },
+    "publishedAt": "2026-09-28T07:21:04.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5とThree.jsで3Dモーショングラフィックを作ってみた。プロンプトは簡単に\n「ダイナミックな15秒の3Dモーショングラフィックス映像を作成してください。LPのheroセクション用で、近未来感のあるイメージでお願いします。さまざまな3Dエフェクトを駆使してください。 インタラクティブ性は無し」\nだけです。\n環境構築から開始したから生成に30分くらいかかったよ。消費も大きい。\nでも、AIインフルエンサーのPVとかに応用できそう。もうちょっとチューニングしていこうかな。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hiro19_k/status/2104471436039803295",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104470668465291264/img/gXFclIsOur9C_LM1.jpg",
+        "analysisUrl": "https://x.com/hiro19_k/status/2104471436039803295"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 373
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/hiro19_k/status/2104471436039803295",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104470668465291264/img/gXFclIsOur9C_LM1.jpg",
+  "coverPath": "data/covers/2104471436039803295-wide.jpg",
+  "gifPath": "data/gifs/2104471436039803295.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104470668465291264",
+    "x-post:2104471436039803295"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js 15s 3D Motion Graphics",
+      "summary": "15-second futuristic 3D motion graphic created using Claude Opus 5.5 and Three.js for a landing page hero section.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5とThree.jsで3Dモーショングラフィックを作ってみた。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "ダイナミックな15秒の3Dモーショングラフィックス映像を作成してください。LPのheroセクション用で、近未来感のあるイメージでお願いします。さまざまな3Dエフェクトを駆使してください。 インタラクティブ性は無し",
+        "englishText": "Please create a dynamic 15-second 3D motion graphics video. It's for an LP hero section, with a futuristic look and feel. Make full use of various 3D effects. No interactivity.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second video displays continuous futuristic 3D motion graphics effects matching the prompt.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "status": "author_confirmed",
+          "evidence": "Claude Opus 5.5とThree.jsで3Dモーショングラフィックを作ってみた。プロンプトは簡単に",
+          "sourceUrl": "https://x.com/hiro19_k/status/2104471436039803295"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering engine",
+          "evidence": "Claude Opus 5.5とThree.jsで3Dモーショングラフィックを作ってみた。",
+          "sourceUrl": "https://x.com/hiro19_k/status/2104471436039803295",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Code generation for Three.js 3D motion graphics sequence",
+      "outputSource": "Three.js runtime renderer",
+      "divisionEvidence": "Claude Opus 5.5とThree.jsで3Dモーショングラフィックを作ってみた。",
+      "video": {
+        "shots": "Continuous camera transition through geometric tunnel, glowing core, digital grid city, and motion typography",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Complete original prompt using Claude Opus 5.5 with Three.js to produce a 15-second 3D motion graphics animation video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/hiro19_k/status/2104471436039803295",
+        "start": 56,
+        "end": 162
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/hiro19_k/status/2104471436039803295",
+        "author": "hiro19_k",
+        "postId": "2104471436039803295",
+        "publishedAt": "2026-09-28T07:21:04.000Z"
+      },
+      "checkedAt": "2026-09-28T10:16:58.949Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/hiro19_k/status/2104471436039803295",
+        "evidence": "ダイナミックな15秒の3Dモーショングラフィックス映像を作成してください。LPのheroセクション用で、近未来感のあるイメージでお願いします。さまざまな3Dエフェクトを駆使してください。 インタラクティブ性は無し"
+      },
+      "purpose": {
+        "label": "3D motion graphics / website hero",
+        "topic": "3d-scenes",
+        "tags": []
+      }
+    },
+    "summary": "15-second futuristic 3D motion graphic created using Claude Opus 5.5 and Three.js for a landing page hero section.",
+    "summaryEn": "Three.js 15s 3D Motion Graphics",
+    "originalPrompt": "ダイナミックな15秒の3Dモーショングラフィックス映像を作成してください。LPのheroセクション用で、近未来感のあるイメージでお願いします。さまざまな3Dエフェクトを駆使してください。 インタラクティブ性は無し",
+    "sourceRange": {
+      "start": 56,
+      "end": 162
+    },
+    "translations": {
+      "zh": "ダイナミックな15秒の3Dモーショングラフィックス映像を作成してください。LPのheroセクション用で、近未来感のあるイメージでお願いします。さまざまな3Dエフェクトを駆使してください。 インタラクティブ性は無し",
+      "en": "Please create a dynamic 15-second 3D motion graphics video. It's for an LP hero section, with a futuristic look and feel. Make full use of various 3D effects. No interactivity."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "3D motion graphics / website hero",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 15-second video displays continuous futuristic 3D motion graphics effects matching the prompt."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

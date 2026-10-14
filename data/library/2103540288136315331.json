@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:51.619Z",
+  "model": "opus5.5",
+  "prompt": "room of 3.00 x 3.40 m, door of 80 cm, a closet of 1.20 x 0.60 and the bed of 1.40 x 1.90",
+  "promptTranslations": {
+    "en": "room of 3.00 x 3.40 m, door of 80 cm, a closet of 1.20 x 0.60 and the bed of 1.40 x 1.90"
+  },
+  "summary": "Claude Opus 5.5 generated a synchronized 2D scale floor plan and live 3D interactive application calculating whether a double bed fits into a room across 3,932 positions while evaluating door clearance and walkways.",
+  "summaryEn": "Interactive Bed Fitting Simulator in 2D and 3D",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103540288136315331",
+    "canonicalUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+    "author": {
+      "username": "goofyninjaaa",
+      "displayName": "Goofy",
+      "profileUrl": "https://x.com/goofyninjaaa"
+    },
+    "publishedAt": "2026-09-25T17:41:01.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "Esta app probó 3,932 posiciones de una cama matrimonial hasta encontrar dónde cabe.\n\nLa hizo Claude Opus 5.5 con un prompt mío: cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.\n\nArmó el plano a escala y el cuarto en 3D al lado, y los dos se mueven juntos.\n\nSi la cama choca con el clóset, no deja abrir la puerta o te deja menos de 60 cm para pasar, te avisa.\n\nSolo 108 posiciones no tenían ningún problema. La mejor deja 70 cm para pasar por cada lado.\n\nTardó 47 minutos, más 5 para pasarla a inglés, y no le corregí nada.\n\nPara una mudanza, esto dice más que cualquier benchmark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103540232712798208/img/0YVshUrVrKQOJC4f.jpg",
+        "analysisUrl": "https://x.com/goofyninjaaa/status/2103540288136315331"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 774
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103540232712798208/img/0YVshUrVrKQOJC4f.jpg",
+  "coverPath": "data/covers/2103540288136315331-wide.jpg",
+  "gifPath": "data/gifs/2103540288136315331.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2103540232712798208/vid/avc1/480x270/J3rrKMhRUS4sIUKJ.mp4?tag=29",
+    "x-video:2103540232712798208",
+    "x-post:2103540288136315331"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Bed Fitting Simulator in 2D and 3D",
+      "summary": "Claude Opus 5.5 generated a synchronized 2D scale floor plan and live 3D interactive application calculating whether a double bed fits into a room across 3,932 positions while evaluating door clearance and walkways.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "La hizo Claude Opus 5.5 con un prompt mío: cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90",
+        "englishText": "room of 3.00 x 3.40 m, door of 80 cm, a closet of 1.20 x 0.60 and the bed of 1.40 x 1.90",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full interactive app prompt and UI specifications",
+          "collision detection and clearance calculation rules",
+          "synchronized 2D scale grid and 3D rendering setup instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The 41-second screen recording demonstrates the interactive 'Will the bed fit?' application testing positions of a 1.40 x 1.90 m bed within a 3.00 x 3.40 m room, showing synchronized 2D floor plan collisions and live 3D room visualization.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "room and furniture dimensions",
+          "description": "Room dimensions of 3.00 x 3.40 m, 80 cm door, 1.20 x 0.60 m closet, and 1.40 x 1.90 m double bed.",
+          "available": true,
+          "evidence": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/goofyninjaaa/status/2103540288136315331"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser & Interactive 2D/3D Canvas",
+          "role": "Executes the Claude-generated application with synchronized 2D floor plan rendering and live 3D viewport",
+          "evidence": "Armó el plano a escala y el cuarto en 3D al lado, y los dos se mueven juntos.",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/goofyninjaaa/status/2103540288136315331"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 2D/3D Furniture Layout Simulator",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas-interactive",
+          "3d-scenes",
+          "spatial-layout",
+          "room-planner",
+          "interactive-demo"
+        ]
+      },
+      "targetModelRole": "Generated the full code for the interactive simulation web application, including 2D/3D rendering, automated search over 3,932 positions, clearance checks, and UI controls.",
+      "outputSource": "Web browser executing interactive code written by Claude Opus 5.5",
+      "divisionEvidence": "La hizo Claude Opus 5.5 con un prompt mío... Armó el plano a escala y el cuarto en 3D al lado, y los dos se mueven juntos.",
+      "video": {
+        "shots": "Single continuous screen recording",
+        "duration": "0:41",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an advanced interactive 2D/3D spatial optimization application created with Claude Opus 5.5, confirmed by the author and documented via screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "start": 128,
+        "end": 219
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "author": "goofyninjaaa",
+        "postId": "2103540288136315331",
+        "publishedAt": "2026-09-25T17:41:01.000Z"
+      },
+      "checkedAt": "2026-10-11T17:35:32.992Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a synchronized 2D scale floor plan and live 3D interactive application calculating whether a double bed fits into a room across 3,932 positions while evaluating door clearance and walkways.",
+    "summaryEn": "Interactive Bed Fitting Simulator in 2D and 3D",
+    "originalPrompt": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90",
+    "sourceRange": {
+      "start": 128,
+      "end": 219
+    },
+    "translations": {
+      "zh": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90",
+      "en": "room of 3.00 x 3.40 m, door of 80 cm, a closet of 1.20 x 0.60 and the bed of 1.40 x 1.90"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 2D/3D Furniture Layout Simulator",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full interactive app prompt and UI specifications",
+        "collision detection and clearance calculation rules",
+        "synchronized 2D scale grid and 3D rendering setup instructions"
+      ],
+      "evidence": "The 41-second screen recording demonstrates the interactive 'Will the bed fit?' application testing positions of a 1.40 x 1.90 m bed within a 3.00 x 3.40 m room, showing synchronized 2D floor plan collisions and live 3D room visualization."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

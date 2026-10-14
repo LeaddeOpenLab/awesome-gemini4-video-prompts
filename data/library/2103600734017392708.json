@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:08:03.599Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out."
+  },
+  "summary": "Prompt used to generate a 15-second motion graphics showreel video for Studio1's intro launch.",
+  "summaryEn": "Dynamic Motion Graphics Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103600734017392708",
+    "canonicalUrl": "https://x.com/Astrodevil_/status/2103600734017392708",
+    "author": {
+      "username": "Astrodevil_",
+      "displayName": "Mr. Ånand",
+      "profileUrl": "https://x.com/Astrodevil_"
+    },
+    "publishedAt": "2026-09-25T21:41:12.000Z",
+    "collectedAt": "2026-09-28T08:06:41.588Z",
+    "language": "en",
+    "originalText": "Insane \n\nMade with Claude Opus 5.5 \n\nPrompt  \"make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.\"  \n\ntook only 11 minutes\n\nThat's it..",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Astrodevil_/status/2103600734017392708",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103600362443919360/img/MHqiwMpd-B9dO0ZX.jpg",
+        "analysisUrl": "https://x.com/Astrodevil_/status/2103600734017392708"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 467
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103759408786497890",
+        "text": "@irastech Yeah it can do better in that case",
+        "author": "Astrodevil_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103744811937444212",
+        "text": "@maker_evan No, Claude did everything itself",
+        "author": "Astrodevil_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103624918911136238",
+        "text": "@atharvabuilds sure",
+        "author": "Astrodevil_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103624433290342493",
+        "text": "@atharvabuilds I’m also planning to do few launch videos using this \n\nJust need to prompt well 🔥",
+        "author": "Astrodevil_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103624002644349432",
+        "text": "@atharvabuilds Is it done entirely using 5.5 ? \n \nOr edits 👀",
+        "author": "Astrodevil_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Astrodevil_/status/2103602565053337765",
+        "text": "@sujee_dev Only 1 link for case study(link). Rest it did everything itself.",
+        "author": "Astrodevil_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Astrodevil_/status/2103600734017392708",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103600362443919360/img/MHqiwMpd-B9dO0ZX.jpg",
+  "coverPath": "data/covers/2103600734017392708-wide.jpg",
+  "gifPath": "data/gifs/2103600734017392708.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103600362443919360",
+    "x-post:2103600734017392708"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Graphics Showreel",
+      "summary": "Prompt used to generate a 15-second motion graphics showreel video for Studio1's intro launch.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Made with Claude Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/Astrodevil_/status/2103600734017392708",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Astrodevil_/status/2103600734017392708",
+        "start": 46,
+        "end": 262
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Astrodevil_/status/2103600734017392708",
+        "author": "Astrodevil_",
+        "postId": "2103600734017392708",
+        "publishedAt": "2026-09-25T21:41:12.000Z"
+      },
+      "checkedAt": "2026-09-28T08:06:55.880Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Astrodevil_/status/2103600734017392708",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Prompt used to generate a 15-second motion graphics showreel video for Studio1's intro launch.",
+    "summaryEn": "Dynamic Motion Graphics Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.",
+    "sourceRange": {
+      "start": 46,
+      "end": 262
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:12.528Z",
+  "model": "opus5.5",
+  "prompt": "Make a video showing what changed",
+  "promptTranslations": {
+    "en": "Make a video showing what changed"
+  },
+  "summary": "The author prompted Claude Opus 5.5 to create an animated explainer video presenting the key feature improvements and benchmark updates introduced in Opus 5.5.",
+  "summaryEn": "Claude Opus 5.5 Update Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104872812674793697",
+    "canonicalUrl": "https://x.com/mira_ai_base/status/2104872812674793697",
+    "author": {
+      "username": "mira_ai_base",
+      "displayName": "MIRA｜AI × Creative",
+      "profileUrl": "https://x.com/mira_ai_base"
+    },
+    "publishedAt": "2026-09-29T09:55:59.000Z",
+    "collectedAt": "2026-09-30T06:50:02.363Z",
+    "language": "ja",
+    "originalText": "Opus 5.5で\n何が変わったか動画にして\nとお願いしました。 https://t.co/qUGtmccO7y",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mira_ai_base/status/2104872812674793697",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104870789027885056/img/Vzbk-joK1_-yMCBz.jpg",
+        "analysisUrl": "https://x.com/mira_ai_base/status/2104872812674793697"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/mira_ai_base/status/2104872812674793697",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104870789027885056/img/Vzbk-joK1_-yMCBz.jpg",
+  "coverPath": "data/covers/2104872812674793697-wide.jpg",
+  "gifPath": "data/gifs/2104872812674793697.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104870789027885056",
+    "x-post:2104872812674793697"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Update Explainer Video",
+      "summary": "The author prompted Claude Opus 5.5 to create an animated explainer video presenting the key feature improvements and benchmark updates introduced in Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5で\n何が変わったか動画にして\nとお願いしました。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "何が変わったか動画にして",
+        "englishText": "Make a video showing what changed",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full generation prompt and system instructions",
+          "animation framework/code specification",
+          "styling and rendering setup details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays an animated vertical motion graphics presentation outlining six major improvements in Claude Opus 5.5, including benchmark comparisons, speed, cost, and safety.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Claude Opus 5.5 Update Explainer Animation",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "motion-graphics",
+          "claude-opus",
+          "benchmark",
+          "vertical-video"
+        ]
+      },
+      "targetModelRole": "Authoring the presentation structure, content, and underlying animation code to generate the video.",
+      "outputSource": "Rendered video animation displaying Claude Opus 5.5 feature updates.",
+      "divisionEvidence": "The author explicitly notes: 'Opus 5.5で何が変わったか動画にしてとお願いしました。'",
+      "video": {
+        "shots": "Multi-slide continuous animated presentation sequence",
+        "duration": "47s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 being tasked to produce an animated motion graphics explainer video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/mira_ai_base/status/2104872812674793697",
+        "start": 10,
+        "end": 22
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/mira_ai_base/status/2104872812674793697",
+        "author": "mira_ai_base",
+        "postId": "2104872812674793697",
+        "publishedAt": "2026-09-29T09:55:59.000Z"
+      },
+      "checkedAt": "2026-09-30T06:03:18.976Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mira_ai_base/status/2104872812674793697",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 to create an animated explainer video presenting the key feature improvements and benchmark updates introduced in Opus 5.5.",
+    "summaryEn": "Claude Opus 5.5 Update Explainer Video",
+    "originalPrompt": "何が変わったか動画にして",
+    "sourceRange": {
+      "start": 10,
+      "end": 22
+    },
+    "translations": {
+      "zh": "何が変わったか動画にして",
+      "en": "Make a video showing what changed"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Claude Opus 5.5 Update Explainer Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full generation prompt and system instructions",
+        "animation framework/code specification",
+        "styling and rendering setup details"
+      ],
+      "evidence": "The attached video displays an animated vertical motion graphics presentation outlining six major improvements in Claude Opus 5.5, including benchmark comparisons, speed, cost, and safety."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

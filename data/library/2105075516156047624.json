@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T03:56:39.721Z",
+  "model": "opus5.5",
+  "prompt": "Make a PV for 'Shifukuin-san's Site Builder'",
+  "promptTranslations": {
+    "en": "Make a PV for 'Shifukuin-san's Site Builder'"
+  },
+  "summary": "The author shares a fast-paced promotional motion graphics video for their WordPress plugin 'Shifukuin-san's Site Builder' generated using Claude Opus 5.5.",
+  "summaryEn": "Promo Video for WordPress Site Builder Plugin",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105075516156047624",
+    "canonicalUrl": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+    "author": {
+      "username": "Takamaro_SFKIN",
+      "displayName": "紫福院 多迦麻呂💜💙💚💛",
+      "profileUrl": "https://x.com/Takamaro_SFKIN"
+    },
+    "publishedAt": "2026-09-29T23:21:28.000Z",
+    "collectedAt": "2026-09-30T03:19:10.903Z",
+    "language": "ja",
+    "originalText": "『紫福院さんちのサイトビルダー』のPVを作ってとOpus5.5さんにもういちど頼んでみたのじゃ。\nPV作りはOpusさんの圧勝じゃなぁ。\nあ、架空のアプリとかプラグインではなく、本当に作っておるやつじゃからのｗ https://t.co/VE1WCrLv9L",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105074829116502016/img/LXSIfsGGd6SFCSQR.jpg",
+        "analysisUrl": "https://x.com/Takamaro_SFKIN/status/2105075516156047624"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 40
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/VE1WCrLv9L"
+    ]
+  },
+  "xUrl": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105074829116502016/img/LXSIfsGGd6SFCSQR.jpg",
+  "coverPath": "data/covers/2105075516156047624-wide.jpg",
+  "gifPath": "data/gifs/2105075516156047624.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105074829116502016",
+    "x-post:2105075516156047624"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Promo Video for WordPress Site Builder Plugin",
+      "summary": "The author shares a fast-paced promotional motion graphics video for their WordPress plugin 'Shifukuin-san's Site Builder' generated using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "『紫福院さんちのサイトビルダー』のPVを作ってとOpus5.5さんにもういちど頼んでみたのじゃ。PV作りはOpusさんの圧勝じゃなぁ。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "『紫福院さんちのサイトビルダー』のPVを作って",
+        "englishText": "Make a PV for 'Shifukuin-san's Site Builder'",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete generation prompt and instructions",
+          "motion graphics/animation code or framework specifications",
+          "design parameters, scene breakdown, and timing instructions",
+          "asset and media input files"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 1:29 video features typography, template counts, UI demos, 3D element showcases, analytics, and security features explicitly titled 『紫福院さんちのサイトビルダー』 WORDPRESS PLUGIN.",
+        "textualResultQuote": "『紫福院さんちのサイトビルダー』 WORDPRESS PLUGIN"
+      },
+      "inputs": [
+        {
+          "kind": "plugin_metadata_and_assets",
+          "description": "Screenshots, feature names, template numbers, and branding for the 'Shifukuin-san's Site Builder' WordPress plugin",
+          "available": false,
+          "evidence": "The author notes the plugin is real ('あ、架空のアプリとかプラグインではなく、本当に作っておるやつじゃからのｗ'), but input assets provided to Claude are not shared.",
+          "origin": "unknown"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Claude Opus 5.5 was prompted to generate the promotional video structure and animation code.",
+      "outputSource": "Opus-generated animation code rendered into video via an unspecified tool.",
+      "divisionEvidence": "The author states '『紫福院さんちのサイトビルダー』のPVを作ってとOpus5.5さんにもういちど頼んでみたのじゃ。PV作りはOpusさんの圧勝じゃなぁ。' without identifying the underlying rendering framework.",
+      "video": {
+        "shots": "Continuous fast-cut motion graphics sequence with kinetic typography, 3D rotations, dashboard displays, and template showcases",
+        "duration": "01:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase demonstrating full motion graphics promotional video creation, supported by complete accompanying video footage.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+        "start": 0,
+        "end": 23
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+        "author": "Takamaro_SFKIN",
+        "postId": "2105075516156047624",
+        "publishedAt": "2026-09-29T23:21:28.000Z"
+      },
+      "checkedAt": "2026-09-30T03:40:23.598Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Takamaro_SFKIN/status/2105075516156047624",
+        "evidence": ""
+      }
+    },
+    "summary": "The author shares a fast-paced promotional motion graphics video for their WordPress plugin 'Shifukuin-san's Site Builder' generated using Claude Opus 5.5.",
+    "summaryEn": "Promo Video for WordPress Site Builder Plugin",
+    "originalPrompt": "『紫福院さんちのサイトビルダー』のPVを作って",
+    "sourceRange": {
+      "start": 0,
+      "end": 23
+    },
+    "translations": {
+      "zh": "『紫福院さんちのサイトビルダー』のPVを作って",
+      "en": "Make a PV for 'Shifukuin-san's Site Builder'"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "The author shares a fast-paced promotional motion graphics video for their WordPress plugin 'Shifukuin-san's Site Builder' generated using Claude Opus 5.5.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete generation prompt and instructions",
+        "motion graphics/animation code or framework specifications",
+        "design parameters, scene breakdown, and timing instructions",
+        "asset and media input files"
+      ],
+      "evidence": "The 1:29 video features typography, template counts, UI demos, 3D element showcases, analytics, and security features explicitly titled 『紫福院さんちのサイトビルダー』 WORDPRESS PLUGIN."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

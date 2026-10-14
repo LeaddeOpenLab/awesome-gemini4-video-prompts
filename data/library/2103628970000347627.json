@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:55.455Z",
+  "model": "opus5.5",
+  "prompt": "Build a MapleStory clone in Raylib-cs.",
+  "promptTranslations": {
+    "en": "Build a MapleStory clone in Raylib-cs."
+  },
+  "summary": "A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.",
+  "summaryEn": "MapleStory Clone in Raylib-cs",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103628970000347627",
+    "canonicalUrl": "https://x.com/NoLit64/status/2103628970000347627",
+    "author": {
+      "username": "NoLit64",
+      "displayName": "Noam Litman",
+      "profileUrl": "https://x.com/NoLit64"
+    },
+    "publishedAt": "2026-09-25T23:33:24.000Z",
+    "collectedAt": "2026-09-28T07:59:57.957Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record. The game took 1 prompt (\"Build a MapleStory clone in Raylib-cs.\"), then another prompt for the trailer. https://t.co/NoXSOe5H0l",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/NoLit64/status/2103628970000347627",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103628584665427968/img/X-3HXFFkPMmw9-YS.jpg",
+        "analysisUrl": "https://x.com/NoLit64/status/2103628970000347627"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 42
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/NoLit64/status/2103628970000347627",
+        "text": "Noam Litman on X: \"Claude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record. The game took 1 prompt (\"Build a MapleStory clone in Raylib-cs.\"), then another prompt for the trailer.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNoam Litman on X: \"Claude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record. The game took 1 prompt (\"Build a MapleStory clone in Raylib-cs.\"), then another prompt for the trailer.\"\n\n\n\nNoam Litman\n@NoLit64\n\n\n\n\nClaude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record. The game took 1 prompt (\"Build a MapleStory clone in Raylib-cs.\"), then another prompt for the trailer.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:33 PM · Sep 25, 2026·42\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNoam Litman@NoLit64Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoam Litman\n@NoLit64\n\n\n\n\nClaude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record. The game took 1 prompt (\"Build a MapleStory clone in Raylib-cs.\"), then another prompt for the trailer.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:33 PM · Sep 25, 2026·42\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "NoLit64"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/NoLit64/status/2103628970000347627",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103628584665427968/img/X-3HXFFkPMmw9-YS.jpg",
+  "coverPath": "data/covers/2103628970000347627-wide.jpg",
+  "gifPath": "data/gifs/2103628970000347627.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103628584665427968",
+    "x-post:2103628970000347627"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "MapleStory Clone in Raylib-cs",
+      "summary": "A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 not only made a MapleStory clone for me, it also used ffmpeg and wrote an automated gameplay script to produce the trailer I was too lazy to record."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a MapleStory clone in Raylib-cs.",
+        "englishText": "Build a MapleStory clone in Raylib-cs.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/NoLit64/status/2103628970000347627",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/NoLit64/status/2103628970000347627",
+        "start": 190,
+        "end": 228
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/NoLit64/status/2103628970000347627",
+        "author": "NoLit64",
+        "postId": "2103628970000347627",
+        "publishedAt": "2026-09-25T23:33:24.000Z"
+      },
+      "checkedAt": "2026-09-28T08:00:46.927Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/NoLit64/status/2103628970000347627",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.",
+    "summaryEn": "MapleStory Clone in Raylib-cs",
+    "originalPrompt": "Build a MapleStory clone in Raylib-cs.",
+    "sourceRange": {
+      "start": 190,
+      "end": 228
+    },
+    "translations": {
+      "zh": "Build a MapleStory clone in Raylib-cs.",
+      "en": "Build a MapleStory clone in Raylib-cs."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "games-interactive",
+    "useCase": "A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

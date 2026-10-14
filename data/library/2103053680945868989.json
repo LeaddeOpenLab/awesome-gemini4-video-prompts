@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:43:29.238Z",
+  "model": "opus5.5",
+  "prompt": "build mobile app animated splash screen creation for ...",
+  "promptTranslations": {
+    "en": "build mobile app animated splash screen creation for ..."
+  },
+  "summary": "A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.",
+  "summaryEn": "Mobile App Animated Splash Screen Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103053680945868989",
+    "canonicalUrl": "https://x.com/modaalbuilder/status/2103053680945868989",
+    "author": {
+      "username": "modaalbuilder",
+      "displayName": "Elena Avramenko",
+      "profileUrl": "https://x.com/modaalbuilder"
+    },
+    "publishedAt": "2026-09-24T09:27:25.000Z",
+    "collectedAt": "2026-09-28T08:36:42.360Z",
+    "language": "en",
+    "originalText": "This is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin] https://t.co/5BAHmtLGYk",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103053462829154304/img/BUumdKRg929ieu8V.jpg",
+        "analysisUrl": "https://x.com/modaalbuilder/status/2103053680945868989"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 125
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "text": "Elena Avramenko on X: \"This is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin]\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nElena Avramenko on X: \"This is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin]\"\n\n\n\nElena Avramenko\n\n@modaalbuilder\n\n\n\n\nThis is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin]\n\n\n00:00\n\n\n\n\n\n\n\n\n9:27 AM · Sep 24, 2026·125\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nElena Avramenko@modaalbuilderFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nElena Avramenko\n\n@modaalbuilder\n\n\n\n\nThis is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin]\n\n\n00:00\n\n\n\n\n\n\n\n\n9:27 AM · Sep 24, 2026·125\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "modaalbuilder"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/modaalbuilder/status/2103053680945868989",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103053462829154304/img/BUumdKRg929ieu8V.jpg",
+  "coverPath": "data/covers/2103053680945868989-wide.jpg",
+  "gifPath": "data/gifs/2103053680945868989.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103053462829154304",
+    "x-post:2103053680945868989"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Mobile App Animated Splash Screen Prompt",
+      "summary": "A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "This is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin] https://t.co/5BAHmtLGYk"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build mobile app animated splash screen creation for ...",
+        "englishText": "build mobile app animated splash screen creation for ...",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/modaalbuilder/status/2103053680945868989",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "start": 38,
+        "end": 94
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "author": "modaalbuilder",
+        "postId": "2103053680945868989",
+        "publishedAt": "2026-09-24T09:27:25.000Z"
+      },
+      "checkedAt": "2026-09-28T08:37:39.030Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.",
+    "summaryEn": "Mobile App Animated Splash Screen Prompt",
+    "originalPrompt": "build mobile app animated splash screen creation for ...",
+    "sourceRange": {
+      "start": 38,
+      "end": 94
+    },
+    "translations": {
+      "zh": "build mobile app animated splash screen creation for ...",
+      "en": "build mobile app animated splash screen creation for ..."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T03:56:32.451Z",
+  "model": "opus5.5",
+  "prompt": "Vaporwave",
+  "promptTranslations": {
+    "en": "Vaporwave"
+  },
+  "summary": "The author used Claude Opus 5.5 with a casual vaporwave prompt to generate layered animation data that was imported into After Effects with layer structures preserved.",
+  "summaryEn": "Vaporwave Motion Graphics Generated with Opus 5.5 for After Effects",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104544365901459579",
+    "canonicalUrl": "https://x.com/moaizo01012525/status/2104544365901459579",
+    "author": {
+      "username": "moaizo01012525",
+      "displayName": "モアイ像",
+      "profileUrl": "https://x.com/moaizo01012525"
+    },
+    "publishedAt": "2026-09-28T12:10:52.000Z",
+    "collectedAt": "2026-09-28T14:04:32.786Z",
+    "language": "ja",
+    "originalText": "Opus 5.5\n雑に「ヴェイパーウェイヴ」のプロンプト渡して、このクオリティが数分でできるんだから本当に面白い。\n\nモーションをAfter Effectsでレイヤーを保持したままデータの作成できたことが一番嬉しい。 https://t.co/cwhUiC3yVK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/moaizo01012525/status/2104544365901459579",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104544203107958784/img/5lvl1EuR23wkVSM7.jpg",
+        "analysisUrl": "https://x.com/moaizo01012525/status/2104544365901459579"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 43
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/moaizo01012525/status/2104544365901459579",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104544203107958784/img/5lvl1EuR23wkVSM7.jpg",
+  "coverPath": "data/covers/2104544365901459579-wide.jpg",
+  "gifPath": "data/gifs/2104544365901459579.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104544203107958784",
+    "x-post:2104544365901459579"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Vaporwave Motion Graphics Generated with Opus 5.5 for After Effects",
+      "summary": "The author used Claude Opus 5.5 with a casual vaporwave prompt to generate layered animation data that was imported into After Effects with layer structures preserved.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ヴェイパーウェイヴ",
+        "englishText": "Vaporwave",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact script or prompt instructions given to Opus 5.5",
+          "Export/scripting method used to transfer layered motion data into After Effects",
+          "Asset sources and visual style definitions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 15-second video features stylized vaporwave visual motifs including classical busts, palm trees, purple wireframe horizon grids, VHS artifacts, and retro OS window overlays.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "text prompt",
+          "description": "Vaporwave concept prompt given casually to Opus 5.5",
+          "available": false,
+          "evidence": "雑に「ヴェイパーウェイヴ」のプロンプト渡して",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/moaizo01012525/status/2104544365901459579"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "After Effects",
+          "role": "Layered motion graphics compositor and renderer",
+          "evidence": "モーションをAfter Effectsでレイヤーを保持したままデータの作成できたことが一番嬉しい。",
+          "sourceUrl": "https://x.com/moaizo01012525/status/2104544365901459579",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generated motion animation data/scripting while preserving layer hierarchy",
+      "outputSource": "After Effects",
+      "divisionEvidence": "Opus 5.5 processed the prompt and structured the layered motion data, while After Effects maintained the layers and produced the final rendered animation: 'モーションをAfter Effectsでレイヤーを保持したままデータの作成できたことが一番嬉しい。'",
+      "video": {
+        "shots": "Multi-scene montage of vaporwave bust animations, wireframe grids, and retro UI windows",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The post showcases Claude Opus 5.5 being used for video animation and motion graphics production targeting After Effects with layered output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/moaizo01012525/status/2104544365901459579",
+        "start": 12,
+        "end": 21
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/moaizo01012525/status/2104544365901459579",
+        "author": "moaizo01012525",
+        "postId": "2104544365901459579",
+        "publishedAt": "2026-09-28T12:10:52.000Z"
+      },
+      "checkedAt": "2026-09-28T13:31:48.508Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/moaizo01012525/status/2104544365901459579",
+        "evidence": ""
+      }
+    },
+    "summary": "The author used Claude Opus 5.5 with a casual vaporwave prompt to generate layered animation data that was imported into After Effects with layer structures preserved.",
+    "summaryEn": "Vaporwave Motion Graphics Generated with Opus 5.5 for After Effects",
+    "originalPrompt": "ヴェイパーウェイヴ",
+    "sourceRange": {
+      "start": 12,
+      "end": 21
+    },
+    "translations": {
+      "zh": "ヴェイパーウェイヴ",
+      "en": "Vaporwave"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "The author used Claude Opus 5.5 with a casual vaporwave prompt to generate layered animation data that was imported into After Effects with layer structures preserved.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact script or prompt instructions given to Opus 5.5",
+        "Export/scripting method used to transfer layered motion data into After Effects",
+        "Asset sources and visual style definitions"
+      ],
+      "evidence": "The attached 15-second video features stylized vaporwave visual motifs including classical busts, palm trees, purple wireframe horizon grids, VHS artifacts, and retro OS window overlays."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

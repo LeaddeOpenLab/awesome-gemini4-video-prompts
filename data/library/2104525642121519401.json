@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:32.733Z",
+  "model": "opus5.5",
+  "prompt": "I want to try Opus 5.5, so write a prompt for Blender to create a 'Tokyo Station anatomy video' (starting from Marunouchi building to Yaesu side).",
+  "promptTranslations": {
+    "en": "I want to try Opus 5.5, so write a prompt for Blender to create a 'Tokyo Station anatomy video' (starting from Marunouchi building to Yaesu side)."
+  },
+  "summary": "3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.",
+  "summaryEn": "Tokyo Station 3D Architectural Breakdown",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104525642121519401",
+    "canonicalUrl": "https://x.com/yktgch/status/2104525642121519401",
+    "author": {
+      "username": "yktgch",
+      "displayName": "田口雄貴｜AI×マーケとPR",
+      "profileUrl": "https://x.com/yktgch"
+    },
+    "publishedAt": "2026-09-28T10:56:27.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "ja",
+    "originalText": "Opus 5.5に東京駅の解剖をお願いしてみた。\n\n雑に頼んだだけでここまで作ってくるとは。\nちゃんと作り込めば施設案内とかにも使えそう。\n\n動きが速すぎて動体視力が追いつかないシーンもあるけどw https://t.co/v2OlAo5tI7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/yktgch/status/2104525642121519401",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104525517747900416/img/4wP3F6Cc26mdgVQx.jpg",
+        "analysisUrl": "https://x.com/yktgch/status/2104525642121519401"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 23
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/yktgch/status/2104526734704202072",
+        "text": "私「Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）」\n↓\nChatGPT「プロンプトできました」\n↓\nClaude Code「任せてください」\n↓\n今回の動画",
+        "author": "yktgch"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/v2OlAo5tI7"
+    ]
+  },
+  "xUrl": "https://x.com/yktgch/status/2104525642121519401",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104525517747900416/img/4wP3F6Cc26mdgVQx.jpg",
+  "coverPath": "data/covers/2104525642121519401-wide.jpg",
+  "gifPath": "data/gifs/2104525642121519401.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104525517747900416",
+    "x-post:2104525642121519401"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Tokyo Station 3D Architectural Breakdown",
+      "summary": "3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5に東京駅の解剖をお願いしてみた。 / Claude Code「任せてください」"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）",
+        "englishText": "I want to try Opus 5.5, so write a prompt for Blender to create a 'Tokyo Station anatomy video' (starting from Marunouchi building to Yaesu side).",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Generated prompt from ChatGPT",
+          "Actual instructions and Python scripts fed into Claude Code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video presents an animated 3D layer-by-layer architectural breakdown of Tokyo Station matching the author's description.",
+        "textualResultQuote": "雑に頼んだだけでここまで作ってくるとは。ちゃんと作り込めば施設案内とかにも使えそう。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "status": "author_confirmed",
+          "evidence": "私「Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072"
+        },
+        {
+          "name": "Blender",
+          "role": "3D modeling and video renderer",
+          "evidence": "Blenderを使って『東京駅を解剖する動画』のプロンプトを作って",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
+        },
+        {
+          "name": "ChatGPT",
+          "role": "Prompt authoring intermediary",
+          "evidence": "ChatGPT「プロンプトできました」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
+        },
+        {
+          "name": "Claude Code",
+          "role": "Execution agent running Opus 5.5",
+          "evidence": "Claude Code「任せてください」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Code execution agent generating Blender automation scripts for 3D staging and layer breakdown.",
+      "outputSource": "Blender",
+      "divisionEvidence": "Claude Code (Opus 5.5) receives the task to orchestrate Blender, which renders the final 3D sequence.",
+      "video": {
+        "shots": "Multi-angle cinematic 3D flythrough showcasing subterranean and elevated track layers",
+        "duration": "00:41",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Authentic demonstration of Opus 5.5 orchestrating Blender animation via Claude Code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/yktgch/status/2104526734704202072",
+        "start": 2,
+        "end": 72
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/yktgch/status/2104525642121519401",
+        "author": "yktgch",
+        "postId": "2104525642121519401",
+        "publishedAt": "2026-09-28T10:56:27.000Z"
+      },
+      "checkedAt": "2026-09-28T12:01:21.128Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+        "evidence": ""
+      }
+    },
+    "summary": "3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.",
+    "summaryEn": "Tokyo Station 3D Architectural Breakdown",
+    "originalPrompt": "Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）",
+    "sourceRange": {
+      "start": 2,
+      "end": 72
+    },
+    "translations": {
+      "zh": "Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）",
+      "en": "I want to try Opus 5.5, so write a prompt for Blender to create a 'Tokyo Station anatomy video' (starting from Marunouchi building to Yaesu side)."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "blender",
+    "useCase": "3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Generated prompt from ChatGPT",
+        "Actual instructions and Python scripts fed into Claude Code"
+      ],
+      "evidence": "Video presents an animated 3D layer-by-layer architectural breakdown of Tokyo Station matching the author's description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

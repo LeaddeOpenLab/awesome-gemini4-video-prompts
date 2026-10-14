@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:49:17.681Z",
+  "model": "opus5.5",
+  "prompt": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.",
+  "promptTranslations": {
+    "en": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving."
+  },
+  "summary": "A prompt given to Claude Opus 5.5 to generate a self-referential, fast-paced video explaining recursion across multiple radically different visual styles.",
+  "summaryEn": "Recursion Explanation Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103688362960019567",
+    "canonicalUrl": "https://x.com/emollick/status/2103688362960019567",
+    "author": {
+      "username": "emollick",
+      "displayName": "Ethan Mollick",
+      "profileUrl": "https://x.com/emollick"
+    },
+    "publishedAt": "2026-09-26T03:29:25.000Z",
+    "collectedAt": "2026-09-28T07:35:52.811Z",
+    "language": "en",
+    "originalText": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.\"\n\nNine genre shifts, one prompt... https://t.co/8mxTwwRifl",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/emollick/status/2103688362960019567",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103687838420131840/img/HC_R1rLMlIn0SvvN.jpg",
+        "analysisUrl": "https://x.com/emollick/status/2103688362960019567"
+      }
+    ],
+    "metrics": {
+      "likeCount": 551,
+      "repostCount": 42,
+      "replyCount": 58,
+      "quoteCount": 13,
+      "viewCount": 67168
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/emollick/status/2103696164004757736",
+        "text": "Lets see what we get from this one... https://t.co/x29TS7nAWw",
+        "author": "emollick"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/emollick/status/2103691271231476203",
+        "text": "@Matthew_Blanton Genuine one-shot",
+        "author": "emollick"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/emollick/status/2103691113509056757",
+        "text": "Every scene is drawn in React and SVG and the music &amp; sound effects are synthesized in Python. The only files that aren't code are a few hundred small textures like film grain and bokeh, which were code generated in advance so the render would run faster, plus open-source fonts",
+        "author": "emollick"
+      },
+      {
+        "url": "https://x.com/emollick/status/2103688362960019567",
+        "text": "Ethan Mollick on X: \"How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.\"\n\nNine genre shifts, one p… / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nEthan Mollick on X: \"How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.\"\n\nNine genre shifts, one prompt...\"\n\n\n\nEthan Mollick\n\n@emollick\n\n\n\n\nHow do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\"\n\nNine genre shifts, one prompt...\n\n\n00:00\n\n\n\n\n\n\n\n\n3:29 AM · Sep 26, 2026·67.1K\nViews\n\n\n\n58\n42\n551\n285\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEthan Mollick@emollickFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\n\n\n\n\nHow do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\"\n\nNine genre shifts, one prompt...\n\n\n00:00\n\n\n\n\n\n\n\n\n3:29 AM · Sep 26, 2026·67.1K\nViews\n\n\n\n58\n42\n551\n285\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\nSep 26\n\n\nEvery scene is drawn in React and SVG and the music & sound effects are synthesized in Python. The only files that aren&#x27;t code are a few hundred small textures like film grain and bokeh, which were code generated in advance so the render would run faster, plus open-source fonts\n\n\n7\n2\n55\n11K\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\nSep 26\n\n\nLets see what we get from this one...\n\n\n\n\n\n\n3\n\n24\n8.1K\n\n\n\n\n\n\n\n\n\n\n\nMatthew Blanton\n@Matthew_Blanton\nSep 26\n\n\nDo you have it produce a script that you review or genuine one-shot?\n\n\n1\n\n7\n899\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "emollick"
+      },
+      {
+        "url": "https://x.com/emollick/status/2103696164004757736",
+        "text": "Ethan Mollick on X: \"Lets see what we get from this one...\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nEthan Mollick on X: \"Lets see what we get from this one...\"\n\n\n\nEthan Mollick\n\n@emollick\n\n\n\n\nLets see what we get from this one...\n\n\n\n\n4:00 AM · Sep 26, 2026·8,189\nViews\n\n\n\n3\n\n24\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEthan Mollick@emollickFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\nSep 26\n\n\nHow do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\"\n\nNine genre shifts, one prompt...\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n58\n42\n551\n67K\n\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\nSep 26\n\n\nEvery scene is drawn in React and SVG and the music & sound effects are synthesized in Python. The only files that aren&#x27;t code are a few hundred small textures like film grain and bokeh, which were code generated in advance so the render would run faster, plus open-source fonts\n\n\n7\n2\n55\n11K\n\n\n\n\n\n\n\n\n\n\nEthan Mollick\n\n@emollick\n\n\n\n\nLets see what we get from this one...\n\n\n\n\n4:00 AM · Sep 26, 2026·8,189\nViews\n\n\n\n3\n\n24\n1\n\n\n\n\n\n\n\n\n\nTerrance MacGregor\n\n@tamacgregor\nSep 26\n\n\n\n\n\n\n\n\n\n\n\n\n96\n\n\n\n\n\n\n\n\n\n\n\nTreynor Tetik\n\n@TetikTreynor\nSep 26\n\n\nIf it&#x27;s not a pelican on a bike, does it even matter?\n\n\n\n\n\n39\n\n\n\n\n\n\n\n\n\n\n\nYouth\n\n@Web3__Youth\nSep 26\n\n\nI&#x27;d still ask: what evidence would kill this bet in writing?\n\n\n\n\n\n98\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "emollick"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/emollick/status/2103688362960019567",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103687838420131840/img/HC_R1rLMlIn0SvvN.jpg",
+  "coverPath": "data/covers/2103688362960019567-wide.jpg",
+  "gifPath": "data/gifs/2103688362960019567.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103687838420131840",
+    "x-post:2103688362960019567"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Recursion Explanation Video Prompt",
+      "summary": "A prompt given to Claude Opus 5.5 to generate a self-referential, fast-paced video explaining recursion across multiple radically different visual styles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.",
+        "englishText": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/emollick/status/2103688362960019567",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/emollick/status/2103688362960019567",
+        "start": 776,
+        "end": 935
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/emollick/status/2103688362960019567",
+        "author": "emollick",
+        "postId": "2103688362960019567",
+        "publishedAt": "2026-09-26T03:29:25.000Z"
+      },
+      "checkedAt": "2026-09-28T07:37:26.713Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/emollick/status/2103688362960019567",
+        "evidence": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving."
+      },
+      "purpose": {
+        "label": "Recursion explainer",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "A prompt given to Claude Opus 5.5 to generate a self-referential, fast-paced video explaining recursion across multiple radically different visual styles.",
+    "summaryEn": "Recursion Explanation Video Prompt",
+    "originalPrompt": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.",
+    "sourceRange": {
+      "start": 776,
+      "end": 935
+    },
+    "translations": {
+      "zh": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.",
+      "en": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Recursion explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:08:04.499Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code"
+  },
+  "summary": "A prompt asking the AI model to generate a dynamic 15-second motion graphics showreel using only code.",
+  "summaryEn": "Opus 5.5 Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103600308010041677",
+    "canonicalUrl": "https://x.com/johnsavage_ai/status/2103600308010041677",
+    "author": {
+      "username": "johnsavage_ai",
+      "displayName": "John Savage",
+      "profileUrl": "https://x.com/johnsavage_ai"
+    },
+    "publishedAt": "2026-09-25T21:39:31.000Z",
+    "collectedAt": "2026-09-28T08:06:41.588Z",
+    "language": "en",
+    "originalText": "🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code\" https://t.co/e161zBnLmi",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/johnsavage_ai/status/2103600308010041677",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103600085913235456/img/0J2hUhiaTZIPSLbJ.jpg",
+        "analysisUrl": "https://x.com/johnsavage_ai/status/2103600308010041677"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 482
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/johnsavage_ai/status/2103600308010041677",
+        "text": "John Savage on X: \"🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a resume. go all out. use only code\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJohn Savage on X: \"🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a resume. go all out. use only code\"\"\n\n\n\nJohn Savage\n\n@johnsavage_ai\n\n\n\n\n🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a resume. go all out. use only code\"\n\n\n00:00\n\n\n\n\n\n\n\n\n9:39 PM · Sep 25, 2026·482\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJohn Savage@johnsavage_aiFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Savage\n\n@johnsavage_ai\n\n\n\n\n🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a resume. go all out. use only code\"\n\n\n00:00\n\n\n\n\n\n\n\n\n9:39 PM · Sep 25, 2026·482\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "johnsavage_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/johnsavage_ai/status/2103600308010041677",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103600085913235456/img/0J2hUhiaTZIPSLbJ.jpg",
+  "coverPath": "data/covers/2103600308010041677-wide.jpg",
+  "gifPath": "data/gifs/2103600308010041677.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103600085913235456",
+    "x-post:2103600308010041677"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Motion Graphics Showreel Prompt",
+      "summary": "A prompt asking the AI model to generate a dynamic 15-second motion graphics showreel using only code.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/johnsavage_ai/status/2103600308010041677",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/johnsavage_ai/status/2103600308010041677",
+        "start": 24,
+        "end": 189
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/johnsavage_ai/status/2103600308010041677",
+        "author": "johnsavage_ai",
+        "postId": "2103600308010041677",
+        "publishedAt": "2026-09-25T21:39:31.000Z"
+      },
+      "checkedAt": "2026-09-28T08:07:02.497Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/johnsavage_ai/status/2103600308010041677",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt asking the AI model to generate a dynamic 15-second motion graphics showreel using only code.",
+    "summaryEn": "Opus 5.5 Motion Graphics Showreel Prompt",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
+    "sourceRange": {
+      "start": 24,
+      "end": 189
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

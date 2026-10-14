@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T14:01:07.620Z",
+  "model": "opus5.5",
+  "prompt": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+  "promptTranslations": {
+    "en": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses"
+  },
+  "summary": "Opus 5.5 prompt to create a stop-motion paper-cutout video explaining open problems in self-evolving agents using generated cutout assets.",
+  "summaryEn": "Educational Motion-Graphics on Recursive AI Agent Limitations",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104542961081983435",
+    "canonicalUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+    "author": {
+      "username": "M_Adrian2",
+      "displayName": "Adrian Michalski",
+      "profileUrl": "https://x.com/M_Adrian2"
+    },
+    "publishedAt": "2026-09-28T12:05:17.000Z",
+    "collectedAt": "2026-09-28T12:33:05.188Z",
+    "language": "en",
+    "originalText": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/M_Adrian2/status/2104542961081983435",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104542242568351744/img/yTJJ_fLiK1alB9E5.jpg",
+        "analysisUrl": "https://x.com/M_Adrian2/status/2104542961081983435"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 69
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104542242568351744/img/yTJJ_fLiK1alB9E5.jpg",
+  "coverPath": "data/covers/2104542961081983435-wide.jpg",
+  "gifPath": "data/gifs/2104542961081983435.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104542242568351744",
+    "x-post:2104542961081983435"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Educational Motion-Graphics on Recursive AI Agent Limitations",
+      "summary": "Opus 5.5 prompt to create a stop-motion paper-cutout video explaining open problems in self-evolving agents using generated cutout assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Hey Opus 5.5."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+        "englishText": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Animation engine execution scripts",
+          "Asset generation pipeline configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video follows the 118-second paper-cutout animation style with square characters discussing recursive agent limits.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Paper cutout image assets via GPT Image 2.5 on Fal AI",
+          "evidence": "generated with GPT Image 2.5 on Fal AI",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "origin": "generated",
+          "available": false
+        },
+        {
+          "kind": "production_material",
+          "description": "Recent research on self-evolving agents",
+          "evidence": "study articles from the last three months",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "origin": "searched",
+          "available": false
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "GPT Image 2.5 on Fal AI",
+          "role": "Visual asset generation for cutouts",
+          "evidence": "generated with GPT Image 2.5 on Fal AI",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "Research synthesis, narrative scripting, asset orchestration, and animation code generation.",
+      "outputSource": "Motion graphics rendering pipeline",
+      "divisionEvidence": "Hey Opus 5.5. Create a 90–120 second educational motion-graphics video... Build it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.",
+      "video": {
+        "shots": "Multi-scene animated sequence",
+        "duration": "01:58",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Complete original author instructions directing Opus 5.5 to produce an educational motion graphics piece paired with verified video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/M_Adrian2/status/2104542961081983435",
+        "start": 0,
+        "end": 858
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/M_Adrian2/status/2104542961081983435",
+        "author": "M_Adrian2",
+        "postId": "2104542961081983435",
+        "publishedAt": "2026-09-28T12:05:17.000Z"
+      },
+      "checkedAt": "2026-09-28T13:29:17.944Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Image generation is an asset dependency; the video renderer is not stated."
+        ],
+        "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+        "evidence": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\n"
+      },
+      "purpose": {
+        "label": "Educational motion graphics / AI agents",
+        "topic": "explainers",
+        "tags": [
+          "education",
+          "image-generation-dependency"
+        ]
+      }
+    },
+    "summary": "Opus 5.5 prompt to create a stop-motion paper-cutout video explaining open problems in self-evolving agents using generated cutout assets.",
+    "summaryEn": "Educational Motion-Graphics on Recursive AI Agent Limitations",
+    "originalPrompt": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+    "sourceRange": {
+      "start": 0,
+      "end": 858
+    },
+    "translations": {
+      "zh": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses",
+      "en": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\nBuild it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI.\n\nBefore animating, study articles from the last three months on the limitations and open problems of self-evolving agents, and turn them into one engaging story.\n \nKeep all on-screen text plain, specific and grammatically correct, and avoid AI-slop patterns: no \"not X, but Y\" constructions, no three-fragment lists, no rhetorical questions, no dramatic ellipses"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational motion graphics / AI agents",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Animation engine execution scripts",
+        "Asset generation pipeline configuration"
+      ],
+      "evidence": "The video follows the 118-second paper-cutout animation style with square characters discussing recursive agent limits."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

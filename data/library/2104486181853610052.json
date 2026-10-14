@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T10:42:04.359Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
+  "promptTranslations": {
+    "en": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out"
+  },
+  "summary": "A dynamic 20-second mathematics motion graphics showreel generated with Claude Opus 5.5 depicting 8 sequential mathematical visualizations.",
+  "summaryEn": "Math Motion Graphics Showreel by Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104486181853610052",
+    "canonicalUrl": "https://x.com/Math_files/status/2104486181853610052",
+    "author": {
+      "username": "Math_files",
+      "displayName": "Math Files",
+      "profileUrl": "https://x.com/Math_files"
+    },
+    "publishedAt": "2026-09-28T08:19:39.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "en",
+    "originalText": "I made this using Opus 5.5\n\nPrompt: 'make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out' https://t.co/3gTaJK5iN5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Math_files/status/2104486181853610052",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104485588590280704/img/l16Si8KQjjtmHjaS.jpg",
+        "analysisUrl": "https://x.com/Math_files/status/2104486181853610052"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1982
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Math_files/status/2104486181853610052",
+        "text": "Math Files on X: \"I made this using Opus 5.5\n\nPrompt: &#x27;make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it&#x27;s your showreel for a résumé. go all out&#x27;\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nMath Files on X: \"I made this using Opus 5.5\n\nPrompt: &#x27;make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it&#x27;s your showreel for a résumé. go all out&#x27;\"\n\n\n\nMath Files\n\n@Math_files\n\n\n\n\nI made this using Opus 5.5\n\nPrompt: &#x27;make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it&#x27;s your showreel for a résumé. go all out&#x27;\n\n\n00:00\n\n\n\n\n\n\n\n\n8:19 AM · Sep 28, 2026·1,997\nViews\n\n\n\n\n1\n10\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMath Files@Math_filesFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nMath Files\n\n@Math_files\n\n\n\n\nI made this using Opus 5.5\n\nPrompt: &#x27;make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it&#x27;s your showreel for a résumé. go all out&#x27;\n\n\n00:00\n\n\n\n\n\n\n\n\n8:19 AM · Sep 28, 2026·1,997\nViews\n\n\n\n\n1\n10\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Math_files"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Math_files/status/2104486181853610052",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104485588590280704/img/l16Si8KQjjtmHjaS.jpg",
+  "coverPath": "data/covers/2104486181853610052-wide.jpg",
+  "gifPath": "data/gifs/2104486181853610052.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104485588590280704",
+    "x-post:2104486181853610052"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Math Motion Graphics Showreel by Claude Opus 5.5",
+      "summary": "A dynamic 20-second mathematics motion graphics showreel generated with Claude Opus 5.5 depicting 8 sequential mathematical visualizations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "\"I made this using Opus 5.5\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
+        "englishText": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 20-second video demonstrates a complete math motion graphics showreel structured into 8 chapters (Unit Circle, Fourier Epicycles, Lissajous Knot, Wave Surface, Julia Set, Phyllotaxis, Euler's Identity) concluding with 'CLAUDE MOTION DESIGN x MATHEMATICS'.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Unknown animation renderer",
+          "role": "Executes and renders the mathematical motion graphics code produced by Claude Opus 5.5",
+          "evidence": "Author specifies Opus 5.5 generated the work but does not specify the specific runtime library (e.g. Canvas/Remotion/Manim).",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generates the mathematical motion graphics code and animation logic across 20 seconds",
+      "outputSource": "Animation renderer/runtime executing code generated by Claude Opus 5.5",
+      "divisionEvidence": "\"I made this using Opus 5.5\n\nPrompt: 'make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out'\"",
+      "video": {
+        "shots": "8 sequential math animation chapters (Origin, Unit Circle, Fourier Epicycles, Lissajous Knot, Wave Surface, Julia Set, Phyllotaxis, Euler's Identity)",
+        "duration": "20s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Explicitly attributes video production to Claude Opus 5.5 with verbatim prompt and full matching video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Math_files/status/2104486181853610052",
+        "start": 37,
+        "end": 234
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Math_files/status/2104486181853610052",
+        "author": "Math_files",
+        "postId": "2104486181853610052",
+        "publishedAt": "2026-09-28T08:19:39.000Z"
+      },
+      "checkedAt": "2026-09-28T10:05:05.654Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Math_files/status/2104486181853610052",
+        "evidence": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A dynamic 20-second mathematics motion graphics showreel generated with Claude Opus 5.5 depicting 8 sequential mathematical visualizations.",
+    "summaryEn": "Math Motion Graphics Showreel by Claude Opus 5.5",
+    "originalPrompt": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
+    "sourceRange": {
+      "start": 37,
+      "end": 234
+    },
+    "translations": {
+      "zh": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
+      "en": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached 20-second video demonstrates a complete math motion graphics showreel structured into 8 chapters (Unit Circle, Fourier Epicycles, Lissajous Knot, Wave Surface, Julia Set, Phyllotaxis, Euler's Identity) concluding with 'CLAUDE MOTION DESIGN x MATHEMATICS'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

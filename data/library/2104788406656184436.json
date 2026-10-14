@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:03.065Z",
+  "model": "opus5.5",
+  "prompt": "Generate a video showcasing the power of threejs (such as modeling, materials, light and shadow, camera, particles, shaders, etc.), with a cinematic feel, a premium aesthetic, a one-take shot, around 2 minutes, and ultimate camera expressiveness.",
+  "promptTranslations": {
+    "en": "Generate a video showcasing the power of threejs (such as modeling, materials, light and shadow, camera, particles, shaders, etc.), with a cinematic feel, a premium aesthetic, a one-take shot, around 2 minutes, and ultimate camera expressiveness."
+  },
+  "summary": "A cinematic one-take 3D animation video created with Claude Opus 5.5 showcasing the core capabilities of Three.js, including geometry, materials, lighting, camera motion, particle systems, and custom GLSL shaders.",
+  "summaryEn": "The Beauty of Three.js Showcase Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104788406656184436",
+    "canonicalUrl": "https://x.com/yupengfei990919/status/2104788406656184436",
+    "author": {
+      "username": "yupengfei990919",
+      "displayName": "yupengfei",
+      "profileUrl": "https://x.com/yupengfei990919"
+    },
+    "publishedAt": "2026-09-29T04:20:35.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "opus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。 https://t.co/HM823KquPV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/yupengfei990919/status/2104788406656184436",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104787682966835200/img/y4lVIGJ0KJoSwuy3.jpg",
+        "analysisUrl": "https://x.com/yupengfei990919/status/2104788406656184436"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/yupengfei990919/status/2104788406656184436",
+        "text": "yupengfei on X: \"opus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nyupengfei on X: \"opus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。\"\n\n\n\nyupengfei\n\n@yupengfei990919\n\n\n\n\nShow translation\nopus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。\n\n\n00:00\n\n\n\n\n\n\n\n\n4:20 AM · Sep 29, 2026·35\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nyupengfei@yupengfei990919Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nyupengfei\n\n@yupengfei990919\n\n\n\n\nShow translation\nopus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。\n\n\n00:00\n\n\n\n\n\n\n\n\n4:20 AM · Sep 29, 2026·35\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "yupengfei990919"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/yupengfei990919/status/2104788406656184436",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104787682966835200/img/y4lVIGJ0KJoSwuy3.jpg",
+  "coverPath": "data/covers/2104788406656184436-wide.jpg",
+  "gifPath": "data/gifs/2104788406656184436.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104787682966835200",
+    "x-post:2104788406656184436"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "The Beauty of Three.js Showcase Video",
+      "summary": "A cinematic one-take 3D animation video created with Claude Opus 5.5 showcasing the core capabilities of Three.js, including geometry, materials, lighting, camera motion, particle systems, and custom GLSL shaders.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 做的《threejs 之美》"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。",
+        "englishText": "Generate a video showcasing the power of threejs (such as modeling, materials, light and shadow, camera, particles, shaders, etc.), with a cinematic feel, a premium aesthetic, a one-take shot, around 2 minutes, and ultimate camera expressiveness.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent execution runtime / orchestration harness",
+          "WebGL rendering and recording pipeline",
+          "Narration audio generation pipeline"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The supplied video runs approximately 1 minute 53 seconds in a continuous camera sequence transitioning across Three.js modules (geometry, material, light and shadow, camera, particles, shaders) with narration. Note: Media inspection used a lower bitrate/resolution preview version.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics library and WebGL rendering engine utilized in the visual scenes",
+          "evidence": "展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等）",
+          "sourceUrl": "https://x.com/yupengfei990919/status/2104788406656184436",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Three.js Cinematic Feature Reel",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "3d-scenes",
+          "shaders",
+          "particles",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Code generation, scene planning, script composition, and orchestration of the Three.js demo animation",
+      "outputSource": "Three.js WebGL rendering recorded with synchronized voiceover narration",
+      "divisionEvidence": "opus 5.5 做的《threejs 之美》.就一句简单的提示词：生成一个视频，展示threejs的强大",
+      "video": {
+        "shots": "Continuous camera sequence moving through abstract geometry, physically based materials, light-projected city structures, a camera tunnel, a 100k-particle galaxy, and an animated GLSL noise shader orb, concluding with the Three.js logo.",
+        "duration": "01:53",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "The author explicitly identifies Claude Opus 5.5 as the generative agent, provides the full verbatim natural language prompt, and shares the complete corresponding 3D showcase video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/yupengfei990919/status/2104788406656184436",
+        "start": 34,
+        "end": 108
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/yupengfei990919/status/2104788406656184436",
+        "author": "yupengfei990919",
+        "postId": "2104788406656184436",
+        "publishedAt": "2026-09-29T04:20:35.000Z"
+      },
+      "checkedAt": "2026-09-30T04:49:27.508Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/yupengfei990919/status/2104788406656184436",
+        "evidence": ""
+      }
+    },
+    "summary": "A cinematic one-take 3D animation video created with Claude Opus 5.5 showcasing the core capabilities of Three.js, including geometry, materials, lighting, camera motion, particle systems, and custom GLSL shaders.",
+    "summaryEn": "The Beauty of Three.js Showcase Video",
+    "originalPrompt": "生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。",
+    "sourceRange": {
+      "start": 34,
+      "end": 108
+    },
+    "translations": {
+      "zh": "生成一个视频，展示threejs的强大（比如建模、材质、光影、相机、粒子、着色器等等），要有电影感，高级感，一镜到底，2分钟左右，极致的镜头表现力。",
+      "en": "Generate a video showcasing the power of threejs (such as modeling, materials, light and shadow, camera, particles, shaders, etc.), with a cinematic feel, a premium aesthetic, a one-take shot, around 2 minutes, and ultimate camera expressiveness."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Three.js Cinematic Feature Reel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent execution runtime / orchestration harness",
+        "WebGL rendering and recording pipeline",
+        "Narration audio generation pipeline"
+      ],
+      "evidence": "The supplied video runs approximately 1 minute 53 seconds in a continuous camera sequence transitioning across Three.js modules (geometry, material, light and shadow, camera, particles, shaders) with narration. Note: Media inspection used a lower bitrate/resolution preview version."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

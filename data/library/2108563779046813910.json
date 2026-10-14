@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:31:34.924Z",
+  "model": "opus5.5",
+  "prompt": "A video that showcases the theme of AI capabilities",
+  "promptTranslations": {
+    "en": "A video that showcases the theme of AI capabilities"
+  },
+  "summary": "Motion graphics explainer depicting the evolution of AI capabilities produced with Claude Opus 5.5.",
+  "summaryEn": "AI Capabilities Motion Graphics Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108563779046813910",
+    "canonicalUrl": "https://x.com/xiaofengai2023/status/2108563779046813910",
+    "author": {
+      "username": "xiaofengai2023",
+      "displayName": "森文AI宇宙",
+      "profileUrl": "https://x.com/xiaofengai2023"
+    },
+    "publishedAt": "2026-10-09T14:22:34.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "zh",
+    "originalText": "刚充好claude试一下opus5.5做视频威力，结尾太震撼了。\n我就说想要展现ai能力主题的视频，直出，不亚于gpt2生图出来时候给我的震撼，不好意思codex，我还是渣男 https://t.co/BkH2NUr4g2",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/xiaofengai2023/status/2108563779046813910",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108562793318293504/img/GsHtYNX2zO-rSsCU.jpg",
+        "analysisUrl": "https://x.com/xiaofengai2023/status/2108563779046813910"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/xiaofengai2023/status/2108563779046813910",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108562793318293504/img/GsHtYNX2zO-rSsCU.jpg",
+  "coverPath": "data/covers/2108563779046813910-wide.jpg",
+  "gifPath": "data/gifs/2108563779046813910.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108562793318293504",
+    "x-post:2108563779046813910"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AI Capabilities Motion Graphics Video",
+      "summary": "Motion graphics explainer depicting the evolution of AI capabilities produced with Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "刚充好claude试一下opus5.5做视频威力"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "想要展现ai能力主题的视频",
+        "englishText": "A video that showcases the theme of AI capabilities",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system/generation prompt",
+          "Animation framework specification",
+          "Scene storyboard and subtitle script"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "27-second motion graphics video illustrating AI evolution from terminal text to cosmic scale intelligence.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "AI Capabilities Showcase",
+        "topic": "motion-graphics",
+        "tags": [
+          "ai-evolution",
+          "motion-graphics",
+          "scifi",
+          "claude-opus"
+        ]
+      },
+      "targetModelRole": "Generates code or media instructions for the video sequence.",
+      "outputSource": "unknown",
+      "divisionEvidence": "我就说想要展现ai能力主题的视频，直出",
+      "video": {
+        "shots": "8 scenes including terminal, circuit board, neural graph, earth mesh, kinetic typography, and cosmic eye",
+        "duration": "27s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic showcase of motion graphics video generation attributed to Claude Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/xiaofengai2023/status/2108563779046813910",
+        "start": 36,
+        "end": 49
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/xiaofengai2023/status/2108563779046813910",
+        "author": "xiaofengai2023",
+        "postId": "2108563779046813910",
+        "publishedAt": "2026-10-09T14:22:34.000Z"
+      },
+      "checkedAt": "2026-10-10T07:25:27.420Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/xiaofengai2023/status/2108563779046813910",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics explainer depicting the evolution of AI capabilities produced with Claude Opus 5.5.",
+    "summaryEn": "AI Capabilities Motion Graphics Video",
+    "originalPrompt": "想要展现ai能力主题的视频",
+    "sourceRange": {
+      "start": 36,
+      "end": 49
+    },
+    "translations": {
+      "zh": "想要展现ai能力主题的视频",
+      "en": "A video that showcases the theme of AI capabilities"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI Capabilities Showcase",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system/generation prompt",
+        "Animation framework specification",
+        "Scene storyboard and subtitle script"
+      ],
+      "evidence": "27-second motion graphics video illustrating AI evolution from terminal text to cosmic scale intelligence."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

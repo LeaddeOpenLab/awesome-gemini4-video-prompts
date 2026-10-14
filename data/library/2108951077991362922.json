@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:51.387Z",
+  "model": "opus5.5",
+  "prompt": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…",
+  "promptTranslations": {
+    "en": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…"
+  },
+  "summary": "Claude Opus 5.5 generated a self-contained single-file HTML5 Canvas game and procedural trailer where a player pilots a hot air balloon over dawn desert mesas using altitude-dependent wind bands to deliver mail bags.",
+  "summaryEn": "Thermal Courier: Dawn Balloon Mail Run Canvas Game & Trailer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108951077991362922",
+    "canonicalUrl": "https://x.com/jeffbruchado/status/2108951077991362922",
+    "author": {
+      "username": "jeffbruchado",
+      "displayName": "Jeff Bruchado",
+      "profileUrl": "https://x.com/jeffbruchado"
+    },
+    "publishedAt": "2026-10-10T16:01:34.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "en",
+    "originalText": "everything you see and hear is code. one HTML file, no assets.\n\nsame prompt: Thermal Courier: a dawn balloon mail run and its own trailer\n\nOpus 5.5: 47m 34s, 662 lines, $7.47\nSonnet 5.5: 44m 28s, 1,343 lines, $4.89\n(est. API prices)\n\ntop is Opus 5.5, bottom is Sonnet 5.5 https://t.co/PoMQeOUdZ0",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jeffbruchado/status/2108951077991362922",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108951024421515264/img/TA2ZsKjDgzmHYFTi.jpg",
+        "analysisUrl": "https://x.com/jeffbruchado/status/2108951077991362922"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jeffbruchado/status/2108951108097884304",
+        "text": "Prompt (trimmed): \"Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…\"",
+        "author": "jeffbruchado"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/PoMQeOUdZ0"
+    ]
+  },
+  "xUrl": "https://x.com/jeffbruchado/status/2108951077991362922",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108951024421515264/img/TA2ZsKjDgzmHYFTi.jpg",
+  "coverPath": "data/covers/2108951077991362922-wide.jpg",
+  "gifPath": "data/gifs/2108951077991362922.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108951024421515264",
+    "x-post:2108951077991362922"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Thermal Courier: Dawn Balloon Mail Run Canvas Game & Trailer",
+      "summary": "Claude Opus 5.5 generated a self-contained single-file HTML5 Canvas game and procedural trailer where a player pilots a hot air balloon over dawn desert mesas using altitude-dependent wind bands to deliver mail bags.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic API",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5: 47m 34s, 662 lines, $7.47\nSonnet 5.5: 44m 28s, 1,343 lines, $4.89\n(est. API prices)\ntop is Opus 5.5, bottom is Sonnet 5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…",
+        "englishText": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remaining prompt text truncated after procedural world and camera setup (labeled trimmed by author)",
+          "Trailer mode and title sequence generation instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays the rendered HTML5 canvas graphics and animated trailer demo showing the striped balloon drifting across desert mesa silhouettes at sunrise, wind particle streaks, flag orientation, and mail delivery onto mesa towers.",
+        "textualResultQuote": "everything you see and hear is code. one HTML file, no assets."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas",
+          "role": "Client-side rendering engine executing procedural 2D graphics, physics simulation, and animations directly in the browser",
+          "evidence": "canvas, no libraries, no network, no audio",
+          "sourceUrl": "https://x.com/jeffbruchado/status/2108951108097884304",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Thermal Courier Procedural Canvas Game and Trailer",
+        "topic": "games-interactive",
+        "tags": [
+          "html5-canvas",
+          "game-trailer",
+          "procedural-animation",
+          "physics-simulation",
+          "interactive-demo"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the complete procedural code (662 lines in a single self-contained HTML file) implementing physics, particle simulation, camera controller, and trailer sequence.",
+      "outputSource": "Web browser HTML5 Canvas executing Opus 5.5 generated code",
+      "divisionEvidence": "everything you see and hear is code. one HTML file, no assets... Opus 5.5: 47m 34s, 662 lines, $7.47... top is Opus 5.5, bottom is Sonnet 5.5",
+      "video": {
+        "shots": "Single continuous screen recording showing procedural cinematic titles and gameplay loop in split comparison",
+        "duration": "14s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 generating self-contained procedural Canvas animation and interactive video gameplay with confirmed model version and running media recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jeffbruchado/status/2108951108097884304",
+        "start": 19,
+        "end": 1797
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jeffbruchado/status/2108951077991362922",
+        "author": "jeffbruchado",
+        "postId": "2108951077991362922",
+        "publishedAt": "2026-10-10T16:01:34.000Z"
+      },
+      "checkedAt": "2026-10-12T06:41:36.626Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jeffbruchado/status/2108951108097884304",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a self-contained single-file HTML5 Canvas game and procedural trailer where a player pilots a hot air balloon over dawn desert mesas using altitude-dependent wind bands to deliver mail bags.",
+    "summaryEn": "Thermal Courier: Dawn Balloon Mail Run Canvas Game & Trailer",
+    "originalPrompt": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…",
+    "sourceRange": {
+      "start": 19,
+      "end": 1797
+    },
+    "translations": {
+      "zh": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…",
+      "en": "Build a single self-contained HTML file (canvas, no libraries, no network, no audio) for a 1280x720 landscape game, scaled to fit, where the player flies a striped hot air balloon over endless desert mesas at dawn and drops a hanging mail sack onto glowing landing pads atop mesa towers. Controls: hold Space or touch to fire the burner, hold Down or a second touch zone to open the vent, release key or double tap to drop the sack; there is no horizontal thrust, so the only way to steer is to climb or sink into one of 5 stacked wind bands, each with its own speed between -90 and +90 px/s that slowly drifts every 20 seconds. Buoyancy simulation: envelope temperature eases toward the burner target with a 1.8 s time constant, lift is proportional to envelope temperature minus an ambient temperature that falls with altitude, propane burns at 6 percent per second of burner use, and the balloon has real momentum, so good players plan climbs early. Make the wind visible with 600 streak particles advected through the band field plus curl noise turbulence, drawn as fading 8 frame trails, and with cloth flags on every tower that point the local wind. The mail sack hangs on a 12 segment Verlet rope solved with 8 constraint iterations per frame at a fixed 120 Hz substep; it must swing with the balloon's acceleration, never stretch or explode, collide with the mesa terrain polygons, and score only if it comes to rest on a pad (3 rings of accuracy). Procedural world: a seeded generator builds an endless skyline of flat-topped mesas, arches and spires in 3 parallax layers, placing 1 pad tower every 900 to 1400 px so pads always sit within reach of at least 2 wind bands. Camera follows with velocity lookahead and eases its zoom from 1.0 to 0.8 as the balloon climbs.…"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Thermal Courier Procedural Canvas Game and Trailer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remaining prompt text truncated after procedural world and camera setup (labeled trimmed by author)",
+        "Trailer mode and title sequence generation instructions"
+      ],
+      "evidence": "The screen recording displays the rendered HTML5 canvas graphics and animated trailer demo showing the striped balloon drifting across desert mesa silhouettes at sunrise, wind particle streaks, flag orientation, and mail delivery onto mesa towers."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

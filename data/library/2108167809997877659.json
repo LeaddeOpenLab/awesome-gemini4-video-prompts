@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:30.179Z",
+  "model": "opus5.5",
+  "prompt": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+  "promptTranslations": {
+    "en": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect."
+  },
+  "summary": "Tutorial demonstrating UI widget animation in Jitter using Opus 5.5 AI prompt assistance.",
+  "summaryEn": "Jitter AI UI Widget Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108167809997877659",
+    "canonicalUrl": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+    "author": {
+      "username": "Khlaseek_dsgner",
+      "displayName": "Khlaseek designer",
+      "profileUrl": "https://x.com/Khlaseek_dsgner"
+    },
+    "publishedAt": "2026-10-08T12:09:08.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Greetings from the Khlaseek side 🚀🔥💜\n\nHere's a tutorial video of widget animation made with @jittervideo using the jitter AI powered by OPUS 5.5.\n\nAI assists with the motion and you get to tweak it to your liking. \n\nPROMPT: the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108167351770206208/img/DkMnuIF3npIIkPjN.jpg",
+        "analysisUrl": "https://x.com/Khlaseek_dsgner/status/2108167809997877659"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 994
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108167351770206208/img/DkMnuIF3npIIkPjN.jpg",
+  "coverPath": "data/covers/2108167809997877659-wide.jpg",
+  "gifPath": "data/gifs/2108167809997877659.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108167351770206208",
+    "x-post:2108167809997877659"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Jitter AI UI Widget Animation",
+      "summary": "Tutorial demonstrating UI widget animation in Jitter using Opus 5.5 AI prompt assistance.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Jitter AI",
+        "authorUseConfirmed": true,
+        "evidence": "using the jitter AI powered by OPUS 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+        "englishText": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video displays UI card scale-in, staggered detail animations, line path drawing, and rectangle light passes as prompted. Note: visual evaluation conducted on standard preview resolution.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "ui_assets",
+          "description": "Figma crypto card UI design",
+          "available": false,
+          "evidence": "I took my UI I designed in Figma",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Figma",
+          "role": "Asset creation",
+          "evidence": "I took my UI I designed in Figma",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Jitter",
+          "role": "Motion animation software and AI interface",
+          "evidence": "made with @jittervideo using the jitter AI",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Khlaseek_dsgner/status/2108167809997877659"
+        }
+      ],
+      "purpose": {
+        "label": "UI Motion Design",
+        "topic": "motion-graphics",
+        "tags": [
+          "jitter",
+          "ui-animation",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Interprets natural language prompt to generate motion keyframes in Jitter.",
+      "outputSource": "Jitter",
+      "divisionEvidence": "AI assists with the motion and you get to tweak it to your liking.",
+      "video": {
+        "shots": "1",
+        "duration": "02:11",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Valid demonstration of Opus 5.5 powering Jitter AI motion graphics with full verbatim prompt provided.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+        "start": 227,
+        "end": 614
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+        "author": "Khlaseek_dsgner",
+        "postId": "2108167809997877659",
+        "publishedAt": "2026-10-08T12:09:08.000Z"
+      },
+      "checkedAt": "2026-10-09T12:56:59.649Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+        "evidence": ""
+      }
+    },
+    "summary": "Tutorial demonstrating UI widget animation in Jitter using Opus 5.5 AI prompt assistance.",
+    "summaryEn": "Jitter AI UI Widget Animation",
+    "originalPrompt": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+    "sourceRange": {
+      "start": 227,
+      "end": 614
+    },
+    "translations": {
+      "zh": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect.",
+      "en": "the card should scale in from 30% to 100% scale and it should go from Invisible to visible. every detail slide in orderly one after the other when the card settles in scale. the graph line animates in like a line path. the glow at the back becomes visible as the card details slides in. the two rectangles move accross the screen at slightly different timing giving it this light effect."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "UI Motion Design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video displays UI card scale-in, staggered detail animations, line path drawing, and rectangle light passes as prompted. Note: visual evaluation conducted on standard preview resolution."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

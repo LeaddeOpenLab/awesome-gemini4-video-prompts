@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:51.072Z",
+  "model": "opus5.5",
+  "prompt": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+  "promptTranslations": {
+    "en": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy."
+  },
+  "summary": "An interactive single-file HTML animated world built by Claude Opus 5.5 featuring cute AI agent characters that work during the day, display status speech bubbles, and return to illuminated houses at night.",
+  "summaryEn": "Little Agent Island: Cozy Interactive AI Agent World",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108936150681305270",
+    "canonicalUrl": "https://x.com/kinderlayer/status/2108936150681305270",
+    "author": {
+      "username": "kinderlayer",
+      "displayName": "Kinder",
+      "profileUrl": "https://x.com/kinderlayer"
+    },
+    "publishedAt": "2026-10-10T15:02:15.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "en",
+    "originalText": "i gave my AI agents a little island to live on. you can watch them work all day, then walk home and sleep in their little houses when the lamps come on 🥹\n\nOpus 5.5 built the whole thing. prompt to make your own is below https://t.co/QMvPrAVpk2",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kinderlayer/status/2108936150681305270",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108936078828752896/img/t37OnJRZKxiZkeuM.jpg",
+        "analysisUrl": "https://x.com/kinderlayer/status/2108936150681305270"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 0,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 581
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kinderlayer/status/2108945611944841667",
+        "text": "@harden_369741 Gamifying state execution fixes the attention gap. If observability feels like an environment rather than telemetry, you actually pay attention.",
+        "author": "kinderlayer"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kinderlayer/status/2108942462584766711",
+        "text": "@zer0point_eth It's a good idea, but it requires a lot of work",
+        "author": "kinderlayer"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kinderlayer/status/2108941163361382516",
+        "text": "@PolyDekos Gotta keep employee retention high when they run on LLM inference costs.",
+        "author": "kinderlayer"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kinderlayer/status/2108941035757842544",
+        "text": "@0xKorens Visual feedback loops make agent monitoring infinitely better than staring at terminal logs.",
+        "author": "kinderlayer"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kinderlayer/status/2108936246856671505",
+        "text": "https://t.co/Uyywp84jPi",
+        "author": "kinderlayer"
+      },
+      {
+        "url": "https://x.com/kinderlayer/status/2108936150681305270",
+        "text": "Kinder on X: \"i gave my AI agents a little island to live on. you can watch them work all day, then walk home and sleep in their little houses when the lamps come on 🥹\n\nOpus 5.5 built the whole thing. prompt to make your own is below\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKinder on X: \"i gave my AI agents a little island to live on. you can watch them work all day, then walk home and sleep in their little houses when the lamps come on 🥹\n\nOpus 5.5 built the whole thing. prompt to make your own is below\"\n\n\n\nKinder\n\n@kinderlayer\n\n\n\n\ni gave my AI agents a little island to live on. you can watch them work all day, then walk home and sleep in their little houses when the lamps come on 🥹\n\nOpus 5.5 built the whole thing. prompt to make your own is below\n\n\n00:00\n\n\n\n\n\n\n\n\n3:02 PM · Oct 10, 2026·1,371\nViews\n\n\n\n13\n1\n40\n17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKinder@kinderlayerFollow\nThe model talks. The layer decides.\nI build the layer - where AI actually makes money.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKinder\n\n@kinderlayer\n\n\n\n\ni gave my AI agents a little island to live on. you can watch them work all day, then walk home and sleep in their little houses when the lamps come on 🥹\n\nOpus 5.5 built the whole thing. prompt to make your own is below\n\n\n00:00\n\n\n\n\n\n\n\n\n3:02 PM · Oct 10, 2026·1,371\nViews\n\n\n\n13\n1\n40\n17\n\n\n\n\n\n\n\n\n\nKinder\n\n@kinderlayer\nOct 10\n\n\n\n\n\nCozy AI Agent World — single-file interactive HTML prompt\n\n\nFrom gist.github.com\n\n\n\n\n\n3\n249\n\n\n\n\n\n\n\n\n\n\n\nDekos\n\n@PolyDekos\nOct 10\n\n\nGave a house for his employees, looks interesting\n\n\n1\n\n1\n64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kinderlayer"
+      },
+      {
+        "url": "https://gist.githubusercontent.com/kinderlayer/9ff75fc028d1875ffd8e113792409d91/raw",
+        "text": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+        "kind": "linked_public_material",
+        "author": "kinderlayer"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kinderlayer/status/2108936150681305270",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108936078828752896/img/t37OnJRZKxiZkeuM.jpg",
+  "coverPath": "data/covers/2108936150681305270-wide.jpg",
+  "gifPath": "data/gifs/2108936150681305270.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108936078828752896/vid/avc1/320x336/qjNUicwlGVqMuwoe.mp4?tag=29",
+    "x-video:2108936078828752896",
+    "x-post:2108936150681305270"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Little Agent Island: Cozy Interactive AI Agent World",
+      "summary": "An interactive single-file HTML animated world built by Claude Opus 5.5 featuring cute AI agent characters that work during the day, display status speech bubbles, and return to illuminated houses at night.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 built the whole thing."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+        "englishText": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an isometric circular island with a pond, surrounding houses, lamp posts, day-to-night transitions, and five fluffy agent bots (Gate, Scout, Builder, Reviewer, Budget Guard) displaying activity speech bubbles like 'good morning!', 'checking...', 'shipping...', 'routing...', and '+ watching the cap' before returning home to sleep at night.",
+        "textualResultQuote": "Little Agent Island\nFive fluffy agents work through the day and walk home when the lamps come on."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML/Canvas/SVG/CSS",
+          "role": "Single-file web rendering and animation engine executed in-browser without external media assets",
+          "evidence": "No external assets — draw everything in code (SVG/canvas/CSS). It should just run.",
+          "sourceUrl": "https://gist.githubusercontent.com/kinderlayer/9ff75fc028d1875ffd8e113792409d91/raw",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Agent Observability World",
+        "topic": "games-interactive",
+        "tags": [
+          "agent-monitoring",
+          "interactive-canvas",
+          "day-night-cycle",
+          "creative-coding",
+          "cozy-ui"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete standalone interactive front-end code (HTML, CSS, SVG/Canvas, and JavaScript state logic) based on user specification.",
+      "outputSource": "Web browser runtime executing Claude Opus 5.5 generated single-file HTML artifact.",
+      "divisionEvidence": "Opus 5.5 built the whole thing. prompt to make your own is below",
+      "video": {
+        "shots": "Single continuous screen recording showing the simulated day and night lifecycle and time-lapse acceleration controls.",
+        "duration": "0:25",
+        "aspectRatio": "320:336",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The author provides direct attribution to Claude Opus 5.5, shares the full verbatim original prompt via GitHub Gist, and includes a matching screen recording of the interactive animated artifact running.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://gist.githubusercontent.com/kinderlayer/9ff75fc028d1875ffd8e113792409d91/raw",
+        "start": 0,
+        "end": 1468
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kinderlayer/status/2108936150681305270",
+        "author": "kinderlayer",
+        "postId": "2108936150681305270",
+        "publishedAt": "2026-10-10T15:02:15.000Z"
+      },
+      "checkedAt": "2026-10-12T06:29:10.346Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://gist.githubusercontent.com/kinderlayer/9ff75fc028d1875ffd8e113792409d91/raw",
+        "evidence": "No external assets — draw everything in code (SVG/canvas/CSS).",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      }
+    },
+    "summary": "An interactive single-file HTML animated world built by Claude Opus 5.5 featuring cute AI agent characters that work during the day, display status speech bubbles, and return to illuminated houses at night.",
+    "summaryEn": "Little Agent Island: Cozy Interactive AI Agent World",
+    "originalPrompt": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+    "sourceRange": {
+      "start": 0,
+      "end": 1468
+    },
+    "translations": {
+      "zh": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy.",
+      "en": "Build me a single-file interactive HTML artifact: a cozy little world where my AI agents live and work, shown as cute characters.\n\nMake one adorable character for each of my agents/bots, each with its own little house. If I give you a list of my agents and their jobs, use those; if not, create a small friendly team (a scout, a builder, a reviewer, a router, a helper) as placeholders I can rename. Characters are soft, round, big-eyed, each a different color.\n\nBehaviour, animated and alive:\n- By DAY the characters walk around and \"work\", with little speech bubbles showing what each is doing (e.g. \"searching...\", \"building...\", \"checking...\", \"routing...\"). They path softly, idle-bob, blink.\n- A slow DAY to NIGHT cycle: at night the sky turns deep blue, stars come out, the characters walk home, their windows glow warm, a tiny \"zzz\" floats up. In the morning they wake and come back out.\n- Click a character to open a small card: name, role, and what it's doing right now.\n- Soft ambient world: gentle colors, little trees, a path, a pond or fountain, soft shadows.\n\nStyle: cozy, charming, premium - warm watercolor or soft low-poly, your call. Aim for \"this is adorable, I could watch it forever.\" Make it beautiful, use lots of tokens, iterate until you're genuinely proud. No external assets — draw everything in code (SVG/canvas/CSS). It should just run.\n\nWhen a character finishes a task, a tiny sparkle or \"+1\" floats up. Keep it calm and cute, not busy."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Agent Observability World",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates an isometric circular island with a pond, surrounding houses, lamp posts, day-to-night transitions, and five fluffy agent bots (Gate, Scout, Builder, Reviewer, Budget Guard) displaying activity speech bubbles like 'good morning!', 'checking...', 'shipping...', 'routing...', and '+ watching the cap' before returning home to sleep at night."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

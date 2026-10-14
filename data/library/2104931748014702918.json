@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:09.710Z",
+  "model": "opus5.5",
+  "prompt": "I want you to help me create a 60-second motion graphics explainer video about the history of computers, from their origins to the modern era. All visual images should be handled by Jimeng, and all motion graphic elements and animations should be handled by you. The artistic style is a newspaper collage mixed-media aesthetic with high sophistication. This piece will be used for your portfolio, so please ensure it is outstanding.",
+  "promptTranslations": {
+    "en": "I want you to help me create a 60-second motion graphics explainer video about the history of computers, from their origins to the modern era. All visual images should be handled by Jimeng, and all motion graphic elements and animations should be handled by you. The artistic style is a newspaper collage mixed-media aesthetic with high sophistication. This piece will be used for your portfolio, so please ensure it is outstanding."
+  },
+  "summary": "A 60-second animated explainer on the history of computing featuring a newspaper-cutout mixed-media aesthetic, produced with Claude Opus 5.5 handling motion design and Jimeng generating visual imagery.",
+  "summaryEn": "Computer History Motion Graphics Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104931748014702918",
+    "canonicalUrl": "https://x.com/TheHappyWang/status/2104931748014702918",
+    "author": {
+      "username": "TheHappyWang",
+      "displayName": "创梦",
+      "profileUrl": "https://x.com/TheHappyWang"
+    },
+    "publishedAt": "2026-09-29T13:50:11.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "zh",
+    "originalText": "没错，Opus 5.5 做动效设计本来就很强，如果再配上即梦一起用，那效果绝对更上一层楼🥳\n\n提示词：我想让你帮我创建一个60秒的动态图形解说视频，主题是计算机的发展史，从起源到现代，所有视觉图像应由即梦处理，所有动态图形元素和动画应由你处理，艺术风格为 报纸剪贴 混合媒介美学，具有高度精致感 这件作品将用于你的作品集 ，所以需要你确保他很出色",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TheHappyWang/status/2104931748014702918",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTY4QyGaQAIQRDH.jpg",
+        "analysisUrl": "https://x.com/TheHappyWang/status/2104931748014702918"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 818
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/TheHappyWang/status/2105091006815522876",
+        "text": "@Stargridcompass 生图",
+        "author": "TheHappyWang"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/TheHappyWang/status/2104931748014702918",
+  "coverUrl": "https://pbs.twimg.com/media/HTY4QyGaQAIQRDH.jpg",
+  "coverPath": "data/covers/2104931748014702918-wide.jpg",
+  "gifPath": "data/gifs/2104931748014702918.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HTY4QyGaQAIQRDH",
+    "x-post:2104931748014702918"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Computer History Motion Graphics Explainer",
+      "summary": "A 60-second animated explainer on the history of computing featuring a newspaper-cutout mixed-media aesthetic, produced with Claude Opus 5.5 handling motion design and Jimeng generating visual imagery.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "没错，Opus 5.5 做动效设计本来就很强，如果再配上即梦一起用，那效果绝对更上一层楼🥳"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "我想让你帮我创建一个60秒的动态图形解说视频，主题是计算机的发展史，从起源到现代，所有视觉图像应由即梦处理，所有动态图形元素和动画应由你处理，艺术风格为 报纸剪贴 混合媒介美学，具有高度精致感 这件作品将用于你的作品集 ，所以需要你确保他很出色",
+        "englishText": "I want you to help me create a 60-second motion graphics explainer video about the history of computers, from their origins to the modern era. All visual images should be handled by Jimeng, and all motion graphic elements and animations should be handled by you. The artistic style is a newspaper collage mixed-media aesthetic with high sophistication. This piece will be used for your portfolio, so please ensure it is outstanding.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Implementation code or animation project files",
+          "Prompts and image assets generated via Jimeng"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 59-second video accurately presents the evolution of computers in a vintage newspaper collage motion design style matching the prompt. Media inspection reflects a lower-bitrate preview version.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Historical and hardware imagery generated via Jimeng.",
+          "available": false,
+          "evidence": "所有视觉图像应由即梦处理",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/TheHappyWang/status/2104931748014702918"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Opus 5.5",
+          "role": "Motion graphic elements and animation design",
+          "evidence": "所有动态图形元素和动画应由你处理",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/TheHappyWang/status/2104931748014702918"
+        },
+        {
+          "name": "Jimeng (即梦)",
+          "role": "AI image generation for visual elements",
+          "evidence": "所有视觉图像应由即梦处理",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/TheHappyWang/status/2104931748014702918"
+        }
+      ],
+      "purpose": {
+        "label": "Computer History Motion Explainer",
+        "topic": "explainers",
+        "tags": [
+          "motion-graphics",
+          "computer-history",
+          "paper-collage",
+          "mixed-media"
+        ]
+      },
+      "targetModelRole": "Motion graphic design, kinetic typography, layout, and animation logic.",
+      "outputSource": "External animation/compositing engine combined with Jimeng assets.",
+      "divisionEvidence": "所有视觉图像应由即梦处理，所有动态图形元素和动画应由你处理",
+      "video": {
+        "shots": "13",
+        "duration": "00:59",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Valid demonstration of Claude Opus 5.5 coordinating animation design alongside an external image generator to produce an explainer video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/TheHappyWang/status/2104931748014702918",
+        "start": 52,
+        "end": 174
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/TheHappyWang/status/2104931748014702918",
+        "author": "TheHappyWang",
+        "postId": "2104931748014702918",
+        "publishedAt": "2026-09-29T13:50:11.000Z"
+      },
+      "checkedAt": "2026-09-30T09:28:32.951Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/TheHappyWang/status/2104931748014702918",
+        "evidence": ""
+      }
+    },
+    "summary": "A 60-second animated explainer on the history of computing featuring a newspaper-cutout mixed-media aesthetic, produced with Claude Opus 5.5 handling motion design and Jimeng generating visual imagery.",
+    "summaryEn": "Computer History Motion Graphics Explainer",
+    "originalPrompt": "我想让你帮我创建一个60秒的动态图形解说视频，主题是计算机的发展史，从起源到现代，所有视觉图像应由即梦处理，所有动态图形元素和动画应由你处理，艺术风格为 报纸剪贴 混合媒介美学，具有高度精致感 这件作品将用于你的作品集 ，所以需要你确保他很出色",
+    "sourceRange": {
+      "start": 52,
+      "end": 174
+    },
+    "translations": {
+      "zh": "我想让你帮我创建一个60秒的动态图形解说视频，主题是计算机的发展史，从起源到现代，所有视觉图像应由即梦处理，所有动态图形元素和动画应由你处理，艺术风格为 报纸剪贴 混合媒介美学，具有高度精致感 这件作品将用于你的作品集 ，所以需要你确保他很出色",
+      "en": "I want you to help me create a 60-second motion graphics explainer video about the history of computers, from their origins to the modern era. All visual images should be handled by Jimeng, and all motion graphic elements and animations should be handled by you. The artistic style is a newspaper collage mixed-media aesthetic with high sophistication. This piece will be used for your portfolio, so please ensure it is outstanding."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Computer History Motion Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Implementation code or animation project files",
+        "Prompts and image assets generated via Jimeng"
+      ],
+      "evidence": "The 59-second video accurately presents the evolution of computers in a vintage newspaper collage motion design style matching the prompt. Media inspection reflects a lower-bitrate preview version."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

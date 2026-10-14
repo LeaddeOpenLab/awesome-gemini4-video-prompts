@@ -1,0 +1,146 @@
+[
+  {
+    "id": "2103449416325890146",
+    "slug": "remotion-motion-design-showreel",
+    "category": "motion-graphics",
+    "title": "A motion designer’s showreel",
+    "description": "Fifteen seconds of kinetic type, shifting shapes and tightly timed motion, rendered with Remotion.",
+    "tool": "Remotion",
+    "frame": 21,
+    "inputs": "A coding workspace with Remotion available. The shared prompt does not specify brand assets or audio.",
+    "steps": [
+      "Copy the creator’s prompt into your coding agent and specify that the output should use Remotion.",
+      "Preview the composition and refine timing, typography and transitions before rendering.",
+      "Render an MP4 with Remotion. The creator’s result is a reference, not a guaranteed one-prompt output."
+    ],
+    "note": "The author confirmed Remotion as the renderer. The short prompt leaves much of the art direction to the agent."
+  },
+  {
+    "id": "2103273003555402193",
+    "slug": "looping-ui-motion-prompt",
+    "category": "motion-graphics",
+    "title": "One shape. A whole interface.",
+    "description": "A button becomes a player, a slider and a chart in one continuous, beat-driven loop.",
+    "tool": "HTML · FFmpeg",
+    "frame": 21,
+    "inputs": "8–12 UI states, a palette, and music you have permission to use. The prompt also calls for Playwright, NumPy and FFmpeg.",
+    "steps": [
+      "Choose your UI states, colors and audio before starting. The prompt asks the agent to confirm these inputs.",
+      "Review the beat grid and render still frames before committing to the full animation.",
+      "Use the requested Playwright and FFmpeg workflow to render the loop; check that the first and last frames connect."
+    ],
+    "note": "This is a multi-tool workflow. Its rendering instructions are more involved than a single browser animation."
+  },
+  {
+    "id": "2102476258948927543",
+    "slug": "pixel-art-wizard-html-prompt",
+    "category": "motion-graphics",
+    "title": "A little pixel magic",
+    "description": "A spell-casting wizard, drawn and animated in a single HTML file. No external assets required.",
+    "tool": "Canvas 2D",
+    "frame": 25,
+    "inputs": "A coding agent and a browser. The prompt explicitly requires no external assets, libraries or network requests.",
+    "steps": [
+      "Copy the prompt into your coding agent and ask it to save the result as index.html.",
+      "Open the file in a browser. Check the idle, charge, cast and recovery animation states.",
+      "Adjust the palette or spell effect in a follow-up prompt, keeping the low-resolution pixel grid."
+    ],
+    "note": "A useful first browser-animation exercise. The repository records the public prompt as a shared fragment."
+  },
+  {
+    "id": "2103128559174971663",
+    "slug": "manim-derivatives-explainer",
+    "category": "explainers",
+    "title": "Make derivatives visible",
+    "description": "A visual introduction to derivatives, using Manim for the animation and edge-tts for narration.",
+    "tool": "Manim · edge-tts",
+    "frame": 21,
+    "inputs": "A Python environment with Manim and edge-tts, plus any system dependencies required by those tools.",
+    "steps": [
+      "Copy the prompt and specify the audience, lesson language and desired length.",
+      "Ask the agent to create a Manim scene and a narration script, then review the mathematical explanation.",
+      "Render the scene, generate narration with edge-tts and align the audio with the visual steps."
+    ],
+    "note": "The original prompt is in Chinese; the text below is its English translation. The creator’s preview includes Chinese narration and text."
+  },
+  {
+    "id": "2103499977632997524",
+    "slug": "business-explainer-html-prompt",
+    "category": "explainers",
+    "title": "Your business, in five scenes",
+    "description": "A 30-second explainer that moves from the customer’s problem to your offer, process and proof.",
+    "tool": "HTML",
+    "frame": 43,
+    "inputs": "What you sell, who it is for, your brand colors, one proof point and your business name.",
+    "steps": [
+      "Replace the bracketed business description in the prompt with your own information.",
+      "Ask the coding agent to save the animation as one HTML file, then preview it in a browser.",
+      "Review the five scenes and replace any unsupported claims. Exporting an MP4 requires a separate recording or rendering step."
+    ],
+    "note": "The source identifies Claude Opus without confirming a version. This prompt produces a web animation; it does not specify an MP4 export workflow."
+  },
+  {
+    "id": "2103629247751618782",
+    "slug": "photon-journey-animation-prompt",
+    "category": "explainers",
+    "title": "Follow a photon from the Sun",
+    "description": "A storybook-style science explainer, with code-rendered visuals, narration and a little personality.",
+    "tool": "JavaScript",
+    "frame": 25,
+    "inputs": "An environment for JavaScript animation and rendering, plus access to narration and audio tools. The prompt leaves the specific audio tools open.",
+    "steps": [
+      "Read the full brief and decide which narration, music and rendering tools are available in your workspace.",
+      "Review the script and scientific estimates before rendering. Keep uncertainty visible in the explanation.",
+      "Build the scenes, review still frames, and check captions and audio timing in the final export."
+    ],
+    "note": "This is an ambitious production brief. Tool access and follow-up work affect how much can be completed in one run."
+  },
+  {
+    "id": "2103802923465768972",
+    "slug": "starry-night-3d-cats-prompt",
+    "category": "3d-worlds",
+    "title": "Step inside a Starry Night",
+    "description": "An explorable Van Gogh-inspired town, with twelve cats waiting to be found.",
+    "tool": "Claude Code · 3D",
+    "frame": 28,
+    "inputs": "A Claude Code workspace and a browser. The creator noted that previous workspace context may have influenced the result.",
+    "steps": [
+      "Copy the creator’s prompt into a coding workspace and ask for a browser-based 3D project.",
+      "Agree on movement controls, the visual direction and a small playable scene before expanding the town.",
+      "Run the project locally and test movement, object placement and cat discovery in your browser."
+    ],
+    "note": "The original short prompt is available, but the author’s prior workspace context is not. The source does not confirm a specific 3D rendering library."
+  },
+  {
+    "id": "2103194052850241739",
+    "slug": "cinematic-browser-3d-world",
+    "category": "3d-worlds",
+    "title": "A world made for wandering",
+    "description": "Monumental architecture, distant mountains and surreal ruins in an explorable browser landscape.",
+    "tool": "Browser 3D",
+    "frame": 21,
+    "inputs": "A coding workspace and a browser capable of running your chosen 3D renderer. The original source does not specify the renderer.",
+    "steps": [
+      "Copy the prompt and choose a browser-based rendering library with your coding agent.",
+      "Start with terrain, one landmark and camera movement; review scale and composition.",
+      "Add environmental detail gradually and check performance while moving through the scene."
+    ],
+    "note": "The author reported a substantial build session. The shared prompt alone does not describe every production step."
+  },
+  {
+    "id": "2102466523164274839",
+    "slug": "blender-1906-san-francisco",
+    "category": "3d-worlds",
+    "title": "Market Street, before the earthquake",
+    "description": "A historical reconstruction of San Francisco in 1906, assembled in Blender from documented sources.",
+    "tool": "Blender · Python",
+    "frame": 25,
+    "inputs": "Blender and historical reference sources, including maps, period photographs and film. The prompt asks the agent to research these before modeling.",
+    "steps": [
+      "Build the historical source file requested by the prompt, recording evidence and uncertainty for each building.",
+      "Have the agent write Blender Python generators and assemble the scene from the documented data.",
+      "Inspect landmarks and camera movement before rendering the requested ten-second street journey."
+    ],
+    "note": "Historical research is part of this task. A plausible-looking scene is not evidence of historical accuracy."
+  }
+]

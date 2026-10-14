@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:04.290Z",
+  "model": "opus5.5",
+  "prompt": "Gave it an md file and asked it to draw it so it can be shown to others.",
+  "promptTranslations": {
+    "en": "Gave it an md file and asked it to draw it so it can be shown to others."
+  },
+  "summary": "Author fed a markdown file into Claude Opus 5.5 to generate an animated technical explainer illustrating multi-camera multi-target tracking.",
+  "summaryEn": "MTMC Multi-Camera Tracking Explainer Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108161031243759993",
+    "canonicalUrl": "https://x.com/Xterbase/status/2108161031243759993",
+    "author": {
+      "username": "Xterbase",
+      "displayName": "Xter",
+      "profileUrl": "https://x.com/Xterbase"
+    },
+    "publishedAt": "2026-10-08T11:42:12.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "ko",
+    "originalText": "클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ\n\nmd 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.\n\n사실 제가 평소 프롬프트 쓰는 것에 비해 엄청 대충 썼는데 이정도 결과물이라니요....ㄷㄷ\n\nOpus 5.5 high로 돌렸습니다 https://t.co/eHvlgpxuHW",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Xterbase/status/2108161031243759993",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108160783268171776/img/iMSH0cUZhecQ7pNy.jpg",
+        "analysisUrl": "https://x.com/Xterbase/status/2108161031243759993"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 472
+    },
+    "matchedRuleIds": [
+      "group:opus:ko:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Xterbase/status/2108416872203145566",
+        "text": "@lucian__03 저도 깜짝 놀랐네요 ㅋㅋㅋ",
+        "author": "Xterbase"
+      },
+      {
+        "url": "https://x.com/Xterbase/status/2108161031243759993",
+        "text": "Xter on X: \"클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ\n\nmd 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.\n\n사실 제가 평소 프롬프트 쓰는 것에 비해 엄청 대충 썼는데 이정도 결과물이라니요....ㄷㄷ\n\nOpus 5.5 high로 돌렸습니다\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nXter on X: \"클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ\n\nmd 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.\n\n사실 제가 평소 프롬프트 쓰는 것에 비해 엄청 대충 썼는데 이정도 결과물이라니요....ㄷㄷ\n\nOpus 5.5 high로 돌렸습니다\"\n\n\n\nXter\n\n@Xterbase\n\n\n\n\nShow translation\n클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ\n\nmd 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.\n\n사실 제가 평소 프롬프트 쓰는 것에 비해 엄청 대충 썼는데 이정도 결과물이라니요....ㄷㄷ\n\nOpus 5.5 high로 돌렸습니다\n\n\n00:00\n\n\n\n\n\n\n\n\n11:42 AM · Oct 8, 2026·472\nViews\n\n\n\n1\n1\n8\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nXter@XterbaseFollow\nComputer Vision | AI Engineering | Web Application | Data Analysis \n\nContact - [email&#160;protected]\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXter\n\n@Xterbase\n\n\n\n\nShow translation\n클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ\n\nmd 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.\n\n사실 제가 평소 프롬프트 쓰는 것에 비해 엄청 대충 썼는데 이정도 결과물이라니요....ㄷㄷ\n\nOpus 5.5 high로 돌렸습니다\n\n\n00:00\n\n\n\n\n\n\n\n\n11:42 AM · Oct 8, 2026·472\nViews\n\n\n\n1\n1\n8\n1\n\n\n\n\n\n\n\n\n\n루샨 lucian\n\n@lucian__03\n7h\n\n\n디자인쪽이나 모션 그래픽쪽 말도 안돼요 오퍼스..\n\n\n2\n\n1\n26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Xterbase"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Xterbase/status/2108161031243759993",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108160783268171776/img/iMSH0cUZhecQ7pNy.jpg",
+  "coverPath": "data/covers/2108161031243759993-wide.jpg",
+  "gifPath": "data/gifs/2108161031243759993.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108160783268171776/vid/avc1/480x270/M1Gs3xYvTcDysuE5.mp4?tag=29",
+    "x-video:2108160783268171776",
+    "x-post:2108161031243759993"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "MTMC Multi-Camera Tracking Explainer Animation",
+      "summary": "Author fed a markdown file into Claude Opus 5.5 to generate an animated technical explainer illustrating multi-camera multi-target tracking.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 high로 돌렸습니다"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "md 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.",
+        "englishText": "Gave it an md file and asked it to draw it so it can be shown to others.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "verbatim prompt text",
+          "source markdown content"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video presents an animated explainer dashboard illustrating multi-camera tracking and ID assignment across cameras.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "document",
+          "description": "Markdown document explaining multi-camera tracking logic",
+          "available": false,
+          "evidence": "md 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/Xterbase/status/2108161031243759993"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Multi-Camera Tracking Technical Explainer",
+        "topic": "explainers",
+        "tags": [
+          "mtmc",
+          "computer-vision",
+          "explainer",
+          "animated-diagram"
+        ]
+      },
+      "targetModelRole": "Generated code to render the animated explainer from markdown notes.",
+      "outputSource": "Rendered animation produced via code generated by Claude Opus 5.5.",
+      "divisionEvidence": "클로드 영상도 잘 만드네요 이제 ㄷㄷㄷㄷ md 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.",
+      "video": {
+        "shots": "Single continuous multi-panel animated diagram with intro and concluding summary",
+        "duration": "01:20",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 authoring a full technical explainer video animation from user-provided notes.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Xterbase/status/2108161031243759993",
+        "start": 24,
+        "end": 61
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Xterbase/status/2108161031243759993",
+        "author": "Xterbase",
+        "postId": "2108161031243759993",
+        "publishedAt": "2026-10-08T11:42:12.000Z"
+      },
+      "checkedAt": "2026-10-09T11:41:05.219Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Xterbase/status/2108161031243759993",
+        "evidence": ""
+      }
+    },
+    "summary": "Author fed a markdown file into Claude Opus 5.5 to generate an animated technical explainer illustrating multi-camera multi-target tracking.",
+    "summaryEn": "MTMC Multi-Camera Tracking Explainer Animation",
+    "originalPrompt": "md 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.",
+    "sourceRange": {
+      "start": 24,
+      "end": 61
+    },
+    "translations": {
+      "zh": "md 하나 던져주고 타인에게 보여줄 수 있도록 그려보라고 했습니다.",
+      "en": "Gave it an md file and asked it to draw it so it can be shown to others."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Multi-Camera Tracking Technical Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "verbatim prompt text",
+        "source markdown content"
+      ],
+      "evidence": "Video presents an animated explainer dashboard illustrating multi-camera tracking and ID assignment across cameras."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

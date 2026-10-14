@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:38:53.296Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "A one-shot prompt used to generate a dynamic 15-second motion graphics showreel about Flexprice.",
+  "summaryEn": "Flexprice Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103776623548158453",
+    "canonicalUrl": "https://x.com/sudeepsd_/status/2103776623548158453",
+    "author": {
+      "username": "sudeepsd_",
+      "displayName": "Sudeep S D",
+      "profileUrl": "https://x.com/sudeepsd_"
+    },
+    "publishedAt": "2026-09-26T09:20:07.000Z",
+    "collectedAt": "2026-09-28T07:34:16.859Z",
+    "language": "en",
+    "originalText": "OPUS 5.5 is GOATED\n\nThis was literally created with the following one shot prompt.\n\n\"make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nDAMN.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sudeepsd_/status/2103776623548158453",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103776344383606784/img/aSDlm_RceioVwdTW.jpg",
+        "analysisUrl": "https://x.com/sudeepsd_/status/2103776623548158453"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 636
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sudeepsd_/status/2103776623548158453",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103776344383606784/img/aSDlm_RceioVwdTW.jpg",
+  "coverPath": "data/covers/2103776623548158453-wide.jpg",
+  "gifPath": "data/gifs/2103776623548158453.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103776344383606784",
+    "x-post:2103776623548158453"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Flexprice Motion Graphics Showreel Prompt",
+      "summary": "A one-shot prompt used to generate a dynamic 15-second motion graphics showreel about Flexprice.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/sudeepsd_/status/2103776623548158453",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sudeepsd_/status/2103776623548158453",
+        "start": 85,
+        "end": 273
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sudeepsd_/status/2103776623548158453",
+        "author": "sudeepsd_",
+        "postId": "2103776623548158453",
+        "publishedAt": "2026-09-26T09:20:07.000Z"
+      },
+      "checkedAt": "2026-09-28T07:34:47.656Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudeepsd_/status/2103776623548158453",
+        "evidence": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A one-shot prompt used to generate a dynamic 15-second motion graphics showreel about Flexprice.",
+    "summaryEn": "Flexprice Motion Graphics Showreel Prompt",
+    "originalPrompt": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 85,
+      "end": 273
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

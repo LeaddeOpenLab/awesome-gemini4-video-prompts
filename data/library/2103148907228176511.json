@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:43:25.622Z",
+  "model": "opus5.5",
+  "prompt": "make a video that could go viral.",
+  "promptTranslations": {
+    "en": "make a video that could go viral."
+  },
+  "summary": "A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.",
+  "summaryEn": "Viral Video Physics Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103148907228176511",
+    "canonicalUrl": "https://x.com/kantamk/status/2103148907228176511",
+    "author": {
+      "username": "kantamk",
+      "displayName": "Kent",
+      "profileUrl": "https://x.com/kantamk"
+    },
+    "publishedAt": "2026-09-24T15:45:48.000Z",
+    "collectedAt": "2026-09-28T08:36:42.360Z",
+    "language": "en",
+    "originalText": "I gave Claude Opus 5.5 one prompt: \"make a video that could go viral.\"\n\nIt wrote a physics sim, built a synth that plays Für Elise one bounce at a time, and rendered all 1,904 frames itself.\n\nWhich ring did you think would trap it? 🔊 https://t.co/AjDDCc9NWz",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kantamk/status/2103148907228176511",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103148878958632960/img/d5N2uod2Uhjcxus6.jpg",
+        "analysisUrl": "https://x.com/kantamk/status/2103148907228176511"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 52
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/kantamk/status/2103148907228176511",
+        "text": "Kent on X: \"I gave Claude Opus 5.5 one prompt: \"make a video that could go viral.\"\n\nIt wrote a physics sim, built a synth that plays Für Elise one bounce at a time, and rendered all 1,904 frames itself.\n\nWhich ring did you think would trap it? 🔊\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nKent on X: \"I gave Claude Opus 5.5 one prompt: \"make a video that could go viral.\"\n\nIt wrote a physics sim, built a synth that plays Für Elise one bounce at a time, and rendered all 1,904 frames itself.\n\nWhich ring did you think would trap it? 🔊\"\n\n\n\nKent\n\n@kantamk\n\n\n\n\nI gave Claude Opus 5.5 one prompt: \"make a video that could go viral.\"\n\nIt wrote a physics sim, built a synth that plays Für Elise one bounce at a time, and rendered all 1,904 frames itself.\n\nWhich ring did you think would trap it? 🔊\n\n\n00:00\n\n\n\n\n\n\n\n\n3:45 PM · Sep 24, 2026·52\nViews\n\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKent@kantamkFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nKent\n\n@kantamk\n\n\n\n\nI gave Claude Opus 5.5 one prompt: \"make a video that could go viral.\"\n\nIt wrote a physics sim, built a synth that plays Für Elise one bounce at a time, and rendered all 1,904 frames itself.\n\nWhich ring did you think would trap it? 🔊\n\n\n00:00\n\n\n\n\n\n\n\n\n3:45 PM · Sep 24, 2026·52\nViews\n\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kantamk"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kantamk/status/2103148907228176511",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103148878958632960/img/d5N2uod2Uhjcxus6.jpg",
+  "coverPath": "data/covers/2103148907228176511-wide.jpg",
+  "gifPath": "data/gifs/2103148907228176511.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103148878958632960",
+    "x-post:2103148907228176511"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Viral Video Physics Simulation",
+      "summary": "A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a video that could go viral.",
+        "englishText": "make a video that could go viral.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/kantamk/status/2103148907228176511",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kantamk/status/2103148907228176511",
+        "start": 36,
+        "end": 69
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kantamk/status/2103148907228176511",
+        "author": "kantamk",
+        "postId": "2103148907228176511",
+        "publishedAt": "2026-09-24T15:45:48.000Z"
+      },
+      "checkedAt": "2026-09-28T08:36:57.982Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kantamk/status/2103148907228176511",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.",
+    "summaryEn": "Viral Video Physics Simulation",
+    "originalPrompt": "make a video that could go viral.",
+    "sourceRange": {
+      "start": 36,
+      "end": 69
+    },
+    "translations": {
+      "zh": "make a video that could go viral.",
+      "en": "make a video that could go viral."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:27.302Z",
+  "model": "opus5.5",
+  "prompt": "Build an ultra-realistic flight simulator.",
+  "promptTranslations": {
+    "en": "Build an ultra-realistic flight simulator."
+  },
+  "summary": "The author prompts Opus 5.5 and Fable 5 with 'Build an ultra-realistic flight simulator' and demonstrates screen recordings of the resulting playable flight simulation experiences.",
+  "summaryEn": "Interactive Flight Simulator Comparison Built by Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104467552281952473",
+    "canonicalUrl": "https://x.com/cryptocatguru/status/2104467552281952473",
+    "author": {
+      "username": "cryptocatguru",
+      "displayName": "⭕ Cryptocatguru",
+      "profileUrl": "https://x.com/cryptocatguru"
+    },
+    "publishedAt": "2026-09-28T07:05:38.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "en",
+    "originalText": "I gave Fable 5 and Opus 5.5 the exact same challenge:\n\n“Build an ultra-realistic flight simulator.”\n\nSame prompt. Same starting point.\n\nOpus 5.5 took it somewhere else entirely.\n\nThe gap in what these models can turn into a playable experience is getting wild. https://t.co/wbaqhS7PUJ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/cryptocatguru/status/2104467552281952473",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104465909452509184/img/Zwrpj2HuzK4yI0Lt.jpg",
+        "analysisUrl": "https://x.com/cryptocatguru/status/2104467552281952473"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 54
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/cryptocatguru/status/2104467552281952473",
+        "text": "⭕ Cryptocatguru on X: \"I gave Fable 5 and Opus 5.5 the exact same challenge:\n\n“Build an ultra-realistic flight simulator.”\n\nSame prompt. Same starting point.\n\nOpus 5.5 took it somewhere else entirely.\n\nThe gap in what these models can turn into a playable experience is getting wild.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n⭕ Cryptocatguru on X: \"I gave Fable 5 and Opus 5.5 the exact same challenge:\n\n“Build an ultra-realistic flight simulator.”\n\nSame prompt. Same starting point.\n\nOpus 5.5 took it somewhere else entirely.\n\nThe gap in what these models can turn into a playable experience is getting wild.\"\n\n\n\n⭕ Cryptocatguru\n@cryptocatguru\n\n\n\n\nI gave Fable 5 and Opus 5.5 the exact same challenge:\n\n“Build an ultra-realistic flight simulator.”\n\nSame prompt. Same starting point.\n\nOpus 5.5 took it somewhere else entirely.\n\nThe gap in what these models can turn into a playable experience is getting wild.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:05 AM · Sep 28, 2026·54\nViews\n\n\n\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n⭕ Cryptocatguru@cryptocatguruFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n⭕ Cryptocatguru\n@cryptocatguru\n\n\n\n\nI gave Fable 5 and Opus 5.5 the exact same challenge:\n\n“Build an ultra-realistic flight simulator.”\n\nSame prompt. Same starting point.\n\nOpus 5.5 took it somewhere else entirely.\n\nThe gap in what these models can turn into a playable experience is getting wild.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:05 AM · Sep 28, 2026·54\nViews\n\n\n\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "cryptocatguru"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/cryptocatguru/status/2104467552281952473",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104465909452509184/img/Zwrpj2HuzK4yI0Lt.jpg",
+  "coverPath": "data/covers/2104467552281952473-wide.jpg",
+  "gifPath": "data/gifs/2104467552281952473.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104465909452509184",
+    "x-post:2104467552281952473"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Flight Simulator Comparison Built by Opus 5.5",
+      "summary": "The author prompts Opus 5.5 and Fable 5 with 'Build an ultra-realistic flight simulator' and demonstrates screen recordings of the resulting playable flight simulation experiences.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Fable 5 and Opus 5.5 the exact same challenge: “Build an ultra-realistic flight simulator.”"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build an ultra-realistic flight simulator.",
+        "englishText": "Build an ultra-realistic flight simulator.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt or technical framework specifications",
+          "Asset and 3D terrain/environment loading instructions",
+          "Control handling and flight physics implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows side-by-side and expanded gameplay recordings of real-time 3D flight simulators, featuring an airplane flying over 3D terrain and cities with cockpit telemetry and HUD controls.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown WebGL/3D Canvas Renderer",
+          "role": "Renders the real-time flight simulation scene and aircraft mechanics generated by the model",
+          "evidence": "The video displays an interactive 3D HUD with airspeed, altitude, artificial horizon, and terrain rendering.",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generates the code and logic for the 3D playable flight simulator application.",
+      "outputSource": "In-browser / WebGL 3D execution engine",
+      "divisionEvidence": "The author challenged Opus 5.5 to 'Build an ultra-realistic flight simulator', showing the resulting application running as a screen recording.",
+      "video": {
+        "shots": "Side-by-side comparison split-screen transitioning to full-screen Opus 5.5 gameplay recording",
+        "duration": "2:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 generating an interactive 3D flight simulation application with accompanying screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/cryptocatguru/status/2104467552281952473",
+        "start": 56,
+        "end": 98
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/cryptocatguru/status/2104467552281952473",
+        "author": "cryptocatguru",
+        "postId": "2104467552281952473",
+        "publishedAt": "2026-09-28T07:05:38.000Z"
+      },
+      "checkedAt": "2026-09-28T12:17:46.198Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/cryptocatguru/status/2104467552281952473",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompts Opus 5.5 and Fable 5 with 'Build an ultra-realistic flight simulator' and demonstrates screen recordings of the resulting playable flight simulation experiences.",
+    "summaryEn": "Interactive Flight Simulator Comparison Built by Opus 5.5",
+    "originalPrompt": "Build an ultra-realistic flight simulator.",
+    "sourceRange": {
+      "start": 56,
+      "end": 98
+    },
+    "translations": {
+      "zh": "Build an ultra-realistic flight simulator.",
+      "en": "Build an ultra-realistic flight simulator."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "The author prompts Opus 5.5 and Fable 5 with 'Build an ultra-realistic flight simulator' and demonstrates screen recordings of the resulting playable flight simulation experiences.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt or technical framework specifications",
+        "Asset and 3D terrain/environment loading instructions",
+        "Control handling and flight physics implementation details"
+      ],
+      "evidence": "The video shows side-by-side and expanded gameplay recordings of real-time 3D flight simulators, featuring an airplane flying over 3D terrain and cities with cockpit telemetry and HUD controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

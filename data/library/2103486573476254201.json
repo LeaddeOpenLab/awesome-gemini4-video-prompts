@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:21:37.061Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)",
+  "promptTranslations": {
+    "en": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)"
+  },
+  "summary": "A dynamic motion graphic video prompt designed to generate a 30-second product explainer for Distilbook using Opus.",
+  "summaryEn": "Distilbook Product Explainer Motion Graphic Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103486573476254201",
+    "canonicalUrl": "https://x.com/sudo_kiran/status/2103486573476254201",
+    "author": {
+      "username": "sudo_kiran",
+      "displayName": "Kiran",
+      "profileUrl": "https://x.com/sudo_kiran"
+    },
+    "publishedAt": "2026-09-25T14:07:34.000Z",
+    "collectedAt": "2026-09-28T08:14:34.039Z",
+    "language": "en",
+    "originalText": "I have asked opus 5.5 to product explainer\nIt made it like pro😎\n\nprompt:\nmake a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url) https://t.co/iduNSFVLpM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103486232395444224/img/rB2EKRCXBv4Lwg2m.jpg",
+        "analysisUrl": "https://x.com/sudo_kiran/status/2103486573476254201"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 429
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/sudo_kiran/status/2103757663058481256",
+        "text": "@bhushanpawar_ai No it put music by itself",
+        "author": "sudo_kiran"
+      },
+      {
+        "url": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "text": "Kiran on X: \"I have asked opus 5.5 to product explainer\nIt made it like pro😎\n\nprompt:\nmake a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nKiran on X: \"I have asked opus 5.5 to product explainer\nIt made it like pro😎\n\nprompt:\nmake a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)\"\n\n\n\nKiran\n\n@sudo_kiran\n\n\n\n\nI have asked opus 5.5 to product explainer\nIt made it like pro😎\n\nprompt:\nmake a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)\n\n\n00:00\n\n\n\n\n\n\n\n\n2:07 PM · Sep 25, 2026·429\nViews\n\n\n\n1\n\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKiran@sudo_kiranFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nKiran\n\n@sudo_kiran\n\n\n\n\nI have asked opus 5.5 to product explainer\nIt made it like pro😎\n\nprompt:\nmake a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)\n\n\n00:00\n\n\n\n\n\n\n\n\n2:07 PM · Sep 25, 2026·429\nViews\n\n\n\n1\n\n3\n2\n\n\n\n\n\n\n\n\n\nTheBhushanJPawar\n\n@bhushanpawar_ai\nSep 26\n\n\nFor music you mentioned anything specific?\n\n\n1\n\n\n25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "sudo_kiran"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sudo_kiran/status/2103486573476254201",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103486232395444224/img/rB2EKRCXBv4Lwg2m.jpg",
+  "coverPath": "data/covers/2103486573476254201-wide.jpg",
+  "gifPath": "data/gifs/2103486573476254201.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103486232395444224",
+    "x-post:2103486573476254201"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Distilbook Product Explainer Motion Graphic Prompt",
+      "summary": "A dynamic motion graphic video prompt designed to generate a 30-second product explainer for Distilbook using Opus.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I have asked opus 5.5 to product explainer"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)",
+        "englishText": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/sudo_kiran/status/2103486573476254201",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "start": 74,
+        "end": 216
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "author": "sudo_kiran",
+        "postId": "2103486573476254201",
+        "publishedAt": "2026-09-25T14:07:34.000Z"
+      },
+      "checkedAt": "2026-09-28T08:15:10.720Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "evidence": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "A dynamic motion graphic video prompt designed to generate a 30-second product explainer for Distilbook using Opus.",
+    "summaryEn": "Distilbook Product Explainer Motion Graphic Prompt",
+    "originalPrompt": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)",
+    "sourceRange": {
+      "start": 74,
+      "end": 216
+    },
+    "translations": {
+      "zh": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)",
+      "en": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

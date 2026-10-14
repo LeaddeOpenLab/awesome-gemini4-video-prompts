@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:20:07.162Z",
+  "model": "opus5.5",
+  "prompt": "/brag-slim",
+  "promptTranslations": {
+    "en": "/brag-slim"
+  },
+  "summary": "Demonstration of a product launch video for the open-source Entune app created using BRAG (/brag-slim) powered by Claude Opus 5.5.",
+  "summaryEn": "Entune Launch Video with BRAG and Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108678886426824980",
+    "canonicalUrl": "https://x.com/eandualem/status/2108678886426824980",
+    "author": {
+      "username": "eandualem",
+      "displayName": "Elias Andualem",
+      "profileUrl": "https://x.com/eandualem"
+    },
+    "publishedAt": "2026-10-09T21:59:58.000Z",
+    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "language": "en",
+    "originalText": "Tested BRAG with Opus 5.5 👀\n\nUsed /brag-slim on Entune’s code to create this launch video. Really impressed with the result.\n\nBRAG: https://t.co/XQFFTqzFFy\nEntune: https://t.co/OIJqmMrb71\n\nBuilding in any of these?\n\n• Automation\n• AI agents\n• ML engineering\n• SaaS\n• Full stack development\n• DevOps\n• Open source\n• Developer tools\n• Web development\n• Mobile apps\n\nWould you find this useful for showing what you’re building?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/eandualem/status/2108678886426824980",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108678754717290497/img/RXcmp4eWqdMOS9vn.jpg",
+        "analysisUrl": "https://x.com/eandualem/status/2108678886426824980"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://entune.app/",
+        "text": "\n\n\n\n\nEntune · Free, open-source dictation with local models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkip to content\n\n\n  \n    \n      \n      Entune\n    \n    \n    View on GitHub↗\n  \n\n\n\n\n\n\n  \n    Free, open-source dictation·macOS, Windows, Linux\n\n    Learns your words.\nKnows when not to use them.\n\n    Dictate into any app with free local speech models. Hold a shortcut, speak, and Entune pastes the text where you are.\n\n    \n      \n        $\n        uv tool install entune && entune\n        Copy\n      \n\n      Install guide →\n    \n\n    Needs uv, which installs Python for you. Or pip with Python 3.12+.\n\n  \n\n\n  \n    \n      \n        \n          \n            \n              \n              HistoryModelsDictionarySettings\n              \n              Pasted · 0.4 s\n              Parakeet v3\n              \n              \n              Record\n            \n\n            \n              Today3 dictations · 1:12\n\n              \n              \n                  \n                    \n                      \n                      \n                      0:04\n                      \n                      Just now\n                    \n\n                    Processing… Final text will appear when complete.\n\n                    \n\n                    PastedParakeet1 correction\n\n                  \n\n              \n\n              \n              \n                \n                  \n                  \n                  0:09 / 0:24\n                  \n                  09:41\n                \n\n                Ask Claude to review the pull request before standup. The backups are already in the cloud, so nothing blocks the release on Friday.\n\n                Parakeet1 correctionCopyTranscribe again\n\n              \n\n              \n                \n                  \n                  \n                  0:11\n                  \n                  09:12\n                \n\n                Three things for today.\n- The build is green.\n- Docs are updated.\n- We ship on Friday.\n\n                \n\n              \n\n              \n                \n                  \n                  \n                  0:37\n                  \n                  08:55\n                \n\n                Draft the release notes for Entune and send them to the OpenAI team after lunch. Mention that fast mode now works with every speech model.\n\n                \n\n              \n\n              \n\n              \n\n            \n\n          \n\n        \n\n        \n          \n          \n            \n            \n          \n        \n\n        Dark\n        Light\n      \n\n      \n        \n          \n          \n          \n        \n\n      \n\n    \n\n    Drag across the window to see both themes. Entune follows your system.\n  \n\n\n\n  \n    What it does for you\n\n    You already dictate. This is what changes.\n\n    \n      \n        \n        \n        \n        \n      \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n\n      \n      \n        \n          \n            Ask cloud Claude to review this.\n            Move the files to cloud storage.kept\n          \n\n          01\n          Corrections that fit\n\n          Your dictionary fixes names and terms. When one could also be an everyday word, it picks what the sentence means, and never rewrites you.\n\n        \n\n        \n          \n            Dictation · 15:24fast mode\n            Pasted 6.2 s after you let go\n          \n\n          02\n          Fast, even when you talk long\n\n          Fast mode transcribes at natural pauses while you speak, so when you stop, only the last part is left.\n\n        \n\n        \n          \n            So um, um, three things for today.\n            - The build is green.\n            - Docs are updated.\n          \n\n          03\n          Clean text, nothing rewritten\n\n          Ums go, paragraphs and lists appear. Your words stay yours. Each is a switch you turn on.\n\n        \n\n        \n          \n            Transcribe with Parakeetdone\n            Entries proposed for ParakeetReview\n          \n\n          04\n          A dictionary from day one\n\n          Learn from recordings you already have. Entune proposes your names and terms, and you review them.\n\n        \n\n        \n          \n            AssemblyAIGet a key ↗••••••\n            ParakeetApple Siliconready\n          \n\n          05\n          Cloud or local, one page\n\n          Paste a key for a cloud model or download a local one, all from the same page.\n\n        \n\n        \n          \n            Tuesday 09:14Parakeet\n            Transcribe again with AssemblyAI\n            AssemblyAIdone\n          \n\n          06\n          Retry with another model\n\n          Every recording is kept. Transcribe it again with another model, or retry when a provider fails.\n\n        \n\n        \n          \n            Drop audio to transcribe it\n            standup.m4a\n          \n\n          07\n          Drop any recording\n\n          Drop audio files onto the window and they are transcribed into History, like a dictation.\n\n        \n\n        \n          \n            Move the files to cloud storagenewest\n            Ping the reviewer about the PR\n            Draft the release notes\n          \n\n          08\n          Anonymous mode\n\n          One switch blurs your History for screen sharing. The newest stays readable until you copy it.\n\n        \n\n        \n          \n            Agent“cloud code” is “Claude Code”?\n            YouYes\n            cloud code → Claude Codeadded\n          \n\n          09\n          MCP integration\n\n          Agents build and refine your dictionary. They check how a word appears in your transcripts and change entries only when you agree.\n\n        \n\n      \n    \n\n  \n\n\n\n\n  \n    Corrections that consider the context\n\n    A match is not always a replacement.\n\n    \n      \n        After transcription, when a dictionary match could mean your term or an everyday word, a decision model reads the words around it and applies only the meaning that fits. It chooses from your own entries. It never generates or rewrites your text.\n\n        \n          JevFewest wrong changes in our test. Sends the matched context to TypeSafe, on your own key.\n\n          OpenAIOpenAI's Decisions API. The context goes to OpenAI, on your own API key.\n\n          PerplexityCaught the most fixes in our test. The context goes to Perplexity, on your own API key.\n\n          LayaRuns on your computer, in English, after a one-time install.\n\n        \n      \n\n      \n        \n          Entry: cloud · Claude\n          \n            Decision model\n            Find and replace\n          \n\n        \n\n        \n          Ask cloud Claude to review this.\n\n          Replaced: the name fits here\n\n        \n\n        \n          Move the files to cloud storage.\n\n          Move the files to cloud Claude storage.\n\n          Kept: the everyday word is right\n\n          Broken: find-and-replace changed every match\n\n        \n\n        Same entry, two sentences. Find-and-replace would break one of them.\n\n      \n\n    \n\n\n    \n      \n        \n          A test on real dictation\n\n          Which model knows when to fix a misheard word?\n\n        \n\n        \n          places the dictionary offered a word121\n\n          should change47\n\n          should stay72\n\n        \n      \n      \n        \n        Fixes caught out of 47 that should change\n        Wrong swaps out of 72 that should stay\n      \n\n      \n        \n          PerplexityDecisions API\n          Fixes caught: 43\n          Wrong swaps: 3\n        \n\n        \n          JevFewest wrong swaps\n          Fixes caught: 38\n          Wrong swaps: 1\n        \n\n        \n          OpenAIDecisions API\n          Fixes caught: 42\n          Wrong swaps: 8\n        \n\n        \n          LayaRunning locally on a Mac\n          Fixes caught: 28\n          Wrong swaps: 8\n        \n\n        \n          Replace every matchHypothetical baseline\n          Fixes caught: 47\n          Wrong swaps: 72\n        \n\n      \n      \n        In this test, Perplexity caught the most fixes. Jev made the fewest wrong swaps.\n\n        The data and its limitsHide the data\n      \n\n      \n        \n          Dictionary learned from 7.5 hours of the maintainer's dictation, transcribed by Parakeet, with entries suggested by GPT-6 Astra on a ChatGPT plan.\n\n          Tested on the next 2.1 hours it had never seen: 160 recordings.\n\n          Expected answers written down before any model ran. Jev, OpenAI and Laya were tested on October 7; Perplexity on October 8 with the same transcripts, dictionary and expected answers.\n\n          One speaker, one reviewer judging from text, one run per model.\n\n        \n        \n          Two matches could not be judged and are excluded; Perplexity changed one of them. Each bar is a share of its own total: fixes out of the 47 places that should change, wrong swaps out of the 72 that should stay. These results do not establish a statistical ranking, including between 1 and 3 wrong swaps, or measure overall transcription accuracy.\n\n          In the separate formatting test, of 92 places judged to need a paragraph or bullet, Jev placed 35 with 12 unwanted, Perplexity 32 with 5, OpenAI 8 with 1, and Laya 5 with 37.\n\n          Data, method and limits →\n        \n\n      \n\n    \n  \n\n\n\n\n  \n    Your models\n\n    Three jobs. You choose the model for each.\n\n    Entune is free and MIT licensed, with no Entune subscription. Local speech models run on your computer without an API key or per-minute payment. Cloud speech, cloud decision models and dictionary generation use your own accounts and can cost money.\n\n    \n      \n      \n        \n        Your voice\n      \n\n\n      \n        01 · SpeechAfter every recording\n\n        \n          Turn audio into text\n          Parakeet\n          On your computerLocal recommendation\n        \n\n        Runs onYour Mac, on Apple SiliconNeedsA one-time engine install and a 2.5 GB download\n        \n          \n            Cloud\n            \n              AssemblyAI\n              Groq\n              Soniox\n              ElevenLabs\n              xAI\n            \n\n          \n\n          \n            Local\n            \n              Parakeet\n              Whisper large-v3-turbo\n              Whisper large-v3-turbo, compact\n              Whisper small, English\n              Whisper base, English\n            \n\n          \n\n        \n\n      \n\n      \n        02 · DecisionsAfter transcription\n\n        \n          Apply your dictionary and formatting\n          Jev\n          Cloud, your accountFewest wrong changes\n        \n\n        Runs onTypeSafeNeedsYour TypeSafe key\n        \n          \n            Cloud\n            \n              Jev\n              OpenAI's Decisions API\n              Perplexity\n            \n\n          \n\n          \n            Local\n            \n              Laya\n            \n\n          \n\n        \n\n      \n\n      \n        \n        Pasted where you are\n      \n\n\n      \n        Your setup\n        Parakeet keeps your audio here. Jev gets only the text it decides on.\n\n        One provider key for dictation, billed by that provider. Building the dictionary uses your ChatGPT plan, only when you ask. Entune has no subscription and sells no credits.\n\n        Our starting points. Compare any two on your own voice: in History, transcribe a recording again with another model.\n\n      \n\n\n      \n        your entries\n        03 · DictionaryOnly when you ask\n\n        \n          Build your dictionary\n          Sign in with ChatGPT\n          Cloud, your accountNo API key\n        \n\n        Runs onOpenAI, on your ChatGPT planNeedsNothing to set up. Sign in and approve.\n        \n          \n            ChatGPT plan\n            \n              Sign in with ChatGPT\n            \n\n          \n\n          \n            API key\n            \n              OpenAI\n              Anthropic\n              Google Gemini\n              Groq\n              Mistral\n            \n\n          \n\n        \n\n      \n    \n\n    Choosing models, in full →\n\n  \n\n\n\n\n  \n    A dictionary that learns\n\n    Teach your speech model your words.\n\n    Local models such as Parakeet and Whisper.cpp are fast and keep your audio on your computer, but they can mishear names and jargon. Entune closes that gap with recordings you already have: it transcribes them with the model you dictate with, and builds a dictionary from the words that model gets wrong.\n\n    \n      \n        01Bring your recordingsIn Dictionary, learn from recordings already in Entune, another dictation app on your Mac, or a folder. Only the audio is copied; the other app's transcripts are never read.\n\n        02Pick the model you dictate withEntune transcribes the audio with it, so its own mistakes show up: a local model one recording at a time, a cloud model four at a time.\n\n        03Find what it gets wrongA language model reads the transcripts in parts and suggests entries for that speech model, in the background while you keep dictating. Stop keeps finished parts for Continue.\n\n        04Review, apply, dictateEdit any suggestion, leave out what you don't want, and apply the rest. When a word could mean either, your decision model then picks what the sentence means.\n\n      \n      \n        \n          Recordings\n          standup.m4aAnother dictation app4:12\n\n          memo.wavAudio folder0:48\n\n          review.m4aAnother dictation app2:30\n\n          Only the audio is copied.\n        \n\n        \n        \n          With your dictionaryParakeet · local\n\n          Waiting for audio\n\n          Ask Claude to check the Entune notes before OpenAI ships it.\n\n          The backups are in the cloud.kept\n\n        \n\n        \n        \n          Dictionary · for Parakeet\n          Entries appear here for review\n\n          Claudeheard as “cloud”Applied\n\n          Entuneheard as “in tune”Applied\n\n          OpenAIheard as “open A”Applied\n\n        \n\n      \n\n    \n\n    Entries belong to the speech model they were learned on, because every model mishears differently. Pin an entry to use it with every model; suggestions can't remove pinned entries. Later runs can revise or remove learned entries, and you review each change.\n\n  \n\n\n\n\n  \n    History you keep\n\n    Every recording, on your disk, with what happened to it.\n\n    Replay the audio. Copy the text. See what each processing step changed. Transcribe a recording again with another model and compare. Provider failures stay visible. Nothing is uploaded to Entune, because there is no Entune server.\n\n    \n      \n        Optional processing, each with its own switch\n        \n          Apply your dictionaryPicks the meaning that fits each sentence\n          \n        \n        \n          Remove fillersHesitation sounds removed; repeated like becomes one\n          \n        \n        \n          Paragraphs and bulletsAdded where the dictation clearly has them. Every word is kept\n          \n        \n      \n\n      \n        Today 09:41 · Parakeet3 steps applied\n\n        So um, um, we ship on Friday.\n\nThree things for today.\n- The build is green.\n- Docs are updated.\n\nAsk Claude to review the notes.\n\n        All three start off, in Settings › Corrections & formatting, and each needs a decision model. The original transcript is always kept in History.\n\n      \n\n    \n\n  \n\n\n\n\n  \n    Privacy, said plainly\n\n    No account. No telemetry. No hosted history.\n\n    \n      \n        Speech. Cloud speech sends audio to the provider you chose. Local speech keeps it on your computer.\n\n        Corrections and formatting. Off until you turn them on. Then your decision model reads the text: Jev sends it to TypeSafe, OpenAI's Decisions API to OpenAI, and Perplexity to Perplexity, even when speech is local. Laya keeps it on your computer.\n\n        Your dictionary. Building it runs only when you ask, and sends the transcripts it reads, and the entries in them, to the language model you chose.\n\n        Your files. Audio, transcripts, dictionary, settings and keys live in one folder. Settings › Data & privacy exports your audio and transcripts, or deletes everything.\n\n        Use Entune on a computer only you use: its local API has no password, so other programs on it can read your recordings. Data and privacy, in full\n\n      \n\n      \n        \n          What leaves your computer\n          \n            Local speech + Laya\n            Cloud speech + Jev\n          \n\n        \n\n        \n          01MicrophoneHold the shortcut, speakStays here\n\n          02Speech model · ParakeetOn your computerStays here\n\n          03Your dictionaryEntries that match the transcriptStays here\n\n          04Decision model · LayaOn your computerStays here\n\n          05Pasted where you were typingSaved to Entune's folderStays here\n\n        \n        Local speech and Laya: dictation stays on your computer. With corrections, filler removal and formatting all off, nothing goes to a decision model.\n\n      \n\n    \n\n  \n\n\n\n\n  \n    \n      Questions\n\n      Every answer, without the wall of text.\n\n      Each topic opens to the detail you need, then links to the full guide. New to dictation? Start with what dictation software does.\n\n    \n\n    \n      \n        Is it really free?\n        Yes. Entune is MIT licensed, with no Entune subscription. Local speech models run on your computer with no API key or per-minute payment. Cloud models use your own accounts and can cost money.\nChoosing models →\n\n      \n      \n        Does my audio leave my computer?\n        Only if you choose cloud speech, and then only to the provider you picked. Local speech keeps it on your computer. There is no Entune server.\nDictate offline →\n\n      \n      \n        What does the decision model actually do?\n        When a dictionary match could mean your term or an everyday word, it reads the words around it and applies only the meaning that fits. It chooses from your own entries. It never generates or rewrites your text.\nDecision-model results →\n\n      \n      \n        Do I need an API key?\n        Not for local speech. To build your dictionary, choose Sign in with ChatGPT and your plan's usage applies. Prefer a key? OpenAI, Anthropic, Google Gemini, Groq and Mistral work too.\nCorrect names and technical terms →\n\n      \n      \n        How long does building a dictionary take?\n        It depends on how much you give it. In our October test, 7.5 hours of dictation took 39 minutes in 10 parts. Dictation keeps working throughout, and Stop keeps finished parts for Continue.\nDictionary reference →\n\n      \n      \n        Which systems does it run on?\n        macOS, Windows and Linux. macOS has been tested by hand; Windows and Linux are covered by automated tests. Linux is new, with shortcuts and paste on X11 and Wayland.\nUsing Entune →\n\n      \n      \n        Can I dictate prompts to a coding agent?\n        Yes. Entune pastes into the input you are in, such as an agent's chat box in your editor or a prompt in your browser, and your dictionary keeps library names and flags right. On a Mac, delivery into a terminal has been tested in Ghostty. There is a guide for Claude Code too.\nDictate to coding agents →\n\n      \n    \n\n  \n\n\n\n\n  \n    \n      Install\n\n      One command. Then three steps.\n\n      \n        macOS\n        Windows\n        Linux\n      \n\n      \n        $\n        uv tool install entune && entune\n        Copy\n      \n\n      Puts Entune in Applications and opens it. The first start can take up to a minute.Puts Entune in the Start menu and opens it, in Windows PowerShell.Puts Entune in your applications menu and opens it. Linux needs a few system libraries; see the Linux guide. Needs uv; without it, on Python 3.12 or newer: python -m pip install entune && entune\n\n    \n\n    \n      \n        01\n        Set up a speech model\n\n        In Models, paste a provider's API key or download a local model. The first one becomes your default. Parakeet, on Apple Silicon, first needs its engine: uv tool install parakeet-mlx.\n\n      \n\n      \n        02\n        Allow permissions\n\n        On macOS: Microphone, Accessibility and Input Monitoring, each from its own button.On Windows, only the microphone.On Linux, keyboard access: one command, run once, then log out and back in.\n\n      \n\n      \n        03\n        Set a shortcut\n\n        Hold it in any app and speak, or toggle hands-free recording. The text is pasted where you are, or copied if no text field is active.\n\n      \n\n    \n    You can start without a dictionary or decision model and add them later. To upgrade: uv tool upgrade entune && entune\n\n  \n\n\n\n\n\n\n  \n    \n      Entune\n      Open-source dictation. MIT licence.\nMade by Elias Andualem.\n\n    \n\n    \n    \n    \n  \n\n  This website uses Cloudflare Web Analytics to measure visits and referral sources without analytics cookies or fingerprinting. The Entune app has no telemetry.\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "eandualem"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/XQFFTqzFFy"
+    ]
+  },
+  "xUrl": "https://x.com/eandualem/status/2108678886426824980",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108678754717290497/img/RXcmp4eWqdMOS9vn.jpg",
+  "coverPath": "data/covers/2108678886426824980-wide.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108678754717290497",
+    "x-post:2108678886426824980"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Entune Launch Video with BRAG and Opus 5.5",
+      "summary": "Demonstration of a product launch video for the open-source Entune app created using BRAG (/brag-slim) powered by Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Tested BRAG with Opus 5.5 👀\n\nUsed /brag-slim on Entune’s code to create this launch video."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "/brag-slim",
+        "englishText": "/brag-slim",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full internal prompt or command arguments passed to /brag-slim",
+          "Repository configurations and rendering pipeline settings"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 27-second 16:9 motion graphics video showcasing the Entune application UI, speech model selection, toggles, real-time dictation correction, and installation command.",
+        "textualResultQuote": "Really impressed with the result."
+      },
+      "inputs": [
+        {
+          "kind": "code_repository",
+          "description": "Entune application codebase",
+          "available": true,
+          "evidence": "Used /brag-slim on Entune’s code to create this launch video.\n\nEntune: https://t.co/OIJqmMrb71",
+          "sourceUrl": "https://entune.app/",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "BRAG",
+          "role": "Agentic video production tool running the /brag-slim command",
+          "evidence": "Tested BRAG with Opus 5.5 👀\n\nUsed /brag-slim on Entune’s code to create this launch video.\n\nBRAG: https://t.co/XQFFTqzFFy",
+          "sourceUrl": "https://t.co/XQFFTqzFFy",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Software Launch Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "launch-video",
+          "product-demo",
+          "code-to-video",
+          "brag",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acts as the reasoning engine running BRAG (/brag-slim) over the Entune codebase to generate the motion graphics scenes and launch video.",
+      "outputSource": "BRAG video synthesis pipeline",
+      "divisionEvidence": "Tested BRAG with Opus 5.5 👀\n\nUsed /brag-slim on Entune’s code to create this launch video.",
+      "video": {
+        "shots": "Animated sequence of UI demo slides illustrating speech model download, setting switches, voice transcription, context correction comparison, and final install card.",
+        "duration": "0:27",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://entune.app/"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic creator demonstration using Claude Opus 5.5 and the BRAG agent tool to produce a motion-graphics launch video from code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/eandualem/status/2108678886426824980",
+        "start": 35,
+        "end": 45
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/eandualem/status/2108678886426824980",
+        "author": "eandualem",
+        "postId": "2108678886426824980",
+        "publishedAt": "2026-10-09T21:59:58.000Z"
+      },
+      "checkedAt": "2026-10-09T22:19:33.613Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/eandualem/status/2108678886426824980",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of a product launch video for the open-source Entune app created using BRAG (/brag-slim) powered by Claude Opus 5.5.",
+    "summaryEn": "Entune Launch Video with BRAG and Opus 5.5",
+    "originalPrompt": "/brag-slim",
+    "sourceRange": {
+      "start": 35,
+      "end": 45
+    },
+    "translations": {
+      "zh": "/brag-slim",
+      "en": "/brag-slim"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Software Launch Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full internal prompt or command arguments passed to /brag-slim",
+        "Repository configurations and rendering pipeline settings"
+      ],
+      "evidence": "A 27-second 16:9 motion graphics video showcasing the Entune application UI, speech model selection, toggles, real-time dictation correction, and installation command."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

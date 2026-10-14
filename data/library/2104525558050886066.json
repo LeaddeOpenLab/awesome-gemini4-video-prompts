@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:32.262Z",
+  "model": "opus5.5",
+  "prompt": "1. First give 3 style frames, 10s sample, 30s music preview, wait for my pick\n2. On-screen text only uses my copy sheet\n3. Split into subagents by chapter; each edits only their own file\n4. Each segment outputs a contact sheet and seam frame-by-frame preview\n5. Provide at least 3 music styles\n6. Run self-checks on final film and write a report.",
+  "promptTranslations": {
+    "en": "1. First give 3 style frames, 10s sample, 30s music preview, wait for my pick\n2. On-screen text only uses my copy sheet\n3. Split into subagents by chapter; each edits only their own file\n4. Each segment outputs a contact sheet and seam frame-by-frame preview\n5. Provide at least 3 music styles\n6. Run self-checks on final film and write a report."
+  },
+  "summary": "Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.",
+  "summaryEn": "Opus 5.5 Three.js Phone Commercial Production",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104525558050886066",
+    "canonicalUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+    "author": {
+      "username": "thinkszyg",
+      "displayName": "爆裂队长NEXT",
+      "profileUrl": "https://x.com/thinkszyg"
+    },
+    "publishedAt": "2026-09-28T10:56:07.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "zh",
+    "originalText": "这支手机广告，是 Opus 5.5 写出来的。\n\nClaude Code 在我 Mac 上当导演，带 6 个子代理：每一帧是 three.js 渲染的，配乐是 Python 合成的。没开剪辑软件，也没用生视频模型。\n\n上一版被我吐槽像 PPT。我只拍板两次，一次说「音乐不好听」：它听不见，就写三首让我挑。\n\n怎么做的：\n① 先出 3 个方向的风格帧和 12 秒样片，我选了「一线」：全片就是一条光。\n② 手机按官方规格 6.68 mm 建模，屏幕和背板贴官方产品图；镜头、灯光、光线、字幕动画全是代码。\n③ 片子拆成 5 章，导演自己做开头两章，3 个子代理各做一章，每章交联系表和接缝逐帧图，逐张验收。\n\n想自己试，开工简报的骨架：\n1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选\n2. 上屏文字只用我给的文案表\n3. 按章节拆给子代理，每人只改自己的文件\n4. 每段都出联系表和接缝逐帧图，你先自己看\n5. 配乐至少给 3 种风格\n6. 成片跑自检，写成报告。\n\n产品图、产品文案版权归华为，这是个人作品，非华为官方。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/thinkszyg/status/2104525558050886066",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104525355499626496/img/wWk1Q8cYQeLDASWf.jpg",
+        "analysisUrl": "https://x.com/thinkszyg/status/2104525558050886066"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thinkszyg/status/2104527769392799961",
+        "text": "This phone ad was written, not shot.\n\nClaude Code (Opus 5.5) directed it on my Mac with 6 subagents. Every frame: three.js. Score: Python. No editing app, no video models.\n\nMy notes: \"music sucks\" (it can't hear, so it wrote 3 scores) and \"faster\".\n\nFan project, not Huawei.",
+        "author": "thinkszyg"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104525355499626496/img/wWk1Q8cYQeLDASWf.jpg",
+  "coverPath": "data/covers/2104525558050886066-wide.jpg",
+  "gifPath": "data/gifs/2104525558050886066.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104525355499626496",
+    "x-post:2104525558050886066"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Three.js Phone Commercial Production",
+      "summary": "Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "这支手机广告，是 Opus 5.5 写出来的。Claude Code 在我 Mac 上当导演，带 6 个子代理"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选\n2. 上屏文字只用我给的文案表\n3. 按章节拆给子代理，每人只改自己的文件\n4. 每段都出联系表和接缝逐帧图，你先自己看\n5. 配乐至少给 3 种风格\n6. 成片跑自检，写成报告。",
+        "englishText": "1. First give 3 style frames, 10s sample, 30s music preview, wait for my pick\n2. On-screen text only uses my copy sheet\n3. Split into subagents by chapter; each edits only their own file\n4. Each segment outputs a contact sheet and seam frame-by-frame preview\n5. Provide at least 3 music styles\n6. Run self-checks on final film and write a report.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts",
+          "Copywriting reference table",
+          "Official 3D phone model dimensions and texture maps",
+          "Three.js render scripts and Python audio synthesis source code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "45-second commercial featuring animated 3D phone models, glowing line visual themes, on-screen copy, and synthesized electronic background score matching the workflow description.",
+        "textualResultQuote": "每一帧是 three.js 渲染的，配乐是 Python 合成的。没开剪辑软件，也没用生视频模型。"
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Official phone product images used as textures for screen and back panel.",
+          "available": false,
+          "evidence": "屏幕和背板贴官方产品图",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066"
+        },
+        {
+          "kind": "text",
+          "description": "Copywriting text spreadsheet for on-screen specs and marketing titles.",
+          "available": false,
+          "evidence": "上屏文字只用我给的文案表",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent director managing multi-agent task breakdown and file generation.",
+          "evidence": "Claude Code 在我 Mac 上当导演，带 6 个子代理",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
+        },
+        {
+          "name": "Python",
+          "role": "Sound synthesis engine generating the background music.",
+          "evidence": "配乐是 Python 合成的",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
+        },
+        {
+          "name": "three.js",
+          "role": "Rendering engine producing every video frame from code.",
+          "evidence": "每一帧是 three.js 渲染的",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Director and primary code generator orchestrating subagents to produce 3D Three.js animation and Python audio scripts.",
+      "outputSource": "three.js canvas renderer and Python audio synthesis",
+      "divisionEvidence": "镜头、灯光、光线、字幕动画全是代码。片子拆成 5 章，导演自己做开头两章，3 个子代理各做一章",
+      "video": {
+        "shots": "Multi-shot 3D product commercial with line transitions",
+        "duration": "00:45",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "Official Huawei product images and specifications"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Exemplary Opus 5.5 multi-agent video production directing programmatic Three.js rendering and Python audio generation accompanied by complete finished video proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/thinkszyg/status/2104525558050886066",
+        "start": 319,
+        "end": 442
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/thinkszyg/status/2104525558050886066",
+        "author": "thinkszyg",
+        "postId": "2104525558050886066",
+        "publishedAt": "2026-09-28T10:56:07.000Z"
+      },
+      "checkedAt": "2026-09-28T12:01:23.184Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.",
+    "summaryEn": "Opus 5.5 Three.js Phone Commercial Production",
+    "originalPrompt": "1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选\n2. 上屏文字只用我给的文案表\n3. 按章节拆给子代理，每人只改自己的文件\n4. 每段都出联系表和接缝逐帧图，你先自己看\n5. 配乐至少给 3 种风格\n6. 成片跑自检，写成报告。",
+    "sourceRange": {
+      "start": 319,
+      "end": 442
+    },
+    "translations": {
+      "zh": "1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选\n2. 上屏文字只用我给的文案表\n3. 按章节拆给子代理，每人只改自己的文件\n4. 每段都出联系表和接缝逐帧图，你先自己看\n5. 配乐至少给 3 种风格\n6. 成片跑自检，写成报告。",
+      "en": "1. First give 3 style frames, 10s sample, 30s music preview, wait for my pick\n2. On-screen text only uses my copy sheet\n3. Split into subagents by chapter; each edits only their own file\n4. Each segment outputs a contact sheet and seam frame-by-frame preview\n5. Provide at least 3 music styles\n6. Run self-checks on final film and write a report."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts",
+        "Copywriting reference table",
+        "Official 3D phone model dimensions and texture maps",
+        "Three.js render scripts and Python audio synthesis source code"
+      ],
+      "evidence": "45-second commercial featuring animated 3D phone models, glowing line visual themes, on-screen copy, and synthesized electronic background score matching the workflow description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

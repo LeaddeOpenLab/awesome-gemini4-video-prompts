@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:51.294Z",
+  "model": "opus5.5",
+  "prompt": "make me a quantum dog. make it go crazy fr",
+  "promptTranslations": {
+    "en": "make me a quantum dog. make it go crazy fr"
+  },
+  "summary": "A stylized motion graphics presentation of a 'Quantum Dog' character featuring quantum superposition and wavefunction collapse gags, produced using Claude Code with Opus 5.5.",
+  "summaryEn": "Quantum Dog Animation Demo",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108944282379796747",
+    "canonicalUrl": "https://x.com/borntogambles/status/2108944282379796747",
+    "author": {
+      "username": "borntogambles",
+      "displayName": "Born to gamble",
+      "profileUrl": "https://x.com/borntogambles"
+    },
+    "publishedAt": "2026-10-10T15:34:33.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "en",
+    "originalText": "Claude Code running Opus 5.5 got one prompt\n\n\"make me a quantum dog. make it go crazy fr\"\n\nIt collapsed a wavefunction and built one.\n\nMeet the Quantum Dog.\n\nHe's a good boy and a bad boy until someone looks.\n\nYou just did.\n\nHe's in three places at once.\n\nHe fetches the ball before you throw it.\n\nHe doesn't dig under the fence. He tunnels through it.\n\nYou can know where he is or how fast he's running. Never both.\n\n7 hours of generation.\n$230 in API credits.\nAlmost zero manual work.\n\nWould you pet him?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/borntogambles/status/2108944282379796747",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108943116728152064/img/y1rV8tzmU50cQDFC.jpg",
+        "analysisUrl": "https://x.com/borntogambles/status/2108944282379796747"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 219
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/borntogambles/status/2108944282379796747",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108943116728152064/img/y1rV8tzmU50cQDFC.jpg",
+  "coverPath": "data/covers/2108944282379796747-wide.jpg",
+  "gifPath": "data/gifs/2108944282379796747.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108943116728152064",
+    "x-post:2108944282379796747"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Quantum Dog Animation Demo",
+      "summary": "A stylized motion graphics presentation of a 'Quantum Dog' character featuring quantum superposition and wavefunction collapse gags, produced using Claude Code with Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Code running Opus 5.5 got one prompt"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make me a quantum dog. make it go crazy fr",
+        "englishText": "make me a quantum dog. make it go crazy fr",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt / agent scratchpad",
+          "underlying codebase or rendering framework setup",
+          "asset definitions and build pipeline configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video presents an animated terminal sequence progressing into a colorful quantum dog character with overlays matching the post's descriptions (superposition, wavefunction collapse).",
+        "textualResultQuote": "He's a good boy and a bad boy until someone looks. You just did."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent orchestration tool and execution runtime",
+          "evidence": "Claude Code running Opus 5.5 got one prompt",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/borntogambles/status/2108944282379796747"
+        }
+      ],
+      "purpose": {
+        "label": "Quantum Dog Animated Showcase",
+        "topic": "motion-graphics",
+        "tags": [
+          "claude-code",
+          "opus-5-5",
+          "creative-coding",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Autonomous code generation and orchestration of the interactive animation project across multi-step execution",
+      "outputSource": "Rendered screen recording of the generated animation project",
+      "divisionEvidence": "Author notes Opus 5.5 ran autonomously via Claude Code over '7 hours of generation' producing 'dog.exe'",
+      "video": {
+        "shots": "multi-scene",
+        "duration": "22s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Authentic creator showcase exhibiting an animated motion-graphics and interactive project driven by Claude Opus 5.5 via Claude Code.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/borntogambles/status/2108944282379796747",
+        "start": 46,
+        "end": 88
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/borntogambles/status/2108944282379796747",
+        "author": "borntogambles",
+        "postId": "2108944282379796747",
+        "publishedAt": "2026-10-10T15:34:33.000Z"
+      },
+      "checkedAt": "2026-10-12T06:33:28.690Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/borntogambles/status/2108944282379796747",
+        "evidence": ""
+      }
+    },
+    "summary": "A stylized motion graphics presentation of a 'Quantum Dog' character featuring quantum superposition and wavefunction collapse gags, produced using Claude Code with Opus 5.5.",
+    "summaryEn": "Quantum Dog Animation Demo",
+    "originalPrompt": "make me a quantum dog. make it go crazy fr",
+    "sourceRange": {
+      "start": 46,
+      "end": 88
+    },
+    "translations": {
+      "zh": "make me a quantum dog. make it go crazy fr",
+      "en": "make me a quantum dog. make it go crazy fr"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Quantum Dog Animated Showcase",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt / agent scratchpad",
+        "underlying codebase or rendering framework setup",
+        "asset definitions and build pipeline configuration"
+      ],
+      "evidence": "The video presents an animated terminal sequence progressing into a colorful quantum dog character with overlays matching the post's descriptions (superposition, wavefunction collapse)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

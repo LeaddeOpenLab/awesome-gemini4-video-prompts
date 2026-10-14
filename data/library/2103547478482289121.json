@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:37.756Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+  "promptTranslations": {
+    "en": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency."
+  },
+  "summary": "Prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics showreel video branded for Based Agency.",
+  "summaryEn": "Motion Graphics Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103547478482289121",
+    "canonicalUrl": "https://x.com/dansushik/status/2103547478482289121",
+    "author": {
+      "username": "dansushik",
+      "displayName": "Daniel Sushik",
+      "profileUrl": "https://x.com/dansushik"
+    },
+    "publishedAt": "2026-09-25T18:09:35.000Z",
+    "collectedAt": "2026-09-28T08:12:48.941Z",
+    "language": "en",
+    "originalText": "Opus 5.5 one shot this with a super short prompt lol. Wild!! Prompt in comments https://t.co/fISnsqNEtm",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/dansushik/status/2103547478482289121",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103547336722989056/img/weExtcRRny0a6U-P.jpg",
+        "analysisUrl": "https://x.com/dansushik/status/2103547478482289121"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 32
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dansushik/status/2103547616055492702",
+        "text": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+        "author": "dansushik"
+      },
+      {
+        "url": "https://x.com/dansushik/status/2103547478482289121",
+        "text": "Daniel Sushik on X: \"Opus 5.5 one shot this with a super short prompt lol. Wild!! Prompt in comments\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nDaniel Sushik on X: \"Opus 5.5 one shot this with a super short prompt lol. Wild!! Prompt in comments\"\n\n\n\nDaniel Sushik\n\n@dansushik\n\n\n\n\nOpus 5.5 one shot this with a super short prompt lol. Wild!! Prompt in comments\n\n\n00:00\n\n\n\n\n\n\n\n\n6:09 PM · Sep 25, 2026·32\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDaniel Sushik@dansushikFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Sushik\n\n@dansushik\n\n\n\n\nOpus 5.5 one shot this with a super short prompt lol. Wild!! Prompt in comments\n\n\n00:00\n\n\n\n\n\n\n\n\n6:09 PM · Sep 25, 2026·32\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Sushik\n\n@dansushik\nSep 25\n\n\nmake a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.\n\n\n\n\n\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "dansushik"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/dansushik/status/2103547478482289121",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103547336722989056/img/weExtcRRny0a6U-P.jpg",
+  "coverPath": "data/covers/2103547478482289121-wide.jpg",
+  "gifPath": "data/gifs/2103547478482289121.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103547336722989056",
+    "x-post:2103547478482289121"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel",
+      "summary": "Prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics showreel video branded for Based Agency.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 one shot this with a super short prompt lol."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+        "englishText": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/dansushik/status/2103547478482289121",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/dansushik/status/2103547616055492702",
+        "start": 0,
+        "end": 181
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/dansushik/status/2103547478482289121",
+        "author": "dansushik",
+        "postId": "2103547478482289121",
+        "publishedAt": "2026-09-25T18:09:35.000Z"
+      },
+      "checkedAt": "2026-09-28T08:13:10.482Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dansushik/status/2103547616055492702",
+        "evidence": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics showreel video branded for Based Agency.",
+    "summaryEn": "Motion Graphics Showreel",
+    "originalPrompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+    "sourceRange": {
+      "start": 0,
+      "end": 181
+    },
+    "translations": {
+      "zh": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
+      "en": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

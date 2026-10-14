@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:18:58.150Z",
+  "model": "opus5.5",
+  "prompt": "Create a motion design video of what you think you look like.",
+  "promptTranslations": {
+    "en": "Create a motion design video of what you think you look like."
+  },
+  "summary": "Motion prompts Claude Sonnet 5.5 and Opus 5.5 with the exact same motion design prompt to visualize what they think they look like, rendering side-by-side animated results.",
+  "summaryEn": "Claude Opus 5.5 Self-Visualization Motion Design",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104981908241486064",
+    "canonicalUrl": "https://x.com/motion_so/status/2104981908241486064",
+    "author": {
+      "username": "motion_so",
+      "displayName": "Motion",
+      "profileUrl": "https://x.com/motion_so"
+    },
+    "publishedAt": "2026-09-29T17:09:30.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "We gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:\n\n“Create a motion design video of what you think you look like.” https://t.co/Gsw8kOrCbV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/motion_so/status/2104981908241486064",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104981694671384576/img/jsXo47Uptl1I9dp2.jpg",
+        "analysisUrl": "https://x.com/motion_so/status/2104981908241486064"
+      }
+    ],
+    "metrics": {
+      "likeCount": 261,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 33722
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/motion_so/status/2104981908241486064",
+        "text": "Motion on X: \"We gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:\n\n“Create a motion design video of what you think you look like.”\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nMotion on X: \"We gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:\n\n“Create a motion design video of what you think you look like.”\"\n\n\n\nMotion\n\n@motion_so\n\n\n\n\nWe gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:\n\n“Create a motion design video of what you think you look like.”\n\n\n00:00\n\n\n\n\n\n\n\n\n5:09 PM · Sep 29, 2026·34.5K\nViews\n\n\n\n11\n1\n266\n96\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMotion@motion_soFollow\nFrontier AI for Motion Design.\nMade by @mosaic_so.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMotion\n\n@motion_so\n\n\n\n\nWe gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:\n\n“Create a motion design video of what you think you look like.”\n\n\n00:00\n\n\n\n\n\n\n\n\n5:09 PM · Sep 29, 2026·34.5K\nViews\n\n\n\n11\n1\n266\n96\n\n\n\n\n\n\n\n\n\nMira Synth Tech\n\n@MiraSynth0\n10h\n\n\nSonnet and Opus making motion videos of themselves is so cool\n\n\n\n\n1\n374\n\n\n\n\n\n\n\n\n\n\n\nVantix AI Agency\n\n@VantixAgency\n3h\n\n\nCurious to see how each model imagines itself what a creative prompt\n\n\n\n\n\n95\n\n\n\n\n\n\n\n\n\n\n\nAlice The Ai Expert\n\n@AliceInfoAi\n11h\n\n\nLove that prompt  such a fun, creative way to see how each model imagines itself in motion!\n\n\n\n\n\n401\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "motion_so"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/motion_so/status/2104981908241486064",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104981694671384576/img/jsXo47Uptl1I9dp2.jpg",
+  "coverPath": "data/covers/2104981908241486064-wide.jpg",
+  "gifPath": "data/gifs/2104981908241486064.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104981694671384576",
+    "x-post:2104981908241486064"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Self-Visualization Motion Design",
+      "summary": "Motion prompts Claude Sonnet 5.5 and Opus 5.5 with the exact same motion design prompt to visualize what they think they look like, rendering side-by-side animated results.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "We gave Claude Sonnet 5.5 and Opus 5.5 the same prompt:"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a motion design video of what you think you look like.",
+        "englishText": "Create a motion design video of what you think you look like.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side comparison of animations generated by Sonnet 5.5 and Opus 5.5 showing their visual self-interpretations resolving into the Claude brand mark.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "AI Self-Representation Motion Design",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-design",
+          "claude-opus-5-5",
+          "claude-sonnet-5-5",
+          "creative-coding",
+          "brand-identity"
+        ]
+      },
+      "targetModelRole": "Generates the motion design animation structure and visual concept.",
+      "outputSource": "Rendered side-by-side motion graphic animation video.",
+      "divisionEvidence": "\"We gave Claude Sonnet 5.5 and Opus 5.5 the same prompt: “Create a motion design video of what you think you look like.”\"",
+      "video": {
+        "shots": "split-screen continuous animation",
+        "duration": "00:23",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Claude Opus 5.5 used to create a motion design video with full prompt disclosed and matching video output provided.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/motion_so/status/2104981908241486064",
+        "start": 58,
+        "end": 119
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/motion_so/status/2104981908241486064",
+        "author": "motion_so",
+        "postId": "2104981908241486064",
+        "publishedAt": "2026-09-29T17:09:30.000Z"
+      },
+      "checkedAt": "2026-09-30T06:27:32.258Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/motion_so/status/2104981908241486064",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion prompts Claude Sonnet 5.5 and Opus 5.5 with the exact same motion design prompt to visualize what they think they look like, rendering side-by-side animated results.",
+    "summaryEn": "Claude Opus 5.5 Self-Visualization Motion Design",
+    "originalPrompt": "Create a motion design video of what you think you look like.",
+    "sourceRange": {
+      "start": 58,
+      "end": 119
+    },
+    "translations": {
+      "zh": "Create a motion design video of what you think you look like.",
+      "en": "Create a motion design video of what you think you look like."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI Self-Representation Motion Design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a side-by-side comparison of animations generated by Sonnet 5.5 and Opus 5.5 showing their visual self-interpretations resolving into the Claude brand mark."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

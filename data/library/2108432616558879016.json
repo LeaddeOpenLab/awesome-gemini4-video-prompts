@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:06.099Z",
+  "model": "opus5.5",
+  "prompt": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+  "promptTranslations": {
+    "en": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>"
+  },
+  "summary": "Looping UI motion design animation orchestrated via HTML Canvas code and rendered with Playwright, created using Claude Opus 5.5.",
+  "summaryEn": "Seamless Morphing UI Motion Design",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108432616558879016",
+    "canonicalUrl": "https://x.com/finnardley/status/2108432616558879016",
+    "author": {
+      "username": "finnardley",
+      "displayName": "Finn",
+      "profileUrl": "https://x.com/finnardley"
+    },
+    "publishedAt": "2026-10-09T05:41:23.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "en",
+    "originalText": "opus 5.5 is f*cking cracked at motion design\n\nthis entire video is code, 0 after effects\n\nim open sourcing the prompt template for these motion designs\n\nsteal it to recreate these ↓\n\n<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/finnardley/status/2108432616558879016",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108432442621050881/img/Q4rEtfy99kbKL7Oq.jpg",
+        "analysisUrl": "https://x.com/finnardley/status/2108432616558879016"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 53
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/finnardley/status/2108432616558879016",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108432442621050881/img/Q4rEtfy99kbKL7Oq.jpg",
+  "coverPath": "data/covers/2108432616558879016-wide.jpg",
+  "gifPath": "data/gifs/2108432616558879016.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108432442621050881",
+    "x-post:2108432616558879016"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Seamless Morphing UI Motion Design",
+      "summary": "Looping UI motion design animation orchestrated via HTML Canvas code and rendered with Playwright, created using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 is f*cking cracked at motion design"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+        "englishText": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video faithfully displays each sequential transition, shape grammar morph, and timing described in the prompt structure.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "parameters_and_assets",
+          "description": "Ask me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).",
+          "evidence": "Ask me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016"
+        },
+        {
+          "kind": "audio",
+          "description": "Royalty-free audio track at ~118 BPM with a drop.",
+          "available": false,
+          "evidence": "a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use)",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML Canvas",
+          "role": "Animation rendering frame-by-frame via code",
+          "evidence": "One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016"
+        },
+        {
+          "name": "numpy",
+          "role": "Audio beat analysis",
+          "evidence": "Analyze the song with numpy for the beat grid",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Analyze the song with numpy for the beat grid and land the drop on the release.",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Headless browser video frame capture and blur blending",
+          "evidence": "Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/finnardley/status/2108432616558879016",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Seamless Morphing Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-design",
+          "html-canvas",
+          "playwright",
+          "code-animation"
+        ]
+      },
+      "targetModelRole": "Generates code and structures animation timelines directly on canvas.",
+      "outputSource": "HTML Canvas rendered frame-by-frame via Playwright",
+      "divisionEvidence": "this entire video is code, 0 after effects ... Render with Playwright",
+      "video": {
+        "shots": "1 continuous morph sequence",
+        "duration": "24s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete Claude Opus 5.5 prompt template creating code-driven motion graphics with matching video proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/finnardley/status/2108432616558879016",
+        "start": 183,
+        "end": 3803
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/finnardley/status/2108432616558879016",
+        "author": "finnardley",
+        "postId": "2108432616558879016",
+        "publishedAt": "2026-10-09T05:41:23.000Z"
+      },
+      "checkedAt": "2026-10-09T16:39:38.667Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/finnardley/status/2108432616558879016",
+        "evidence": "Ask me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use)."
+      }
+    },
+    "summary": "Looping UI motion design animation orchestrated via HTML Canvas code and rendered with Playwright, created using Claude Opus 5.5.",
+    "summaryEn": "Seamless Morphing UI Motion Design",
+    "originalPrompt": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+    "sourceRange": {
+      "start": 183,
+      "end": 3803
+    },
+    "translations": {
+      "zh": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+      "en": "<inputs>\nAsk me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).\n</inputs>\n\n<direction>\nApple-level motion. One object, never cut: every state is born out of the one before it, a knob opens like a lens into a photo, a card shrinks into the sun, a row in a list grows into a full photo. Night #0A0A0C to day #F2F0EB and back, ink #0E0E10 UI, real photos for the big moments, frosted liquid glass for small panels, one clean font (Geist, Geist Mono for times). Every morph uses one curve, cubic-bezier(.45,0,.15,1), springs only for pop-ins. Text rises through a mask, never fades. The camera zooms so each state fills about 60% of the frame and creeps in through every hold. The last frame is the first frame, so it loops.\nBanned: crossfades, cuts, grey mush between colors, clip-art icons, glows, bouncy easing, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n118 BPM, 47 beats, the drop lands on the first release.\n6:30 alarm pill → slide to stop, the sunrise shows through behind the knob → release on the drop, the knob irises into the sunrise card → a glass droplet rises into a weather panel, 14° counts to 18° → the card shrinks into the sun → the sun floods the screen into day → its core becomes a violet location dot → an aerial map unfolds around it → the route draws, the dot drives, \"8 min\" counts to \"Arrived\", it bounces on the pin → the pin irises into a latte photo → \"Pay $4.20\" grows out of the card → tap → loader → check → the card folds into the check → the check stretches into a Focus toggle → it opens into today's schedule, a line sweeps 9:00 to 18:00 → the 18:00 row grows into a sunset → the card closes on the sun, the sun turns into the moon → night floods back → the moon becomes the 6:30 pill.\n</structure>\n\n<build>\n1. One HTML canvas, square 1440x1440. Every frame is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. One shape grammar: pill 640x120 → card 620x780 radius 64 → circle 240 → map 760 square → portrait 560x780 → check 96 → pill 560x130 → schedule 620x520 → card 620x780 → moon 200 → pill 300x96.\n3. Reveals are circular clips: the photo is drawn at its final position inside a circle that grows from the exact point it is born from. Floods grow by the square root of progress so the area changes evenly.\n4. Liquid glass: blur a copy of the frame under the panel, magnify its inner edge 1.08x, add a white tint, a top highlight and a 2px white rim.\n5. Camera zoom per state: 2.3 alarm, 1.2 cards, 2.5 sun and moon, 1.18 map, 2.1 check, 1.7 toggle, 1.35 schedule, gliding on the same curve.\n6. Analyze the song with numpy for the beat grid and land the drop on the release. Every event gets its own real sound, placed by its measured peak.\n7. Render with Playwright: 8 subframes per frame, blended for motion blur at 60fps. Render a sheet of stills first and fix anything cramped or cheap looking.\n</build>\n\n<gotchas>\nA photo that irises open must already sit where it will end up, or it slides when the clip finishes. Text inside a growing card needs its own timing or it vanishes before anyone reads it. Never let the card underneath peek out around a growing photo. Make the last frame identical to the first or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Seamless Morphing Motion Graphics",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video faithfully displays each sequential transition, shape grammar morph, and timing described in the prompt structure."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

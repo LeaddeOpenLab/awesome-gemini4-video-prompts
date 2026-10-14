@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:51.061Z",
+  "model": "opus5.5",
+  "prompt": "create a truco mineiro game in html with all the details in 3d",
+  "promptTranslations": {
+    "en": "create a truco mineiro game in html with all the details in 3d"
+  },
+  "summary": "Claude Opus 5.5 generated a playable 3D HTML card game of Truco Mineiro featuring cartoon 3D opponents around a table, animated card dealing, sound effects, and Portuguese banter.",
+  "summaryEn": "3D Truco Mineiro HTML Card Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102493035393372363",
+    "canonicalUrl": "https://x.com/oviniciuslana/status/2102493035393372363",
+    "author": {
+      "username": "oviniciuslana",
+      "displayName": "Vini Lana",
+      "profileUrl": "https://x.com/oviniciuslana"
+    },
+    "publishedAt": "2026-09-22T20:19:36.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "pt",
+    "originalText": "Opus 5.5 no extra high fez o melhor jogo de truco mineiro da história https://t.co/hKZvVbN7We",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/oviniciuslana/status/2102493035393372363",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102492838432763904/img/QbTW8ay6THM-LThN.jpg",
+        "analysisUrl": "https://x.com/oviniciuslana/status/2102493035393372363"
+      }
+    ],
+    "metrics": {
+      "likeCount": 61,
+      "repostCount": 0,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 2019
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/oviniciuslana/status/2102493125226746072",
+        "text": "Fiz esse jogo na live hoje a tarde se quiser ver ele funcionando começa aqui https://t.co/bIi38WafV1",
+        "author": "oviniciuslana"
+      },
+      {
+        "url": "https://x.com/oviniciuslana/status/2102493035393372363",
+        "text": "Vini Lana on X: \"Opus 5.5 no extra high fez o melhor jogo de truco mineiro da história\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nVini Lana on X: \"Opus 5.5 no extra high fez o melhor jogo de truco mineiro da história\"\n\n\n\nVini Lana\n\n@oviniciuslana\n\n\n\n\nShow translation\nOpus 5.5 no extra high fez o melhor jogo de truco mineiro da história\n\n\n00:00\n\n\n\n\n\n\n\n\n8:19 PM · Sep 22, 2026·2,019\nViews\n\n\n\n10\n\n61\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nVini Lana@oviniciuslanaFollow\nFounder AI Coders Academy\n37k subscribers on https://t.co/qXgDsb1Kcp\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\n\n\n\n\nShow translation\nOpus 5.5 no extra high fez o melhor jogo de truco mineiro da história\n\n\n00:00\n\n\n\n\n\n\n\n\n8:19 PM · Sep 22, 2026·2,019\nViews\n\n\n\n10\n\n61\n4\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\nSep 22\n\n\nFiz esse jogo na live hoje a tarde se quiser ver ele funcionando começa aqui \n\n\n\n\nyoutube.com\nTestando as novas IAs: GPT 6, Opus 5.5 e Grok 4.7\nConheça a AI Coders Academy: https://www.aicoders.academy/Uma se...\n\n\n\n\n\n2\n247\n\n\n\n\n\n\n\n\n\n\n\nVini Lana\n\n@oviniciuslana\nSep 22\n\n\nprompt: crie um jogo de truco mineiro em html com todos os detalhes em 3d\n\n\n\n\n2\n91\n\n\n\n\n\n\n\n\n\n\n\nLeandro Carvalho\n\n@dev_lecarvalho\nSep 22\n\n\nTem como adicionar violencia quando tem o zap? 😎\n\n\n1\n\n2\n58\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "oviniciuslana"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/bIi38WafV1"
+    ]
+  },
+  "xUrl": "https://x.com/oviniciuslana/status/2102493035393372363",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102492838432763904/img/QbTW8ay6THM-LThN.jpg",
+  "coverPath": "data/covers/2102493035393372363-wide.jpg",
+  "gifPath": "data/gifs/2102493035393372363.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2102492838432763904/vid/avc1/550x270/e2kKFhqR7pLApD6c.mp4?tag=29",
+    "x-video:2102492838432763904",
+    "x-post:2102493035393372363"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Truco Mineiro HTML Card Game",
+      "summary": "Claude Opus 5.5 generated a playable 3D HTML card game of Truco Mineiro featuring cartoon 3D opponents around a table, animated card dealing, sound effects, and Portuguese banter.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 no extra high fez o melhor jogo de truco mineiro da história"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "crie um jogo de truco mineiro em html com todos os detalhes em 3d",
+        "englishText": "create a truco mineiro game in html with all the details in 3d",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays an interactive browser 3D card game of Truco Mineiro where the player sits at a round table with 3D animated opponents (Zé, Dona Cida, Tião), playing cards and calling Truco and Seis.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / WebGL",
+          "role": "Game runtime and 3D rendering environment",
+          "evidence": "crie um jogo de truco mineiro em html com todos os detalhes em 3d",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/oviniciuslana/status/2102493035393372363"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Truco Mineiro Game",
+        "topic": "games-interactive",
+        "tags": [
+          "html5",
+          "3d",
+          "card-game",
+          "game-dev",
+          "truco"
+        ]
+      },
+      "targetModelRole": "Code generation of the entire 3D interactive card game including logic, 3D scene composition, and game state mechanics.",
+      "outputSource": "Web browser executing the Claude Opus 5.5 generated 3D HTML code.",
+      "divisionEvidence": "Author posted: 'Opus 5.5 no extra high fez o melhor jogo de truco mineiro da história' and 'prompt: crie um jogo de truco mineiro em html com todos os detalhes em 3d'",
+      "video": {
+        "shots": "Single continuous screen recording of game session",
+        "duration": "0:27",
+        "aspectRatio": "1072:526",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic creator showcase of Claude Opus 5.5 generating a full interactive 3D browser game, with explicit model attribution, verbatim prompt disclosure, and screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/oviniciuslana/status/2102493035393372363",
+        "start": 1292,
+        "end": 1357
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/oviniciuslana/status/2102493035393372363",
+        "author": "oviniciuslana",
+        "postId": "2102493035393372363",
+        "publishedAt": "2026-09-22T20:19:36.000Z"
+      },
+      "checkedAt": "2026-10-11T17:17:26.829Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/oviniciuslana/status/2102493035393372363",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a playable 3D HTML card game of Truco Mineiro featuring cartoon 3D opponents around a table, animated card dealing, sound effects, and Portuguese banter.",
+    "summaryEn": "3D Truco Mineiro HTML Card Game",
+    "originalPrompt": "crie um jogo de truco mineiro em html com todos os detalhes em 3d",
+    "sourceRange": {
+      "start": 1292,
+      "end": 1357
+    },
+    "translations": {
+      "zh": "crie um jogo de truco mineiro em html com todos os detalhes em 3d",
+      "en": "create a truco mineiro game in html with all the details in 3d"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Truco Mineiro Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording displays an interactive browser 3D card game of Truco Mineiro where the player sits at a round table with 3D animated opponents (Zé, Dona Cida, Tião), playing cards and calling Truco and Seis."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

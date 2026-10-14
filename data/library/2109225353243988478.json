@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:31.455Z",
+  "model": "opus5.5",
+  "prompt": "Build a 25-second motion graphics video using JS, synthesizing audio on a consistent beat with Web Audio. Treat it as the finest piece in a portfolio: take creative liberty, pursuing bold art direction, striking compositions, and dynamic power. Clarify the pain point or spark curiosity within the first three seconds. Structure the narrative around audience comprehension so every motion and transition has causal logic. When the core value appears, combine animation and sound design to create an impactful Aha Moment. Synchronize key motions precisely to the beat, maintaining a steady and predictable rhythm while layering melody and instrumentation. Allocate duration thoughtfully to give viewers time to absorb essential information, avoiding pointless pauses and rushed cuts. Ensure typography is clean and legible, with refined layout, negative space, and details, ensuring every second carries weight and the final frame functions standalone as a polished design work.",
+  "promptTranslations": {
+    "en": "Build a 25-second motion graphics video using JS, synthesizing audio on a consistent beat with Web Audio. Treat it as the finest piece in a portfolio: take creative liberty, pursuing bold art direction, striking compositions, and dynamic power. Clarify the pain point or spark curiosity within the first three seconds. Structure the narrative around audience comprehension so every motion and transition has causal logic. When the core value appears, combine animation and sound design to create an impactful Aha Moment. Synchronize key motions precisely to the beat, maintaining a steady and predictable rhythm while layering melody and instrumentation. Allocate duration thoughtfully to give viewers time to absorb essential information, avoiding pointless pauses and rushed cuts. Ensure typography is clean and legible, with refined layout, negative space, and details, ensuring every second carries weight and the final frame functions standalone as a polished design work."
+  },
+  "summary": "Motion graphics demo video for an SF Symbols tool, coded using JS and Web Audio via Claude Opus 5.5.",
+  "summaryEn": "Better SF Symbols Promo Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109225353243988478",
+    "canonicalUrl": "https://x.com/21Terrence1/status/2109225353243988478",
+    "author": {
+      "username": "21Terrence1",
+      "displayName": "terry",
+      "profileUrl": "https://x.com/21Terrence1"
+    },
+    "publishedAt": "2026-10-11T10:11:26.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "zh",
+    "originalText": "👀做了一个帮助苹果开发者挑选图标的小工具\n\n下面是用claude opus 5.5结合源码制作的动画视频，提示词受@okooo5km 十里兄启发，提示词附在评论区 https://t.co/bfkMTRJBQy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/21Terrence1/status/2109225353243988478",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109225226278191105/img/V65MTDGKscCX4bE0.jpg",
+        "analysisUrl": "https://x.com/21Terrence1/status/2109225353243988478"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 75
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/21Terrence1/status/2109247274396389561",
+        "text": "🔗https://t.co/JAExC0N94W",
+        "author": "21Terrence1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/21Terrence1/status/2109225490888458437",
+        "text": "用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音。以“作品集中最优秀的作品”为标准，发挥创作自由，追求大胆的艺术指导、鲜明的构图和有力量的动态表现。前三秒就让观众看懂痛点或产生好奇。从观众的理解出发组织叙事，让每个动作和转场都有因果关联，核心价值出现时，用动效与音效共同制造一个击中观众的 Aha Moment。关键动作精准卡点，鼓点始终稳定、可预测，通过旋律和配器层层递进。合理分配这时长，给重要信息留出理解时间，避免无意义的等待和仓促的转场。字体清晰易读，排版、留白与细节精致，让每一秒都有价值，最后一帧单独截图也能成为一件设计作品。",
+        "author": "21Terrence1"
+      },
+      {
+        "url": "https://x.com/21Terrence1/status/2109225353243988478",
+        "text": "terry on X: \"👀做了一个帮助苹果开发者挑选图标的小工具\n\n下面是用claude opus 5.5结合源码制作的动画视频，提示词受@okooo5km 十里兄启发，提示词附在评论区\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nterry on X: \"👀做了一个帮助苹果开发者挑选图标的小工具\n\n下面是用claude opus 5.5结合源码制作的动画视频，提示词受@okooo5km 十里兄启发，提示词附在评论区\"\n\n\n\nterry\n\n@21Terrence1\n\n\n\n\nShow translation\n👀做了一个帮助苹果开发者挑选图标的小工具\n\n下面是用claude opus 5.5结合源码制作的动画视频，提示词受@okooo5km 十里兄启发，提示词附在评论区\n\n\n00:00\n\n\n\n\n\n\n\n\n10:11 AM · Oct 11, 2026·96\nViews\n\n\n\n4\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nterry@21Terrence1Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nterry\n\n@21Terrence1\n\n\n\n\nShow translation\n👀做了一个帮助苹果开发者挑选图标的小工具\n\n下面是用claude opus 5.5结合源码制作的动画视频，提示词受@okooo5km 十里兄启发，提示词附在评论区\n\n\n00:00\n\n\n\n\n\n\n\n\n10:11 AM · Oct 11, 2026·96\nViews\n\n\n\n4\n\n3\n\n\n\n\n\n\n\n\n\n\nterry\n\n@21Terrence1\n21h\n\n\n🔗\n\n\nBetter SF Symbols — Preview Them All\n\n\nFrom sfsymbols.terryhu.workers.dev\n\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\nterry\n\n@21Terrence1\n22h\n\n\n用 JS 构建一段 25 秒的动态图形视频，用 Web Audio Show more\n\n\n\n\n\n38\n\n\n\n\n\n\n\n\n\n\n\nJason\n\n@JasonPang0720\n17h\n\n\n已关注你，欢迎互关交流～\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "21Terrence1"
+      },
+      {
+        "url": "https://sfsymbols.terryhu.workers.dev/",
+        "text": "Better SF Symbols — Preview Them All\nBetter SF Symbols\nPreview them all online. No more busywork 👋\n\n中文EN\n\n\nInput\n\nText containing SF Symbol names\nPreview 3 symbols\n\nPreview\nCopy as:NameSwiftUIUIKitAppKitCopy all\nsquare.and.arrow.uparrow.up.docarrowshape.turn.up.right\nName copied\n\nHistory\nClearNo history yet\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "21Terrence1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/21Terrence1/status/2109225353243988478",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109225226278191105/img/V65MTDGKscCX4bE0.jpg",
+  "coverPath": "data/covers/2109225353243988478-wide.jpg",
+  "gifPath": "data/gifs/2109225353243988478.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109225226278191105",
+    "x-post:2109225353243988478"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Better SF Symbols Promo Motion Graphics",
+      "summary": "Motion graphics demo video for an SF Symbols tool, coded using JS and Web Audio via Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "下面是用claude opus 5.5结合源码制作的动画视频"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音。以“作品集中最优秀的作品”为标准，发挥创作自由，追求大胆的艺术指导、鲜明的构图和有力量的动态表现。前三秒就让观众看懂痛点或产生好奇。从观众的理解出发组织叙事，让每个动作和转场都有因果关联，核心价值出现时，用动效与音效共同制造一个击中观众的 Aha Moment。关键动作精准卡点，鼓点始终稳定、可预测，通过旋律和配器层层递进。合理分配这时长，给重要信息留出理解时间，避免无意义的等待和仓促的转场。字体清晰易读，排版、留白与细节精致，让每一秒都有价值，最后一帧单独截图也能成为一件设计作品。",
+        "englishText": "Build a 25-second motion graphics video using JS, synthesizing audio on a consistent beat with Web Audio. Treat it as the finest piece in a portfolio: take creative liberty, pursuing bold art direction, striking compositions, and dynamic power. Clarify the pain point or spark curiosity within the first three seconds. Structure the narrative around audience comprehension so every motion and transition has causal logic. When the core value appears, combine animation and sound design to create an impactful Aha Moment. Synchronize key motions precisely to the beat, maintaining a steady and predictable rhythm while layering melody and instrumentation. Allocate duration thoughtfully to give viewers time to absorb essential information, avoiding pointless pauses and rushed cuts. Ensure typography is clean and legible, with refined layout, negative space, and details, ensuring every second carries weight and the final frame functions standalone as a polished design work.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Source code of the SF Symbols tool fed into the model alongside the prompt"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 25-second 16:9 animation with synchronized Web Audio sound effects demonstrating the Better SF Symbols tool.",
+        "textualResultQuote": "Better SF Symbols — Preview Them All"
+      },
+      "inputs": [
+        {
+          "kind": "code",
+          "description": "Source code and assets of the developer's SF Symbols web tool.",
+          "available": false,
+          "evidence": "下面是用claude opus 5.5结合源码制作的动画视频",
+          "sourceUrl": "https://sfsymbols.terryhu.workers.dev/",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "JavaScript / Web Audio",
+          "role": "Runtime executing animation logic and synthesized audio",
+          "evidence": "用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/21Terrence1/status/2109225490888458437"
+        }
+      ],
+      "purpose": {
+        "label": "Tool Promo Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "javascript",
+          "web-audio",
+          "product-demo",
+          "sf-symbols"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing JS and Web Audio synthesis based on tool source code and prompt directives.",
+      "outputSource": "JavaScript runtime rendering canvas/DOM and Web Audio API",
+      "divisionEvidence": "下面是用claude opus 5.5结合源码制作的动画视频，提示词附在评论区: 用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音",
+      "video": {
+        "shots": "Multiple kinetic UI transitions detailing pain points, batch pasting, and instant symbol previews",
+        "duration": "24s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://sfsymbols.terryhu.workers.dev/"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 orchestrating programmatic video and audio generation via JS.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/21Terrence1/status/2109225490888458437",
+        "start": 0,
+        "end": 288
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/21Terrence1/status/2109225353243988478",
+        "author": "21Terrence1",
+        "postId": "2109225353243988478",
+        "publishedAt": "2026-10-11T10:11:26.000Z"
+      },
+      "checkedAt": "2026-10-12T09:00:22.940Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/21Terrence1/status/2109225490888458437",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphics demo video for an SF Symbols tool, coded using JS and Web Audio via Claude Opus 5.5.",
+    "summaryEn": "Better SF Symbols Promo Motion Graphics",
+    "originalPrompt": "用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音。以“作品集中最优秀的作品”为标准，发挥创作自由，追求大胆的艺术指导、鲜明的构图和有力量的动态表现。前三秒就让观众看懂痛点或产生好奇。从观众的理解出发组织叙事，让每个动作和转场都有因果关联，核心价值出现时，用动效与音效共同制造一个击中观众的 Aha Moment。关键动作精准卡点，鼓点始终稳定、可预测，通过旋律和配器层层递进。合理分配这时长，给重要信息留出理解时间，避免无意义的等待和仓促的转场。字体清晰易读，排版、留白与细节精致，让每一秒都有价值，最后一帧单独截图也能成为一件设计作品。",
+    "sourceRange": {
+      "start": 0,
+      "end": 288
+    },
+    "translations": {
+      "zh": "用 JS 构建一段 25 秒的动态图形视频，用 Web Audio 按统一节拍合成声音。以“作品集中最优秀的作品”为标准，发挥创作自由，追求大胆的艺术指导、鲜明的构图和有力量的动态表现。前三秒就让观众看懂痛点或产生好奇。从观众的理解出发组织叙事，让每个动作和转场都有因果关联，核心价值出现时，用动效与音效共同制造一个击中观众的 Aha Moment。关键动作精准卡点，鼓点始终稳定、可预测，通过旋律和配器层层递进。合理分配这时长，给重要信息留出理解时间，避免无意义的等待和仓促的转场。字体清晰易读，排版、留白与细节精致，让每一秒都有价值，最后一帧单独截图也能成为一件设计作品。",
+      "en": "Build a 25-second motion graphics video using JS, synthesizing audio on a consistent beat with Web Audio. Treat it as the finest piece in a portfolio: take creative liberty, pursuing bold art direction, striking compositions, and dynamic power. Clarify the pain point or spark curiosity within the first three seconds. Structure the narrative around audience comprehension so every motion and transition has causal logic. When the core value appears, combine animation and sound design to create an impactful Aha Moment. Synchronize key motions precisely to the beat, maintaining a steady and predictable rhythm while layering melody and instrumentation. Allocate duration thoughtfully to give viewers time to absorb essential information, avoiding pointless pauses and rushed cuts. Ensure typography is clean and legible, with refined layout, negative space, and details, ensuring every second carries weight and the final frame functions standalone as a polished design work."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tool Promo Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Source code of the SF Symbols tool fed into the model alongside the prompt"
+      ],
+      "evidence": "A 25-second 16:9 animation with synchronized Web Audio sound effects demonstrating the Better SF Symbols tool."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

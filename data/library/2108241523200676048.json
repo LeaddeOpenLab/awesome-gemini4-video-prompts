@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:33.601Z",
+  "model": "opus5.5",
+  "prompt": "Keep the scenes fewer, around 6 scenes",
+  "promptTranslations": {
+    "en": "Keep the scenes fewer, around 6 scenes"
+  },
+  "summary": "Animation created by Claude Opus 5.5 writing JavaScript based on a 2-minute Lyria love song.",
+  "summaryEn": "Opus 5.5 JS Animation to Lyria Song",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108241523200676048",
+    "canonicalUrl": "https://x.com/nicekate8888/status/2108241523200676048",
+    "author": {
+      "username": "nicekate8888",
+      "displayName": "nicekate",
+      "profileUrl": "https://x.com/nicekate8888"
+    },
+    "publishedAt": "2026-10-08T17:02:03.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "zh",
+    "originalText": "先用 Lyria 生成一首 2 分钟的中文情歌，再让 Opus 5.5 只听这首歌写 JS 动画。\n\n反其道而行之，提示：画面场景可以少些，6个左右\n\n成品……咔咔，一股 60 岁大叔大妈最爱的朋友圈风扑面而来 😂",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nicekate8888/status/2108241523200676048",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108237399008620544/img/GYxUiUxKjCz-EVfC.jpg",
+        "analysisUrl": "https://x.com/nicekate8888/status/2108241523200676048"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1003
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/nicekate8888/status/2108241523200676048",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108237399008620544/img/GYxUiUxKjCz-EVfC.jpg",
+  "coverPath": "data/covers/2108241523200676048-wide.jpg",
+  "gifPath": "data/gifs/2108241523200676048.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108237399008620544",
+    "x-post:2108241523200676048"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 JS Animation to Lyria Song",
+      "summary": "Animation created by Claude Opus 5.5 writing JavaScript based on a 2-minute Lyria love song.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "再让 Opus 5.5 只听这首歌写 JS 动画。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "画面场景可以少些，6个左右",
+        "englishText": "Keep the scenes fewer, around 6 scenes",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact audio prompt to Claude Opus",
+          "JavaScript animation code output",
+          "Rendering/execution harness"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video presents an animated lyric video matching the 6-scene constraint and the generated song.",
+        "textualResultQuote": "成品……咔咔，一股 60 岁大叔大妈最爱的朋友圈风扑面而来 😂"
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "2-minute Chinese love song generated with Lyria",
+          "available": true,
+          "evidence": "先用 Lyria 生成一首 2 分钟的中文情歌",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/nicekate8888/status/2108241523200676048"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "JavaScript / Canvas",
+          "role": "Code animation rendering",
+          "evidence": "写 JS 动画",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/nicekate8888/status/2108241523200676048"
+        },
+        {
+          "name": "Lyria",
+          "role": "Music generation for the backing track",
+          "evidence": "先用 Lyria 生成一首 2 分钟的中文情歌",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/nicekate8888/status/2108241523200676048"
+        }
+      ],
+      "purpose": {
+        "label": "Music Video Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "audio-reactive",
+          "javascript-animation",
+          "lyrics",
+          "canvas"
+        ]
+      },
+      "targetModelRole": "Generates JavaScript animation code based on the audio track.",
+      "outputSource": "JavaScript execution / Canvas rendering of generated code.",
+      "divisionEvidence": "再让 Opus 5.5 只听这首歌写 JS 动画。",
+      "video": {
+        "shots": "Multiple lyric scenes transition with moon, heart, stars, rain, rainbow, and sunrise backgrounds",
+        "duration": "02:03",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct reference case of Opus 5.5 generating code for animated music video production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nicekate8888/status/2108241523200676048",
+        "start": 61,
+        "end": 74
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nicekate8888/status/2108241523200676048",
+        "author": "nicekate8888",
+        "postId": "2108241523200676048",
+        "publishedAt": "2026-10-08T17:02:03.000Z"
+      },
+      "checkedAt": "2026-10-09T13:02:16.380Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nicekate8888/status/2108241523200676048",
+        "evidence": ""
+      }
+    },
+    "summary": "Animation created by Claude Opus 5.5 writing JavaScript based on a 2-minute Lyria love song.",
+    "summaryEn": "Opus 5.5 JS Animation to Lyria Song",
+    "originalPrompt": "画面场景可以少些，6个左右",
+    "sourceRange": {
+      "start": 61,
+      "end": 74
+    },
+    "translations": {
+      "zh": "画面场景可以少些，6个左右",
+      "en": "Keep the scenes fewer, around 6 scenes"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Music Video Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact audio prompt to Claude Opus",
+        "JavaScript animation code output",
+        "Rendering/execution harness"
+      ],
+      "evidence": "The video presents an animated lyric video matching the 6-scene constraint and the generated song."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

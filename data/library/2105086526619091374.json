@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:20:51.895Z",
+  "model": "opus5.5",
+  "prompt": "Little Star of the Moonlit Sea\nA shooting star falls into the night sea, turning into a glowing little star; it sinks to the turquoise sea floor, lighting up sea anemones one by one as it passes. Finally, a sea turtle carries it back to the surface, and it flies back beside the moon, once again becoming a star in the sky.\n\nThe soundtrack is in an original Celtic lullaby style (D Dorian mode, modulating to D major at the end): harp arpeggios, bagpipe drone, string pads, and tin whistle lead melody, embellished with ocean waves, underwater bubbles, and chimes.\n\nThe visuals are divided into five scenes, with cross-dissolve transitions between them:\n\nMoonlit sea surface, a shooting star falls into the ocean, title appears\nThe little star sinks into the turquoise sea water, kelp swaying, light beams and bubbles descending, opening its eyes underwater\nDark seabed, sea anemones light up one by one as the little star passes\nA sea turtle carries it, swimming upwards toward the light\nThe sea turtle surfaces, the little star flies back beside the moon, ending subtitle: 'Every little light finds its way home'",
+  "promptTranslations": {
+    "en": "Little Star of the Moonlit Sea\nA shooting star falls into the night sea, turning into a glowing little star; it sinks to the turquoise sea floor, lighting up sea anemones one by one as it passes. Finally, a sea turtle carries it back to the surface, and it flies back beside the moon, once again becoming a star in the sky.\n\nThe soundtrack is in an original Celtic lullaby style (D Dorian mode, modulating to D major at the end): harp arpeggios, bagpipe drone, string pads, and tin whistle lead melody, embellished with ocean waves, underwater bubbles, and chimes.\n\nThe visuals are divided into five scenes, with cross-dissolve transitions between them:\n\nMoonlit sea surface, a shooting star falls into the ocean, title appears\nThe little star sinks into the turquoise sea water, kelp swaying, light beams and bubbles descending, opening its eyes underwater\nDark seabed, sea anemones light up one by one as the little star passes\nA sea turtle carries it, swimming upwards toward the light\nThe sea turtle surfaces, the little star flies back beside the moon, ending subtitle: 'Every little light finds its way home'"
+  },
+  "summary": "Lonely8patients 分享了由 Claude Opus 5.5 生成的动画短片《月光小星》，展示了五段场景与交叉溶解过渡的童话故事短片及凯尔特风格配乐。",
+  "summaryEn": "《月光小星》- Claude Opus 5.5 动画短片",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105086526619091374",
+    "canonicalUrl": "https://x.com/Lonely8patients/status/2105086526619091374",
+    "author": {
+      "username": "Lonely8patients",
+      "displayName": "ALEX@",
+      "profileUrl": "https://x.com/Lonely8patients"
+    },
+    "publishedAt": "2026-09-30T00:05:13.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "Claude Opus 5.5生成短片：\n\n《月光小星》\n一颗流星坠入夜海，变成会发光的小星星；它沉入青绿色的海底，路过的海葵被它一朵朵点亮，最后一只海龟驮着它游回海面，它飞回月亮旁边，重新成为天上的星星。\n\n配乐是原创的凯尔特摇篮曲风格（D 多利亚调式，结尾转 D 大调）：竖琴琶音、风笛式持续低音、弦乐铺底、哨笛主旋律，加上海浪、水下气泡和铃音点缀。\n\n画面分五个场景，场景之间用交叉溶解过渡：\n\n月夜海面，一颗流星坠入海中，标题浮现\n小星星沉入青绿色的海水，海带摇曳，光束和气泡落下，它在水里睁开眼睛\n幽暗的海底，海葵随着小星星经过一朵朵亮起来\n一只海龟驮着它向亮处游上去\n海龟探出水面，小星星飞回月亮旁边，片尾字幕：「每一点微光，都能找到回家的路」",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lonely8patients/status/2105086526619091374",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105085981007187968/img/cHhx4K5wIVjUenFm.jpg",
+        "analysisUrl": "https://x.com/Lonely8patients/status/2105086526619091374"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Lonely8patients/status/2105086526619091374",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105085981007187968/img/cHhx4K5wIVjUenFm.jpg",
+  "coverPath": "data/covers/2105086526619091374-wide.jpg",
+  "gifPath": "data/gifs/2105086526619091374.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105085981007187968",
+    "x-post:2105086526619091374"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "《月光小星》- Claude Opus 5.5 动画短片",
+      "summary": "Lonely8patients 分享了由 Claude Opus 5.5 生成的动画短片《月光小星》，展示了五段场景与交叉溶解过渡的童话故事短片及凯尔特风格配乐。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5生成短片："
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "《月光小星》\n一颗流星坠入夜海，变成会发光的小星星；它沉入青绿色的海底，路过的海葵被它一朵朵点亮，最后一只海龟驮着它游回海面，它飞回月亮旁边，重新成为天上的星星。\n\n配乐是原创的凯尔特摇篮曲风格（D 多利亚调式，结尾转 D 大调）：竖琴琶音、风笛式持续低音、弦乐铺底、哨笛主旋律，加上海浪、水下气泡和铃音点缀。\n\n画面分五个场景，场景之间用交叉溶解过渡：\n\n月夜海面，一颗流星坠入海中，标题浮现\n小星星沉入青绿色的海水，海带摇曳，光束和气泡落下，它在水里睁开眼睛\n幽暗的海底，海葵随着小星星经过一朵朵亮起来\n一只海龟驮着它向亮处游上去\n海龟探出水面，小星星飞回月亮旁边，片尾字幕：「每一点微光，都能找到回家的路」",
+        "englishText": "Little Star of the Moonlit Sea\nA shooting star falls into the night sea, turning into a glowing little star; it sinks to the turquoise sea floor, lighting up sea anemones one by one as it passes. Finally, a sea turtle carries it back to the surface, and it flies back beside the moon, once again becoming a star in the sky.\n\nThe soundtrack is in an original Celtic lullaby style (D Dorian mode, modulating to D major at the end): harp arpeggios, bagpipe drone, string pads, and tin whistle lead melody, embellished with ocean waves, underwater bubbles, and chimes.\n\nThe visuals are divided into five scenes, with cross-dissolve transitions between them:\n\nMoonlit sea surface, a shooting star falls into the ocean, title appears\nThe little star sinks into the turquoise sea water, kelp swaying, light beams and bubbles descending, opening its eyes underwater\nDark seabed, sea anemones light up one by one as the little star passes\nA sea turtle carries it, swimming upwards toward the light\nThe sea turtle surfaces, the little star flies back beside the moon, ending subtitle: 'Every little light finds its way home'",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Technical implementation code or generation pipeline",
+          "Rendering framework instructions (e.g. Canvas, Remotion, Manim, or external video model configuration)"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频完整呈现了文案描述的五个场景：流星坠海浮现标题《月光小星》、星星沉入海底苏醒、游经海葵逐个点亮、海龟驮行上浮、浮上海面飞回月亮并打出片尾字幕，并伴有符合描述的凯尔特风配乐。注：当前媒体检验基于较小码率/尺寸版本。",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Animated Story Short",
+        "topic": "motion-graphics",
+        "tags": [
+          "animation",
+          "storytelling",
+          "motion-graphics",
+          "short-film"
+        ]
+      },
+      "targetModelRole": "生成动画短片或编排动画内容与脚本（作者未披露底层具体执行代码与架构）",
+      "outputSource": "未知渲染器 / 外部执行环境",
+      "divisionEvidence": "作者声明由 Claude Opus 5.5 生成，但未披露具体是代码渲染（如 Canvas/Remotion）还是调用外部视频模型管道。",
+      "video": {
+        "shots": "5 scenes with cross-dissolve transitions",
+        "duration": "60s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "包含明确的 Claude Opus 5.5 动画短片生产用例、公开的分镜头描述片段以及高度对应的完整视频演示。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Lonely8patients/status/2105086526619091374",
+        "start": 22,
+        "end": 328
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Lonely8patients/status/2105086526619091374",
+        "author": "Lonely8patients",
+        "postId": "2105086526619091374",
+        "publishedAt": "2026-09-30T00:05:13.000Z"
+      },
+      "checkedAt": "2026-09-30T04:29:55.373Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Lonely8patients/status/2105086526619091374",
+        "evidence": ""
+      }
+    },
+    "summary": "Lonely8patients 分享了由 Claude Opus 5.5 生成的动画短片《月光小星》，展示了五段场景与交叉溶解过渡的童话故事短片及凯尔特风格配乐。",
+    "summaryEn": "《月光小星》- Claude Opus 5.5 动画短片",
+    "originalPrompt": "《月光小星》\n一颗流星坠入夜海，变成会发光的小星星；它沉入青绿色的海底，路过的海葵被它一朵朵点亮，最后一只海龟驮着它游回海面，它飞回月亮旁边，重新成为天上的星星。\n\n配乐是原创的凯尔特摇篮曲风格（D 多利亚调式，结尾转 D 大调）：竖琴琶音、风笛式持续低音、弦乐铺底、哨笛主旋律，加上海浪、水下气泡和铃音点缀。\n\n画面分五个场景，场景之间用交叉溶解过渡：\n\n月夜海面，一颗流星坠入海中，标题浮现\n小星星沉入青绿色的海水，海带摇曳，光束和气泡落下，它在水里睁开眼睛\n幽暗的海底，海葵随着小星星经过一朵朵亮起来\n一只海龟驮着它向亮处游上去\n海龟探出水面，小星星飞回月亮旁边，片尾字幕：「每一点微光，都能找到回家的路」",
+    "sourceRange": {
+      "start": 22,
+      "end": 328
+    },
+    "translations": {
+      "zh": "《月光小星》\n一颗流星坠入夜海，变成会发光的小星星；它沉入青绿色的海底，路过的海葵被它一朵朵点亮，最后一只海龟驮着它游回海面，它飞回月亮旁边，重新成为天上的星星。\n\n配乐是原创的凯尔特摇篮曲风格（D 多利亚调式，结尾转 D 大调）：竖琴琶音、风笛式持续低音、弦乐铺底、哨笛主旋律，加上海浪、水下气泡和铃音点缀。\n\n画面分五个场景，场景之间用交叉溶解过渡：\n\n月夜海面，一颗流星坠入海中，标题浮现\n小星星沉入青绿色的海水，海带摇曳，光束和气泡落下，它在水里睁开眼睛\n幽暗的海底，海葵随着小星星经过一朵朵亮起来\n一只海龟驮着它向亮处游上去\n海龟探出水面，小星星飞回月亮旁边，片尾字幕：「每一点微光，都能找到回家的路」",
+      "en": "Little Star of the Moonlit Sea\nA shooting star falls into the night sea, turning into a glowing little star; it sinks to the turquoise sea floor, lighting up sea anemones one by one as it passes. Finally, a sea turtle carries it back to the surface, and it flies back beside the moon, once again becoming a star in the sky.\n\nThe soundtrack is in an original Celtic lullaby style (D Dorian mode, modulating to D major at the end): harp arpeggios, bagpipe drone, string pads, and tin whistle lead melody, embellished with ocean waves, underwater bubbles, and chimes.\n\nThe visuals are divided into five scenes, with cross-dissolve transitions between them:\n\nMoonlit sea surface, a shooting star falls into the ocean, title appears\nThe little star sinks into the turquoise sea water, kelp swaying, light beams and bubbles descending, opening its eyes underwater\nDark seabed, sea anemones light up one by one as the little star passes\nA sea turtle carries it, swimming upwards toward the light\nThe sea turtle surfaces, the little star flies back beside the moon, ending subtitle: 'Every little light finds its way home'"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Animated Story Short",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Technical implementation code or generation pipeline",
+        "Rendering framework instructions (e.g. Canvas, Remotion, Manim, or external video model configuration)"
+      ],
+      "evidence": "视频完整呈现了文案描述的五个场景：流星坠海浮现标题《月光小星》、星星沉入海底苏醒、游经海葵逐个点亮、海龟驮行上浮、浮上海面飞回月亮并打出片尾字幕，并伴有符合描述的凯尔特风配乐。注：当前媒体检验基于较小码率/尺寸版本。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

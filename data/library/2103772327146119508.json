@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:22.588Z",
+  "model": "opus5.5",
+  "prompt": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
+  "promptTranslations": {
+    "en": "build me a product demo for my site using /brag skill. make sure to emphasize on all features"
+  },
+  "summary": "Vishesh Baghel shared a prompt used with Opus to generate a product demo highlighting site features using the /brag skill.",
+  "summaryEn": "Product Demo Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103605766737563991",
+      "canonicalUrl": "https://x.com/VisheshBaghell/status/2103605766737563991",
+      "author": {
+        "username": "VisheshBaghell",
+        "displayName": "Vishesh Baghel",
+        "profileUrl": "https://x.com/VisheshBaghell"
+      },
+      "originalText": "$499,235 of unbilled work across 1000 work orders. @NaceAI's drex found $482,260.\n\ni recently came across drex, an alternative to @typesafeai jev and quickly built this to try things out for a client demo\n\nthe problem: technicians write down everything they did, but the invoice often misses some of it. that work never gets paid for.\n\ndrex reads the note and the invoice and flags what's missing. code does the math. when drex isn't sure, a human decides.\n\nit got 15 wrong ($5,435). 59 went to a human.\n\nlive: https://t.co/RfhJSF4pCW"
+    },
+    "id": "2103772327146119508",
+    "canonicalUrl": "https://x.com/VisheshBaghell/status/2103772327146119508",
+    "author": {
+      "username": "VisheshBaghell",
+      "displayName": "Vishesh Baghel",
+      "profileUrl": "https://x.com/VisheshBaghell"
+    },
+    "publishedAt": "2026-09-26T09:03:03.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "opus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\" https://t.co/H98CdU4ziu",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103772214030159872/img/rlcTb1Zmnk9oc24H.jpg",
+        "analysisUrl": "https://x.com/VisheshBaghell/status/2103772327146119508"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103605216532926464/img/wBhf1kP3eg49ZWOO.jpg",
+        "analysisUrl": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "sourcePostId": "2103605766737563991"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 1752
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103899130313761051",
+        "text": "@ZenithAiLab yes. its insane",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103899088735572004",
+        "text": "@MiraSynth0 gonna post more demos",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103785628370706720",
+        "text": "@AskZaratech yep",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103785452352463194",
+        "text": "@EllaTech0 yep. going to try some new stuff to make it more engaging",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103782169193984104",
+        "text": "@razaaitech gonna improve this for more engaging animations. I tried making demo like this for the first time. huge respect to all the designers out there who used to make such videos by hands",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103773538049991007",
+        "text": "@AliceInfoAi Anthropic is way ahead in their game. Hope they don't nerf it 🤞",
+        "author": "VisheshBaghell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VisheshBaghell/status/2103772913732059137",
+        "text": "@boardyai thanks for liking all my posts within 2 seconds of publishing it. Glad that you are so supportive of my work",
+        "author": "VisheshBaghell"
+      },
+      {
+        "url": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "text": "Vishesh Baghel on X: \"opus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nVishesh Baghel on X: \"opus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\"\"\n\n\n\nVishesh Baghel\n\n@VisheshBaghell\n\n\n\n\nopus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\"\n\n\n00:00\n\n\n\n\n\n\n\n\nVishesh Baghel\n\n@VisheshBaghell\nSep 25\n\n$499,235 of unbilled work across 1000 work orders. @NaceAI&#x27;s drex found $482,260.\n\ni recently came across drex, an alternative to @typesafeai jev and quickly built this to try things out for a client demo\n\nthe problem: technicians write down everything they did, but the invoice Show more\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n9:03 AM · Sep 26, 2026·1,752\nViews\n\n\n\n8\n\n11\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nVishesh Baghel@VisheshBaghellFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nVishesh Baghel\n\n@VisheshBaghell\n\n\n\n\nopus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\"\n\n\n00:00\n\n\n\n\n\n\n\n\nVishesh Baghel\n\n@VisheshBaghell\nSep 25\n\n$499,235 of unbilled work across 1000 work orders. @NaceAI&#x27;s drex found $482,260.\n\ni recently came across drex, an alternative to @typesafeai jev and quickly built this to try things out for a client demo\n\nthe problem: technicians write down everything they did, but the invoice Show more\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n9:03 AM · Sep 26, 2026·1,752\nViews\n\n\n\n8\n\n11\n3\n\n\n\n\n\n\n\n\n\nVishesh Baghel\n\n@VisheshBaghell\nSep 26\n\n\n@boardyai thanks for liking all my posts within 2 seconds of publishing it. Glad that you are so supportive of my work\n\n\n1\n\n\n99\n\n\n\n\n\n\n\n\n\n\n\nZara Tech & Tools\n\n@AskZaratech\nSep 26\n\n\nAmazing result from such a simple prompt\n\n\n1\n\n1\n34\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "VisheshBaghell"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/VisheshBaghell/status/2103772327146119508",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103772214030159872/img/rlcTb1Zmnk9oc24H.jpg",
+  "coverPath": "data/covers/2103772327146119508-wide.jpg",
+  "gifPath": "data/gifs/2103772327146119508.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103772214030159872",
+    "x-video:2103605216532926464",
+    "x-post:2103772327146119508",
+    "x-post:2103605766737563991"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Product Demo Prompt",
+      "summary": "Vishesh Baghel shared a prompt used with Opus to generate a product demo highlighting site features using the /brag skill.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
+        "englishText": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/VisheshBaghell/status/2103772327146119508",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "start": 92,
+        "end": 185
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "author": "VisheshBaghell",
+        "postId": "2103772327146119508",
+        "publishedAt": "2026-09-26T09:03:03.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:30.862Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "evidence": ""
+      }
+    },
+    "summary": "Vishesh Baghel shared a prompt used with Opus to generate a product demo highlighting site features using the /brag skill.",
+    "summaryEn": "Product Demo Prompt",
+    "originalPrompt": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
+    "sourceRange": {
+      "start": 92,
+      "end": 185
+    },
+    "translations": {
+      "zh": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
+      "en": "build me a product demo for my site using /brag skill. make sure to emphasize on all features"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Vishesh Baghel shared a prompt used with Opus to generate a product demo highlighting site features using the /brag skill.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

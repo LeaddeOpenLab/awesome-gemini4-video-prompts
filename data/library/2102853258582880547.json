@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:21:25.639Z",
+  "model": "opus5.5",
+  "prompt": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+  "promptTranslations": {
+    "en": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video."
+  },
+  "summary": "Rory Flynn demonstrates Claude Opus 5.5 generating a complete 30-second motion graphic cocktail recipe animation in HTML/JavaScript from a text prompt and single reference image.",
+  "summaryEn": "Negroni Cocktail Explainer Motion Graphic in HTML",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102853258582880547",
+    "canonicalUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+    "author": {
+      "username": "Ror_Fly",
+      "displayName": "Rory Flynn",
+      "profileUrl": "https://x.com/Ror_Fly"
+    },
+    "publishedAt": "2026-09-23T20:11:00.000Z",
+    "collectedAt": "2026-09-28T07:13:05.687Z",
+    "language": "en",
+    "originalText": "Opus 5.5 rendered this in HTML from (1) image 🤯\n\nThings are getting weird.\n\nPROMPT:\nWe're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg",
+        "analysisUrl": "https://x.com/Ror_Fly/status/2102853258582880547"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1017,
+      "repostCount": 70,
+      "replyCount": 37,
+      "quoteCount": 10,
+      "viewCount": 74251
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ror_Fly/status/2103109379205804443",
+        "text": "@LillyLiCT Pretty sure i was using medium",
+        "author": "Ror_Fly"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ror_Fly/status/2103099452005511180",
+        "text": "@LillyLiCT Ohh I like this one..9:16 is a good ar for this",
+        "author": "Ror_Fly"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ror_Fly/status/2102914654066610195",
+        "text": "@JibroniSandwich Just this https://t.co/MQB3IYa6Fq",
+        "author": "Ror_Fly"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ror_Fly/status/2102904567000100992",
+        "text": "@ray5ar I did it in straight in Claude code.",
+        "author": "Ror_Fly"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Ror_Fly/status/2102904476223087061",
+        "text": "@makraiii https://t.co/IGnJcKSAg3",
+        "author": "Ror_Fly"
+      },
+      {
+        "url": "https://x.com/Ror_Fly/status/2102914654066610195",
+        "text": "Rory Flynn on X: \"@JibroniSandwich Just this\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRory Flynn on X: \"@JibroniSandwich Just this\"\n\n\n\nRory Flynn\n\n@Ror_Fly\n\n\n\n\nJust this\n\n\n\n\n12:14 AM · Sep 24, 2026·1,733\nViews\n\n\n\n\n\n13\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRory Flynn@Ror_FlyFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobotaxi Whisperer\n\n@JibroniSandwich\nSep 24\n\n\nWhat was the image that you shared?\n\n\n1\n\n1\n1.8K\n\n\n\n\n\n\n\n\n\n\nRory Flynn\n\n@Ror_Fly\n\n\n\n\nJust this\n\n\n\n\n12:14 AM · Sep 24, 2026·1,733\nViews\n\n\n\n\n\n13\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Ror_Fly"
+      },
+      {
+        "url": "https://x.com/Ror_Fly/status/2102904476223087061",
+        "text": "Rory Flynn on X: \"@makraiii\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRory Flynn on X: \"@makraiii\"\n\n\n\nRory Flynn\n\n@Ror_Fly\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n11:34 PM · Sep 23, 2026·1,488\nViews\n\n\n\n\n\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRory Flynn@Ror_FlyFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nL.G. Cowan\n\n@makraiii\nSep 23\n\n\nLove.\n\n\n1\n\n\n1.6K\n\n\n\n\n\n\n\n\n\n\nRory Flynn\n\n@Ror_Fly\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n11:34 PM · Sep 23, 2026·1,488\nViews\n\n\n\n\n\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Ror_Fly"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg",
+  "coverPath": "data/covers/2102853258582880547-wide.jpg",
+  "gifPath": "data/gifs/2102853258582880547.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102853041246347264",
+    "x-post:2102853258582880547"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Negroni Cocktail Explainer Motion Graphic in HTML",
+      "summary": "Rory Flynn demonstrates Claude Opus 5.5 generating a complete 30-second motion graphic cocktail recipe animation in HTML/JavaScript from a text prompt and single reference image.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 rendered this in HTML from (1) image\" and \"I did it in straight in Claude code.\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+        "englishText": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "The single reference input image provided alongside the prompt"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates a 30-second motion graphic animation detailing the Negroni recipe step-by-step from an empty glass to ice, gin, Campari, vermouth, stirring, and orange peel with measurements and steps.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Reference cocktail recipe illustration image attached to the prompt",
+          "available": false,
+          "evidence": "\"Opus 5.5 rendered this in HTML from (1) image\"",
+          "origin": "user",
+          "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup.",
+          "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "Authoring HTML and JavaScript code for the motion graphic animation",
+      "outputSource": "Web browser / HTML renderer executing Opus-generated animation code",
+      "divisionEvidence": "\"Opus 5.5 rendered this in HTML from (1) image\" / \"Do you think you could render a recipe motion graphic animation using javascript or html\"",
+      "video": {
+        "shots": "Single 2D animated canvas scene with 6 sequenced recipe steps and progress indicators",
+        "duration": "30s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": [
+          "One reference recipe image"
+        ]
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 orchestrating HTML/JS code for a 30-second motion graphic animation matching the explicit text prompt and video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "start": 85,
+        "end": 452
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "author": "Ror_Fly",
+        "postId": "2102853258582880547",
+        "publishedAt": "2026-09-23T20:11:00.000Z"
+      },
+      "checkedAt": "2026-09-28T07:14:25.277Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "evidence": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video."
+      },
+      "purpose": {
+        "label": "Cocktail recipe explainer",
+        "topic": "explainers",
+        "tags": []
+      }
+    },
+    "summary": "Rory Flynn demonstrates Claude Opus 5.5 generating a complete 30-second motion graphic cocktail recipe animation in HTML/JavaScript from a text prompt and single reference image.",
+    "summaryEn": "Negroni Cocktail Explainer Motion Graphic in HTML",
+    "originalPrompt": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+    "sourceRange": {
+      "start": 85,
+      "end": 452
+    },
+    "translations": {
+      "zh": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+      "en": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Cocktail recipe explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "The single reference input image provided alongside the prompt"
+      ],
+      "evidence": "The video demonstrates a 30-second motion graphic animation detailing the Negroni recipe step-by-step from an empty glass to ice, gin, Campari, vermouth, stirring, and orange peel with measurements and steps."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:38:53.925Z",
+  "model": "opus5.5",
+  "prompt": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+  "promptTranslations": {
+    "en": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation."
+  },
+  "summary": "A prompt asking the model to show off its motion graphics video capabilities with full creative freedom over style, look, and subject.",
+  "summaryEn": "Showcase Motion Graphics Animation Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103841917603635633",
+    "canonicalUrl": "https://x.com/nolkeeg/status/2103841917603635633",
+    "author": {
+      "username": "nolkeeg",
+      "displayName": "Nolan Keegan",
+      "profileUrl": "https://x.com/nolkeeg"
+    },
+    "publishedAt": "2026-09-26T13:39:35.000Z",
+    "collectedAt": "2026-09-28T07:34:16.859Z",
+    "language": "en",
+    "originalText": "With everyone sharing Opus 5.5 made motion graphics animation - I had to give it a try. It really is THAT GOOD! \n\nI gave Claude zero direction - I just told it to destroy Astra. Here’s the prompt:\n\n“Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.”\n\nOpus 5.5 High effort",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nolkeeg/status/2103841917603635633",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103841849345552384/img/9xfY8JXjxbL4LSwv.jpg",
+        "analysisUrl": "https://x.com/nolkeeg/status/2103841917603635633"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 121
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/nolkeeg/status/2103841917603635633",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103841849345552384/img/9xfY8JXjxbL4LSwv.jpg",
+  "coverPath": "data/covers/2103841917603635633-wide.jpg",
+  "gifPath": "data/gifs/2103841917603635633.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103841849345552384",
+    "x-post:2103841917603635633"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Showcase Motion Graphics Animation Prompt",
+      "summary": "A prompt asking the model to show off its motion graphics video capabilities with full creative freedom over style, look, and subject.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "With everyone sharing Opus 5.5 made motion graphics animation - I had to give it a try."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+        "englishText": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/nolkeeg/status/2103841917603635633",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nolkeeg/status/2103841917603635633",
+        "start": 199,
+        "end": 682
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nolkeeg/status/2103841917603635633",
+        "author": "nolkeeg",
+        "postId": "2103841917603635633",
+        "publishedAt": "2026-09-26T13:39:35.000Z"
+      },
+      "checkedAt": "2026-09-28T07:34:50.258Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nolkeeg/status/2103841917603635633",
+        "evidence": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt asking the model to show off its motion graphics video capabilities with full creative freedom over style, look, and subject.",
+    "summaryEn": "Showcase Motion Graphics Animation Prompt",
+    "originalPrompt": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+    "sourceRange": {
+      "start": 199,
+      "end": 682
+    },
+    "translations": {
+      "zh": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+      "en": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

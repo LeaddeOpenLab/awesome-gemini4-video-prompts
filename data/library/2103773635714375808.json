@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:42:07.137Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "A prompt used to generate a dynamic 15-second motion graphics showreel video using Claude/Opus via native HTML, JS, and CSS rendered frame-by-frame.",
+  "summaryEn": "Motion Graphics Showreel Video Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103773113116721594",
+      "canonicalUrl": "https://x.com/bluevisaglobal/status/2103773113116721594",
+      "author": {
+        "username": "bluevisaglobal",
+        "displayName": "BlueVisa | Experts Expatriation",
+        "profileUrl": "https://x.com/bluevisaglobal"
+      },
+      "originalText": "Un projet d'expatriation? On gère toutes les formalités pour vous du départ à l'arrivée\n\nNous ouvrons nos services dans 2 nouvelles destinations : \n\n- 🇵🇾 Paraguay\n- 🇦🇪 UAE (Dubai) https://t.co/GzaDUMiExt"
+    },
+    "id": "2103773635714375808",
+    "canonicalUrl": "https://x.com/thismacapital/status/2103773635714375808",
+    "author": {
+      "username": "thismacapital",
+      "displayName": "THISMA",
+      "profileUrl": "https://x.com/thismacapital"
+    },
+    "publishedAt": "2026-09-26T09:08:15.000Z",
+    "collectedAt": "2026-09-28T07:35:52.811Z",
+    "language": "fr",
+    "originalText": "La vidéo a été réalisée par Opus 5.5 et c'est bluffant : 15mn pour la réalisation avec 2-3 modifications\n\nLe prompt : \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nEt ce qui est encore plus fou : il a tout fait en HTML JS CSS! \nAucun outil utilisé à part du natif web, qu'il a ensuite joué image par image pour générer la vidéo\n\nIncroyable",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/thismacapital/status/2103773635714375808",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103772730415837184/img/Y9FJv7Lc4zb3U2tk.jpg",
+        "analysisUrl": "https://x.com/thismacapital/status/2103773635714375808",
+        "sourcePostId": "2103773113116721594"
+      }
+    ],
+    "metrics": {
+      "likeCount": 817,
+      "repostCount": 53,
+      "replyCount": 36,
+      "quoteCount": 5,
+      "viewCount": 147459
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104134741469634939",
+        "text": "@lacauzz Merci, c'est carré",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104134694543802531",
+        "text": "@xKillel Non c'est véridique, je l'ai lancé dans le repertoire de mon projet",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104134029792485681",
+        "text": "@NicoMotions Oui possible, c'est pas parfait mais pour un résultat gratuit en 15mn c'est plus que bon",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133786484998164",
+        "text": "@homme_action J'ai lancé Claude dans le folder de mon projet",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133688334184916",
+        "text": "@SbastienHubert Oui ça demande juste de la créativité et de la pratique comme chaque outil",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133463645593798",
+        "text": "@furon_gabin Claude uniquement",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133427179975027",
+        "text": "@wclemtos Non je l'ai simplement lancé dans le core folder de mon projet",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133351464485011",
+        "text": "@chucktheceo Oui je vais le rallonger un tout petit peu",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133275153273229",
+        "text": "@ElFrenchIssou Non un seul prompt, juste je l'ai lancé dans le core de mon projet",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133204605383069",
+        "text": "@RendpasFouReuf Aucune, juste j'ai lancé le prompt dans le code de mon projet",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104133129459949791",
+        "text": "@NAXXtechx Oui car le skill floor est faible... Mais avec l'évolution des modèles ça va se diluer car certains n'updateront pas régulièrement leurs sites/vidéos \n\nEt aussi avec l'habitude tu peux vraiment créer ta propre touch, l'IA est un outil",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104132324312899865",
+        "text": "@SkyMinos C'est parfait pour showcase oui",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104132231778517176",
+        "text": "@itsdrsaba Yess perfect",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2104130533923979636",
+        "text": "@zkespresso High",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103961274459758843",
+        "text": "@KaelCc Oui je l'ai pris de chez lui",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103844402279993779",
+        "text": "@NinaTRTN Ok mb",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103843404648198517",
+        "text": "@NinaTRTN 16:9",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103841754910769426",
+        "text": "Possible aussi de le faire en 16:9 pour les formats insta : https://t.co/EGA7ayMA3P",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103838348334751955",
+        "text": "@_Arno404_ Nop plus de remotion! (J'ai tout delete d'ailleurs)",
+        "author": "thismacapital"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/thismacapital/status/2103779450483769483",
+        "text": "@RayaneRachid_ Fable est vrmnt moins bon pour le coup",
+        "author": "thismacapital"
+      },
+      {
+        "url": "https://x.com/thismacapital/status/2103841754910769426",
+        "text": "THISMA on X: \"Possible aussi de le faire en 16:9 pour les formats insta :\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nTHISMA on X: \"Possible aussi de le faire en 16:9 pour les formats insta :\"\n\n\n\nTHISMA\n\n@thismacapital\n\n\n\n\nShow translation\nPossible aussi de le faire en 16:9 pour les formats insta :\n\n\n00:00\n\n\n\n\n\n\n\n\n1:38 PM · Sep 26, 2026·1,923\nViews\n\n\n\n1\n\n10\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nTHISMA@thismacapitalFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nTHISMA\n\n@thismacapital\nSep 26\n\n\nLa vidéo a été réalisée par Opus 5.5 et c&#x27;est bluffant : 15mn pour la réalisation avec 2-3 modifications\n\nLe prompt : \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nEt ce Show more\n\n\nBlueVisa | Experts Expatriation\n\n@bluevisaglobal\nSep 26\n\nUn projet d&#x27;expatriation? On gère toutes les formalités pour vous du départ à l&#x27;arrivée\n\nNous ouvrons nos services dans 2 nouvelles destinations : \n\n- 🇵🇾 Paraguay\n- 🇦🇪 UAE (Dubai)\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n36\n53\n817\n147K\n\n\n\n\n\n\n\n\n\n\nTHISMA\n\n@thismacapital\n\n\n\n\nShow translation\nPossible aussi de le faire en 16:9 pour les formats insta :\n\n\n00:00\n\n\n\n\n\n\n\n\n1:38 PM · Sep 26, 2026·1,923\nViews\n\n\n\n1\n\n10\n10\n\n\n\n\n\n\n\n\n\nNina T\n@NinaTRTN\nSep 26\n\n\n9:16 pas 16:9\n\n\n1\n\n4\n64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "thismacapital"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/thismacapital/status/2103773635714375808",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103772730415837184/img/Y9FJv7Lc4zb3U2tk.jpg",
+  "coverPath": "data/covers/2103773635714375808-wide.jpg",
+  "gifPath": "data/gifs/2103773635714375808.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103772730415837184",
+    "x-post:2103773635714375808",
+    "x-post:2103773113116721594"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel Video Prompt",
+      "summary": "A prompt used to generate a dynamic 15-second motion graphics showreel video using Claude/Opus via native HTML, JS, and CSS rendered frame-by-frame.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/thismacapital/status/2103773635714375808",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/thismacapital/status/2103773635714375808",
+        "start": 119,
+        "end": 270
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/thismacapital/status/2103773635714375808",
+        "author": "thismacapital",
+        "postId": "2103773635714375808",
+        "publishedAt": "2026-09-26T09:08:15.000Z"
+      },
+      "checkedAt": "2026-09-28T07:36:55.452Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/thismacapital/status/2103773635714375808",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt used to generate a dynamic 15-second motion graphics showreel video using Claude/Opus via native HTML, JS, and CSS rendered frame-by-frame.",
+    "summaryEn": "Motion Graphics Showreel Video Prompt",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 119,
+      "end": 270
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

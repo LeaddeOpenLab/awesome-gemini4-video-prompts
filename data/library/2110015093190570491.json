@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-13T18:01:04.344Z",
+  "model": "opus5.5",
+  "prompt": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+  "promptTranslations": {
+    "en": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps"
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained interactive 3D Three.js simulation of deformable memory foam toast with procedural crumb texture, vertex physics, and UI controls.",
+  "summaryEn": "Interactive 3D Squishy Toast Memory Foam Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110015093190570491",
+    "canonicalUrl": "https://x.com/semichenkko/status/2110015093190570491",
+    "author": {
+      "username": "semichenkko",
+      "displayName": "Semichenko",
+      "profileUrl": "https://x.com/semichenkko"
+    },
+    "publishedAt": "2026-10-13T14:29:35.000Z",
+    "collectedAt": "2026-10-13T17:39:23.721Z",
+    "language": "en",
+    "originalText": "Opus 5.5 understands bread better than Astra\n\nSame prompt, same squishy toast. Opus on top, ChatGPT-6 Astra below\n\nI put both through the same moves - press, poke, stretch the crust, squash it with a palm, switch flavors, drop it on the table\n\nOpus made memory foam. You press it, the dent slowly breathes back, and a little ripple runs across the crumb after you let go. Pull the crust and it stretches, gets thinner, then snaps back with a wobble\n\nAstra made a cardboard brick. The dents are sharp cones that vanish instantly, and the crust pull turns into a weird wooden stump\n\nThe detail gap is wild too - real crumb pores, a toasted edge, glossy jam vs flat color fills\n\nOpus: $4.52\nAstra: $11.2",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/semichenkko/status/2110015093190570491",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110014933643468800/img/iJaey2fwXXq7hsBd.jpg",
+        "analysisUrl": "https://x.com/semichenkko/status/2110015093190570491"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 3,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 1381
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110047526606774458",
+        "text": "PROMPT\n\nBuild \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110039905443233962",
+        "text": "@jurlycat exactly. real bread pushes back slowly, that delay is what sells it",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110018489226559786",
+        "text": "@themacedonianx Opus better",
+        "author": "semichenkko"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/semichenkko/status/2110015093190570491",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110014933643468800/img/iJaey2fwXXq7hsBd.jpg",
+  "coverPath": "data/covers/2110015093190570491-wide.jpg",
+  "gifPath": "data/gifs/2110015093190570491.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2110014933643468800/vid/avc1/320x406/WkwatYgRxhNwNAuI.mp4?tag=29",
+    "x-video:2110014933643468800",
+    "x-post:2110015093190570491"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Squishy Toast Memory Foam Simulation",
+      "summary": "Claude Opus 5.5 generates a self-contained interactive 3D Three.js simulation of deformable memory foam toast with procedural crumb texture, vertex physics, and UI controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 understands bread better than Astra"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+        "englishText": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays the fully functional 'Squishy / Toast.' web interface on top with the interactive 3D slice responding dynamically to mouse presses, memory-foam dent restoration, live Rise meter tracking, and flavor swatches for Butter, Strawberry jam, and Avocado.",
+        "textualResultQuote": "Opus made memory foam. You press it, the dent slowly breathes back, and a little ripple runs across the crumb after you let go."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.",
+          "sourceUrl": "https://x.com/semichenkko/status/2110047526606774458",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Bread Foam Physics Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "interactive",
+          "webgl",
+          "physics",
+          "foam-deformation"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D web application",
+      "outputSource": "Web browser rendering generated HTML/Three.js code",
+      "divisionEvidence": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.",
+      "video": {
+        "shots": "Single interactive continuous screen recording capture",
+        "duration": "16s",
+        "aspectRatio": "1008:1280",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 code generation benchmark demonstrating interactive 3D real-time WebGL deformation physics with complete verbatim instructions and screen recording verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/semichenkko/status/2110047526606774458",
+        "start": 8,
+        "end": 1956
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/semichenkko/status/2110015093190570491",
+        "author": "semichenkko",
+        "postId": "2110015093190570491",
+        "publishedAt": "2026-10-13T14:29:35.000Z"
+      },
+      "checkedAt": "2026-10-13T17:51:37.927Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/semichenkko/status/2110047526606774458",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained interactive 3D Three.js simulation of deformable memory foam toast with procedural crumb texture, vertex physics, and UI controls.",
+    "summaryEn": "Interactive 3D Squishy Toast Memory Foam Simulation",
+    "originalPrompt": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+    "sourceRange": {
+      "start": 8,
+      "end": 1956
+    },
+    "translations": {
+      "zh": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps",
+      "en": "Build \"Squishy Toast\" - a single self-contained HTML file (three.js from a CDN is the only dependency): an interactive 3D slice of slow-rise memory foam bread you can press, poke, stretch and squash.\n\nThe toast\n- A real bread silhouette: square body, rounded \"muffin top\" crown, soft beveled edges\n- Crumb face: warm cream color, procedural pores of varied size with highlights and a bump map, a toasted golden edge fading in toward the center\n- Crust: golden-brown with subtle grain and a light sheen\n- Lies flat on a white surface at a 3/4 angle with a soft baked contact shadow\n\nPhysics (this is the whole point - it must feel like foam, not geometry)\n- Densely tessellated mesh deformed per vertex every frame, normals recomputed\n- Press and hold: a smooth gaussian dent, crumb bulges outward around the rim, the bottom stays planted on the table\n- Release: the dent rises back slowly and exponentially, like memory foam, with no instant snap. A faint elastic ripple runs across the crumb after release\n- Several dents can coexist, each recovering on its own\n- Grab the crust and pull: the bread stretches elastically, thins as it stretches, then springs back with a damped wobble\n- Palm squash: the whole slice flattens and barrel-bulges at mid-height, then breathes back up\n- Drop: lift and release, squash-and-stretch on impact, small decaying bounce\n\nFlavors\n- Butter, strawberry jam (glossy clearcoat, deeper color), avocado (mashed texture). The spread sits on the crumb, leaves a crust rim and deforms with the bread\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Squishy / Toast.\", a short subtitle, a minimal card on the right with flavor swatches, a softness slider (controls dent size and recovery time), a live \"Rise\" meter and a \"Fresh slice\" reset button\n- A subtle circular cursor that shrinks while pressing\n- ACES tone mapping, soft key and rim lights, environment reflections. Smooth 60fps"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Bread Foam Physics Demo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording displays the fully functional 'Squishy / Toast.' web interface on top with the interactive 3D slice responding dynamically to mouse presses, memory-foam dent restoration, live Rise meter tracking, and flavor swatches for Butter, Strawberry jam, and Avocado."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

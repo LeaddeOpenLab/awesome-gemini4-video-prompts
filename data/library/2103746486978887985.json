@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:27.337Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+  },
+  "summary": "TeslaChartz shares a prompt used to test Claude Opus 5.5 in creating a dynamic 15-second motion graphics résumé showreel.",
+  "summaryEn": "Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103746486978887985",
+    "canonicalUrl": "https://x.com/TeslaChartz/status/2103746486978887985",
+    "author": {
+      "username": "TeslaChartz",
+      "displayName": "A guy called 'TeslaCharts'",
+      "profileUrl": "https://x.com/TeslaChartz"
+    },
+    "publishedAt": "2026-09-26T07:20:22.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out https://t.co/ZU8K6InofS",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103746040528580608/img/EAXmWIz5hn5mOv7H.jpg",
+        "analysisUrl": "https://x.com/TeslaChartz/status/2103746486978887985"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 71
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "text": "A guy called &#x27;TeslaCharts&#x27; on X: \"Claude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nA guy called &#x27;TeslaCharts&#x27; on X: \"Claude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out\"\n\n\n\nA guy called &#x27;TeslaCharts&#x27;\n@TeslaChartz\n\n\n\n\nClaude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out\n\n\n00:00\n\n\n\n\n\n\n\n\n7:20 AM · Sep 26, 2026·71\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nA guy called &#x27;TeslaCharts&#x27;@TeslaChartzFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nA guy called &#x27;TeslaCharts&#x27;\n@TeslaChartz\n\n\n\n\nClaude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out\n\n\n00:00\n\n\n\n\n\n\n\n\n7:20 AM · Sep 26, 2026·71\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "TeslaChartz"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/TeslaChartz/status/2103746486978887985",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103746040528580608/img/EAXmWIz5hn5mOv7H.jpg",
+  "coverPath": "data/covers/2103746486978887985-wide.jpg",
+  "gifPath": "data/gifs/2103746486978887985.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103746040528580608",
+    "x-post:2103746486978887985"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel Prompt",
+      "summary": "TeslaChartz shares a prompt used to test Claude Opus 5.5 in creating a dynamic 15-second motion graphics résumé showreel.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/TeslaChartz/status/2103746486978887985",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "start": 109,
+        "end": 259
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "author": "TeslaChartz",
+        "postId": "2103746486978887985",
+        "publishedAt": "2026-09-26T07:20:22.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:58.763Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "TeslaChartz shares a prompt used to test Claude Opus 5.5 in creating a dynamic 15-second motion graphics résumé showreel.",
+    "summaryEn": "Motion Graphics Showreel Prompt",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+    "sourceRange": {
+      "start": 109,
+      "end": 259
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

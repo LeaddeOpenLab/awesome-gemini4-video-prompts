@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:32.196Z",
+  "model": "opus5.5",
+  "prompt": "Edit it nicely",
+  "promptTranslations": {
+    "en": "Edit it nicely"
+  },
+  "summary": "Claude Opus 5.5 orchestrated video editing, cuts, title card insertion, color grading, and audio leveling entirely through generated code.",
+  "summaryEn": "Code-Based Anime Video Assembly and Post-Processing",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108361488130023466",
+    "canonicalUrl": "https://x.com/neco1751662/status/2108361488130023466",
+    "author": {
+      "username": "neco1751662",
+      "displayName": "neco - AI Anime",
+      "profileUrl": "https://x.com/neco1751662"
+    },
+    "publishedAt": "2026-10-09T00:58:44.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "ja",
+    "originalText": "『根脈の巫女』\n光を失いかけた結晶の森とそれを繋ぎ直す巫女。\n#DreaminaCPP @dreamina_ai \n\nSeedance 2.5で30秒×3本を生成し、\nClaude（Opus 5.5）に「良い感じに編集して」\nとお任せしました。\n\nAIがやったこと👇\n・つなぎ目のクロスフェード／カット位置の調整\n・タイトルカード追加\n・1080pアップスケール＋色調・質感の統一\n・音量の自動調整\n※編集ソフトは使わず、全てコード処理",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/neco1751662/status/2108361488130023466",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108360293101588480/img/qfhJA0E7Dhpj_kil.jpg",
+        "analysisUrl": "https://x.com/neco1751662/status/2108361488130023466"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 2,
+      "viewCount": 767
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/neco1751662/status/2108361488130023466",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108360293101588480/img/qfhJA0E7Dhpj_kil.jpg",
+  "coverPath": "data/covers/2108361488130023466-wide.jpg",
+  "gifPath": "data/gifs/2108361488130023466.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108360293101588480/vid/avc1/480x270/GIYw_MQpHfODkFC3.mp4?tag=29",
+    "x-video:2108360293101588480",
+    "x-post:2108361488130023466"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Code-Based Anime Video Assembly and Post-Processing",
+      "summary": "Claude Opus 5.5 orchestrated video editing, cuts, title card insertion, color grading, and audio leveling entirely through generated code.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Claude（Opus 5.5）に「良い感じに編集して」とお任せしました。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "良い感じに編集して",
+        "englishText": "Edit it nicely",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full interactive conversation context",
+          "Exact system prompts or execution environment constraints",
+          "Generated editing script (e.g., FFmpeg/Python code)"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The output video matches the claims: multiple anime segments sequenced with crossfades, sound balancing, and an end title card. Analyzed on the lower-bitrate stream.",
+        "textualResultQuote": "AIがやったこと👇\n・つなぎ目のクロスフェード／カット位置の調整\n・タイトルカード追加\n・1080pアップスケール＋色調・質感の統一\n・音量の自動調整\n※編集ソフトは使わず、全てコード処理"
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Three 30-second AI-generated anime clips",
+          "available": false,
+          "evidence": "Seedance 2.5で30秒×3本を生成し",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/neco1751662/status/2108361488130023466"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Code-based editing pipeline",
+          "role": "Execution of cuts, transitions, title overlay, upscaling, and audio mixing",
+          "evidence": "※編集ソフトは使わず、全てコード処理",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/neco1751662/status/2108361488130023466"
+        },
+        {
+          "name": "Seedance 2.5",
+          "role": "Source clip generation",
+          "evidence": "Seedance 2.5で30秒×3本を生成し",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/neco1751662/status/2108361488130023466"
+        }
+      ],
+      "purpose": {
+        "label": "Programmatic Video Assembly",
+        "topic": "motion-graphics",
+        "tags": [
+          "external-video-model",
+          "video-editing",
+          "code-processing",
+          "seedance",
+          "anime"
+        ]
+      },
+      "targetModelRole": "Script generation and automated orchestration of video assembly, color matching, title card generation, and audio normalization via code.",
+      "outputSource": "Automated code script processing",
+      "divisionEvidence": "Seedance 2.5で30秒×3本を生成し、Claude（Opus 5.5）に「良い感じに編集して」とお任せしました。AIがやったこと... ※編集ソフトは使わず、全てコード処理",
+      "video": {
+        "shots": "Multi-shot narrative sequence stitched from three base clips",
+        "duration": "01:32",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 autonomously assembling and mastering video through programmatic code processing.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/neco1751662/status/2108361488130023466",
+        "start": 102,
+        "end": 111
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/neco1751662/status/2108361488130023466",
+        "author": "neco1751662",
+        "postId": "2108361488130023466",
+        "publishedAt": "2026-10-09T00:58:44.000Z"
+      },
+      "checkedAt": "2026-10-09T14:18:50.917Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/neco1751662/status/2108361488130023466",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 orchestrated video editing, cuts, title card insertion, color grading, and audio leveling entirely through generated code.",
+    "summaryEn": "Code-Based Anime Video Assembly and Post-Processing",
+    "originalPrompt": "良い感じに編集して",
+    "sourceRange": {
+      "start": 102,
+      "end": 111
+    },
+    "translations": {
+      "zh": "良い感じに編集して",
+      "en": "Edit it nicely"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "Programmatic Video Assembly",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full interactive conversation context",
+        "Exact system prompts or execution environment constraints",
+        "Generated editing script (e.g., FFmpeg/Python code)"
+      ],
+      "evidence": "The output video matches the claims: multiple anime segments sequenced with crossfades, sound balancing, and an end title card. Analyzed on the lower-bitrate stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

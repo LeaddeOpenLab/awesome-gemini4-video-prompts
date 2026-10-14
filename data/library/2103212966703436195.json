@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:43:22.077Z",
+  "model": "opus5.5",
+  "prompt": "make a similar version but with a crypto reference",
+  "promptTranslations": {
+    "en": "make a similar version but with a crypto reference"
+  },
+  "summary": "A prompt used with Opus 5.5 alongside a reference video to generate a pixel animation themed around cryptocurrency.",
+  "summaryEn": "Pixel Animation Crypto Reference Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103212966703436195",
+    "canonicalUrl": "https://x.com/0xEvinho/status/2103212966703436195",
+    "author": {
+      "username": "0xEvinho",
+      "displayName": "Evinho",
+      "profileUrl": "https://x.com/0xEvinho"
+    },
+    "publishedAt": "2026-09-24T20:00:21.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is REALLY GOOD at pixel animations. My only prompt was a reference video and \"make a similar version but with a crypto reference\" https://t.co/l6N1MC9RMv",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xEvinho/status/2103212966703436195",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103212778534080512/img/5SGXqKXAHVCWDAzX.jpg",
+        "analysisUrl": "https://x.com/0xEvinho/status/2103212966703436195"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 1741
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xEvinho/status/2103222392281768128",
+        "text": "@IoachimViju Yeah it’s really good, previous models really sucked at it",
+        "author": "0xEvinho"
+      },
+      {
+        "url": "https://x.com/0xEvinho/status/2103212966703436195",
+        "text": "Evinho on X: \"Opus 5.5 is REALLY GOOD at pixel animations. My only prompt was a reference video and \"make a similar version but with a crypto reference\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nEvinho on X: \"Opus 5.5 is REALLY GOOD at pixel animations. My only prompt was a reference video and \"make a similar version but with a crypto reference\"\"\n\n\n\nEvinho\n\n@0xEvinho\n\n\n\n\nOpus 5.5 is REALLY GOOD at pixel animations. My only prompt was a reference video and \"make a similar version but with a crypto reference\"\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 PM · Sep 24, 2026·1,741\nViews\n\n\n\n1\n\n6\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEvinho@0xEvinhoFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvinho\n\n@0xEvinho\n\n\n\n\nOpus 5.5 is REALLY GOOD at pixel animations. My only prompt was a reference video and \"make a similar version but with a crypto reference\"\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 PM · Sep 24, 2026·1,741\nViews\n\n\n\n1\n\n6\n4\n\n\n\n\n\n\n\n\n\nioachim viju\n\n@IoachimViju\nSep 24\n\n\ndid not know opus can do this\n\n\n1\n\n1\n56\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "0xEvinho"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0xEvinho/status/2103212966703436195",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103212778534080512/img/5SGXqKXAHVCWDAzX.jpg",
+  "coverPath": "data/covers/2103212966703436195-wide.jpg",
+  "gifPath": "data/gifs/2103212966703436195.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103212778534080512",
+    "x-post:2103212966703436195"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Pixel Animation Crypto Reference Prompt",
+      "summary": "A prompt used with Opus 5.5 alongside a reference video to generate a pixel animation themed around cryptocurrency.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a similar version but with a crypto reference",
+        "englishText": "make a similar version but with a crypto reference",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/0xEvinho/status/2103212966703436195",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0xEvinho/status/2103212966703436195",
+        "start": 87,
+        "end": 137
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0xEvinho/status/2103212966703436195",
+        "author": "0xEvinho",
+        "postId": "2103212966703436195",
+        "publishedAt": "2026-09-24T20:00:21.000Z"
+      },
+      "checkedAt": "2026-09-28T08:30:56.353Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xEvinho/status/2103212966703436195",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt used with Opus 5.5 alongside a reference video to generate a pixel animation themed around cryptocurrency.",
+    "summaryEn": "Pixel Animation Crypto Reference Prompt",
+    "originalPrompt": "make a similar version but with a crypto reference",
+    "sourceRange": {
+      "start": 87,
+      "end": 137
+    },
+    "translations": {
+      "zh": "make a similar version but with a crypto reference",
+      "en": "make a similar version but with a crypto reference"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt used with Opus 5.5 alongside a reference video to generate a pixel animation themed around cryptocurrency.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

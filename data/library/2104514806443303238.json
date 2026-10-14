@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T12:29:33.194Z",
+  "model": "opus5.5",
+  "prompt": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+  "promptTranslations": {
+    "en": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished."
+  },
+  "summary": "Claude Opus 5.5 generated a standalone interactive WebGPU application implementing real-time XPBD volumetric soft-body physics, procedural slicing, and deformation for a strawberry shortcake.",
+  "summaryEn": "Interactive WebGPU Strawberry Cake Soft-Body Physics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104514806443303238",
+    "canonicalUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238",
+    "author": {
+      "username": "ImaStudio_ai",
+      "displayName": "Ima Studio",
+      "profileUrl": "https://x.com/ImaStudio_ai"
+    },
+    "publishedAt": "2026-09-28T10:13:24.000Z",
+    "collectedAt": "2026-09-28T11:14:36.233Z",
+    "language": "en",
+    "originalText": "I asked Opus 5.5 to make me a strawberry cake… and why is the squishiness this good!? 🍓\n\nThe wobble, bounce, softness, and glossy creaminess are weirdly satisfying.\nPress it. Throw it. Slice it. Every piece stays interactive.\nBuilt in one HTML file with WebGPU + WGSL + real-time soft-body physics.\nTry it 👉https://t.co/XyctmemlEX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ImaStudio_ai/status/2104514806443303238",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104514528990187520/img/WOIMQfLjqpM11SC1.jpg",
+        "analysisUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 3,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 424
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+        "text": "More from Ima Studio 👉\nhttps://t.co/NM1nWDdu3X\n\nPrompt ↓\nBuild immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+        "author": "ImaStudio_ai"
+      },
+      {
+        "url": "https://ima-strawberry-cake.web.app/strawberry-cake-webgpu",
+        "text": "\n\n\n\n\nStrawberry Cake Knife — WebGPU\n\n\n\n  \n    \n    \n    \n\n    \n      \n        Renderer offline\n        This specimen needs WebGPU.\n\n        \n\n      \n\n    \n\n  \n\n\n  \n    Soft Studies / No. 001\n\n    StrawberryCake.\n\n    Whipped and tender.\nA little wobble.\nMade to be sliced.\n\n  \n\n  WEBGPU · STARTING\n\n\n  \n    The Dessertfig. 1\n    \n      Tool\n      \n        Hand\n        Knife\n      \n\n    \n\n    \n      Flavour\n      \n\n    \n\n    \n      \n        Firmness0.40\n\n        \n        tremblingset\n\n      \n\n      \n        Internal damping0.45\n\n        \n        livelysyrupy\n\n      \n\n    \n\n    \n      \n        Drop it\n        Reset\n      \n\n      \n        ¼ speed\n        Show mesh\n      \n\n      Pause\n    \n\n  \n\n  \n    HandPress, squeeze, or grab any piece of cake and pull.\n\n    \n      Mass≈—g\n\n      Volume—% of rest\n\n      Kinetic—µJ\n\n      Pieces1\n\n    \n    A volumetric soft cake solved live in WebGPU. Every newly cut piece remains soft, physical, and cuttable.\n\n  \n\n  \n    Inside the experiment\n    \n      A cake made of tetrahedra\n\n      The cake is a volumetric mesh of — particles and — tetrahedra, solved with XPBD on a fixed 60 Hz step. Shape and volume constraints give the sponge its slow, plush recovery.\n\n      Damping acts on relative velocity inside the cake, so each piece can fall and tumble freely while the final wobble dies away. Ground contact adds a soft landing and friction.\n\n      Cutting\n\n      Draw across one or several pieces. The stroke becomes a vertical cutting plane; the knife presses the frosting, passes through, and replaces each crossed piece with two aligned soft bodies. Momentum and decoration attachment carry through the cut, so every piece can be grabbed or cut again.\n\n      A surface that rides along\n\n      The smooth frosting and top decorations are embedded into the volumetric mesh, so they travel naturally with whichever piece owns them.\n\n      Soft studio light\n\n      WGSL shaders combine warm diffuse light, restrained highlights, cream-edge transmission and a soft floor shadow for an edible editorial finish.\n\n    \n\n  \n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ImaStudio_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/NM1nWDdu3X"
+    ]
+  },
+  "xUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104514528990187520/img/WOIMQfLjqpM11SC1.jpg",
+  "coverPath": "data/covers/2104514806443303238-wide.jpg",
+  "gifPath": "data/gifs/2104514806443303238.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104514528990187520",
+    "x-post:2104514806443303238"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive WebGPU Strawberry Cake Soft-Body Physics",
+      "summary": "Claude Opus 5.5 generated a standalone interactive WebGPU application implementing real-time XPBD volumetric soft-body physics, procedural slicing, and deformation for a strawberry shortcake.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to make me a strawberry cake…"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+        "englishText": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the exact UI, 'Soft Studies / No. 001 Strawberry Cake' layout, Hand interactions (squishing, indenting, releasing with soft wobble), and Knife slicing functionality that splits the soft tetrahedral mesh into multiple interactive pieces dynamically.",
+        "textualResultQuote": "A volumetric soft cake solved live in WebGPU. Every newly cut piece remains soft, physical, and cuttable."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Babylon.js",
+          "role": "3D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "Canvas 2D",
+          "role": "2D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "status": "author_confirmed",
+          "evidence": "Built in one HTML file with WebGPU + WGSL + real-time soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.”",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "required"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "status": "author_confirmed",
+          "evidence": "Built in one HTML file with WebGPU + WGSL + real-time soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "evidence": "Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "Claude Opus 5.5 authored the self-contained HTML/JavaScript/WGSL code specifying physics, shaders, geometry, and UI interaction logic.",
+      "outputSource": "Web browser runtime executing the WebGPU application code generated by Claude Opus 5.5",
+      "divisionEvidence": "Author states: 'I asked Opus 5.5 to make me a strawberry cake…' and 'Built in one HTML file with WebGPU + WGSL + real-time soft-body physics.' Prompt asks to 'Build immediately a complete interactive WebGPU site called “Strawberry Cake.”'",
+      "video": {
+        "shots": "Single continuous take screen capture",
+        "duration": "18s",
+        "aspectRatio": "1.54:1",
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Complete authentic Claude Opus 5.5 interactive media production case with fully disclosed verbatim instructions, clear separation of model generation versus browser runtime execution, and direct screen recording evidence verifying consistency.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+        "start": 58,
+        "end": 1972
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ImaStudio_ai/status/2104514806443303238",
+        "author": "ImaStudio_ai",
+        "postId": "2104514806443303238",
+        "publishedAt": "2026-09-28T10:13:24.000Z"
+      },
+      "checkedAt": "2026-09-28T11:53:50.343Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+        "evidence": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frost",
+        "inputSummary": "No external assets required by the prompt",
+        "noSuppliedAssets": true
+      },
+      "purpose": {
+        "label": "Interactive soft-body physics demo",
+        "topic": "games-interactive",
+        "tags": []
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a standalone interactive WebGPU application implementing real-time XPBD volumetric soft-body physics, procedural slicing, and deformation for a strawberry shortcake.",
+    "summaryEn": "Interactive WebGPU Strawberry Cake Soft-Body Physics",
+    "originalPrompt": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+    "sourceRange": {
+      "start": 58,
+      "end": 1972
+    },
+    "translations": {
+      "zh": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished.",
+      "en": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.\nLayout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.\nPhysics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.\nHand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.\nKnife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.\nRepeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.\nDrop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.\nRun locally, test interactions and repeated cutting, and iterate until polished."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "games-interactive",
+    "useCase": "Interactive soft-body physics demo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates the exact UI, 'Soft Studies / No. 001 Strawberry Cake' layout, Hand interactions (squishing, indenting, releasing with soft wobble), and Knife slicing functionality that splits the soft tetrahedral mesh into multiple interactive pieces dynamically."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

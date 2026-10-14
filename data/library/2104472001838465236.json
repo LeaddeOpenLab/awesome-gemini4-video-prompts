@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T09:52:46.059Z",
+  "model": "opus5.5",
+  "prompt": "Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU",
+  "promptTranslations": {
+    "en": "Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU"
+  },
+  "summary": "The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.",
+  "summaryEn": "Opus 5.5 Applore Product Promo Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104472001838465236",
+    "canonicalUrl": "https://x.com/decohack/status/2104472001838465236",
+    "author": {
+      "username": "decohack",
+      "displayName": "viggo",
+      "profileUrl": "https://x.com/decohack"
+    },
+    "publishedAt": "2026-09-28T07:23:19.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "zh",
+    "originalText": "Hi, Opus 5.5, 给我的产品做一个宣传视频，需要创意十足并且足够震撼. 👉 https://t.co/XMW1p8geoU https://t.co/4JUS4Lg2rQ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/decohack/status/2104472001838465236",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104471805675094016/img/jMqr_qmKEEmd-BPG.jpg",
+        "analysisUrl": "https://x.com/decohack/status/2104472001838465236"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 2529
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/decohack/status/2104472001838465236",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104471805675094016/img/jMqr_qmKEEmd-BPG.jpg",
+  "coverPath": "data/covers/2104472001838465236-wide.jpg",
+  "gifPath": "data/gifs/2104472001838465236.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104471805675094016",
+    "x-post:2104472001838465236"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Applore Product Promo Video",
+      "summary": "The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Hi, Opus 5.5, 给我的产品做一个宣传视频，需要创意十足并且足够震撼."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Hi, Opus 5.5, 给我的产品做一个宣传视频，需要创意十足并且足够震撼. 👉 https://t.co/XMW1p8geoU",
+        "englishText": "Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "underlying script or orchestration prompt",
+          "motion graphics/rendering framework code instructions",
+          "asset specifications",
+          "timeline and audio synchronization details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 14-second video displays a polished motion graphics promo for Applore, showcasing flying app icon grids, live search UI interaction, icon generation, and export specifications.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "url",
+          "description": "Product website link for Applore",
+          "available": true,
+          "evidence": "👉 https://t.co/XMW1p8geoU",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/decohack/status/2104472001838465236"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "Prompt requests Opus 5.5 to generate the promotional video, but the exact orchestration or code generation role is undocumented.",
+      "outputSource": "Undocumented renderer or video generation engine.",
+      "divisionEvidence": "No breakdown is provided regarding Opus code/orchestration vs rendering tools.",
+      "video": {
+        "shots": "Multiple dynamic 3D camera sweeps, zoom transitions, UI mockups, and icon particle bursts",
+        "duration": "14s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://t.co/XMW1p8geoU"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The author shares a relevant video production case attributed to Claude Opus 5.5, accompanied by the video result, meeting reference-case policy requirements despite incomplete prompt details and unknown rendering tools.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/decohack/status/2104472001838465236",
+        "start": 0,
+        "end": 67
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/decohack/status/2104472001838465236",
+        "author": "decohack",
+        "postId": "2104472001838465236",
+        "publishedAt": "2026-09-28T07:23:19.000Z"
+      },
+      "checkedAt": "2026-09-28T09:50:13.331Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/decohack/status/2104472001838465236",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.",
+    "summaryEn": "Opus 5.5 Applore Product Promo Video",
+    "originalPrompt": "Hi, Opus 5.5, 给我的产品做一个宣传视频，需要创意十足并且足够震撼. 👉 https://t.co/XMW1p8geoU",
+    "sourceRange": {
+      "start": 0,
+      "end": 67
+    },
+    "translations": {
+      "zh": "Hi, Opus 5.5, 给我的产品做一个宣传视频，需要创意十足并且足够震撼. 👉 https://t.co/XMW1p8geoU",
+      "en": "Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "underlying script or orchestration prompt",
+        "motion graphics/rendering framework code instructions",
+        "asset specifications",
+        "timeline and audio synchronization details"
+      ],
+      "evidence": "The 14-second video displays a polished motion graphics promo for Applore, showcasing flying app icon grids, live search UI interaction, icon generation, and export specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

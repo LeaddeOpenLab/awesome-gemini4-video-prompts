@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:11.042Z",
+  "model": "opus5.5",
+  "prompt": "Make a Claude history",
+  "promptTranslations": {
+    "en": "Make a Claude history"
+  },
+  "summary": "劳伦斯使用 Claude Opus 5.5 制作了一支关于 Claude 发展历程的动态信息解说视频（2021–2026），呈现极简纸质设计风格的时间轴、图表动效以及自动生成的配音与同步字幕。",
+  "summaryEn": "Claude 发展史动态解说视频",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104934916505108662",
+    "canonicalUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+    "author": {
+      "username": "LawrenceW_Zen",
+      "displayName": "劳伦斯",
+      "profileUrl": "https://x.com/LawrenceW_Zen"
+    },
+    "publishedAt": "2026-09-29T14:02:46.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。 https://t.co/PvDcRRxhA7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104934572198899712/img/-d3koVXVLNRmxn6p.jpg",
+        "analysisUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1327
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/LawrenceW_Zen/status/2105156140921434217",
+        "text": "@MeNewclear 是的 更 opus4.6 差不多",
+        "author": "LawrenceW_Zen"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/LawrenceW_Zen/status/2105156067730784264",
+        "text": "@hyunki20935769 随便弄的，没有特意调整 一句话我就发出来了",
+        "author": "LawrenceW_Zen"
+      },
+      {
+        "url": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+        "text": "劳伦斯 on X: \"用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n劳伦斯 on X: \"用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。\"\n\n\n\n劳伦斯\n\n@LawrenceW_Zen\n\n\n\n\nShow translation\n用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。\n\n\n00:00\n\n\n\n\n\n\n\n\n2:02 PM · Sep 29, 2026·1,334\nViews\n\n\n\n2\n\n5\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n劳伦斯@LawrenceW_ZenFollow\nAI 独立开发者｜专注 AI Agent 实操｜BUILD IN PUBLIC ｜写给想入门、想做得更好的人 ｜ 先完成再完美\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n劳伦斯\n\n@LawrenceW_Zen\n\n\n\n\nShow translation\n用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。\n\n\n00:00\n\n\n\n\n\n\n\n\n2:02 PM · Sep 29, 2026·1,334\nViews\n\n\n\n2\n\n5\n2\n\n\n\n\n\n\n\n\n\n创意猎人\n\n@hyunki20935769\n2h\n\n\n效果有点平\n\n\n1\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\nnewclear me\n\n@MeNewclear\n5h\n\n\n又有了些刚用 claude code 时的心气？可是我刚用了两天又发现没创造啥有用的东西，哎，瓶颈还是人啊\n\n\n1\n\n\n16\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "LawrenceW_Zen"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104934572198899712/img/-d3koVXVLNRmxn6p.jpg",
+  "coverPath": "data/covers/2104934916505108662-wide.jpg",
+  "gifPath": "data/gifs/2104934916505108662.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104934572198899712",
+    "x-post:2104934916505108662"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude 发展史动态解说视频",
+      "summary": "劳伦斯使用 Claude Opus 5.5 制作了一支关于 Claude 发展历程的动态信息解说视频（2021–2026），呈现极简纸质设计风格的时间轴、图表动效以及自动生成的配音与同步字幕。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "用 Claude Opus 5.5 做了一个视频 ：做一个 Claude 发展史\n\nOpus5.5真的厉害，配音视频字幕全都是自己做的。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "做一个 Claude 发展史",
+        "englishText": "Make a Claude history",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Agent execution environment or framework setup",
+          "Video rendering pipeline configuration (e.g. Remotion / Web Canvas / FFMPEG)",
+          "TTS audio generation and subtitle synchronization instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频呈现了一段完整的 Claude 发展史时间轴动画，自 2021 年 Anthropic 成立起至 2026 年 Mythos、Fable 与 Opus 5.5 历程，包含图表动效、节点位移、中文 TTS 配音和同步字幕，与作者描述一致。注：画质判定基于本次输入的较小规格媒体流。",
+        "textualResultQuote": "2023 年 3 月，一个叫 Claude 的聊天机器人上线了。三年半以后，它的新版本强到公司自己都不敢公开发布。这中间发生了什么？我们从头捋一遍。"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Text-to-Speech Engine",
+          "role": "voiceover audio generation",
+          "evidence": "配音视频字幕全都是自己做的。",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662"
+        },
+        {
+          "name": "Video Rendering Framework",
+          "role": "rendering motion graphics, layout timeline, and subtitles into MP4",
+          "evidence": "配音视频字幕全都是自己做的。",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662"
+        }
+      ],
+      "purpose": {
+        "label": "Claude Evolution History Explainer",
+        "topic": "explainers",
+        "tags": [
+          "claude",
+          "timeline",
+          "explainer",
+          "motion-graphics",
+          "history"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acted as an autonomous agent orchestrating scriptwriting, motion layout, audio synthesis, and final video rendering.",
+      "outputSource": "Automated code/agent rendering pipeline directed by Opus 5.5 combining generative TTS audio, subtitle timings, and web/canvas animation into MP4.",
+      "divisionEvidence": "Author stated: 'Opus5.5真的厉害，配音视频字幕全都是自己做的。' and '随便弄的，没有特意调整 一句话我就发出来了'.",
+      "video": {
+        "shots": "Multi-milestone sequential chronological timeline with dynamic typographic cards, token progress bars, and line graphs",
+        "duration": "04:57",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "Anthropic 官方公告",
+          "Wikipedia"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "作者明确展示了由 Claude Opus 5.5 端到端制作的动态解说视频作品，包含配音、字幕与时间轴视觉设计，符合 Opus 视频制作参考案例收录要求。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+        "start": 26,
+        "end": 40
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+        "author": "LawrenceW_Zen",
+        "postId": "2104934916505108662",
+        "publishedAt": "2026-09-29T14:02:46.000Z"
+      },
+      "checkedAt": "2026-09-30T05:20:38.470Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/LawrenceW_Zen/status/2104934916505108662",
+        "evidence": ""
+      }
+    },
+    "summary": "劳伦斯使用 Claude Opus 5.5 制作了一支关于 Claude 发展历程的动态信息解说视频（2021–2026），呈现极简纸质设计风格的时间轴、图表动效以及自动生成的配音与同步字幕。",
+    "summaryEn": "Claude 发展史动态解说视频",
+    "originalPrompt": "做一个 Claude 发展史",
+    "sourceRange": {
+      "start": 26,
+      "end": 40
+    },
+    "translations": {
+      "zh": "做一个 Claude 发展史",
+      "en": "Make a Claude history"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Claude Evolution History Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent execution environment or framework setup",
+        "Video rendering pipeline configuration (e.g. Remotion / Web Canvas / FFMPEG)",
+        "TTS audio generation and subtitle synchronization instructions"
+      ],
+      "evidence": "视频呈现了一段完整的 Claude 发展史时间轴动画，自 2021 年 Anthropic 成立起至 2026 年 Mythos、Fable 与 Opus 5.5 历程，包含图表动效、节点位移、中文 TTS 配音和同步字幕，与作者描述一致。注：画质判定基于本次输入的较小规格媒体流。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

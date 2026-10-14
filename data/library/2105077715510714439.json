@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T03:56:41.941Z",
+  "model": "opus5.5",
+  "prompt": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+  "promptTranslations": {
+    "en": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video."
+  },
+  "summary": "Opus 5.5 was prompted with a website to create a 30-second agency promo video using installed creative software.",
+  "summaryEn": "Agency Promo Motion Design Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105077715510714439",
+    "canonicalUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+    "author": {
+      "username": "motion_conquest",
+      "displayName": "vlad // launch videos",
+      "profileUrl": "https://x.com/motion_conquest"
+    },
+    "publishedAt": "2026-09-29T23:30:12.000Z",
+    "collectedAt": "2026-09-30T03:19:10.903Z",
+    "language": "en",
+    "originalText": "gave Opus 5.5 my website and promted:\n\nI want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.\n\njudge for yourself. we might have a couple years left",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/motion_conquest/status/2105077715510714439",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105077269014478848/img/hwIcVRh8SbcxJNEC.jpg",
+        "analysisUrl": "https://x.com/motion_conquest/status/2105077715510714439"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 474
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/motion_conquest/status/2105079297690255453",
+        "text": "@Creative_Kings1 Well there’s nothing we can do about this, might as well try to enjoy it",
+        "author": "motion_conquest"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105077269014478848/img/hwIcVRh8SbcxJNEC.jpg",
+  "coverPath": "data/covers/2105077715510714439-wide.jpg",
+  "gifPath": "data/gifs/2105077715510714439.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105077269014478848",
+    "x-post:2105077715510714439"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Agency Promo Motion Design Video",
+      "summary": "Opus 5.5 was prompted with a website to create a 30-second agency promo video using installed creative software.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "gave Opus 5.5 my website and promted:"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+        "englishText": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "agency website URL and reference context",
+          "environment and script execution details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Preview displays minimalist typography motion graphics reading 'YOU'.",
+        "textualResultQuote": "judge for yourself. we might have a couple years left"
+      },
+      "inputs": [
+        {
+          "kind": "website",
+          "description": "Author's agency website content",
+          "available": false,
+          "evidence": "gave Opus 5.5 my website",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+          "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "Agent orchestrating creative direction and software automation",
+      "outputSource": "Installed creative suite (Blender, After Effects, or Premiere)",
+      "divisionEvidence": "Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+      "video": {
+        "shots": null,
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Direct demonstration of Opus 5.5 driving motion graphics video production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/motion_conquest/status/2105077715510714439",
+        "start": 39,
+        "end": 206
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/motion_conquest/status/2105077715510714439",
+        "author": "motion_conquest",
+        "postId": "2105077715510714439",
+        "publishedAt": "2026-09-29T23:30:12.000Z"
+      },
+      "checkedAt": "2026-09-30T03:55:03.410Z",
+      "checkMethod": "video-preview",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+        "evidence": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Opus 5.5 was prompted with a website to create a 30-second agency promo video using installed creative software.",
+    "summaryEn": "Agency Promo Motion Design Video",
+    "originalPrompt": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+    "sourceRange": {
+      "start": 39,
+      "end": 206
+    },
+    "translations": {
+      "zh": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+      "en": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "agency website URL and reference context",
+        "environment and script execution details"
+      ],
+      "evidence": "Preview displays minimalist typography motion graphics reading 'YOU'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

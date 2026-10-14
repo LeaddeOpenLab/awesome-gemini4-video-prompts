@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T07:31:52.129Z",
+  "model": "opus5.5",
+  "prompt": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.",
+  "promptTranslations": {
+    "en": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim."
+  },
+  "summary": "Demonstration of a simulated quadruped robot navigating rough terrain with lidar, depth cameras, and MPC path planning, programmed by Claude Opus 5.5 and rendered in Three.js.",
+  "summaryEn": "Quadruped Robot Perception & Locomotion Simulation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109243587724755158",
+    "canonicalUrl": "https://x.com/konstantinsaifo/status/2109243587724755158",
+    "author": {
+      "username": "konstantinsaifo",
+      "displayName": "Konstantin Saifoulline",
+      "profileUrl": "https://x.com/konstantinsaifo"
+    },
+    "publishedAt": "2026-10-11T11:23:53.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "en",
+    "originalText": "This is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium. https://t.co/X327qHmuvI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109242515853340672/img/Qxt1koRkpsdFhfSA.jpg",
+        "analysisUrl": "https://x.com/konstantinsaifo/status/2109243587724755158"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 1,
+      "replyCount": 5,
+      "quoteCount": 4,
+      "viewCount": 2645
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109243604434661773",
+        "text": "Claude Opus 5.5 wrote all of it\nCAD: build123d, 625 parts, 29 kg\nPhysics: MuJoCo, convex MPC trot controller, 80 N m motors\nPerception: simulated Mid-360 + 2x D435i, elevation map, person tracking\nPlanning: A*, MPPI, footstep scoring\nFilm: three.js, real HDRI light, procedural music",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109243601787977895",
+        "text": "Every step: 121 candidate footholds scored on the map for edges, slope, roughness and reach.\nThe knee folds backward, so the shin needs room behind the foot or it hits the step nose. Opus found that one in its own tests.\n\nThe panel bottom right is the controller live: which feet touch the ground (straight from the physics contacts), body height and pitch. It pitches up to 27 degrees on the stairs.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://x.com/konstantinsaifo/status/2109243598269276396",
+        "text": "Konstantin Saifoulline on X: \"A 2.5D elevation map, 4 cm cells, fused from lidar and depth. A* over that map for the route, about 20 to 30 ms in Python on a laptop.\n\nMPPI on top: 512 possible futures, 2 s each, 10 times a second. It tracks the person, predicts where they walk and steers around.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKonstantin Saifoulline on X: \"A 2.5D elevation map, 4 cm cells, fused from lidar and depth. A* over that map for the route, about 20 to 30 ms in Python on a laptop.\n\nMPPI on top: 512 possible futures, 2 s each, 10 times a second. It tracks the person, predicts where they walk and steers around.\"\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nA 2.5D elevation map, 4 cm cells, fused from lidar and depth. A* over that map for the route, about 20 to 30 ms in Python on a laptop.\n\nMPPI on top: 512 possible futures, 2 s each, 10 times a second. It tracks the person, predicts where they walk and steers around.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:23 AM · Oct 11, 2026·65\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKonstantin Saifoulline@konstantinsaifoFollow\nFounder of @AirsupHQ\nBuilding autonomous factories in the US 🇺🇸\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nThis is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium.\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n6\n5\n38\n3.9K\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nWhat it sees with:\nLivox Mid-360 lidar, 360 x 59 deg, 200,000 points a second, 2 cm range noise 2 RealSense D435i depth cameras, front and rear, noise that grows with distance squared IMU at 200 Hz, 12 joint encoders, a load cell in each foot.\n\nAll simulated against the scene. Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n127\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nThe rough ground is a photogrammetry scan of a real 10 x 11.5 m patch of rubble, turned into a 2 cm height field that the physics, the sensors and the film share.\n\nThe barriers, boulders and crates are scans too, lit by a real HDRI of a freight yard at sunset.\n\nAll CC0 from Poly Show more\n\n\n1\n\n1\n76\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nA 2.5D elevation map, 4 cm cells, fused from lidar and depth. A* over that map for the route, about 20 to 30 ms in Python on a laptop.\n\nMPPI on top: 512 possible futures, 2 s each, 10 times a second. It tracks the person, predicts where they walk and steers around.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:23 AM · Oct 11, 2026·65\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nEvery step: 121 candidate footholds scored on the map for edges, slope, roughness and reach.\nThe knee folds backward, so the shin needs room behind the foot or it hits the step nose. Opus found that one in its own tests.\n\nThe panel bottom right is the controller live: which feet Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n100\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nClaude Opus 5.5 wrote all of it\nCAD: build123d, 625 parts, 29 kg\nPhysics: MuJoCo, convex MPC trot controller, 80 N m motors\nPerception: simulated Mid-360 + 2x D435i, elevation map, person tracking\nPlanning: A*, MPPI, footstep scoring\nFilm: three.js, real HDRI light, procedural Show more\n\n\n\n\n\n86\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109243594280210799",
+        "text": "The rough ground is a photogrammetry scan of a real 10 x 11.5 m patch of rubble, turned into a 2 cm height field that the physics, the sensors and the film share.\n\nThe barriers, boulders and crates are scans too, lit by a real HDRI of a freight yard at sunset.\n\nAll CC0 from Poly Haven. The walking person is CMU motion capture.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109243592115999132",
+        "text": "What it sees with:\nLivox Mid-360 lidar, 360 x 59 deg, 200,000 points a second, 2 cm range noise 2 RealSense D435i depth cameras, front and rear, noise that grows with distance squared IMU at 200 Hz, 12 joint encoders, a load cell in each foot.\n\nAll simulated against the scene. 8.4 million laser returns in this one run.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "text": "Konstantin Saifoulline on X: \"This is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKonstantin Saifoulline on X: \"This is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium.\"\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nThis is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:23 AM · Oct 11, 2026·3,936\nViews\n\n\n\n6\n5\n38\n21\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKonstantin Saifoulline@konstantinsaifoFollow\nFounder of @AirsupHQ\nBuilding autonomous factories in the US 🇺🇸\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nThis is what a robot dog sees.\n\nI asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. \n\nIt took 8h and $94.32 in API cost with Opus 5.5 on medium.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:23 AM · Oct 11, 2026·3,936\nViews\n\n\n\n6\n5\n38\n21\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nWhat it sees with:\nLivox Mid-360 lidar, 360 x 59 deg, 200,000 points a second, 2 cm range noise 2 RealSense D435i depth cameras, front and rear, noise that grows with distance squared IMU at 200 Hz, 12 joint encoders, a load cell in each foot.\n\nAll simulated against the scene. Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n127\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nThe rough ground is a photogrammetry scan of a real 10 x 11.5 m patch of rubble, turned into a 2 cm height field that the physics, the sensors and the film share.\n\nThe barriers, boulders and crates are scans too, lit by a real HDRI of a freight yard at sunset.\n\nAll CC0 from Poly Show more\n\n\n1\n\n1\n76\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nA 2.5D elevation map, 4 cm cells, fused from lidar and depth. A* over that map for the route, about 20 to 30 ms in Python on a laptop.\n\nMPPI on top: 512 possible futures, 2 s each, 10 times a second. It tracks the person, predicts where they walk and steers around.\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n65\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nEvery step: 121 candidate footholds scored on the map for edges, slope, roughness and reach.\nThe knee folds backward, so the shin needs room behind the foot or it hits the step nose. Opus found that one in its own tests.\n\nThe panel bottom right is the controller live: which feet Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n100\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n19h\n\n\nClaude Opus 5.5 wrote all of it\nCAD: build123d, 625 parts, 29 kg\nPhysics: MuJoCo, convex MPC trot controller, 80 N m motors\nPerception: simulated Mid-360 + 2x D435i, elevation map, person tracking\nPlanning: A*, MPPI, footstep scoring\nFilm: three.js, real HDRI light, procedural Show more\n\n\n\n\n\n86\n\n\n\n\n\n\n\n\n\n\n\nAlex Bouchard\n\n@paz_al3x\n15h\n\n\nMine just did hallway, U-turn, back to the living room in my apartment.\nIt took a lot more than 8h, and one full restart from scratch..\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n2\n100\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/konstantinsaifo/status/2109243587724755158",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109242515853340672/img/Qxt1koRkpsdFhfSA.jpg",
+  "coverPath": "data/covers/2109243587724755158-wide.jpg",
+  "gifPath": "data/gifs/2109243587724755158.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109242515853340672",
+    "x-post:2109243587724755158"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Quadruped Robot Perception & Locomotion Simulation in Three.js",
+      "summary": "Demonstration of a simulated quadruped robot navigating rough terrain with lidar, depth cameras, and MPC path planning, programmed by Claude Opus 5.5 and rendered in Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic API",
+        "authorUseConfirmed": true,
+        "evidence": "\"I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim. It took 8h and $94.32 in API cost with Opus 5.5 on medium.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.",
+        "englishText": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial instructions and system prompts",
+          "Multi-turn iteration and refinement prompts across the 8-hour session",
+          "Full generated simulation and rendering code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows the quadruped navigating rubble, avoiding a moving human, climbing stairs, and displaying depth/controller HUD panels matching the technical description.",
+        "textualResultQuote": "Claude Opus 5.5 wrote all of it\nCAD: build123d, 625 parts, 29 kg\nPhysics: MuJoCo, convex MPC trot controller, 80 N m motors\nPerception: simulated Mid-360 + 2x D435i, elevation map, person tracking\n Planning: A*, MPPI, footstep scoring\nFilm: three.js, real HDRI light, procedural music"
+      },
+      "inputs": [
+        {
+          "kind": "3d_assets",
+          "description": "Photogrammetry rubble scans, barriers, boulders, crates, and sunset freight yard HDRI.",
+          "available": true,
+          "evidence": "\"The rough ground is a photogrammetry scan of a real 10 x 11.5 m patch of rubble... All CC0 from Poly Haven.\"",
+          "sourceUrl": "https://polyhaven.com",
+          "origin": "downloaded"
+        },
+        {
+          "kind": "animation_data",
+          "description": "Motion capture data of a walking human.",
+          "available": true,
+          "evidence": "\"The walking person is CMU motion capture.\"",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109243594280210799"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "build123d",
+          "role": "Parametric CAD generation for robot anatomy",
+          "evidence": "CAD: build123d, 625 parts, 29 kg",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109243604434661773"
+        },
+        {
+          "name": "MuJoCo",
+          "role": "Physics engine and convex MPC locomotion simulation",
+          "evidence": "Physics: MuJoCo, convex MPC trot controller, 80 N m motors",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109243604434661773"
+        },
+        {
+          "name": "three.js",
+          "role": "3D scene renderer and procedural presentation camera/lighting",
+          "evidence": "Film: three.js, real HDRI light, procedural music",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109243604434661773"
+        }
+      ],
+      "purpose": {
+        "label": "Robot Perception and Locomotion Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "robotics",
+          "threejs",
+          "mujoco",
+          "simulation",
+          "autonomous-navigation"
+        ]
+      },
+      "targetModelRole": "Wrote all code across CAD generation, physics simulation, perception pipeline, navigation planning, and Three.js visualization.",
+      "outputSource": "Three.js rendering MuJoCo physics and simulated sensor outputs.",
+      "divisionEvidence": "\"Claude Opus 5.5 wrote all of it / CAD: build123d... Physics: MuJoCo... Film: three.js...\"",
+      "video": {
+        "shots": "Multiple dynamic camera angles: follow cam, top-down map view, side-by-side perception split screen, and tracking shots.",
+        "duration": "0:48",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "Poly Haven photogrammetry assets and HDRI",
+          "CMU MoCap dataset"
+        ]
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 orchestrating full-stack robotics CAD, physics, and Three.js 3D video simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "start": 32,
+        "end": 147
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "author": "konstantinsaifo",
+        "postId": "2109243587724755158",
+        "publishedAt": "2026-10-11T11:23:53.000Z"
+      },
+      "checkedAt": "2026-10-12T07:18:51.750Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of a simulated quadruped robot navigating rough terrain with lidar, depth cameras, and MPC path planning, programmed by Claude Opus 5.5 and rendered in Three.js.",
+    "summaryEn": "Quadruped Robot Perception & Locomotion Simulation in Three.js",
+    "originalPrompt": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.",
+    "sourceRange": {
+      "start": 32,
+      "end": 147
+    },
+    "translations": {
+      "zh": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.",
+      "en": "I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Robot Perception and Locomotion Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial instructions and system prompts",
+        "Multi-turn iteration and refinement prompts across the 8-hour session",
+        "Full generated simulation and rendering code"
+      ],
+      "evidence": "Video shows the quadruped navigating rubble, avoiding a moving human, climbing stairs, and displaying depth/controller HUD panels matching the technical description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

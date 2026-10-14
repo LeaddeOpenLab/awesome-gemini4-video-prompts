@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T10:42:12.017Z",
+  "model": "opus5.5",
+  "prompt": "Make the genre selection screen a cute UI using soap bubbles",
+  "promptTranslations": {
+    "en": "Make the genre selection screen a cute UI using soap bubbles"
+  },
+  "summary": "Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.",
+  "summaryEn": "Interactive Bubble Genre Selection UI in App Development",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104463774862446760",
+    "canonicalUrl": "https://x.com/asakarifa/status/2104463774862446760",
+    "author": {
+      "username": "asakarifa",
+      "displayName": "アサカリファ",
+      "profileUrl": "https://x.com/asakarifa"
+    },
+    "publishedAt": "2026-09-28T06:50:37.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "ja",
+    "originalText": "Claude Opus 5.5でアプリ開発。\nジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの https://t.co/7AEpBffeHW",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/asakarifa/status/2104463774862446760",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104462833257971712/img/JRitlqFXI28ywt1S.jpg",
+        "analysisUrl": "https://x.com/asakarifa/status/2104463774862446760"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 30
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/asakarifa/status/2104463774862446760",
+        "text": "アサカリファ on X: \"Claude Opus 5.5でアプリ開発。\nジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nアサカリファ on X: \"Claude Opus 5.5でアプリ開発。\nジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの\"\n\n\n\nアサカリファ\n@asakarifa\n\n\n\n\nShow translation\nClaude Opus 5.5でアプリ開発。\nジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの\n\n\n00:00\n\n\n\n\n\n\n\n\n6:50 AM · Sep 28, 2026·30\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nアサカリファ@asakarifaFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nアサカリファ\n@asakarifa\n\n\n\n\nShow translation\nClaude Opus 5.5でアプリ開発。\nジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの\n\n\n00:00\n\n\n\n\n\n\n\n\n6:50 AM · Sep 28, 2026·30\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "asakarifa"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/asakarifa/status/2104463774862446760",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104462833257971712/img/JRitlqFXI28ywt1S.jpg",
+  "coverPath": "data/covers/2104463774862446760-wide.jpg",
+  "gifPath": "data/gifs/2104463774862446760.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104462833257971712",
+    "x-post:2104463774862446760"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Bubble Genre Selection UI in App Development",
+      "summary": "Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5でアプリ開発。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ジャンル選択の画面をシャボン玉を使って可愛いuiにして",
+        "englishText": "Make the genre selection screen a cute UI using soap bubbles",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact complete prompt text",
+          "Application framework / codebase context",
+          "System prompt and component styling parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a mobile app screen recording where interactive soap bubbles float with category icons and text, expanding into sub-bubbles when tapped.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Mobile app environment / simulator",
+          "role": "Renders and executes the bubble UI code generated by Claude Opus 5.5",
+          "evidence": "The video displays an interactive mobile simulator screen recording of the app UI.",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generated the code and component design for the bubble genre selection UI",
+      "outputSource": "Mobile app simulator / runtime environment",
+      "divisionEvidence": "The author specifies asking Claude Opus 5.5 to create the genre selection UI with bubbles ('Claude Opus 5.5でアプリ開発。ジャンル選択の画面をシャボン玉を使って可愛いuiにしてって頼んだら一発出しで出てきたもの'), with the result executed and recorded on a mobile device/simulator.",
+      "video": {
+        "shots": "Single continuous screen capture of mobile UI interactions",
+        "duration": "00:14",
+        "aspectRatio": "9:18",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive animated UI scene generated with Claude Opus 5.5 accompanied by a screen recording of the resulting functionality.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/asakarifa/status/2104463774862446760",
+        "start": 23,
+        "end": 50
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/asakarifa/status/2104463774862446760",
+        "author": "asakarifa",
+        "postId": "2104463774862446760",
+        "publishedAt": "2026-09-28T06:50:37.000Z"
+      },
+      "checkedAt": "2026-09-28T10:23:59.827Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/asakarifa/status/2104463774862446760",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.",
+    "summaryEn": "Interactive Bubble Genre Selection UI in App Development",
+    "originalPrompt": "ジャンル選択の画面をシャボン玉を使って可愛いuiにして",
+    "sourceRange": {
+      "start": 23,
+      "end": 50
+    },
+    "translations": {
+      "zh": "ジャンル選択の画面をシャボン玉を使って可愛いuiにして",
+      "en": "Make the genre selection screen a cute UI using soap bubbles"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact complete prompt text",
+        "Application framework / codebase context",
+        "System prompt and component styling parameters"
+      ],
+      "evidence": "The video shows a mobile app screen recording where interactive soap bubbles float with category icons and text, expanding into sub-bubbles when tapped."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

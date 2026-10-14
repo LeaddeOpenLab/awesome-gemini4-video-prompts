@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T10:42:02.488Z",
+  "model": "opus5.5",
+  "prompt": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little",
+  "promptTranslations": {
+    "en": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little"
+  },
+  "summary": "Sundry Mill tests Claude Opus 5.5 to generate a single-file looping HTML, inline SVG, and CSS animation of a hillside town transitioning from sunrise to night.",
+  "summaryEn": "Looping Hillside Town SVG/CSS Animation with Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104474025674326065",
+    "canonicalUrl": "https://x.com/SundryMill/status/2104474025674326065",
+    "author": {
+      "username": "SundryMill",
+      "displayName": "Sundry Mill",
+      "profileUrl": "https://x.com/SundryMill"
+    },
+    "publishedAt": "2026-09-28T07:31:21.000Z",
+    "collectedAt": "2026-09-28T09:53:50.447Z",
+    "language": "en",
+    "originalText": "Testing the capabilities of Opus 5.5 and just one-shotted this animation.\n\nPrompt below https://t.co/1MhpKiOGsl",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SundryMill/status/2104474025674326065",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104473998176436224/img/ywk7GGRzDsSBbc-U.jpg",
+        "analysisUrl": "https://x.com/SundryMill/status/2104474025674326065"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/SundryMill/status/2104474025674326065",
+        "text": "Sundry Mill on X: \"Testing the capabilities of Opus 5.5 and just one-shotted this animation.\n\nPrompt below\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSundry Mill on X: \"Testing the capabilities of Opus 5.5 and just one-shotted this animation.\n\nPrompt below\"\n\n\n\nSundry Mill\n\n@SundryMill\n\n\n\n\nTesting the capabilities of Opus 5.5 and just one-shotted this animation.\n\nPrompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n7:31 AM · Sep 28, 2026·3\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSundry Mill@SundryMillFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nSundry Mill\n\n@SundryMill\n\n\n\n\nTesting the capabilities of Opus 5.5 and just one-shotted this animation.\n\nPrompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n7:31 AM · Sep 28, 2026·3\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nSundry Mill\n\n@SundryMill\n2h\n\n\nUsed this prompt \n\n“Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little Show more\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "SundryMill"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/SundryMill/status/2104474025674326065",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104473998176436224/img/ywk7GGRzDsSBbc-U.jpg",
+  "coverPath": "data/covers/2104474025674326065-wide.jpg",
+  "gifPath": "data/gifs/2104474025674326065.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104473998176436224",
+    "x-post:2104474025674326065"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Looping Hillside Town SVG/CSS Animation with Opus 5.5",
+      "summary": "Sundry Mill tests Claude Opus 5.5 to generate a single-file looping HTML, inline SVG, and CSS animation of a hillside town transitioning from sunrise to night.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Testing the capabilities of Opus 5.5 and just one-shotted this animation."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little",
+        "englishText": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remaining prompt instructions truncated by X Show More button"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 12-second looping animation of a hillside town going through sunrise, daytime, dusk with windows lighting up, night with stars fading in, a train crossing the viaduct, and returning to dawn.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript.",
+          "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+          "status": "prohibited"
+        },
+        {
+          "name": "SVG/CSS/HTML",
+          "role": "Rendering engine",
+          "evidence": "in a single HTML file using only inline SVG and CSS animations, no JavaScript",
+          "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Generates the standalone HTML, inline SVG structure, and CSS keyframe animations",
+      "outputSource": "Browser SVG/CSS renderer",
+      "divisionEvidence": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript.",
+      "video": {
+        "shots": "Single static wide shot",
+        "duration": "12s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Valid reference case showing Claude Opus 5.5 generating pure SVG and CSS animation code rendered as a looping video illustration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SundryMill/status/2104474025674326065",
+        "start": 935,
+        "end": 1190
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SundryMill/status/2104474025674326065",
+        "author": "SundryMill",
+        "postId": "2104474025674326065",
+        "publishedAt": "2026-09-28T07:31:21.000Z"
+      },
+      "checkedAt": "2026-09-28T10:03:32.253Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+        "evidence": ""
+      }
+    },
+    "summary": "Sundry Mill tests Claude Opus 5.5 to generate a single-file looping HTML, inline SVG, and CSS animation of a hillside town transitioning from sunrise to night.",
+    "summaryEn": "Looping Hillside Town SVG/CSS Animation with Opus 5.5",
+    "originalPrompt": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little",
+    "sourceRange": {
+      "start": 935,
+      "end": 1190
+    },
+    "translations": {
+      "zh": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little",
+      "en": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript. A small hillside town goes from sunrise to night and back in a 12 second loop: windows light up one by one at dusk, stars fade in, a little"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Sundry Mill tests Claude Opus 5.5 to generate a single-file looping HTML, inline SVG, and CSS animation of a hillside town transitioning from sunrise to night.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remaining prompt instructions truncated by X Show More button"
+      ],
+      "evidence": "The video shows a 12-second looping animation of a hillside town going through sunrise, daytime, dusk with windows lighting up, night with stars fading in, a train crossing the viaduct, and returning to dawn."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

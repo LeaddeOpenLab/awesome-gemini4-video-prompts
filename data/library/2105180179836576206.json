@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:10:58.725Z",
+  "model": "opus5.5",
+  "prompt": "Generate an approximately 3-minute video explaining the major planets of the Solar System. Make it an educational explainer understandable for high schoolers, then cover the Milky Way galaxy. Visuals should be stunning and convey the vastness of the cosmos, accompanied by bilingual Chinese-English subtitles.",
+  "promptTranslations": {
+    "en": "Generate an approximately 3-minute video explaining the major planets of the Solar System. Make it an educational explainer understandable for high schoolers, then cover the Milky Way galaxy. Visuals should be stunning and convey the vastness of the cosmos, accompanied by bilingual Chinese-English subtitles."
+  },
+  "summary": "Educational astronomy video detailing the Solar System planets and the Milky Way galaxy, generated using Opus 5.5 with Remotion and Three.js.",
+  "summaryEn": "Solar System and Milky Way Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105180179836576206",
+    "canonicalUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+    "author": {
+      "username": "Grace_sunnyy",
+      "displayName": "小莎研 AI",
+      "profileUrl": "https://x.com/Grace_sunnyy"
+    },
+    "publishedAt": "2026-09-30T06:17:21.000Z",
+    "collectedAt": "2026-09-30T06:50:02.363Z",
+    "language": "zh",
+    "originalText": "花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。 https://t.co/fdtmK150Q6",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105174617463922688/img/zAMU9h2Wn-ynEz_4.jpg",
+        "analysisUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Grace_sunnyy/status/2105180361928130979",
+        "text": "他先对照 NASA 官方数据写旁白，自己去网上找到行星、太阳和星空的图片（ Solar System Scope 网站），再用 Remotion + three.js渲染贴图行星和粒子银河，银河系用几十万粒子的旋臂点云，背景用真实银河星空全景。3D 镜头推拉摇移。按配音时长自动排时间轴，叠上双语字幕，抽帧检查后出片。",
+        "author": "Grace_sunnyy"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Grace_sunnyy/status/2105180285520486816",
+        "text": "提示词：帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。",
+        "author": "Grace_sunnyy"
+      },
+      {
+        "url": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+        "text": "小莎研 AI on X: \"花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n小莎研 AI on X: \"花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。\"\n\n\n\n小莎研 AI\n@Grace_sunnyy\n\n\n\n\nShow translation\n花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。\n\n\n00:00\n\n\n\n\n\n\n\n\n6:17 AM · Sep 30, 2026·24\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n小莎研 AI@Grace_sunnyyFollow\nAI爱好者，专注探索与研究各类AI工具，热衷于实践与分享应用体验。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n小莎研 AI\n@Grace_sunnyy\n\n\n\n\nShow translation\n花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。\n\n\n00:00\n\n\n\n\n\n\n\n\n6:17 AM · Sep 30, 2026·24\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n小莎研 AI\n@Grace_sunnyy\n1h\n\n\n他先对照 NASA 官方数据写旁白，自己去网上找到行星、太阳和星空的图片（ Solar System Scope 网站），再用 Remotion + three.js渲染贴图行星和粒子银河，银河系用几十万粒子的旋臂点云，背景用真实银河星空全景。3D 镜头推拉摇移。按配音时长自动排时间轴，叠上双语字幕，抽帧检查后出片。\n\n\n\n\n\n13\n\n\n\n\n\n\n\n\n\n\n\n小莎研 AI\n@Grace_sunnyy\n1h\n\n\n提示词：帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。\n\n\n\n\n\n15\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Grace_sunnyy"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105174617463922688/img/zAMU9h2Wn-ynEz_4.jpg",
+  "coverPath": "data/covers/2105180179836576206-wide.jpg",
+  "gifPath": "data/gifs/2105180179836576206.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105174617463922688",
+    "x-post:2105180179836576206"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Solar System and Milky Way Explainer",
+      "summary": "Educational astronomy video detailing the Solar System planets and the Milky Way galaxy, generated using Opus 5.5 with Remotion and Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5做的一个科普视频"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。",
+        "englishText": "Generate an approximately 3-minute video explaining the major planets of the Solar System. Make it an educational explainer understandable for high schoolers, then cover the Milky Way galaxy. Visuals should be stunning and convey the vastness of the cosmos, accompanied by bilingual Chinese-English subtitles.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Complete code pipeline script",
+          "Specific workflow configuration files"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Full 3-minute video showing Solar System planets, 3D transitions, Milky Way particle visualizations, voiceover, and bilingual subtitles.",
+        "textualResultQuote": "他先对照 NASA 官方数据写旁白，自己去网上找到行星、太阳和星空的图片（ Solar System Scope 网站），再用 Remotion + three.js渲染贴图行星和粒子银河"
+      },
+      "inputs": [
+        {
+          "kind": "image_textures",
+          "description": "Planet, Sun, and starry background textures from Solar System Scope.",
+          "available": true,
+          "evidence": "自己去网上找到行星、太阳和星空的图片（ Solar System Scope 网站）",
+          "sourceUrl": "https://www.solarsystemscope.com",
+          "origin": "downloaded"
+        },
+        {
+          "kind": "reference_data",
+          "description": "Planetary data referenced from NASA official records.",
+          "available": true,
+          "evidence": "他先对照 NASA 官方数据写旁白",
+          "sourceUrl": "https://www.nasa.gov",
+          "origin": "searched"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "edge-tts",
+          "role": "Voiceover synthesis",
+          "evidence": "edge-tts 配音",
+          "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "ffprobe",
+          "role": "Media inspection and audio-video sync verification",
+          "evidence": "ffprobe校验",
+          "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Mixkit",
+          "role": "Background audio source",
+          "evidence": "Mixkit 配乐",
+          "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Remotion",
+          "role": "Programmatic video framework and timeline management",
+          "evidence": "Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线",
+          "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D celestial sphere and particle spiral arm rendering",
+          "evidence": "用 Remotion + three.js渲染贴图行星和粒子银河",
+          "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180361928130979",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Solar System and Milky Way Educational Explainer",
+        "topic": "explainers",
+        "tags": [
+          "remotion",
+          "threejs",
+          "astronomy",
+          "particle-system",
+          "bilingual-subtitles"
+        ]
+      },
+      "targetModelRole": "Code orchestration, script writing, data curation, and timeline alignment.",
+      "outputSource": "Remotion and Three.js renderer execution driven by Claude-generated code.",
+      "divisionEvidence": "他先对照 NASA 官方数据写旁白，自己去网上找到行星...再用 Remotion + three.js渲染贴图行星和粒子银河...按配音时长自动排时间轴",
+      "video": {
+        "shots": "Multi-shot sequential 3D camera pan, tilt, and zoom across planets, asteroid belt, and galactic particle views.",
+        "duration": "03:20",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "NASA official data",
+          "Solar System Scope planet textures"
+        ]
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production combining prompt, execution pipeline, and full rendered video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Grace_sunnyy/status/2105180285520486816",
+        "start": 4,
+        "end": 88
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+        "author": "Grace_sunnyy",
+        "postId": "2105180179836576206",
+        "publishedAt": "2026-09-30T06:17:21.000Z"
+      },
+      "checkedAt": "2026-09-30T07:25:54.511Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180285520486816",
+        "evidence": ""
+      }
+    },
+    "summary": "Educational astronomy video detailing the Solar System planets and the Milky Way galaxy, generated using Opus 5.5 with Remotion and Three.js.",
+    "summaryEn": "Solar System and Milky Way Explainer",
+    "originalPrompt": "帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。",
+    "sourceRange": {
+      "start": 4,
+      "end": 88
+    },
+    "translations": {
+      "zh": "帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。",
+      "en": "Generate an approximately 3-minute video explaining the major planets of the Solar System. Make it an educational explainer understandable for high schoolers, then cover the Milky Way galaxy. Visuals should be stunning and convey the vastness of the cosmos, accompanied by bilingual Chinese-English subtitles."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Solar System and Milky Way Educational Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete code pipeline script",
+        "Specific workflow configuration files"
+      ],
+      "evidence": "Full 3-minute video showing Solar System planets, 3D transitions, Milky Way particle visualizations, voiceover, and bilingual subtitles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

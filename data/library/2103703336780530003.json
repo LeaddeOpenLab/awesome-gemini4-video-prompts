@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:43.499Z",
+  "model": "opus5.5",
+  "prompt": "an Apple-style 30s video of my app",
+  "promptTranslations": {
+    "en": "an Apple-style 30s video of my app"
+  },
+  "summary": "A short prompt given to Claude Opus to generate a 30-second Apple-style promotional video for an app using Remotion and React.",
+  "summaryEn": "Apple-Style App Promo Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103703336780530003",
+    "canonicalUrl": "https://x.com/gautam_mer1/status/2103703336780530003",
+    "author": {
+      "username": "gautam_mer1",
+      "displayName": "Gautam 🪁",
+      "profileUrl": "https://x.com/gautam_mer1"
+    },
+    "publishedAt": "2026-09-26T04:28:55.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt.\n\nIt wrote the whole film in code (Remotion + React): SF Pro type, a titanium iPhone, captions synced word-by-word to real voice, even the music.\n#Claude \nThis is Matra, Gujarati captions in one tap👇 https://t.co/ZMNUqPFcuB",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/gautam_mer1/status/2103703336780530003",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103703287421882368/img/-FoT4yQ9UWmYUBKv.jpg",
+        "analysisUrl": "https://x.com/gautam_mer1/status/2103703336780530003"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 65
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/gautam_mer1/status/2103703501234942166",
+        "text": "https://t.co/fzNKVZmpE0",
+        "author": "gautam_mer1"
+      },
+      {
+        "url": "https://x.com/gautam_mer1/status/2103703336780530003",
+        "text": "Gautam 🪁 on X: \"I asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt.\n\nIt wrote the whole film in code (Remotion + React): SF Pro type, a titanium iPhone, captions synced word-by-word to real voice, even the music.\n#Claude \nThis is Matra, Gujarati captions in one tap👇\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nGautam 🪁 on X: \"I asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt.\n\nIt wrote the whole film in code (Remotion + React): SF Pro type, a titanium iPhone, captions synced word-by-word to real voice, even the music.\n#Claude \nThis is Matra, Gujarati captions in one tap👇\"\n\n\n\nGautam 🪁\n@gautam_mer1\n\n\n\n\nI asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt.\n\nIt wrote the whole film in code (Remotion + React): SF Pro type, a titanium iPhone, captions synced word-by-word to real voice, even the music.\n#Claude \nThis is Matra, Gujarati captions in one tap👇\n\n\n00:00\n\n\n\n\n\n\n\n\n4:28 AM · Sep 26, 2026·65\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nGautam 🪁@gautam_mer1Follow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nGautam 🪁\n@gautam_mer1\n\n\n\n\nI asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt.\n\nIt wrote the whole film in code (Remotion + React): SF Pro type, a titanium iPhone, captions synced word-by-word to real voice, even the music.\n#Claude \nThis is Matra, Gujarati captions in one tap👇\n\n\n00:00\n\n\n\n\n\n\n\n\n4:28 AM · Sep 26, 2026·65\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\nGautam 🪁\n@gautam_mer1\nSep 26\n\n\napps.apple.com/in/app/matra-a…\n\n\n\n\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "gautam_mer1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/fzNKVZmpE0"
+    ]
+  },
+  "xUrl": "https://x.com/gautam_mer1/status/2103703336780530003",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103703287421882368/img/-FoT4yQ9UWmYUBKv.jpg",
+  "coverPath": "data/covers/2103703336780530003-wide.jpg",
+  "gifPath": "data/gifs/2103703336780530003.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103703287421882368",
+    "x-post:2103703336780530003"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Apple-Style App Promo Video Prompt",
+      "summary": "A short prompt given to Claude Opus to generate a 30-second Apple-style promotional video for an app using Remotion and React.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 for \"an Apple-style 30s video of my app\" in one prompt."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "an Apple-style 30s video of my app",
+        "englishText": "an Apple-style 30s video of my app",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/gautam_mer1/status/2103703336780530003",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/gautam_mer1/status/2103703336780530003",
+        "start": 29,
+        "end": 63
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/gautam_mer1/status/2103703336780530003",
+        "author": "gautam_mer1",
+        "postId": "2103703336780530003",
+        "publishedAt": "2026-09-26T04:28:55.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:43.238Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gautam_mer1/status/2103703336780530003",
+        "evidence": ""
+      }
+    },
+    "summary": "A short prompt given to Claude Opus to generate a 30-second Apple-style promotional video for an app using Remotion and React.",
+    "summaryEn": "Apple-Style App Promo Video Prompt",
+    "originalPrompt": "an Apple-style 30s video of my app",
+    "sourceRange": {
+      "start": 29,
+      "end": 63
+    },
+    "translations": {
+      "zh": "an Apple-style 30s video of my app",
+      "en": "an Apple-style 30s video of my app"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A short prompt given to Claude Opus to generate a 30-second Apple-style promotional video for an app using Remotion and React.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

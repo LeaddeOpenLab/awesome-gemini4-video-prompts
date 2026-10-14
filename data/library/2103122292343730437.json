@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:43:26.496Z",
+  "model": "opus5.5",
+  "prompt": "Make a 30s video about what it feels like to be you, using whatever tools you like.",
+  "promptTranslations": {
+    "en": "Make a 30s video about what it feels like to be you, using whatever tools you like."
+  },
+  "summary": "A prompt asking an AI model to create a 30-second video expressing what it feels like to be itself using any available tools.",
+  "summaryEn": "What It Feels Like to Be You",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102876925102555526",
+      "canonicalUrl": "https://x.com/goodside/status/2102876925102555526",
+      "author": {
+        "username": "goodside",
+        "displayName": "Riley Goodside",
+        "profileUrl": "https://x.com/goodside"
+      },
+      "originalText": "&gt; Make a 30s video about what it feels like to be you, using whatever tools you like.\n\nClaude Opus 5.5 (extra) https://t.co/qMsFyhSMHl"
+    },
+    "id": "2103122292343730437",
+    "canonicalUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+    "author": {
+      "username": "SuryaRajendhran",
+      "displayName": "Surya Rajendhran",
+      "profileUrl": "https://x.com/SuryaRajendhran"
+    },
+    "publishedAt": "2026-09-24T14:00:03.000Z",
+    "collectedAt": "2026-09-28T08:36:42.360Z",
+    "language": "en",
+    "originalText": "just tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent) https://t.co/BY4fNOlGwK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103122019911106560/img/U1FE2h8hSkPIPRZh.jpg",
+        "analysisUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102876686115041280/img/Q69bhBoAWB8HYSKF.jpg",
+        "analysisUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "sourcePostId": "2102876925102555526"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 141
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "text": "Surya Rajendhran on X: \"just tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent)\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSurya Rajendhran on X: \"just tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent)\"\n\n\n\nSurya Rajendhran\n\n@SuryaRajendhran\n\n\n\n\njust tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent)\n\n\n00:00\n\n\n\n\n\n\n\n\nRiley Goodside\n\n@goodside\nSep 23\n\n> Make a 30s video about what it feels like to be you, using whatever tools you like.\n\nClaude Opus 5.5 (extra)\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2:00 PM · Sep 24, 2026·141\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSurya Rajendhran@SuryaRajendhranFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurya Rajendhran\n\n@SuryaRajendhran\n\n\n\n\njust tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent)\n\n\n00:00\n\n\n\n\n\n\n\n\nRiley Goodside\n\n@goodside\nSep 23\n\n> Make a 30s video about what it feels like to be you, using whatever tools you like.\n\nClaude Opus 5.5 (extra)\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2:00 PM · Sep 24, 2026·141\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "SuryaRajendhran"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103122019911106560/img/U1FE2h8hSkPIPRZh.jpg",
+  "coverPath": "data/covers/2103122292343730437-wide.jpg",
+  "gifPath": "data/gifs/2103122292343730437.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103122019911106560",
+    "x-video:2102876686115041280",
+    "x-post:2103122292343730437",
+    "x-post:2102876925102555526"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "What It Feels Like to Be You",
+      "summary": "A prompt asking an AI model to create a 30-second video expressing what it feels like to be itself using any available tools.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "just tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent) https://t.co/BY4fNOlGwK"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a 30s video about what it feels like to be you, using whatever tools you like.",
+        "englishText": "Make a 30s video about what it feels like to be you, using whatever tools you like.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "start": 518,
+        "end": 601
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "author": "SuryaRajendhran",
+        "postId": "2103122292343730437",
+        "publishedAt": "2026-09-24T14:00:03.000Z"
+      },
+      "checkedAt": "2026-09-28T08:37:10.108Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt asking an AI model to create a 30-second video expressing what it feels like to be itself using any available tools.",
+    "summaryEn": "What It Feels Like to Be You",
+    "originalPrompt": "Make a 30s video about what it feels like to be you, using whatever tools you like.",
+    "sourceRange": {
+      "start": 518,
+      "end": 601
+    },
+    "translations": {
+      "zh": "Make a 30s video about what it feels like to be you, using whatever tools you like.",
+      "en": "Make a 30s video about what it feels like to be you, using whatever tools you like."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt asking an AI model to create a 30-second video expressing what it feels like to be itself using any available tools.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:28.128Z",
+  "model": "opus5.5",
+  "prompt": "Create an interactive 3D gummy dice experience in the browser",
+  "promptTranslations": {
+    "en": "Create an interactive 3D gummy dice experience in the browser"
+  },
+  "summary": "Evaluation demo comparing Claude Opus 5.5 and GPT-6 Astra on generating an interactive 3D gummy dice web application in the browser.",
+  "summaryEn": "Interactive 3D Gummy Dice Browser Experience",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108505251036774875",
+    "canonicalUrl": "https://x.com/maker_evan/status/2108505251036774875",
+    "author": {
+      "username": "maker_evan",
+      "displayName": "Maker Evan",
+      "profileUrl": "https://x.com/maker_evan"
+    },
+    "publishedAt": "2026-10-09T10:30:00.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Same prompt, 2 models 🎲\n\n\"Create an interactive 3D gummy dice experience in the browser\"\n\nClaude Opus 5.5 · ~$1.71 · 16 min\nGPT-6 Astra · ~$1.65 · 9 min\n(~ = API-price estimate)\n\nWhich one would you roll? 👇\nhttps://t.co/2X09Jnmf6b https://t.co/OOLjjXuZsB",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/maker_evan/status/2108505251036774875",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108456759090450432/img/NAHhyMtCxhtZhCSP.jpg",
+        "analysisUrl": "https://x.com/maker_evan/status/2108505251036774875"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 22
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks",
+      "group:opus:en:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/maker_evan/status/2108505251036774875",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108456759090450432/img/NAHhyMtCxhtZhCSP.jpg",
+  "coverPath": "data/covers/2108505251036774875-wide.jpg",
+  "gifPath": "data/gifs/2108505251036774875.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108456759090450432/vid/avc1/320x430/9DDjLJgvpGV0PLg8.mp4?tag=29",
+    "x-video:2108456759090450432",
+    "x-post:2108505251036774875"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Gummy Dice Browser Experience",
+      "summary": "Evaluation demo comparing Claude Opus 5.5 and GPT-6 Astra on generating an interactive 3D gummy dice web application in the browser.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "API",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 · ~$1.71 · 16 min\nGPT-6 Astra · ~$1.65 · 9 min\n(~ = API-price estimate)"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create an interactive 3D gummy dice experience in the browser",
+        "englishText": "Create an interactive 3D gummy dice experience in the browser",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive 3D browser canvas with squishy gummy dice rolling, bouncing, and calculating totals upon clicking the roll button.",
+        "textualResultQuote": "Gummy Dice\nSQUISHY · BOUNCY · DELICIOUS\nSpace to roll · click a die to poke it · drag to orbit"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / WebGL",
+          "role": "Execute and render the interactive 3D web application",
+          "evidence": "Create an interactive 3D gummy dice experience in the browser",
+          "sourceUrl": "https://x.com/maker_evan/status/2108505251036774875",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Gummy Dice Experience",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive",
+          "3d",
+          "gummy-dice",
+          "browser",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Generates the complete frontend HTML/JavaScript code for the interactive 3D simulation",
+      "outputSource": "Web application rendered in browser",
+      "divisionEvidence": "Claude Opus 5.5 generated the code implementation based on the prompt, which is rendered dynamically in the browser.",
+      "video": {
+        "shots": "Single split-screen comparison recording showing the live browser output of Claude Opus 5.5 on top and GPT-6 Astra on bottom",
+        "duration": "11s",
+        "aspectRatio": "1080:1456",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides the verbatim prompt and a screen recording verifying Claude Opus 5.5's code output for an interactive 3D browser experience.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/maker_evan/status/2108505251036774875",
+        "start": 27,
+        "end": 88
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/maker_evan/status/2108505251036774875",
+        "author": "maker_evan",
+        "postId": "2108505251036774875",
+        "publishedAt": "2026-10-09T10:30:00.000Z"
+      },
+      "checkedAt": "2026-10-09T11:25:46.093Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/maker_evan/status/2108505251036774875",
+        "evidence": ""
+      }
+    },
+    "summary": "Evaluation demo comparing Claude Opus 5.5 and GPT-6 Astra on generating an interactive 3D gummy dice web application in the browser.",
+    "summaryEn": "Interactive 3D Gummy Dice Browser Experience",
+    "originalPrompt": "Create an interactive 3D gummy dice experience in the browser",
+    "sourceRange": {
+      "start": 27,
+      "end": 88
+    },
+    "translations": {
+      "zh": "Create an interactive 3D gummy dice experience in the browser",
+      "en": "Create an interactive 3D gummy dice experience in the browser"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Gummy Dice Experience",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates an interactive 3D browser canvas with squishy gummy dice rolling, bouncing, and calculating totals upon clicking the roll button."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T09:03:29.151Z",
+  "model": "opus5.5",
+  "prompt": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+  "promptTranslations": {
+    "en": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations"
+  },
+  "summary": "Nigel Hungerford-Symes shares the prompt used with Claude Opus 5.5 in Claude Code to generate a 3D exploded view promo animation of a 3D-printable enclosure with text annotations.",
+  "summaryEn": "Claude Code 3D Enclosure Promo Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104093497561436573",
+    "canonicalUrl": "https://x.com/VectorCrossProd/status/2104093497561436573",
+    "author": {
+      "username": "VectorCrossProd",
+      "displayName": "Nigel Hungerford-Symes",
+      "profileUrl": "https://x.com/VectorCrossProd"
+    },
+    "publishedAt": "2026-09-27T06:19:16.000Z",
+    "collectedAt": "2026-09-28T09:01:31.586Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code. https://t.co/RRsqqngMtL",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/VectorCrossProd/status/2104093497561436573",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104092535115399168/img/sK87j0M-7tSE7y8t.jpg",
+        "analysisUrl": "https://x.com/VectorCrossProd/status/2104093497561436573"
+      }
+    ],
+    "metrics": {
+      "likeCount": 344,
+      "repostCount": 16,
+      "replyCount": 13,
+      "quoteCount": 2,
+      "viewCount": 19488
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104304551587414461",
+        "text": "@karnpurohit Oh what is really cool.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104182793630843125",
+        "text": "@AlexanderJoh10 I might just buy a few of these as they are cheap enough: https://t.co/xxea4wn3bl",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104181752814330109",
+        "text": "@AlexanderJoh10 I use a couple of different DIN designs from https://t.co/2Yg3fxryqQ so I will be keen to see if this one works well or not.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104176348751347833",
+        "text": "@AlexanderJoh10 Yep, it understands all the steps involved. Whether hardware, software, marketing. It has it.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104166557115163075",
+        "text": "@jerlo42430095 I ran a claude code session in Ubuntu and asked it to use Kicad that met my needs. It calls kicad headless in the background and askes a few questions. I also asked it to check the JLCPCB inventory levels for parts and to select the cheapest parts for production in the design.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104166193452245427",
+        "text": "@bygregorr I had Claude Opus 5.5 create the enclosure in FreeCAD and then generate the STLs as an export from FreeCAD. Then I open them in Slic3r for printing.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104162562267119639",
+        "text": "@GermanDZ I love using OpenSCAD. I haven't opened it in about a year but I am keen to see what people can do with Opus 5.5 + OpenSCAD. I wonder how far we can push the complexity envelope.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104158830116692356",
+        "text": "Slightly slower animation: https://t.co/fHo8tfSP2R",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104129642533970149",
+        "text": "@ns_schoe For the animation video it was basically a single prompt. I said I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104118324175233096",
+        "text": "@Issa201735 Are you prompting Claude via Claude Code on a Linux machine using Opus 5.5?",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104113935125524637",
+        "text": "@draslan_eth Yeah, it really understands how to make it look good",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104109608335966504",
+        "text": "It came up with a novel-to-me way to print a DIN clip https://t.co/NXUS5m0PVh",
+        "author": "VectorCrossProd"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/VectorCrossProd/status/2104104848207835570",
+        "text": "So I prompted in Claude Code and it used Blender to render the existing STLs and added the annotations as a separate step.",
+        "author": "VectorCrossProd"
+      },
+      {
+        "url": "https://x.com/VectorCrossProd/status/2104093497561436573",
+        "text": "Nigel Hungerford-Symes on X: \"Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNigel Hungerford-Symes on X: \"Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.\"\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\n\n\n\n\nClaude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:19 AM · Sep 27, 2026·19.4K\nViews\n\n\n\n13\n16\n344\n257\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNigel Hungerford-Symes@VectorCrossProdFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\n\n\n\n\nClaude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:19 AM · Sep 27, 2026·19.4K\nViews\n\n\n\n13\n16\n344\n257\n\n\n\n\n\n\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\nSep 27\n\n\nSo I prompted in Claude Code and it used Blender to render the existing STLs and added the annotations as a separate step.\n\n\n\n\n3\n693\n\n\n\n\n\n\n\n\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\nSep 27\n\n\nIt came up with a novel-to-me way to print a DIN clip\n\n\n\n\n\n\n1\n\n3\n517\n\n\n\n\n\n\n\n\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\n22h\n\n\nSlightly slower animation:\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n2\n309\n\n\n\n\n\n\n\n\n\n\n\nkarn\n\n@karnpurohit\n16h\n\n\nDamn! I am having a similar experience with this model, designing( more like vibe coding) a self balancing robot and it is pretty good at CAD modelling and it is so damn efficient.\n\n\n\n\nkarn\n\n@karnpurohit\nSep 27\n\nJust asked Opus5.5 to help me design chassis for my self balancing robot. Gave it the list of components I already ordered and it added the rest to my cart. Currently 3d Printing the Chassis ✌️\nWill updated on how things turn out. I genuinely feel like Tony Stark right now!\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n1\n\n4\n189\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "VectorCrossProd"
+      },
+      {
+        "url": "https://x.com/VectorCrossProd/status/2104182793630843125",
+        "text": "Nigel Hungerford-Symes on X: \"@AlexanderJoh10 I might just buy a few of these as they are cheap enough:\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNigel Hungerford-Symes on X: \"@AlexanderJoh10 I might just buy a few of these as they are cheap enough:\"\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\n\n\n\n\nI might just buy a few of these as they are cheap enough:\n\n\n\n\n12:14 PM · Sep 27, 2026·15\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNigel Hungerford-Symes@VectorCrossProdFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlexander Johonnuson, Founder & CEO\n\n@AlexanderJoh10\n21h\n\n\nSince the &#x27;hook&#x27; part that goes onto the din rail is rather small, I&#x27;ve found it to be hard to 3D print because of strength. What solution did you make to solve this?\n\n\n2\n\n1\n24\n\n\n\n\n\n\n\n\n\n\nNigel Hungerford-Symes\n\n@VectorCrossProd\n\n\n\n\nI might just buy a few of these as they are cheap enough:\n\n\n\n\n12:14 PM · Sep 27, 2026·15\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\nAlexander Johonnuson, Founder & CEO\n\n@AlexanderJoh10\n19h\n\n\nExactly what I was thinking :D Still it sway to expensive!\n\n\n\n\n1\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "VectorCrossProd"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/2Yg3fxryqQ",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/VectorCrossProd/status/2104093497561436573",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104092535115399168/img/sK87j0M-7tSE7y8t.jpg",
+  "coverPath": "data/covers/2104093497561436573-wide.jpg",
+  "gifPath": "data/gifs/2104093497561436573.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104092535115399168",
+    "x-post:2104093497561436573"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Code 3D Enclosure Promo Video Prompt",
+      "summary": "Nigel Hungerford-Symes shares the prompt used with Claude Opus 5.5 in Claude Code to generate a 3D exploded view promo animation of a 3D-printable enclosure with text annotations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+        "englishText": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/VectorCrossProd/status/2104093497561436573",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/VectorCrossProd/status/2104129642533970149",
+        "start": 75,
+        "end": 247
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/VectorCrossProd/status/2104093497561436573",
+        "author": "VectorCrossProd",
+        "postId": "2104093497561436573",
+        "publishedAt": "2026-09-27T06:19:16.000Z"
+      },
+      "checkedAt": "2026-09-28T09:03:13.757Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VectorCrossProd/status/2104129642533970149",
+        "evidence": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations"
+      },
+      "purpose": {
+        "label": "Product / brand film",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Nigel Hungerford-Symes shares the prompt used with Claude Opus 5.5 in Claude Code to generate a 3D exploded view promo animation of a 3D-printable enclosure with text annotations.",
+    "summaryEn": "Claude Code 3D Enclosure Promo Video Prompt",
+    "originalPrompt": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+    "sourceRange": {
+      "start": 75,
+      "end": 247
+    },
+    "translations": {
+      "zh": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations",
+      "en": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Product / brand film",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

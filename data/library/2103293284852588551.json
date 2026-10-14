@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T16:59:32.638Z",
+  "model": "opus5.5",
+  "prompt": "make a modern slick and punchy video for a modern startup that works on inference",
+  "promptTranslations": {
+    "en": "make a modern slick and punchy video for a modern startup that works on inference"
+  },
+  "summary": "ShipVideo / LaunchVideo uses Claude Opus 5.5 to write deterministic HTML/CSS motion graphics from a URL or prompt, which a serverless OpenComputer agent renders into 1080p MP4 via Playwright and FFmpeg without conventional video generative models.",
+  "summaryEn": "ShipVideo: Automated Launch Video Generation via Claude Opus 5.5 and Headless Chromium",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103293284852588551",
+    "canonicalUrl": "https://x.com/Dontgiveup_26/status/2103293284852588551",
+    "author": {
+      "username": "Dontgiveup_26",
+      "displayName": "돈벌고영",
+      "profileUrl": "https://x.com/Dontgiveup_26"
+    },
+    "publishedAt": "2026-09-25T01:19:31.000Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
+    "language": "ko",
+    "originalText": "지금 글로벌 AI 빌더와 오픈소스 씬이 발칵 뒤집힌 이유.\n\n최근 영상 제작까지 미친 성능을 보여주는 'Opus 5.5'를 활용해 고퀄리티 런칭 영상을 뽑아내는 오픈소스 'ShipVideo'가 등장함.\n\nSora나 Runway 같은 비디오 모델 하나 없이 오퍼스가 직접 코드를 짜서 렌더링하는 방식. 어렵게 프롬프트 깎을 필요도 없이, 사이트 URL 하나만 넣으면 컬러·폰트·문구를 싹 긁어와 30초 만에 완벽한 홍보 비디오(MP4)를 제작함.\n\n누구나 무료로 사용할 수 있는 오픈소스 링크와 특징은 👇 (타래)",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Dontgiveup_26/status/2103293284852588551",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103292788129607681/img/FrdMCiwjEE2Zxbbh.jpg",
+        "analysisUrl": "https://x.com/Dontgiveup_26/status/2103293284852588551"
+      }
+    ],
+    "metrics": {
+      "likeCount": 241,
+      "repostCount": 67,
+      "replyCount": 14,
+      "quoteCount": 4,
+      "viewCount": 13160
+    },
+    "matchedRuleIds": [
+      "group:opus:ko:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Dontgiveup_26/status/2103293287104909452",
+        "text": "ShipVideo가 주목받는 이유와 핵심 특징:\n\n1. 비디오 모델 탈피 (Opus 5.5 + 코드 렌더링)\n- 무겁고 비싼 비디오 생성 AI(Sora 등)를 전혀 쓰지 않음.\n- Opus 5.5가 단일 HTML/CSS 모션 코드를 작성하고, 서버리스 브라우저가 프레임 단위로 초정밀 렌더링함.\n\n2. 실시간에 가까운 초고속 생성 (30초 영상에 30~40초)\n- 기존 생성형 비디오의 긴 대기 시간과 텍스트 왜곡 현상이 '0%'.\n- 가상 시계(Virtual Clock) 기반으로 ffmpeg 인코딩을 거쳐 텍스트와 UI가 칼같이 선명한 1080p MP4로 출력.\n\n3. URL 입력 한 번으로 브랜드 자동 추출\n- 제품 링크만 붙여넣으면 타이틀, 카피, 대표 컬러(Hex), 폰트 스타일을 자동 추출해 브랜드 무드에 딱 맞춘 20~40초 런칭 필름 완성.\n\n4. 어디에 써먹을 수 있는가? ① SaaS / 신규 서비스 런칭 홍보 영상 (X, 링크드인, 프로덕트헌트용)\n② 랜딩페이지 및 웹사이트 내 제품 소개 비디오\n③ 텍스트 프롬프트 기반 마케팅 숏폼 영상 양산\n④ 사이드 프로젝트 쇼케이스 및 포트폴리오 영상\n\n5. 원클릭 배포 & 100% 무료 오픈소스\n- Next.js + OpenComputer 기반으로 누구나 자기 계정에 즉시 무료 셀프 호스팅 가능.\n\n* 단, 실사나 3D 그래픽 영상보다는 텍스트·UI 중심의 세련된 키네틱 타이포그래피 및 모션 그래픽 런칭 영상에 최적화되어 있음.\n\n🔗 라이브 데모: https://t.co/JNEN8k0req\n🔗 깃허브 오픈소스: https://t.co/XcnO4cjC31",
+        "author": "Dontgiveup_26"
+      },
+      {
+        "url": "https://launchvideo.io/",
+        "text": "LaunchVideo\nShip a launch video.\nPaste a URL or describe the product. Opus 5.5 writes the film and a serverless agent renders it. About four minutes and roughly 100k tokens per video.\nURLPromptchoose one\ntry an exampleShip it\nexamples\nMade by this page, untouched.\n\nEach one is a single run: a URL or a prompt in, an MP4 out. No edits.\n\n0:31\nNVIDIA\nnvidia.com\nuse this input →\n0:34\nJev, by TypeSafe AI\ntypesafe.ai\nuse this input →\n0:33\nOpenComputer\nopencomputer.dev\nuse this input →\n0:34\nLinear\nlinear.app\nuse this input →\n0:32\nInfera (from a prompt)\n“make a modern slick and punchy video for a modern startup that works on inference”\nuse this input →\n\nhow it runs\nA serverless agent on OpenComputer. Yours in one click.\nThe whole product is one agent file, three tools, and this form. OpenComputer runs the agent, the microVM it renders in, the model gateway, and the session API the page polls.\nAgentOne OpenComputer serverless agent, defined in TypeScript and deployed with opencomputer deploy. No framework, no queue, no server of ours.\nModelanthropic/claude-opus-5.5 through OpenComputer&#x27;s model gateway. Roughly 90k input and 15k output tokens per film, most of it the HTML itself.\nRuntimeEvery job is one session in a fresh microVM: Amazon Linux 2023 on arm64, 4 vCPU, 8 GB RAM, Node 22. The first tool call installs Playwright&#x27;s headless Chromium and a static ffmpeg (about a minute); the VM is thrown away after.\nToolsThree defineTool functions. web_fetch returns page text plus title, headings, the most used hex colors, and Google Fonts. check_scene loads the film and reports JS errors and the visible text at sample timestamps. render_video renders and uploads.\nRenderingNo video model. The page&#x27;s clocks (requestAnimationFrame, timers, Date, CSS and Web Animations) are replaced with a virtual clock, so every frame is a deterministic seek. 1920x1080 at 30 fps, JPEG frames piped into libx264, crf 18.\nStorageThe agent holds no secrets. The form mints a Vercel Blob upload token scoped to one path for three hours, parks it in a per-job manifest, and the tool fetches it by job id. The finished MP4 is a public Blob URL.\nControl planeThis page uses the same API the CLI does: create a session, send one turn, poll the event stream (tool.started, tool.completed, turn.completed) to show progress, and treat the MP4 appearing in Blob as done.\n// opencomputer/agents/director/agent.ts\nimport { useInput, useModel, useTool } from \"@opencomputer/agent\";\nimport { checkScene, renderVideo } from \"./tools/scene.js\";\nimport { webFetch } from \"./tools/web.js\";\n\nexport default function Agent() {\n  const input = useInput();           // the JOB block from the form\n  useModel(\"anthropic/claude-opus-5.5\");\n  useTool(webFetch);                  // read the product&#x27;s site\n  useTool(checkScene);                // load the HTML, report errors + visible text\n  useTool(renderVideo);               // headless Chromium → ffmpeg → Blob\n  return `You are a motion designer who writes code. ...`;\n}\nDeploy this agent\nOne click. Free account, the agent lands in your project with its tools and prompt.\nClone the repo\ndiggerhq/shipvideo: the agent, the renderer, and this web app.\nBuild your own agent\nThe quickstart: a TypeScript file, a deploy, a session. Ten minutes.\n\n$npx opencomputer template deploy https://github.com/diggerhq/shipvideocopy\n\nEverything above is in the repo, and one click deploys it to your account. The idea comes from Deedy&#x27;s post on Opus 5.5 and instructional video: the model writes the film as code, and code renders the same every time.\na serverless agent on opencomputer.dev · anthropic/claude-opus-5.5 · no video modeldeploygithubdocs\n",
+        "kind": "linked_public_material",
+        "author": "Dontgiveup_26"
+      },
+      {
+        "url": "https://github.com/diggerhq/shipvideo",
+        "text": "\n\n\n\n  \n\n\n\n\n\n\n\n  \n    \n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n  \n\n  \n\n    \n    \n    \n    \n  \n\n\n  \n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  GitHub - diggerhq/shipvideo: Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it. · GitHub\n\n\n\n  \n  \n  \n  \n\n    \n  \n\n\n  \n\n\n    \n\n\n  \n  \n\n  \n  \n\n    \n\n\n\n\n\n\n\n  \n\n  \n\n\n\n\n    \n\n  \n\n    \n\n    \n\n      \n\n      \n\n    \n    \n    \n\n      \n  \n  \n\n\n\n\n      \n\n\n\n        \n\n\n  \n  \n  \n  \n\n  \n\n      \n\n    \n\n  \n\n  \n  \n\n\n\n    \n\n    \n  \n\n\n  \n\n\n  \n\n  \n  \n\n  \n  \n  \n\n\n\n\n\n  \n\n  \n\n  \n    \n      \n\n      \n\n    \n      Skip to content\n\n      \n    \n      \n      \n\n\n\n\n\n  \n  \n  \n\n\n\n\n\n\n\n      \n\n          \n\n\n\n\n  \n  \n  \n\n\n\n\n          \n\n                \n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  Navigation Menu\n\nSign inAppearance settings\n\n\nSearch/\n\nSign in\nSign upAppearance settings\n\n\n\n\n\n\n\n\n\n\n\n\n      \n  \n        \n    \n\n        You signed in with another tab or window. Reload to refresh your session.\n        You signed out in another tab or window. Reload to refresh your session.\n        You switched accounts on another tab or window. Reload to refresh your session.\n\n      \n    \n\nDismiss alert\n\n\n  \n\n\n    \n\n\n  \n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n  \n    \n\n  \n    \n      \n    \n\n    \n    \n      \n      {{ message }}\n\n\n    \n\n  \n\n\n\n  \n\n\n\n\n    \n\n\n\n\n\n\n  \n        \n    \n      \n      \n    \n\n\n    \n\n\n\n\n\n\n\n\n  \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n\n\nRepository navigation\n\n\n\n\n\n\n  \n\n\n\n\n    \n    \n\n\n\n    \n      \n    \n\n\n\n\n\n\n\n\n\n  \n  \n     \nshipvideo\nPublic\n\n\nNotificationsYou must be signed in to change notification settings\nFork37 (37)\nStar331 (331)You must be signed in to star a repository\n\n\n\nAbout\nPaste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.\nopencomputer.dev\nResources\nReadme\nActivity\nCustom properties\n\nStars\n331 stars\nWatchers\n1 watching\nForks\n37 forks\n\n\nReport repository\n\n\n\n\n\nmain\n\n\n\nBranchesTags\n\n\n\n\n\nGo to file\n\nCodeOpen more actions menu\n\n\n\nLatest commit\n \n\nHistory\n7 Commits\n7 Commits\n\n\n\n\nFolders and files\nNameNameLast commit message\nLast commit date\nopencomputer\n\n\n\nopencomputer\n\n\n\n \n \n\nweb\n\n\n\nweb\n\n\n\n \n \n\n.gitignore\n\n\n\n.gitignore\n\n\n\n \n \n\nREADME.md\n\n\n\nREADME.md\n\n\n\n \n \n\noc-template.toml\n\n\n\noc-template.toml\n\n\n\n \n \n\npackage-lock.json\n\n\n\npackage-lock.json\n\n\n\n \n \n\npackage.json\n\n\n\npackage.json\n\n\n\n \n \n\ntsconfig.json\n\n\n\ntsconfig.json\n\n\n\n \n \n\nView all files\n\n\nRepository files navigation\n\n\nLaunchVideo (launchvideo.io)\n\n\nLive: https://launchvideo.io\n\nPaste a URL or a prompt, get a 20 to 40 second launch video. No video model:\nOpus 5.5 writes a single HTML film and a serverless agent on OpenComputer\nrenders it frame by frame in headless Chromium, encodes it with ffmpeg, and\nsaves the MP4 to the session workspace so it can be downloaded straight away.\nSame mechanism as the \"Opus 5.5 is incredible at instructional video\ngeneration\" demo (Opus wrote JS, rendered via a headless browser + ffmpeg),\npackaged behind a one-field form.\n\nopencomputer/   the OpenComputer project (one agent, `director`, model anthropic/claude-opus-5.5)\noc-template.toml  one-click deploy manifest\nweb/            Next.js app: the form and two API routes — no storage of its own\n\n\n\nDeploy the agent to your own OpenComputer account\n\n\nOne click: https://app.opencomputer.dev/new?repository-url=https%3A%2F%2Fgithub.com%2Fdiggerhq%2Fshipvideo\n\nOr from a terminal:\n\nnpx opencomputer template deploy https://github.com/diggerhq/shipvideo\n\n\n\nThe agent works on its own in the playground or the CLI: it writes the MP4 to\n/workspace/videos/<job>.mp4, the session's shared workspace, and reports the\npath. Download it from the session's workspace files in the dashboard, or with\nopencomputer session files download <session-id> videos/<job>.mp4. The\nweb/ frontend adds the form and signs that same file for download.\n\nHow a job flows\n\n\n\nPOST /api/jobs validates the input, mints a job id, creates an\nOpenComputer session, waits for runtime.connected, and sends one turn\nwhose text is a JOB block (job id, mode, input).\n\nThe agent (url mode) fetches the page with web_fetch, which also extracts\ntitle, description, headings, the most used hex colors, and Google Fonts.\n\nIt writes the film as one HTML document (1920x1080, CSS keyframes or a\nrAF loop), runs check_scene (loads it under the virtual clock, reports JS\nerrors and the visible text at several timestamps), fixes, then calls\nrender_video.\n\nrender_video renders every frame with Playwright's arm64 headless shell\nunder an injected virtual clock (rAF, timers, Date, and CSS/WAAPI animations\nare all driven by __seek(t)), pipes JPEG frames into a static ffmpeg\n(libx264, crf 18, yuv420p, faststart), and copies the finished MP4 to\n/workspace/videos/<job>.mp4 in the session workspace.\n\nGET /api/jobs/<id>?session=<sid> reads the session's events to derive a\nphase, and reports done with a signed download URL as soon as\nPOST /sessions/<id>/workspace/download finds the MP4.\n\n\nThe runtime is a fresh Amazon Linux 2023 arm64 microVM per session (node 22,\ndnf, no browser), so the first tool call installs playwright-core, ffmpeg-static,\nthe Chromium shared libs, and Noto fonts into ~/.shipvideo on the local disk\n(about a minute). Rendering runs at roughly real time: a 30 s film takes 30-40 s.\n\nRun it\n\n\nnpm install && npx opencomputer link --create-project shipvideo && npx opencomputer deploy --watch\ncd web && npm install && vercel link && vercel env pull .env.local\n# add to web/.env.local: OPENCOMPUTER_API_KEY=... and OC_AGENT_ID=shipvideo@development\ncd web && npm run dev\n\n\n\nThat is the whole setup: the web app needs nothing but the OpenComputer API\nkey. No object storage, no tokens to hand the agent — the video lives in the\nsession workspace and the API signs a download for it.\n\nGotchas\n\n\n\nTurns carry a plain string (POST /sessions/:id/turns {input}), so the job\nfields ride in the prompt text and the model copies the job id into\nrender_video.\n\nNo <video>, <audio>, <iframe>, CSS transitions, Math.random, or\nexternal images in a scene; the tools reject the first three and the prompt\nforbids the rest so renders stay deterministic.\n\n@sparticuz/chromium does not ship arm64 builds; Playwright's\nchromium-headless-shell does, and needs the dnf libs listed in\nopencomputer/agents/director/tools/renderer.ts.\n\n\n\n\n\n\n\n\n\n\nAbout\nPaste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.\nopencomputer.dev\nResources\nReadme\nActivity\nCustom properties\n\nStars\n331 stars\nWatchers\n1 watching\nForks\n37 forks\n\n\nReport repository\n\nReleases\n\n\n\nPackages\n\n\nContributors\n\n\nLanguages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   \n\n\n\n\n\n\n  \n\n\n\n\n    \n  \n\n\n  \n\n\n          \n  Footer\n\n\n  \n\n\n  \n    \n      \n        \n    \n\n\n      \n        &copy; 2026 GitHub, Inc.\n      \n    \n\n\n    \n  \n\n\n\n\n\n    \n\n\n\n\n  \n    \n    \n\n    \n      \n    \n\n    \n    You can’t perform that action at this time.\n  \n\n\n    \n  \n    \n    \n      \n        \n    \n\n      \n      \n\n    \n  \n\n\n    \n  \n  \n\n\n\n\n    \n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n\n\n\n    \n\n    \n\n    \n\n  \n\n\n",
+        "kind": "linked_public_material",
+        "author": "Dontgiveup_26"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Dontgiveup_26/status/2103293284852588551",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103292788129607681/img/FrdMCiwjEE2Zxbbh.jpg",
+  "coverPath": "data/covers/2103293284852588551-wide.jpg",
+  "gifPath": "data/gifs/2103293284852588551.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103292788129607681",
+    "x-post:2103293284852588551"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "ShipVideo: Automated Launch Video Generation via Claude Opus 5.5 and Headless Chromium",
+      "summary": "ShipVideo / LaunchVideo uses Claude Opus 5.5 to write deterministic HTML/CSS motion graphics from a URL or prompt, which a serverless OpenComputer agent renders into 1080p MP4 via Playwright and FFmpeg without conventional video generative models.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "OpenComputer",
+        "authorUseConfirmed": true,
+        "evidence": "Model anthropic/claude-opus-5.5 through OpenComputer's model gateway. Roughly 90k input and 15k output tokens per film, most of it the HTML itself."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a modern slick and punchy video for a modern startup that works on inference",
+        "englishText": "make a modern slick and punchy video for a modern startup that works on inference",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete agent system prompt instructions (`You are a motion designer who writes code...`)",
+          "Exact tool schema definitions and prompt template orchestration"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording captures multiple rendered launch videos playing in sync (NVIDIA, Jev, OpenComputer, Linear, Infera) featuring kinetic typography, vector animations, and UI layouts.",
+        "textualResultQuote": "Each one is a single run: a URL or a prompt in, an MP4 out. No edits."
+      },
+      "inputs": [
+        {
+          "kind": "text",
+          "description": "Startup concept prompt or product URL",
+          "available": true,
+          "evidence": "Infera (from a prompt): 'make a modern slick and punchy video for a modern startup that works on inference'",
+          "sourceUrl": "https://launchvideo.io/",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding from rendered frames into MP4",
+          "evidence": "pipes JPEG frames into a static ffmpeg (libx264, crf 18, yuv420p, faststart)",
+          "sourceUrl": "https://github.com/diggerhq/shipvideo",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "OpenComputer",
+          "role": "Serverless microVM agent execution environment",
+          "evidence": "A serverless agent on OpenComputer. Yours in one click.",
+          "sourceUrl": "https://launchvideo.io/",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Playwright headless Chromium",
+          "role": "Deterministic frame-by-frame HTML/CSS animation renderer using virtual clock",
+          "evidence": "render_video renders every frame with Playwright's arm64 headless shell under an injected virtual clock",
+          "sourceUrl": "https://github.com/diggerhq/shipvideo",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Automated SaaS Product Launch Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "kinetic-typography",
+          "code-rendered-video",
+          "opencomputer",
+          "launch-video"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 serves as director and motion designer, writing standalone HTML/CSS/JS motion graphic code based on extracted web content or input prompts.",
+      "outputSource": "Playwright headless Chromium via virtual clock seek piped to static FFmpeg libx264 encoding.",
+      "divisionEvidence": "Opus 5.5 writes the film and a serverless agent renders it. ... No video model: Opus 5.5 writes a single HTML film and a serverless agent on OpenComputer renders it frame by frame in headless Chromium, encodes it with ffmpeg.",
+      "video": {
+        "shots": "Multi-window demo displaying five rendered motion graphic launch videos running in parallel",
+        "duration": "22s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "https://launchvideo.io/",
+          "https://github.com/diggerhq/shipvideo"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an end-to-end production pipeline using Claude Opus 5.5 for programmatic HTML/CSS video synthesis, accompanied by screen recording and open-source implementation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://launchvideo.io/",
+        "start": 552,
+        "end": 633
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Dontgiveup_26/status/2103293284852588551",
+        "author": "Dontgiveup_26",
+        "postId": "2103293284852588551",
+        "publishedAt": "2026-09-25T01:19:31.000Z"
+      },
+      "checkedAt": "2026-10-10T16:24:13.368Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://launchvideo.io/",
+        "evidence": ""
+      }
+    },
+    "summary": "ShipVideo / LaunchVideo uses Claude Opus 5.5 to write deterministic HTML/CSS motion graphics from a URL or prompt, which a serverless OpenComputer agent renders into 1080p MP4 via Playwright and FFmpeg without conventional video generative models.",
+    "summaryEn": "ShipVideo: Automated Launch Video Generation via Claude Opus 5.5 and Headless Chromium",
+    "originalPrompt": "make a modern slick and punchy video for a modern startup that works on inference",
+    "sourceRange": {
+      "start": 552,
+      "end": 633
+    },
+    "translations": {
+      "zh": "make a modern slick and punchy video for a modern startup that works on inference",
+      "en": "make a modern slick and punchy video for a modern startup that works on inference"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Automated SaaS Product Launch Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete agent system prompt instructions (`You are a motion designer who writes code...`)",
+        "Exact tool schema definitions and prompt template orchestration"
+      ],
+      "evidence": "Screen recording captures multiple rendered launch videos playing in sync (NVIDIA, Jev, OpenComputer, Linear, Infera) featuring kinetic typography, vector animations, and UI layouts."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

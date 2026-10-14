@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:10.147Z",
+  "model": "opus5.5",
+  "prompt": "create an animated explainer about the OG Postgres",
+  "promptTranslations": {
+    "en": "create an animated explainer about the OG Postgres"
+  },
+  "summary": "Claude Opus 5.5 was prompted to generate an animated explainer video covering the history and advantages of PostgreSQL, featuring an animated cartoon elephant mascot.",
+  "summaryEn": "PostgreSQL Animated Explainer with Mascot Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104843907594875185",
+    "canonicalUrl": "https://x.com/kokaneka/status/2104843907594875185",
+    "author": {
+      "username": "kokaneka",
+      "displayName": "Kapeel Kokane - CodeSketched",
+      "profileUrl": "https://x.com/kokaneka"
+    },
+    "publishedAt": "2026-09-29T08:01:08.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 one-shotted this!\n\nI asked it to create an animated explainer about the OG Postgres and this is what it came up with. \n\nEven used the logo elephant as a cute cartoon. \n\nSo are YouTubers cooked or there's still hope? https://t.co/U1qnPl2diO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kokaneka/status/2104843907594875185",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2104843879115595778/pu/img/NNBhNgQV-_CgocRO.jpg",
+        "analysisUrl": "https://x.com/kokaneka/status/2104843907594875185"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 52
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/kokaneka/status/2104843907594875185",
+        "text": "Kapeel Kokane - CodeSketched on X: \"Claude Opus 5.5 one-shotted this!\n\nI asked it to create an animated explainer about the OG Postgres and this is what it came up with. \n\nEven used the logo elephant as a cute cartoon. \n\nSo are YouTubers cooked or there&#x27;s still hope?\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nKapeel Kokane - CodeSketched on X: \"Claude Opus 5.5 one-shotted this!\n\nI asked it to create an animated explainer about the OG Postgres and this is what it came up with. \n\nEven used the logo elephant as a cute cartoon. \n\nSo are YouTubers cooked or there&#x27;s still hope?\"\n\n\n\nKapeel Kokane - CodeSketched\n@kokaneka\n\n\n\n\nClaude Opus 5.5 one-shotted this!\n\nI asked it to create an animated explainer about the OG Postgres and this is what it came up with. \n\nEven used the logo elephant as a cute cartoon. \n\nSo are YouTubers cooked or there&#x27;s still hope?\n\n\n00:00\n\n\n\n\n\n\n\n\n8:01 AM · Sep 29, 2026·52\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKapeel Kokane - CodeSketched@kokanekaFollow\n• Senior dev @microsoft with 11+ years of industry experience • \nMy YouTube channel 👉 https://t.co/mNLrT0N8xK\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKapeel Kokane - CodeSketched\n@kokaneka\n\n\n\n\nClaude Opus 5.5 one-shotted this!\n\nI asked it to create an animated explainer about the OG Postgres and this is what it came up with. \n\nEven used the logo elephant as a cute cartoon. \n\nSo are YouTubers cooked or there&#x27;s still hope?\n\n\n00:00\n\n\n\n\n\n\n\n\n8:01 AM · Sep 29, 2026·52\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kokaneka"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_unavailable"
+    ]
+  },
+  "xUrl": "https://x.com/kokaneka/status/2104843907594875185",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2104843879115595778/pu/img/NNBhNgQV-_CgocRO.jpg",
+  "coverPath": "data/covers/2104843907594875185-wide.jpg",
+  "gifPath": "data/gifs/2104843907594875185.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104843879115595778",
+    "x-post:2104843907594875185"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "PostgreSQL Animated Explainer with Mascot Animation",
+      "summary": "Claude Opus 5.5 was prompted to generate an animated explainer video covering the history and advantages of PostgreSQL, featuring an animated cartoon elephant mascot.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 one-shotted this!"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create an animated explainer about the OG Postgres",
+        "englishText": "create an animated explainer about the OG Postgres",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete verbatim system prompt and user instructions",
+          "Animation engine or code runtime specifications (e.g., Remotion, Canvas, or WebGL)",
+          "Styling and asset generation parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a multi-scene animated explainer titled 'Why Postgres Won' featuring the PostgreSQL elephant mascot as an animated narrator with data charts and timeline animations.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Animation Engine / Video Renderer",
+          "role": "Executes and renders the code generated by Claude Opus into an animated video",
+          "evidence": "Claude Opus 5.5 one-shotted this! I asked it to create an animated explainer about the OG Postgres and this is what it came up with.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "PostgreSQL Architecture and History Explainer",
+        "topic": "explainers",
+        "tags": [
+          "postgresql",
+          "database",
+          "motion-graphics",
+          "cartoon-animation"
+        ]
+      },
+      "targetModelRole": "Writing code or structuring assets for the animated explainer video",
+      "outputSource": "Rendered animation / code execution",
+      "divisionEvidence": "I asked it to create an animated explainer about the OG Postgres and this is what it came up with.",
+      "video": {
+        "shots": "Multi-scene sequence with timeline, statistics, and feature highlights",
+        "duration": "00:39",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 orchestrating an animated explainer video production featuring motion graphics and cartoon animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kokaneka/status/2104843907594875185",
+        "start": 49,
+        "end": 99
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kokaneka/status/2104843907594875185",
+        "author": "kokaneka",
+        "postId": "2104843907594875185",
+        "publishedAt": "2026-09-29T08:01:08.000Z"
+      },
+      "checkedAt": "2026-09-30T06:30:14.097Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kokaneka/status/2104843907594875185",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to generate an animated explainer video covering the history and advantages of PostgreSQL, featuring an animated cartoon elephant mascot.",
+    "summaryEn": "PostgreSQL Animated Explainer with Mascot Animation",
+    "originalPrompt": "create an animated explainer about the OG Postgres",
+    "sourceRange": {
+      "start": 49,
+      "end": 99
+    },
+    "translations": {
+      "zh": "create an animated explainer about the OG Postgres",
+      "en": "create an animated explainer about the OG Postgres"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "PostgreSQL Architecture and History Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete verbatim system prompt and user instructions",
+        "Animation engine or code runtime specifications (e.g., Remotion, Canvas, or WebGL)",
+        "Styling and asset generation parameters"
+      ],
+      "evidence": "The video shows a multi-scene animated explainer titled 'Why Postgres Won' featuring the PostgreSQL elephant mascot as an animated narrator with data charts and timeline animations."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

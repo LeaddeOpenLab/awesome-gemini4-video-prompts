@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:02.750Z",
+  "model": "opus5.5",
+  "prompt": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
+  "promptTranslations": {
+    "en": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!"
+  },
+  "summary": "A prompt designed to generate a dynamic 15-second motion graphics showreel highlighting motion design skills for a resume.",
+  "summaryEn": "Motion Graphics Resume Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103395846578676116",
+    "canonicalUrl": "https://x.com/rendesr/status/2103395846578676116",
+    "author": {
+      "username": "rendesr",
+      "displayName": "rendesr",
+      "profileUrl": "https://x.com/rendesr"
+    },
+    "publishedAt": "2026-09-25T08:07:03.000Z",
+    "collectedAt": "2026-09-28T08:20:04.128Z",
+    "language": "en",
+    "originalText": "Love Claude! Opus 5.5 Max - Simple prompt: \"Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!\" idea originally from @stephanlivera https://t.co/0PO14ITYWo",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rendesr/status/2103395846578676116",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103395348689670144/img/oKCJi4CPL3rwwgaw.jpg",
+        "analysisUrl": "https://x.com/rendesr/status/2103395846578676116"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1095
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/rendesr/status/2103395846578676116",
+        "text": "rendesr on X: \"Love Claude! Opus 5.5 Max - Simple prompt: \"Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it&#x27;s your showreel for a resume!\" idea originally from @stephanlivera\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nrendesr on X: \"Love Claude! Opus 5.5 Max - Simple prompt: \"Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it&#x27;s your showreel for a resume!\" idea originally from @stephanlivera\"\n\n\n\nrendesr\n\n@rendesr\n\n\n\n\nLove Claude! Opus 5.5 Max - Simple prompt: \"Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it&#x27;s your showreel for a resume!\" idea originally from @stephanlivera\n\n\n00:00\n\n\n\n\n\n\n\n\n8:07 AM · Sep 25, 2026·1,095\nViews\n\n\n\n2\n\n9\n12\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nrendesr@rendesrFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nrendesr\n\n@rendesr\n\n\n\n\nLove Claude! Opus 5.5 Max - Simple prompt: \"Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it&#x27;s your showreel for a resume!\" idea originally from @stephanlivera\n\n\n00:00\n\n\n\n\n\n\n\n\n8:07 AM · Sep 25, 2026·1,095\nViews\n\n\n\n2\n\n9\n12\n\n\n\n\n\n\n\n\n\nJon（ジョン）\n\n@jcinjpn\nSep 25\n\n\ngroovy\n\n\n\n\n\n39\n\n\n\n\n\n\n\n\n\n\n\nY Yooga\n@yogindzen\nSep 25\n\n\nWooow\n\n\n\n\n\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "rendesr"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rendesr/status/2103395846578676116",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103395348689670144/img/oKCJi4CPL3rwwgaw.jpg",
+  "coverPath": "data/covers/2103395846578676116-wide.jpg",
+  "gifPath": "data/gifs/2103395846578676116.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103395348689670144",
+    "x-post:2103395846578676116"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Resume Showreel",
+      "summary": "A prompt designed to generate a dynamic 15-second motion graphics showreel highlighting motion design skills for a resume.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
+        "englishText": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/rendesr/status/2103395846578676116",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rendesr/status/2103395846578676116",
+        "start": 44,
+        "end": 190
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rendesr/status/2103395846578676116",
+        "author": "rendesr",
+        "postId": "2103395846578676116",
+        "publishedAt": "2026-09-25T08:07:03.000Z"
+      },
+      "checkedAt": "2026-09-28T08:21:17.213Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rendesr/status/2103395846578676116",
+        "evidence": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt designed to generate a dynamic 15-second motion graphics showreel highlighting motion design skills for a resume.",
+    "summaryEn": "Motion Graphics Resume Showreel",
+    "originalPrompt": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
+    "sourceRange": {
+      "start": 44,
+      "end": 190
+    },
+    "translations": {
+      "zh": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
+      "en": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

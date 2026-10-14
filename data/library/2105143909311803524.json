@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:00.079Z",
+  "model": "opus5.5",
+  "prompt": "Make an electrical experiment testbench",
+  "promptTranslations": {
+    "en": "Make an electrical experiment testbench"
+  },
+  "summary": "Author WY evaluated Claude Opus 5.5 against Sol 6.1 on the prompt task of building an interactive 3D electrical experiment testbench web application, praising Opus 5.5 for superior aesthetics, circuit logic, and detail handling under simple prompts.",
+  "summaryEn": "Interactive 3D Electrical Experiment Workbench Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105143909311803524",
+    "canonicalUrl": "https://x.com/akokoi1/status/2105143909311803524",
+    "author": {
+      "username": "akokoi1",
+      "displayName": "WY",
+      "profileUrl": "https://x.com/akokoi1"
+    },
+    "publishedAt": "2026-09-30T03:53:14.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "zh",
+    "originalText": "简单对比测试了Opus 5.5和Sol 6.1。\n\n同样的任务，做一个电学实验台，Opus 5.5的审美和逻辑明显强于Sol 6.1，简单提示词下，考虑到的细节更多。\n\nSol 6.1最大的进步是消耗的额度变少了，完成这个小demo，消耗Pro 5x周额度的1%。Opus 5.5的消耗也差不多是Max 5周额度的1%。\n\nOpus 5.5能力肯定是强于Sol 6.1的，从能力和额度消耗综合来看，Claude仍然是最有性价比的订阅。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/akokoi1/status/2105143909311803524",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105141998319726592/img/sQFiN3cpzRwEH7Dv.jpg",
+        "analysisUrl": "https://x.com/akokoi1/status/2105143909311803524"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/akokoi1/status/2105143909311803524",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105142020633452544/img/r1bjxo3Ey5ShJT9_.jpg",
+        "analysisUrl": "https://x.com/akokoi1/status/2105143909311803524"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 117
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/akokoi1/status/2105143909311803524",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105141998319726592/img/sQFiN3cpzRwEH7Dv.jpg",
+  "coverPath": "data/covers/2105143909311803524-wide.jpg",
+  "gifPath": "data/gifs/2105143909311803524.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105141998319726592",
+    "x-video:2105142020633452544",
+    "x-post:2105143909311803524"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Electrical Experiment Workbench Comparison",
+      "summary": "Author WY evaluated Claude Opus 5.5 against Sol 6.1 on the prompt task of building an interactive 3D electrical experiment testbench web application, praising Opus 5.5 for superior aesthetics, circuit logic, and detail handling under simple prompts.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "简单对比测试了Opus 5.5和Sol 6.1。\n\n同样的任务，做一个电学实验台，Opus 5.5的审美和逻辑明显强于Sol 6.1，简单提示词下，考虑到的细节更多。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "做一个电学实验台",
+        "englishText": "Make an electrical experiment testbench",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete user prompt and conversational turn history",
+          "Specific UI and technical stack constraints",
+          "Component simulation models and circuit solver specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recordings show fully functioning 3D circuit lab interfaces with power supplies, wiring, meters, oscilloscope curves, and dynamic circuit logic.",
+        "textualResultQuote": "同样的任务，做一个电学实验台，Opus 5.5的审美和逻辑明显强于Sol 6.1，简单提示词下，考虑到的细节更多。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js / Canvas",
+          "role": "Interactive 3D rendering engine and UI framework executing the generated circuit simulator code in the browser",
+          "evidence": "The video displays an interactive 3D workbench with rotatable camera viewpoints, wiring nodes, components, and real-time data plotting.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Electrical Experiment Workbench",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive-demo",
+          "physics-simulation",
+          "circuit-simulator",
+          "webgl",
+          "claude-opus-5-5"
+        ]
+      },
+      "targetModelRole": "Generated the full web simulation codebase, 3D scene logic, circuit calculation rules, and interactive interface based on a concise prompt.",
+      "outputSource": "Web browser executing interactive 3D simulation application",
+      "divisionEvidence": "Claude Opus 5.5 acted as the coding agent producing the web application demo, which was then rendered and operated interactively inside a browser.",
+      "video": {
+        "shots": "Single continuous screen recording showing interactive manipulation of 3D circuit testbench components and schematics",
+        "duration": "00:19",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic creator demonstration testing Claude Opus 5.5 for generative interactive 3D physics simulation development, supported by screen recording verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/akokoi1/status/2105143909311803524",
+        "start": 32,
+        "end": 40
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/akokoi1/status/2105143909311803524",
+        "author": "akokoi1",
+        "postId": "2105143909311803524",
+        "publishedAt": "2026-09-30T03:53:14.000Z"
+      },
+      "checkedAt": "2026-09-30T04:41:00.259Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/akokoi1/status/2105143909311803524",
+        "evidence": ""
+      }
+    },
+    "summary": "Author WY evaluated Claude Opus 5.5 against Sol 6.1 on the prompt task of building an interactive 3D electrical experiment testbench web application, praising Opus 5.5 for superior aesthetics, circuit logic, and detail handling under simple prompts.",
+    "summaryEn": "Interactive 3D Electrical Experiment Workbench Comparison",
+    "originalPrompt": "做一个电学实验台",
+    "sourceRange": {
+      "start": 32,
+      "end": 40
+    },
+    "translations": {
+      "zh": "做一个电学实验台",
+      "en": "Make an electrical experiment testbench"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Electrical Experiment Workbench",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete user prompt and conversational turn history",
+        "Specific UI and technical stack constraints",
+        "Component simulation models and circuit solver specifications"
+      ],
+      "evidence": "Screen recordings show fully functioning 3D circuit lab interfaces with power supplies, wiring, meters, oscilloscope curves, and dynamic circuit logic."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

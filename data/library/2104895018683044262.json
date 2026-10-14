@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:15.992Z",
+  "model": "opus5.5",
+  "prompt": "explain how an AI data center works by building one you can take apart in your browser.",
+  "promptTranslations": {
+    "en": "explain how an AI data center works by building one you can take apart in your browser."
+  },
+  "summary": "Konstantin Saifoulline showcases an interactive WebGL 3D explainer of an AI data center created with Claude Opus 5.5, allowing users to examine GPU racks, trace liquid cooling loops, pull compute trays, and simulate thermal pump failures in a web browser.",
+  "summaryEn": "Interactive 3D AI Data Center Explainer in WebGL",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104895018683044262",
+    "canonicalUrl": "https://x.com/konstantinsaifo/status/2104895018683044262",
+    "author": {
+      "username": "konstantinsaifo",
+      "displayName": "Konstantin Saifoulline",
+      "profileUrl": "https://x.com/konstantinsaifo"
+    },
+    "publishedAt": "2026-09-29T11:24:14.000Z",
+    "collectedAt": "2026-09-30T06:50:02.363Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser.\n\nOpen a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C.\n\nhttps://t.co/vWb0CUPtnm https://t.co/uQmdyOv0FL",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/konstantinsaifo/status/2104895018683044262",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104893810962534400/img/DOPV7QSjbpUfNL3w.jpg",
+        "analysisUrl": "https://x.com/konstantinsaifo/status/2104895018683044262"
+      }
+    ],
+    "metrics": {
+      "likeCount": 91,
+      "repostCount": 13,
+      "replyCount": 4,
+      "quoteCount": 3,
+      "viewCount": 4807
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2104895020750844158",
+        "text": "One of these racks draws 132 kW. A 1 GW AI campus is about 6,300 of them, using as much power as 800,000 homes.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://www.airsup.ai/lab/ai-data-center",
+        "text": "\n\n  \n    \n    \n    \n    \n    airsup lab: a fusion reactor, a rocket engine, a Cybertruck and a factory line you can take apart\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n\n\n      \n        \n        \n          The airsup lab\nA fusion reactor, a rocket engine, its turbopump, a production line, a Cybertruck and its drive unit, each one open so you can see how it works.\n\n\n          A star in a bottle\nFusion powers the Sun. Here it happens in a ring of plasma ten times hotter than the Sun&rsquo;s core, held off the walls by magnets.\n\n\n          Every line has one bottleneck\nFive stations build a drone. Change one of them and watch what happens to the whole line.\n\n\n          Inside the Raptor 3\nOpen the engine, follow the propellant and throttle it yourself.\n\n\n          One shaft, two jobs\nThe oxygen turbopump: hot gas spins a turbine, and on the same shaft a pump squeezes liquid oxygen from a few bar to hundreds.\n\n\n          Inside the Cybertruck\nA full size electric pickup on a dyno. X-ray it, pull it apart and follow the energy from 1,344 cells to three motors.\n\n\n          Inside a fighter jet engine\nA full size afterburning turbofan on a test stand. Cut it open, follow the air, then light the afterburner.\n\n\n          A flying suit you could really build\nRed and gold titanium armour over an exoskeleton, a battery to walk and six jet turbines to fly. Open it, watch a pilot step in, pull it apart and make it hover.\n\n\n          Inside a 5-axis machining centre\nA full size machine cutting an aluminium impeller while you watch. Open it, pull it apart, follow the axes, the spindle, the coolant and the chips, then switch to titanium.\n\n\n          Inside an AI data centre\nSixteen full size AI racks in a real pod layout. Follow the power, the water and the data, open a rack, pull a tray, and scale it to a gigawatt.\n\n\n          Inside a nuclear reactor\nA TRIGA research reactor at full size: a glowing blue core at the bottom of a pool 6.5 m deep. Pull the rods, scram it, or fire a pulse.\n\n\n          How a drone holds still\nAn industrial quadcopter flying in a test cage. Hit it with wind and gusts, add a payload and watch the flight controller keep it on the spot.\n\n\n          Inside a Formula 1 car\nA 2026 car at full size in a wind tunnel. Follow the air, see the pressure that holds it down, open it up and switch the wings between corner and straight mode.\n\n\n          A black hole through a portal\nLight bent by gravity, traced for every pixel. Drop a probe in, open a wormhole, or dive through yourself.\n\n\n          Inside a humanoid robot\nA walking robot at human size. Load it up, X-ray it and watch every actuator take the weight.\n\n\n          How an electric motor turns\nCut open a drive unit and watch three phase current spin a magnetic field that drags the rotor around.\n\n\n        \n\n      \n\n      \n        \n          Thrust280 tf\n\n          Chamber350 bar\n\n          Burning800 kg/s\n\n        \n\n        \n\n\n      \n\n      \n        \n          \n            Follow 1 2 3 4 5\n\n            \n              AllPlasmaMagnetsNeutronsPower\n            \n\n          \n\n          \n            Plasma 150M °C\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              RunningStart upDisruption\n            \n\n          \n\n          \n            Reactor\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Motors station\n\n            \n              1 robot2 robots\n            \n\n          \n\n          \n            Frame station 1.0×\n\n            \n          \n\n        \n\n        \n          \n            Buffers\n\n            \n              None2 each6 each\n            \n\n          \n\n          \n            Breakdowns\n\n            \n              OffOn\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow 1 2 3 4\n\n            \n              AllOxygenMethaneFire\n            \n\n          \n\n          \n            Throttle 100%\n\n            \n          \n\n        \n\n        \n          \n            Altitude\n\n            \n              Sea level14 kmVacuum\n            \n\n          \n\n          \n            Engine\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllOxygenHot gas\n            \n\n          \n\n          \n            Shaft speed 100%\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              RunningSpin startCavitation\n            \n\n          \n\n          \n            Pump\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllPowerFlightActuators\n            \n\n          \n\n        \n\n        \n          \n            Mode\n\n            \n              StandHover\n            \n\n          \n\n          \n            Pilot\n\n            \n              Suit up\n            \n\n          \n\n        \n\n        \n          \n            Suit\n\n            \n              ClosedOpenExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllMotionSpindleCoolantChips\n            \n\n          \n\n        \n\n        \n          \n            Material\n\n            \n              AluminiumTitanium\n            \n\n          \n\n          \n            Program\n\n            \n              RoughingFinishing\n            \n\n          \n\n        \n\n        \n          \n            Machine\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllPowerCoolingData\n            \n\n          \n\n        \n\n        \n          \n            Workload\n\n            \n              TrainingInferencePump failure\n            \n\n          \n\n          \n            View\n\n            \n              PodRackTray1 GW\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllNeutronsHeat\n            \n\n          \n\n          \n            Control rods 88% out\n\n            \n          \n\n        \n\n        \n          \n            Reactor\n\n            \n              SteadyPulseScram\n            \n\n          \n\n          \n            View\n\n            \n              PoolCutawayFuel element\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllAirControlSensorsPower\n            \n\n          \n\n          \n            Payload\n\n            \n              Off2.5 kg\n            \n\n          \n\n        \n\n        \n          \n            Air\n\n            \n              StillWindGusts\n            \n\n          \n\n          \n            Drone\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow\n\n            \n              AllAirPressurePower\n            \n\n          \n\n          \n            Speed 300 km/h\n\n            \n          \n\n        \n\n        \n          \n            Mode\n\n            \n              CornerStraightBrake\n            \n\n          \n\n          \n            Car\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow 1 2 3 4 5 6\n\n            \n              AllAirCoreFireHeatSpools\n            \n\n          \n\n          \n            Throttle max + AB\n\n            \n          \n\n        \n\n        \n          \n            Afterburner\n\n            \n              OffOn\n            \n\n          \n\n          \n            Engine\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Portal\n\n            \n              Black holeWormhole\n            \n\n          \n\n          \n            Mass Sgr A*\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              WatchDrop a probeDive in\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow 1 2 3 4\n\n            \n              AllActuatorsPowerHands\n            \n\n          \n\n          \n            Payload 0 kg\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              WalkSquatStand\n            \n\n          \n\n          \n            Robot\n\n            \n              WholeX-rayExplodedActuator\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n        \n          \n            Follow 1 2 3 4\n\n            \n              AllEnergyMotorsStructure\n            \n\n          \n\n          \n            Speed 100 km/h\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              CruiseLaunchRegenSteer\n            \n\n          \n\n          \n            Truck\n\n            \n              WholeX-rayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n        \n          \n            Air suspension\n\n            \n              LowNormalHigh\n            \n\n          \n\n        \n\n      \n\n      \n        \n          \n            Follow 1 2 3 4\n\n            \n              AllCurrentFieldGears\n            \n\n          \n\n          \n            Motor 7,000 rpm\n\n            \n          \n\n        \n\n        \n          \n            Scenario\n\n            \n              DriveRegenCoast\n            \n\n          \n\n          \n            Drive unit\n\n            \n              WholeCutawayExploded\n            \n\n          \n\n          \n            \n            \n          \n\n        \n\n      \n\n      \n\n      \n        \n        Follow on X\n      \n\n\n      Drag to orbit · scroll to zoom\n\n      \n\n\n      \n        \n          How to use it\n\n          Drag to orbit, scroll or pinch to zoom, right drag to pan.\n\n          Pick a machine at the bottom, or press the house to see the whole lab and click any machine in it.\n\n          \n            Cutaway slices the reactor in half. Follow lights up the plasma, the magnets or the neutrons, and Power follows the heat all the way to the lights of a city. The plasma slider sets the temperature, and the scenarios show a start up and a disruption.\n\n            The machine is modelled on ITER's published design, at small scale. Fusion power follows the measured deuterium tritium reaction rate at fixed density, tuned so 150 million °C gives ITER's target of 500 MW from 50 MW of heating (Q = 10). Losses are a simple constant confinement time. ITER has not made plasma yet; these are its design goals.\n\n          \n\n          \n            Cutaway slices the engine in half so you can see every passage. Follow lights up one propellant from the tank to the flame.\n\n            Throttle and altitude change the chamber pressure and the air outside, which is what shapes the plume and its shock diamonds.\n\n            The model is simplified from public photos and diagrams. Thrust and specific impulse follow SpaceX's published Raptor 3 figures (280 tf, 350 s) and mass flow follows from those two. Chamber pressure uses the 350 bar SpaceX has reached in Raptor testing. Everything else is an estimate.\n\n          \n\n          \n            Follow the oxygen or the hot gas through the pump, change the shaft speed, and try a spin start or cavitation. The strobe freezes the blades.\n\n            Flow follows the Raptor 3 figures; pressure and power scale with speed squared and cubed from community estimates.\n\n          \n\n          \n            Every drone passes five stations. Add a second robot at the motors station, speed up the frame station, change the buffers between stations or switch on random breakdowns, and watch output, work in progress and lead time.\n\n            A small discrete event simulation with fixed cycle times (40, 60, 45, 35 and 30 s) and random failures, running twenty times faster than real time. Lead time uses Little's law: work in progress divided by output.\n\n          \n\n          \n            Cutaway opens the engine. Follow the air around the core, the air through it, the fire, or the two spinning shafts. The afterburner sprays fuel into the exhaust and lights it again.\n\n            Modelled on the public description of the Pratt & Whitney F135 that powers the F-35: 5.59 m long, 1.17 m across, about 1,700 kg, a three stage fan of one piece titanium blisks (the first hollow and wide chord) in a composite case, six compressor stages, one high and two low pressure turbine stages on counter rotating shafts, a bypass ratio of 0.57 and an overall pressure ratio of 28. The afterburner has no spray bars or flame holders: fuel comes out of curved vanes that also hide the turbine. The nozzle has two offset sets of 15 flaps whose chevrons make the sawtooth edge. Thrust follows the published 28,000 lbf dry and 43,000 lbf with afterburner; the internal layout, temperatures and fuel flows are estimates.\n\n          \n\n          \n            Suit up opens the armour, the pilot steps out and backs in again, and the suit closes and powers up. Open and Exploded show what is under the plates. Follow the power, the flight system or the actuators, and Hover lights the six turbines.\n\n            Our own design study of what a film style armoured flying suit would take with parts that exist today, not a real product. Mass budget: 41 kg of Ti-6Al-4V armour at about 4 mm over 2.3 m&sup2;, 34 kg of exoskeleton with 24 electric actuators (motor, strain wave gear, torque sensor), 26 kg of turbines, 26 kg (32 L) of kerosene, an 18 kg 3.6 kWh battery at 400 V, 11 kg of liner, cooling and life support and 6 kg of computers and sensors: 162 kg, 242 kg with an 80 kg pilot. Flight uses six kerosene micro turbines in the class of large model jet engines and the Gravity Industries jet suit: 2 &times; 650 N on the back, 2 &times; 550 N in the calves and 2 &times; 300 N on the forearms for control, 3.0 kN against 2.37 kN of weight. Fuel burn assumes a thrust specific consumption of 0.14 kg per N per hour, so hovering uses about 5.5 kg a minute (about 4 MW of heat at 43 MJ/kg) and the fuel lasts about 4.7 minutes. Walking at 1 to 2 kW gives about 2.5 hours on the battery. Joint torques are estimates from the suit mass and human gait data. The chest light is a power hub, not a reactor: nothing that exists stores energy that densely. Flames and plume lengths are drawn for clarity.\n\n          \n\n          \n            The machine cuts an impeller while you watch. Follow the five axes, the spindle, the coolant or the chips. Material loads a new blank of aluminium or titanium. Program switches between roughing and finishing, with a tool change in between. Cutaway opens the machine along the spindle, Exploded pulls every assembly apart.\n\n            A generic 5-axis vertical machining centre with a 500 mm trunnion table, not a specific model: an 18,000 rpm motor spindle of 25 kW and 130 Nm with an HSK-A63 taper, ball screws with a 20 mm lead on roller guideways, 40 m/min rapids, direct drive torque motors on A and C, a 24 pocket chain magazine with a double arm changer, 40 L/min flood and 70 bar through spindle coolant. The part is a 232 mm impeller with seven blades and seven splitters, roughed with a 16 mm carbide end mill and finished with an 8 mm ball nose. The numbers use the standard formulas: n = vc / (π D), feed = fz × teeth × n, removal rate = ap × ae × feed, power = kc × removal rate, torque = power / ω, force = power / vc, tool deflection from a carbide cantilever (E 600 GPa, core 0.8 D). Cutting data are typical handbook values: vc 500 m/min and fz 0.12 mm in aluminium, 60 m/min and 0.1 mm in titanium, ap 8 mm and ae 6 mm for roughing. Specific cutting forces of about 700 N/mm² for aluminium and 1,900 N/mm² for titanium, cutting edge temperatures and tool life are our estimates; real values depend on the tool, the coating and the chip thickness. Cycle times come from the actual toolpath at these feeds. The cutting is shown 10 to 30 times faster than real; the metal removal is a height map of the part, and the finishing ball leaves small fillets at the blade roots as a real one would.\n\n          \n\n          \n            Follow the power from the busway to the chips, the water from the coolant unit to every cold plate, or the data through the copper spine. Workload switches between training and inference, or stops the pumps. View opens a rack, pulls a tray apart, or scales the pod up to a 1 GW campus.\n\n            Racks after NVIDIA's public GB200 NVL72 specifications: 72 Blackwell GPUs and 36 Grace CPUs in 18 compute trays with 9 NVLink switch trays, 13.4 TB of HBM3e, 130 TB/s NVLink, 720 PFLOPS dense FP4 (1,440 with sparsity), 132 kW nominal (HPE), eight 33 kW power shelves on a roughly 50 V DC busbar, direct to chip liquid cooling taking about 90% of the heat, one in-row coolant unit per eight racks. The coolant temperatures come from an energy balance at our 110 L/min per rack; the chip thermal resistance, coolant volume, idle power and the size of the training power swings are our estimates. The campus uses a PUE of 1.2 and an average American home at 1.2 kW. No vendor branding; layouts vary by builder.\n\n          \n\n          \n            Control rods sets how far the rods are pulled out: power climbs, then levels off as the fuel heats. Scram drops every rod. Pulse fires the transient rod out of a cold core for a burst of more than a gigawatt. Follow the neutrons of the chain reaction or the heat, open the shaft, or take a fuel element apart.\n\n            A TRIGA Mark I style pool reactor, the design General Atomics built for universities, at full size: a 2 m pool 6.5 m deep, about ninety uranium zirconium hydride elements with stainless cladding in hexagonal rings, a graphite reflector, three control rods and a pneumatic transient rod. The physics is point kinetics with two delayed neutron groups (β 0.007, prompt neutron generation time 40 µs) and the fuel's prompt negative temperature coefficient (5×10⁻⁵ per °C), with an excess reactivity of $3 and $2 in the transient rod. These are our estimates tuned so that 1 MW steady and a $2 pulse of about 1,200 MW and 28 MJ match what TRIGA reactors publish; details differ from reactor to reactor. The glow's brightness is drawn on a log scale.\n\n          \n\n          \n            Wind turns on the fan wall, Gusts makes it unsteady, and the payload adds 2.5 kg. Follow the air through the props, the control signals from the flight controller, what the sensors see, or the power from the batteries.\n\n            A generic industrial quadcopter at full size: 6.5 kg, 0.9 m between opposite motors, 21 inch props, two 263 Wh packs. The flight is simulated live: a rigid body held by a cascaded position and attitude controller, mixed into four motor thrusts. Power uses momentum theory with a figure of merit of 0.7 and 85% drive efficiency; rotor speed uses a thrust coefficient of 0.1. Drag area 0.12 m². Props are drawn slower than they really turn so you can see them.\n\n          \n\n          \n            Follow the air over, around and under the car, see the pressure on every surface, or trace the power from fuel and battery to the wheels. Speed sets the wind tunnel. Straight lays the wing flaps flat, Brake glows the discs and charges the battery.\n\n            A 2026 regulation car at full size from the public FIA rules: 3.4 m wheelbase, 1.9 m wide, 768 kg minimum, 18 inch wheels, active aero, about 400 kW from the V6 and 350 kW from the electric motor. Downforce and drag use ½ρv² with lift and drag areas we estimated for this kind of car (about 3.3 and 1.05 m² in corner mode, 1.3 and 0.62 m² in straight mode) and a tyre grip of 1.6; teams do not publish theirs. The pressure map is an illustration of where pressure is high and low, not a CFD result. No team livery.\n\n          \n\n          \n            The view through the portal is traced one ray per pixel through curved spacetime. Mass changes the numbers, not the picture: a black hole looks the same at any size, only the scale changes. Drop a probe to watch time slow at the horizon, or dive in.\n\n            Black hole: exact light paths in the Schwarzschild metric (no spin), a thin disk from the innermost stable orbit at three horizon radii, with relativistic Doppler beaming and gravitational redshift. Wormhole: the Ellis metric, a real solution of Einstein's equations that would need negative energy to stay open. Inside the horizon every path ends at the singularity; the jump to another universe in the dive comes from the idealised maths of an eternal black hole (the Einstein Rosen bridge), which closes too fast for anything to cross. Nobody knows what really happens there.\n\n          \n\n          \n            Payload puts a box in its hands. Follow colours every actuator by how hard it is working, traces the power from the battery in the chest, or looks at the hands, whose fingers are pulled by tendons from motors in the forearm.\n\n            A general humanoid at human scale, after the public figures for Tesla's Optimus: 1.73 m, a 2.3 kWh battery, about 100 W standing and 500 W walking, and 28 body actuators of six kinds shown at AI Day 2022: rotary joints of 20, 110 and 180 Nm (frameless motor, strain wave gear, crossed roller bearing, encoder, torque sensor) and linear screws of 500, 3,900 and 8,000 N (motor and planetary roller screw with a force sensor). Where each one sits is our best reading of public images; torques, forces and runtime are estimates from simple statics.\n\n          \n\n          \n            X-ray sweeps a scanner over the truck and shows what the steel hides. Follow the energy from the battery to the motors, the motors themselves, or the cast structure. Set a speed, or try a launch and regenerative braking. The truck stays on the dyno; its wheels drive the rollers.\n\n            Drawn from public photos at full size (5.68 m long, 3.81 m wheelbase). Mass 3,104 kg, 630 kW from three motors, a 123 kWh pack of 1,344 cells. Power follows air drag (drag area about 1.04 m²), rolling resistance of 1.1% and an 88% efficient drivetrain. Range is at a steady speed from a full pack. Tesla does not publish every detail; the inside layout is simplified.\n\n          \n\n          \n            Cutaway opens the motor across the middle. Current lights each of the 54 slots in the colour of its phase, Field shows the north and south poles the currents make, and Gears opens the two stage gearbox. Regen turns the motor into a generator.\n\n            A permanent magnet motor with 54 slots and six poles, geared about 12 to 1 (17/55 then 19/72). Motion is shown about 600 times slower than real so you can follow it. Layout simplified from public teardowns.\n\n          \n\n          Got it\n        \n\n      \n\n\n      \n        \n        \n\n        Building the lab\n      \n\n    \n\n    This interactive lab needs JavaScript and WebGL.\n\n  \n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://x.com/konstantinsaifo/status/2104895018683044262",
+        "text": "Konstantin Saifoulline on X: \"I asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser.\n\nOpen a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C.\n\nhttps://t.co/vWb0CUPtnm\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nKonstantin Saifoulline on X: \"I asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser.\n\nOpen a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C.\n\nhttps://t.co/vWb0CUPtnm\"\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nI asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser.\n\nOpen a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C.\n\nairsup.ai/lab/ai-data-ce…\n\n\n00:00\n\n\n\n\n\n\n\n\n11:24 AM · Sep 29, 2026·4,814\nViews\n\n\n\n4\n14\n92\n66\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKonstantin Saifoulline@konstantinsaifoFollow\nFounder @airsuphq\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nI asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser.\n\nOpen a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C.\n\nairsup.ai/lab/ai-data-ce…\n\n\n00:00\n\n\n\n\n\n\n\n\n11:24 AM · Sep 29, 2026·4,814\nViews\n\n\n\n4\n14\n92\n66\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n20h\n\n\nOne of these racks draws 132 kW. A 1 GW AI campus is about 6,300 of them, using as much power as 800,000 homes.\n\n\n\n1\n2\n163\n\n\n\n\n\n\n\n\n\n\n\nSamuel Batista\n\n@gamedevsam\n15h\n\n\nYou&#x27;re fired up man!\n\n\n\n\n\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/konstantinsaifo/status/2104895018683044262",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104893810962534400/img/DOPV7QSjbpUfNL3w.jpg",
+  "coverPath": "data/covers/2104895018683044262-wide.jpg",
+  "gifPath": "data/gifs/2104895018683044262.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104893810962534400",
+    "x-post:2104895018683044262"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D AI Data Center Explainer in WebGL",
+      "summary": "Konstantin Saifoulline showcases an interactive WebGL 3D explainer of an AI data center created with Claude Opus 5.5, allowing users to examine GPU racks, trace liquid cooling loops, pull compute trays, and simulate thermal pump failures in a web browser.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "explain how an AI data center works by building one you can take apart in your browser.",
+        "englishText": "explain how an AI data center works by building one you can take apart in your browser.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full interactive code generation prompt",
+          "Specific 3D scene geometry and layout instructions",
+          "Physics and thermal simulation formulas prompt"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a screen recording of an interactive 3D browser simulation navigating a Blackwell NVL72-style rack pod, tracing coolant lines, inspecting pull-out trays, and triggering a pump failure that causes temperatures to rise.",
+        "textualResultQuote": "Open a rack of 72 GPUs, follow the water that cools them, pull out a tray, then kill the pumps and watch the chips hit 100 °C."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "JavaScript / WebGL",
+          "role": "Browser 3D scene rendering and real-time interactive simulation",
+          "evidence": "This interactive lab needs JavaScript and WebGL.",
+          "sourceUrl": "https://www.airsup.ai/lab/ai-data-center",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Data Center Explainer",
+        "topic": "explainers",
+        "tags": [
+          "interactive-3d",
+          "webgl",
+          "data-center",
+          "cooling-system",
+          "gpu-cluster"
+        ]
+      },
+      "targetModelRole": "Writing the code and simulation logic to construct the browser-based interactive 3D data center model",
+      "outputSource": "Web browser rendering the JavaScript/WebGL application",
+      "divisionEvidence": "Author states 'I asked Claude Opus 5.5 to explain how an AI data center works by building one you can take apart in your browser' while the application runs client-side via JavaScript and WebGL.",
+      "video": {
+        "shots": "Single continuous interactive screen recording capturing camera orbit, tray extraction, and UI interactions",
+        "duration": "00:44",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 3D explainer application generated with Claude Opus 5.5 and verified with a corresponding screen recording; suitable under reference-case policy override despite prompt fragmentation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/konstantinsaifo/status/2104895018683044262",
+        "start": 27,
+        "end": 114
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2104895018683044262",
+        "author": "konstantinsaifo",
+        "postId": "2104895018683044262",
+        "publishedAt": "2026-09-29T11:24:14.000Z"
+      },
+      "checkedAt": "2026-09-30T07:41:38.836Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2104895018683044262",
+        "evidence": ""
+      }
+    },
+    "summary": "Konstantin Saifoulline showcases an interactive WebGL 3D explainer of an AI data center created with Claude Opus 5.5, allowing users to examine GPU racks, trace liquid cooling loops, pull compute trays, and simulate thermal pump failures in a web browser.",
+    "summaryEn": "Interactive 3D AI Data Center Explainer in WebGL",
+    "originalPrompt": "explain how an AI data center works by building one you can take apart in your browser.",
+    "sourceRange": {
+      "start": 27,
+      "end": 114
+    },
+    "translations": {
+      "zh": "explain how an AI data center works by building one you can take apart in your browser.",
+      "en": "explain how an AI data center works by building one you can take apart in your browser."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Data Center Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full interactive code generation prompt",
+        "Specific 3D scene geometry and layout instructions",
+        "Physics and thermal simulation formulas prompt"
+      ],
+      "evidence": "The video shows a screen recording of an interactive 3D browser simulation navigating a Blackwell NVL72-style rack pod, tracing coolant lines, inspecting pull-out trays, and triggering a pump failure that causes temperatures to rise."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

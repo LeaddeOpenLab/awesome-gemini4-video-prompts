@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:24.855Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Pau Kraft shares a prompt used with Opus 5.5 to create a dynamic motion graphics video highlighting a project's unique features in the style of a motion designer's résumé showreel.",
+  "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103766223133585863",
+    "canonicalUrl": "https://x.com/paukraft/status/2103766223133585863",
+    "author": {
+      "username": "paukraft",
+      "displayName": "Pau Kraft",
+      "profileUrl": "https://x.com/paukraft"
+    },
+    "publishedAt": "2026-09-26T08:38:48.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is truly a seismic shift in motion graphics\n\n⬇️ prompt below https://t.co/gVdNLfZYUW",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/paukraft/status/2103766223133585863",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103765130295021568/img/h8hlvD5GHe0PZRuA.jpg",
+        "analysisUrl": "https://x.com/paukraft/status/2103766223133585863"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 105
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/paukraft/status/2103766227717947484",
+        "text": "to be fair, the video wasn't a one-shot, I did a lot of adjusting afterwards, tough all just by prompting.\n\nOpus 5.5 is super steerable and does what you want in changing the video",
+        "author": "paukraft"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/paukraft/status/2103766225775915138",
+        "text": "I copied the prompt from someone else here and adjusted it slightly, though I sadly forgot from whom :/\n\n\"make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"",
+        "author": "paukraft"
+      },
+      {
+        "url": "https://x.com/paukraft/status/2103766223133585863",
+        "text": "Pau Kraft on X: \"Opus 5.5 is truly a seismic shift in motion graphics\n\n⬇️ prompt below\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nPau Kraft on X: \"Opus 5.5 is truly a seismic shift in motion graphics\n\n⬇️ prompt below\"\n\n\n\nPau Kraft\n\n@paukraft\n\n\n\n\nOpus 5.5 is truly a seismic shift in motion graphics\n\n⬇️ prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n8:38 AM · Sep 26, 2026·105\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPau Kraft@paukraftFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nPau Kraft\n\n@paukraft\n\n\n\n\nOpus 5.5 is truly a seismic shift in motion graphics\n\n⬇️ prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n8:38 AM · Sep 26, 2026·105\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nPau Kraft\n\n@paukraft\nSep 26\n\n\nI copied the prompt from someone else here and adjusted it slightly, though I sadly forgot from whom :/\n\n\"make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. Show more\n\n\n1\n\n\n35\n\n\n\n\n\n\n\n\n\nPau Kraft\n\n@paukraft\nSep 26\n\n\nto be fair, the video wasn&#x27;t a one-shot, I did a lot of adjusting afterwards, tough all just by prompting.\n\nOpus 5.5 is super steerable and does what you want in changing the video\n\n\n\n\n\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "paukraft"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/paukraft/status/2103766223133585863",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103765130295021568/img/h8hlvD5GHe0PZRuA.jpg",
+  "coverPath": "data/covers/2103766223133585863-wide.jpg",
+  "gifPath": "data/gifs/2103766223133585863.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103765130295021568",
+    "x-post:2103766223133585863"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Graphics Showreel Prompt",
+      "summary": "Pau Kraft shares a prompt used with Opus 5.5 to create a dynamic motion graphics video highlighting a project's unique features in the style of a motion designer's résumé showreel.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/paukraft/status/2103766223133585863",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/paukraft/status/2103766225775915138",
+        "start": 106,
+        "end": 290
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/paukraft/status/2103766223133585863",
+        "author": "paukraft",
+        "postId": "2103766223133585863",
+        "publishedAt": "2026-09-26T08:38:48.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:42.999Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/paukraft/status/2103766225775915138",
+        "evidence": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Pau Kraft shares a prompt used with Opus 5.5 to create a dynamic motion graphics video highlighting a project's unique features in the style of a motion designer's résumé showreel.",
+    "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
+    "originalPrompt": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 106,
+      "end": 290
+    },
+    "translations": {
+      "zh": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

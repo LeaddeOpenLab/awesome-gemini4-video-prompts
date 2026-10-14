@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-13T16:39:35.262Z",
+  "model": "opus5.5",
+  "prompt": "Generate the coolest and most beautiful music video representing your image of pre-computer civilization, using Blender, ComfyUI with YuE2, Miniax H3, LTX-2.5, etc.",
+  "promptTranslations": {
+    "en": "Generate the coolest and most beautiful music video representing your image of pre-computer civilization, using Blender, ComfyUI with YuE2, Miniax H3, LTX-2.5, etc."
+  },
+  "summary": "Claude Opus 5.5 orchestrated a music video about pre-computer civilization using Blender, YuE2, Miniax H3, and LTX-2.5.",
+  "summaryEn": "Pre-Computer Civilization Music Video via Multi-Tool Agent Orchestration",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107848117584543896",
+    "canonicalUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+    "author": {
+      "username": "mikumiku_aloha",
+      "displayName": "mikumiku_aloha",
+      "profileUrl": "https://x.com/mikumiku_aloha"
+    },
+    "publishedAt": "2026-10-07T14:58:47.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "ja",
+    "originalText": "あなたから見てコンピューター登場前の文明に対してのイメージを最高に格好く、最高に美しいMusic Videoを、Blender、ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して\n\nでChatGPT-6.1 Sol(1本目)とClaude Opus 5.5(2本目)に動画生成させてみた。\n\n着眼点は手作業とか似ている風あるんだけれど、\nチャッピーの方が理屈っぽくやぼったく（もしかしたらユーザーの作風が出ているかも？）クロードの方が格好良く感じる",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107847267323654144/img/-JOReq4-fsa1TJvf.jpg",
+        "analysisUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107847286353252352/img/3sY7cobDoYdfmJd6.jpg",
+        "analysisUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 120
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107847267323654144/img/-JOReq4-fsa1TJvf.jpg",
+  "coverPath": "https://pbs.twimg.com/amplify_video_thumb/2107847267323654144/img/-JOReq4-fsa1TJvf.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2107847267323654144/vid/avc1/480x270/b04nC9uDXu1jzb_i.mp4?tag=29",
+    "x-video:2107847267323654144",
+    "https://video-s.twimg.com/amplify_video/2107847286353252352/vid/avc1/480x270/Jcddj9mhms0YOSlU.mp4?tag=29",
+    "x-video:2107847286353252352",
+    "x-post:2107848117584543896"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Pre-Computer Civilization Music Video via Multi-Tool Agent Orchestration",
+      "summary": "Claude Opus 5.5 orchestrated a music video about pre-computer civilization using Blender, YuE2, Miniax H3, and LTX-2.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5(2本目)に動画生成させてみた。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "あなたから見てコンピューター登場前の文明に対してのイメージを最高に格好く、最高に美しいMusic Videoを、Blender、ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して",
+        "englishText": "Generate the coolest and most beautiful music video representing your image of pre-computer civilization, using Blender, ComfyUI with YuE2, Miniax H3, LTX-2.5, etc.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Generated workflow configs",
+          "Intermediate tool execution scripts",
+          "Sub-prompts for music and video models"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video 2 displays pre-industrial craftsmanship, astronomical tools, gears, and English vocal music titled 'Before the Machine'.",
+        "textualResultQuote": "クロードの方が格好良く感じる"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D asset rendering and gear simulation",
+          "evidence": "Blender、ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+        },
+        {
+          "name": "ComfyUI",
+          "role": "Execution platform for generative diffusion models",
+          "evidence": "ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+        },
+        {
+          "name": "LTX-2.5",
+          "role": "Video generation model",
+          "evidence": "LTX-2.5等を使って生成して",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+        },
+        {
+          "name": "Miniax H3",
+          "role": "Visual generation model",
+          "evidence": "Miniax H3",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+        },
+        {
+          "name": "YuE2",
+          "role": "Music and vocal audio generation",
+          "evidence": "ComfyUI上のYuE2",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896"
+        }
+      ],
+      "purpose": {
+        "label": "AI Music Video Orchestration",
+        "topic": "motion-graphics",
+        "tags": [
+          "music-video",
+          "orchestration",
+          "blender",
+          "ltx-video",
+          "comfyui"
+        ]
+      },
+      "targetModelRole": "High-level director and pipeline orchestrator coordinating music, 3D, and video generation tools.",
+      "outputSource": "ComfyUI and Blender pipeline rendering external video and audio components.",
+      "divisionEvidence": "Claude Opus acted as the prompt conductor, while tools like LTX-2.5, YuE2, and Blender synthesized the audiovisual media.",
+      "video": {
+        "shots": "Multiple dynamic cuts: gears, cave art, cuneiform scribes, quipu knotting, stonehenge ritual, ocean canoes, starry skies.",
+        "duration": "PT2M20S",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 directing an external video/audio pipeline to produce a finished music video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+        "start": 0,
+        "end": 104
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+        "author": "mikumiku_aloha",
+        "postId": "2107848117584543896",
+        "publishedAt": "2026-10-07T14:58:47.000Z"
+      },
+      "checkedAt": "2026-10-12T16:45:31.108Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mikumiku_aloha/status/2107848117584543896",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 orchestrated a music video about pre-computer civilization using Blender, YuE2, Miniax H3, and LTX-2.5.",
+    "summaryEn": "Pre-Computer Civilization Music Video via Multi-Tool Agent Orchestration",
+    "originalPrompt": "あなたから見てコンピューター登場前の文明に対してのイメージを最高に格好く、最高に美しいMusic Videoを、Blender、ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して",
+    "sourceRange": {
+      "start": 0,
+      "end": 104
+    },
+    "translations": {
+      "zh": "あなたから見てコンピューター登場前の文明に対してのイメージを最高に格好く、最高に美しいMusic Videoを、Blender、ComfyUI上のYuE2、Miniax H3、LTX-2.5等を使って生成して",
+      "en": "Generate the coolest and most beautiful music video representing your image of pre-computer civilization, using Blender, ComfyUI with YuE2, Miniax H3, LTX-2.5, etc."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "AI Music Video Orchestration",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Generated workflow configs",
+        "Intermediate tool execution scripts",
+        "Sub-prompts for music and video models"
+      ],
+      "evidence": "Video 2 displays pre-industrial craftsmanship, astronomical tools, gears, and English vocal music titled 'Before the Machine'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

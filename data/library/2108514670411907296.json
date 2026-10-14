@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:02.945Z",
+  "model": "opus5.5",
+  "prompt": "make a jelly koi pond",
+  "promptTranslations": {
+    "en": "make a jelly koi pond"
+  },
+  "summary": "ZyroX tests Claude Opus 5.5 and GPT-6 Astra on building an interactive jelly koi pond, demonstrating interactive physics, drag simulation, and UI controls in a side-by-side comparison screen recording.",
+  "summaryEn": "Interactive Jelly Koi Pond Simulation with Physics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108514670411907296",
+    "canonicalUrl": "https://x.com/zyroxxx111/status/2108514670411907296",
+    "author": {
+      "username": "zyroxxx111",
+      "displayName": "ZyroX",
+      "profileUrl": "https://x.com/zyroxxx111"
+    },
+    "publishedAt": "2026-10-09T11:07:26.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "en",
+    "originalText": "I just wanted a peaceful pond. Now the fish are having an earthquake and the frog has questions for the landlord 🐸😭\n\nAsked Claude Opus 5.5 and GPT-6 Astra to make a jelly koi pond\n\nOpus made an entire gummy aquarium for $12.38. Thick, transparent, little pebbles inside. Give it a pull - and the pond takes off with everyone still in it. The frog is holding onto its lily pad. The mortgage isn’t paid off yet\n\nAstra’s $15.57 pond is thinner, but the flowers are bigger and the fish have fancy patterns. Lift the edge - and the whole thing folds into a pancake. Started as a Japanese garden, ended up as a fish wrap\n\nI prefer Opus here - the jelly looks juicier, and it cost $3.19 less\n\nWho would you trust to build your frog’s home?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zyroxxx111/status/2108514670411907296",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108514588732039168/img/2oTTAuC3k9auIPTr.jpg",
+        "analysisUrl": "https://x.com/zyroxxx111/status/2108514670411907296"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest",
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/zyroxxx111/status/2108514670411907296",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108514588732039168/img/2oTTAuC3k9auIPTr.jpg",
+  "coverPath": "data/covers/2108514670411907296-wide.jpg",
+  "gifPath": "data/gifs/2108514670411907296.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108514588732039168/vid/avc1/320x400/VuztFKHhgQVMxz-O.mp4?tag=29",
+    "x-video:2108514588732039168",
+    "x-post:2108514670411907296"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Jelly Koi Pond Simulation with Physics",
+      "summary": "ZyroX tests Claude Opus 5.5 and GPT-6 Astra on building an interactive jelly koi pond, demonstrating interactive physics, drag simulation, and UI controls in a side-by-side comparison screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Claude Opus 5.5 and GPT-6 Astra to make a jelly koi pond"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a jelly koi pond",
+        "englishText": "make a jelly koi pond",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete code generation prompt",
+          "System instructions and constraints",
+          "WebGL/Three.js physics specifications and UI controls setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a live screen recording of the interactive 3D jelly koi pond with working elastic deformation, interactive drag and pull mechanics, swimming koi, pebbles, lily pads, and UI controls, matching the post description.",
+        "textualResultQuote": "Opus made an entire gummy aquarium for $12.38. Thick, transparent, little pebbles inside. Give it a pull - and the pond takes off with everyone still in it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / HTML5 Canvas",
+          "role": "Interactive 3D graphics rendering and soft-body jelly physics simulation in the browser",
+          "evidence": "Screen recording displays a real-time 3D rendered interactive canvas with drag interactions, ripple buttons, color toggles, and UI elements.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jelly Koi Pond Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas-interactive",
+          "creative-coding",
+          "3d-scenes",
+          "soft-body-physics",
+          "interactive-demo"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the front-end code (HTML, JavaScript, and 3D rendering/physics logic) that runs the interactive simulation.",
+      "outputSource": "Browser viewport rendering the code generated by Claude Opus 5.5.",
+      "divisionEvidence": "Asked Claude Opus 5.5 and GPT-6 Astra to make a jelly koi pond\n\nOpus made an entire gummy aquarium for $12.38.",
+      "video": {
+        "shots": "Single split-screen interactive comparison capture",
+        "duration": "0:21",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly presents a verified interactive creative coding and animation case produced by Claude Opus 5.5, captured in a screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/zyroxxx111/status/2108514670411907296",
+        "start": 160,
+        "end": 181
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/zyroxxx111/status/2108514670411907296",
+        "author": "zyroxxx111",
+        "postId": "2108514670411907296",
+        "publishedAt": "2026-10-09T11:07:26.000Z"
+      },
+      "checkedAt": "2026-10-09T11:36:16.084Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zyroxxx111/status/2108514670411907296",
+        "evidence": ""
+      }
+    },
+    "summary": "ZyroX tests Claude Opus 5.5 and GPT-6 Astra on building an interactive jelly koi pond, demonstrating interactive physics, drag simulation, and UI controls in a side-by-side comparison screen recording.",
+    "summaryEn": "Interactive Jelly Koi Pond Simulation with Physics",
+    "originalPrompt": "make a jelly koi pond",
+    "sourceRange": {
+      "start": 160,
+      "end": 181
+    },
+    "translations": {
+      "zh": "make a jelly koi pond",
+      "en": "make a jelly koi pond"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jelly Koi Pond Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete code generation prompt",
+        "System instructions and constraints",
+        "WebGL/Three.js physics specifications and UI controls setup"
+      ],
+      "evidence": "The video shows a live screen recording of the interactive 3D jelly koi pond with working elastic deformation, interactive drag and pull mechanics, swimming koi, pebbles, lily pads, and UI controls, matching the post description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:31:35.240Z",
+  "model": "opus5.5",
+  "prompt": "direct a film about the great revelations of humanity\n\nonly rule: everything told through hands\n13.8 billion years in 100 seconds, narrated by the AI itself",
+  "promptTranslations": {
+    "en": "direct a film about the great revelations of humanity\n\nonly rule: everything told through hands\n13.8 billion years in 100 seconds, narrated by the AI itself"
+  },
+  "summary": "A 100-second cinematic historical essay conceptualized and scripted by Claude Opus 5.5 depicting human milestones solely through the motif of hands.",
+  "summaryEn": "13.8 Billion Years of Human Revelations Told Through Hands",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108729269681520726",
+    "canonicalUrl": "https://x.com/nett0eth/status/2108729269681520726",
+    "author": {
+      "username": "nett0eth",
+      "displayName": "Nett0",
+      "profileUrl": "https://x.com/nett0eth"
+    },
+    "publishedAt": "2026-10-10T01:20:10.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "pt",
+    "originalText": "pedi pro Claude Opus 5.5 dirigir um filme sobre as grandes revelações da humanidade\n\nregra única: tudo contado por mãos\n13,8 bilhões de anos em 100 segundos, narrados pela própria IA\n\nfechado no Tesseract, voz do ElevenLabs v4\nlegenda em português",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nett0eth/status/2108729269681520726",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108728133687898112/img/1HQmiX62KY5gsOiG.jpg",
+        "analysisUrl": "https://x.com/nett0eth/status/2108729269681520726"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 549
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/nett0eth/status/2108729269681520726",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108728133687898112/img/1HQmiX62KY5gsOiG.jpg",
+  "coverPath": "data/covers/2108729269681520726-wide.jpg",
+  "gifPath": "data/gifs/2108729269681520726.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108728133687898112/vid/avc1/480x270/rKa7nR7jSO9qJL28.mp4?tag=29",
+    "x-video:2108728133687898112",
+    "x-post:2108729269681520726"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "13.8 Billion Years of Human Revelations Told Through Hands",
+      "summary": "A 100-second cinematic historical essay conceptualized and scripted by Claude Opus 5.5 depicting human milestones solely through the motif of hands.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "pedi pro Claude Opus 5.5 dirigir um filme sobre as grandes revelações da humanidade"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "dirigir um filme sobre as grandes revelações da humanidade\n\nregra única: tudo contado por mãos\n13,8 bilhões de anos em 100 segundos, narrados pela própria IA",
+        "englishText": "direct a film about the great revelations of humanity\n\nonly rule: everything told through hands\n13.8 billion years in 100 seconds, narrated by the AI itself",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full director prompt",
+          "shot list instructions",
+          "visual asset prompts",
+          "audio timing parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 100-second video follows an overarching timeline of human discoveries and creations framed around hands—from cave stencils to the printing press, telegraph, moon landing, computing, touch screens, and AI synthesis—consistent with the author's summary. Visual quality assessed using the smaller bitrate/dimension fallback preview.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "ElevenLabs",
+          "role": "Voiceover synthesis (v4)",
+          "evidence": "voz do ElevenLabs v4",
+          "sourceUrl": "https://x.com/nett0eth/status/2108729269681520726",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Tesseract",
+          "role": "Post-production assembly and finishing",
+          "evidence": "fechado no Tesseract",
+          "sourceUrl": "https://x.com/nett0eth/status/2108729269681520726",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "AI-Directed Historical Video Essay",
+        "topic": "explainers",
+        "tags": [
+          "film-direction",
+          "video-essay",
+          "voiceover",
+          "human-history",
+          "elevenlabs"
+        ]
+      },
+      "targetModelRole": "Directing the film structure, narrative storytelling, and writing the voiceover script.",
+      "outputSource": "Tesseract timeline assembly combining archive footage, motion sequences, and ElevenLabs synthetic narration.",
+      "divisionEvidence": "Author specifies: 'pedi pro Claude Opus 5.5 dirigir um filme sobre as grandes revelações da humanidade... fechado no Tesseract, voz do ElevenLabs v4'.",
+      "video": {
+        "shots": "multishot montage",
+        "duration": "01:39",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative direction and video production case with explicit model version attribution and corresponding full video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/nett0eth/status/2108729269681520726",
+        "start": 25,
+        "end": 182
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/nett0eth/status/2108729269681520726",
+        "author": "nett0eth",
+        "postId": "2108729269681520726",
+        "publishedAt": "2026-10-10T01:20:10.000Z"
+      },
+      "checkedAt": "2026-10-10T08:16:32.715Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nett0eth/status/2108729269681520726",
+        "evidence": ""
+      }
+    },
+    "summary": "A 100-second cinematic historical essay conceptualized and scripted by Claude Opus 5.5 depicting human milestones solely through the motif of hands.",
+    "summaryEn": "13.8 Billion Years of Human Revelations Told Through Hands",
+    "originalPrompt": "dirigir um filme sobre as grandes revelações da humanidade\n\nregra única: tudo contado por mãos\n13,8 bilhões de anos em 100 segundos, narrados pela própria IA",
+    "sourceRange": {
+      "start": 25,
+      "end": 182
+    },
+    "translations": {
+      "zh": "dirigir um filme sobre as grandes revelações da humanidade\n\nregra única: tudo contado por mãos\n13,8 bilhões de anos em 100 segundos, narrados pela própria IA",
+      "en": "direct a film about the great revelations of humanity\n\nonly rule: everything told through hands\n13.8 billion years in 100 seconds, narrated by the AI itself"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "AI-Directed Historical Video Essay",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full director prompt",
+        "shot list instructions",
+        "visual asset prompts",
+        "audio timing parameters"
+      ],
+      "evidence": "The attached 100-second video follows an overarching timeline of human discoveries and creations framed around hands—from cave stencils to the printing press, telegraph, moon landing, computing, touch screens, and AI synthesis—consistent with the author's summary. Visual quality assessed using the smaller bitrate/dimension fallback preview."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

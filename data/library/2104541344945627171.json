@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T14:01:06.887Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Claude Opus 5.5 generates code for a 15-second dynamic motion graphics showreel showcasing animation principles, particle effects, 3D wireframe math, and typography.",
+  "summaryEn": "Claude Opus 5.5 Motion Designer Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104541344945627171",
+    "canonicalUrl": "https://x.com/just_adev/status/2104541344945627171",
+    "author": {
+      "username": "just_adev",
+      "displayName": "justadev",
+      "profileUrl": "https://x.com/just_adev"
+    },
+    "publishedAt": "2026-09-28T11:58:51.000Z",
+    "collectedAt": "2026-09-28T12:33:05.188Z",
+    "language": "en",
+    "originalText": "i copied/pasted the prompt below from X into Opus 5.5. \n\nafter 10 minutes here’s the result I got\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/vgBENrFPIX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/just_adev/status/2104541344945627171",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104540346994556929/img/5LaWegdsrx7OmHK2.jpg",
+        "analysisUrl": "https://x.com/just_adev/status/2104541344945627171"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 19
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/just_adev/status/2104541344945627171",
+        "text": "justadev on X: \"i copied/pasted the prompt below from X into Opus 5.5. \n\nafter 10 minutes here’s the result I got\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\njustadev on X: \"i copied/pasted the prompt below from X into Opus 5.5. \n\nafter 10 minutes here’s the result I got\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\"\n\n\n\njustadev\n\n@just_adev\n\n\n\n\ni copied/pasted the prompt below from X into Opus 5.5. \n\nafter 10 minutes here’s the result I got\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:58 AM · Sep 28, 2026·20\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\njustadev@just_adevFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\njustadev\n\n@just_adev\n\n\n\n\ni copied/pasted the prompt below from X into Opus 5.5. \n\nafter 10 minutes here’s the result I got\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n11:58 AM · Sep 28, 2026·20\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "just_adev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/just_adev/status/2104541344945627171",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104540346994556929/img/5LaWegdsrx7OmHK2.jpg",
+  "coverPath": "data/covers/2104541344945627171-wide.jpg",
+  "gifPath": "data/gifs/2104541344945627171.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104540346994556929",
+    "x-post:2104541344945627171"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Motion Designer Showreel",
+      "summary": "Claude Opus 5.5 generates code for a 15-second dynamic motion graphics showreel showcasing animation principles, particle effects, 3D wireframe math, and typography.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "i copied/pasted the prompt below from X into Opus 5.5."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates a 15-second dynamic motion design showreel featuring typography, easing curves, particle simulations, a 3D particle torus, 12 animation principles, and concludes with a title screen reading 'CLAUDE Motion Designer' and 'EVERY PIXEL WRITTEN IN CODE'.",
+        "textualResultQuote": "EVERY PIXEL WRITTEN IN CODE"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "targetModelRole": "Claude Opus 5.5 wrote the code generating each frame and visual element of the motion graphics animation.",
+      "outputSource": "Rendered via code execution in an unspecified framework/browser (annotated in video as 'EVERY PIXEL WRITTEN IN CODE').",
+      "divisionEvidence": "Author states: 'i copied/pasted the prompt below from X into Opus 5.5. after 10 minutes here’s the result I got' and the video states 'EVERY PIXEL WRITTEN IN CODE'.",
+      "video": {
+        "shots": "Continuous multi-section motion sequence with smooth cuts between kinetic typography, vector morphs, particle bursts, depth projection, and a principles grid.",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Complete original prompt and corresponding video demonstrating Claude Opus 5.5 code-based motion graphics production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/just_adev/status/2104541344945627171",
+        "start": 100,
+        "end": 251
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/just_adev/status/2104541344945627171",
+        "author": "just_adev",
+        "postId": "2104541344945627171",
+        "publishedAt": "2026-09-28T11:58:51.000Z"
+      },
+      "checkedAt": "2026-09-28T12:39:44.576Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Same verbatim prompt as 2103449416325890146; retained as another creator result."
+        ],
+        "sourceUrl": "https://x.com/just_adev/status/2104541344945627171",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "variantOf": "2103449416325890146"
+      },
+      "purpose": {
+        "label": "15-second motion design showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Claude Opus 5.5 generates code for a 15-second dynamic motion graphics showreel showcasing animation principles, particle effects, 3D wireframe math, and typography.",
+    "summaryEn": "Claude Opus 5.5 Motion Designer Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 100,
+      "end": 251
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "15-second motion design showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates a 15-second dynamic motion design showreel featuring typography, easing curves, particle simulations, a 3D particle torus, 12 animation principles, and concludes with a title screen reading 'CLAUDE Motion Designer' and 'EVERY PIXEL WRITTEN IN CODE'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:23.158Z",
+  "model": "opus5.5",
+  "prompt": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style",
+  "promptTranslations": {
+    "en": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style"
+  },
+  "summary": "Claude Opus 5.5 generated a standalone HTML file using Three.js to recreate an interactive neon 3D lava lamp based on a reference GIF.",
+  "summaryEn": "Interactive 3D Plasma Lamp in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109620598704087055",
+    "canonicalUrl": "https://x.com/aeoniumsky/status/2109620598704087055",
+    "author": {
+      "username": "aeoniumsky",
+      "displayName": "aeoniumsky",
+      "profileUrl": "https://x.com/aeoniumsky"
+    },
+    "publishedAt": "2026-10-12T12:22:00.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "This is beyond wild 😱\n\nI asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js https://t.co/w7MX2l0zWy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aeoniumsky/status/2109620598704087055",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109533226012491776/img/b8JRNuSCOJhp7J43.jpg",
+        "analysisUrl": "https://x.com/aeoniumsky/status/2109620598704087055"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 4,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 987
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aeoniumsky/status/2109620599001903297",
+        "text": "Here it is: https://t.co/qYLDF89i1D",
+        "author": "aeoniumsky"
+      },
+      {
+        "url": "https://x.com/aeoniumsky/status/2109620598704087055",
+        "text": "aeoniumsky on X: \"This is beyond wild 😱\n\nI asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\naeoniumsky on X: \"This is beyond wild 😱\n\nI asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js\"\n\n\n\naeoniumsky\n\n@aeoniumsky\n\n\n\n\nThis is beyond wild 😱\n\nI asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js\n\n\n00:00\n\n\n\n\n\n\n\n\n12:22 PM · Oct 12, 2026·987\nViews\n\n\n\n3\n4\n33\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\naeoniumsky@aeoniumskyFollow\nFounder, Artist & Designer\nCrafting a dreamy adventure into the unknown.. \nDiscord - https://t.co/f8Q4igV6mY 🌃\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\naeoniumsky\n\n@aeoniumsky\n\n\n\n\nThis is beyond wild 😱\n\nI asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js\n\n\n00:00\n\n\n\n\n\n\n\n\n12:22 PM · Oct 12, 2026·987\nViews\n\n\n\n3\n4\n33\n3\n\n\n\n\n\n\n\n\n\naeoniumsky\n\n@aeoniumsky\n4h\n\n\nHere it is: \n\n\naeoniumsky Lava Lamp 3D\n\n\nFrom wowbuffet.com\n\n\n\n1\n1\n2\n60\n\n\n\n\n\n\n\n\n\n\n\nMayanlion\n@Mayanlion1\n2h\n\n\nYou mean soon I will get to walk inside my Blocks?\n\n\n\n\n\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "aeoniumsky"
+      },
+      {
+        "url": "https://wowbuffet.com/p/zJVFKz4v",
+        "text": "\n\n\n\n\naeoniumsky Lava Lamp 3D · Wow Buffet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkip to content\n\n  \n  \n  \n  \n  \n  \n\n  \n    \n    \n      \n    \n  \n\n  \n\n\n\n\n  Animation / Claude Opus 5.5\n  10 Oct 2026\n\n\n\n\n\n  \n  \n  \n\n\n\n\n  Full screen\n  Open in a new tab ↗\n\n\n\n\n\n  \n    aeoniumsky Lava Lamp 3D\n\n    By aeon @aeon\n\n\n    \n      \n      \n0\n      \n      Build on this\n      \n      Download\n      \n      Copy link\n      Copy credit\n    \n\n\n    I asked Claude Opus 5.5 to recreate one of my iconic Lava Lamps in three.js as an expriement.\n\n    \n    #threejs#art\n\n    \n\n    \n    \n      \n        Prompt and process\n\n        Copy\n      \n\n      recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style\n\n    \n    \n\n    \n      \n      \n      \n      Report\n      \n    \n\n  \n\n\n  \n    \n      ModelClaude Opus 5.5\n\n      EffortMax\n\n      TypeAnimation\n\n      LicenceFree to use with credit\n\n      Hand editsNone, it's all the AI's work\n\n      \n      Websiteaeoniumsky.io ↗\n\n      Social@aeoniumsky ↗\n\n      Time taken1 hr 10 mins\n\n      \n      \n      \n      \n      Views49\n\n      Likes0\n\n      Published10 Oct 2026\n\n      Filelavalamp.html · 91 KB\n\n    \n    \n\n\n  Advertisements\n  \n\n\n\n  \n\n\n\n\nMore from aeon\nView all\n\n\n  \n    AppOpus 5.5\n    \n\n\n    The Human Skill Treeaeon\n  \n\n\n  \n    3DOpus 5.5\n    \n\n\n    Wow Text Animatedaeon\n  \n\n\n  \n    AnimationOpus 5.5\n    \n\n\n    Aquariumaeon\n  \n\n\n  \n    GameOpus 5.5\n    \n\n\n    Lights Outaeon\n  \n\n\n  \n    AppHaiku 4.5\n    \n\n\n    Box Breathingaeon\n  \n\n\n  \n    AnimationFable 5.1\n    \n\n\n    Aquariumaeon\n  \n\n\nMore made with Opus 5.5\nView all\n\n\n  \n    3DOpus 5.5\n    \n\n\n    Sand Zen Gardenjay88\n  \n\n\n  \n    3DOpus 5.5\n    \n\n\n    Honey Keyboard ClaudeKeydol\n  \n\n\n  \n    3DOpus 5.5\n    \n\n\n    Glass Armonicajay88\n  \n\n\n  \n    WebsiteOpus 5.5\n    \n\n\n    Coral Reef0xRhinoX\n  \n\n\n  \n    3DOpus 5.5\n    \n\n\n    Thawjay88\n  \n\n\n  \n    3DOpus 5.5\n    \n\n\n    Jelly Glasssupercute\n  \n\n\n\n\n  \n    Join\n    Something new every day.\n    Join the buffet \n\n  \n  \n    \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n  \n\n\n\n  \n    \n      \n  \n  \n  \n  \n\n      A public buffet of things people make with AI, kept in one place with the prompts behind them. Everything here is free to try, learn from and build on.\n\n    \n\n    \n      Browse\n\n      Everything\n      AppsGamesWebsitesAnimation3DArtVideoAudioWritingCodeLinks\n      Taste tests\n      Timeline\n    \n\n    \n      Models\n\n      Fable 5.1Opus 5.5Sonnet 5.5Haiku 4.5GPT-6 AstraGemini 3.8 FlashGrok 4.7Nano Banana ProMidjourney V8.2Suno v6\n    \n\n    \n      Info\n\n      About\n      Upload a project\n      Community rules\n      Contact\n    \n\n    \n      Follow\n\n      X @wowbuffetInstagram @wowbuffetaiTikTok @wowbuffet\n    \n\n  \n\n  \n    © 2026 Wow Buffet. Projects are public and free to use with credit.\n    TermsPrivacyRules\n  \n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "aeoniumsky"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/aeoniumsky/status/2109620598704087055",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109533226012491776/img/b8JRNuSCOJhp7J43.jpg",
+  "coverPath": "data/covers/2109620598704087055-wide.jpg",
+  "gifPath": "data/gifs/2109620598704087055.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2109533226012491776/vid/avc1/320x400/6ISZest-FNGAtec_.mp4?tag=29",
+    "x-video:2109533226012491776",
+    "x-post:2109620598704087055"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Plasma Lamp in Three.js",
+      "summary": "Claude Opus 5.5 generated a standalone HTML file using Three.js to recreate an interactive neon 3D lava lamp based on a reference GIF.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to recreate one of my Plasma Lamp gifs as a .html file using three.js"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style",
+        "englishText": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Original reference lava lamp GIF"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive Three.js 3D neon lava lamp with drag-to-turn rotation, lighting mode controls, and animated fluid metaballs.",
+        "textualResultQuote": "aeoniumsky Lava Lamp 3D ... File lavalamp.html · 91 KB"
+      },
+      "inputs": [
+        {
+          "kind": "gif",
+          "description": "Original aeoniumsky lava lamp reference GIF attached to the prompt.",
+          "available": false,
+          "evidence": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached.",
+          "origin": "user",
+          "sourceUrl": "https://wowbuffet.com/p/zJVFKz4v"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics library executing in HTML",
+          "evidence": "recreate the aeoniumsky lava lamp gif into threejs",
+          "sourceUrl": "https://wowbuffet.com/p/zJVFKz4v",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Lava Lamp",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "lava-lamp",
+          "generative-art"
+        ]
+      },
+      "targetModelRole": "Wrote the complete Three.js and HTML/JS code implementing the 3D scene and animations without manual edits.",
+      "outputSource": "Web browser executing Three.js canvas in lavalamp.html",
+      "divisionEvidence": "Hand edits None, it's all the AI's work ... File lavalamp.html · 91 KB",
+      "video": {
+        "shots": "Single continuous interactive screen recording demonstration",
+        "duration": "0:28",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Claude Opus 5.5 generating functional interactive 3D code demonstrated via screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://wowbuffet.com/p/zJVFKz4v",
+        "start": 612,
+        "end": 794
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aeoniumsky/status/2109620598704087055",
+        "author": "aeoniumsky",
+        "postId": "2109620598704087055",
+        "publishedAt": "2026-10-12T12:22:00.000Z"
+      },
+      "checkedAt": "2026-10-12T16:34:41.017Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://wowbuffet.com/p/zJVFKz4v",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a standalone HTML file using Three.js to recreate an interactive neon 3D lava lamp based on a reference GIF.",
+    "summaryEn": "Interactive 3D Plasma Lamp in Three.js",
+    "originalPrompt": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style",
+    "sourceRange": {
+      "start": 612,
+      "end": 794
+    },
+    "translations": {
+      "zh": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style",
+      "en": "recreate the aeoniumsky lava lamp gif into threejs, the lava and colours all need to be the same - reference attached. It needs to be very neon, trippy and true to aeoniumsky's style"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Lava Lamp",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Original reference lava lamp GIF"
+      ],
+      "evidence": "Screen recording demonstrates the interactive Three.js 3D neon lava lamp with drag-to-turn rotation, lighting mode controls, and animated fluid metaballs."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

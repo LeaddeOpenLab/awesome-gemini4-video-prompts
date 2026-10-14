@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:09.080Z",
+  "model": "opus5.5",
+  "prompt": "Create a 30-second video in a single HTML file using Three.js, where the camera continuously zooms in without cuts from the tip of a pencil on a desk.\n\n[Zoom Flow (Continuous Single Shot)]\n1. A sharpened hexagonal wooden pencil on a desk (no logos or text)\n2. Tip of the lead: A cluster of shiny black particles mixing graphite and clay\n3. Graphite particle: Cross-section showing multiple thin layers stacked together\n4. Single layer: Hexagonal honeycomb lattice mesh of carbon atoms\n5. Finally stops on a single carbon atom\n\n[Staging]\n- To make it clear that the initial pencil hexagon and final carbon hexagon share the same shape, briefly overlay the hexagonal outline of the pencil cross-section near the end\n- Display short Japanese labels at the bottom of the screen at each stage (\"鉛筆\", \"芯\", \"黒鉛の粒\", \"黒鉛の層\", \"炭素の六角形\", \"炭素原子\"). Make them readable on mobile\n- Display a current scale bar on the right side of the screen, transitioning through cm -> mm -> µm -> nm\n- Use a calm, dark background, giving the graphite a metallic sheen and softly glowing carbon lattice\n\n[Specifications]\n- Do not use external images, 3D models, or asset files; draw all shapes, textures, and lighting entirely in code\n- Use a square aspect ratio, autoplay immediately upon opening, pause on the atom for 1 second at the end, and then loop back to the start\n- Load Three.js from cdnjs",
+  "promptTranslations": {
+    "en": "Create a 30-second video in a single HTML file using Three.js, where the camera continuously zooms in without cuts from the tip of a pencil on a desk.\n\n[Zoom Flow (Continuous Single Shot)]\n1. A sharpened hexagonal wooden pencil on a desk (no logos or text)\n2. Tip of the lead: A cluster of shiny black particles mixing graphite and clay\n3. Graphite particle: Cross-section showing multiple thin layers stacked together\n4. Single layer: Hexagonal honeycomb lattice mesh of carbon atoms\n5. Finally stops on a single carbon atom\n\n[Staging]\n- To make it clear that the initial pencil hexagon and final carbon hexagon share the same shape, briefly overlay the hexagonal outline of the pencil cross-section near the end\n- Display short Japanese labels at the bottom of the screen at each stage (\"鉛筆\", \"芯\", \"黒鉛の粒\", \"黒鉛の層\", \"炭素の六角形\", \"炭素原子\"). Make them readable on mobile\n- Display a current scale bar on the right side of the screen, transitioning through cm -> mm -> µm -> nm\n- Use a calm, dark background, giving the graphite a metallic sheen and softly glowing carbon lattice\n\n[Specifications]\n- Do not use external images, 3D models, or asset files; draw all shapes, textures, and lighting entirely in code\n- Use a square aspect ratio, autoplay immediately upon opening, pause on the atom for 1 second at the end, and then loop back to the start\n- Load Three.js from cdnjs"
+  },
+  "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML animation showing an unbroken 30-second zoom from a pencil tip down to a single carbon atom, complete with dynamic scale indicators and step labels.",
+  "summaryEn": "Continuous Zoom from Pencil Tip to Carbon Atom in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104909723443302770",
+    "canonicalUrl": "https://x.com/Dino_Spike_web3/status/2104909723443302770",
+    "author": {
+      "username": "Dino_Spike_web3",
+      "displayName": "すぱいく",
+      "profileUrl": "https://x.com/Dino_Spike_web3"
+    },
+    "publishedAt": "2026-09-29T12:22:40.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "ja",
+    "originalText": "鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった\n\n画像も素材も使わず、コードだけ\n鉛筆の軸も炭素の並びも六角形なのが地味に好き\n\nプロンプトはリプに置いときます\n\n#生成AI #Opus5.5 https://t.co/aHzqG1dB3R",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Dino_Spike_web3/status/2104909723443302770",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104909693001027584/img/gCdn_79rVxlgw9Tz.jpg",
+        "analysisUrl": "https://x.com/Dino_Spike_web3/status/2104909723443302770"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Dino_Spike_web3/status/2104909912283431143",
+        "text": "一言でも出てくるらしいが、プロンプトも作ってもらったから\n参考にしてください\n\n~~~プロンプト~~~\nThree.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n\n【ズームの流れ（カットなしの1ショット）】\n1. 机の上の、削った六角形の木の鉛筆（ロゴや文字は入れない）\n2. 芯の先端：黒鉛と粘土が混ざった、黒く光る粒の集まり\n3. 黒鉛の粒：薄い層が何枚も重なった断面\n4. 層1枚：炭素原子が六角形のハニカム状に並んだ網目\n5. 最後に炭素原子1個で止まる\n\n【演出】\n・最初の鉛筆の六角形と、最後の炭素の六角形が同じ形だと分かるように、終盤で一瞬だけ鉛筆の断面の六角形の輪郭を重ねて見せる\n・各段階で画面下に短い日本語ラベルを出す（「鉛筆」「芯」「黒鉛の粒」「黒鉛の層」「炭素の六角形」「炭素原子」）。スマホでも読める大きさにする\n・画面右に今の大きさの目盛りを表示し、cm→mm→µm→nmと単位が切り替わっていく\n・落ち着いた暗めの背景に、黒鉛の金属っぽい光沢と、炭素の網目を淡く光らせる\n\n【仕様】\n・外部の画像や3Dモデル、素材ファイルは使わず、形・質感・光はすべてコードで描いて\n・画面は正方形にして、開いた瞬間から自動で再生し、最後に原子で1秒止まってから最初に戻ってループするようにして\n・Three.jsはcdnjsから読み込む",
+        "author": "Dino_Spike_web3"
+      },
+      {
+        "url": "https://x.com/Dino_Spike_web3/status/2104909723443302770",
+        "text": "すぱいく on X: \"鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった\n\n画像も素材も使わず、コードだけ\n鉛筆の軸も炭素の並びも六角形なのが地味に好き\n\nプロンプトはリプに置いときます\n\n#生成AI #Opus5.5\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nすぱいく on X: \"鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった\n\n画像も素材も使わず、コードだけ\n鉛筆の軸も炭素の並びも六角形なのが地味に好き\n\nプロンプトはリプに置いときます\n\n#生成AI #Opus5.5\"\n\n\n\nすぱいく\n\n@Dino_Spike_web3\n\n\n\n\nShow translation\n鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった\n\n画像も素材も使わず、コードだけ\n鉛筆の軸も炭素の並びも六角形なのが地味に好き\n\nプロンプトはリプに置いときます\n\n#生成AI #Opus5.5\n\n\n00:00\n\n\n\n\n\n\n\n\n12:22 PM · Sep 29, 2026·78\nViews\n\n\n\n1\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nすぱいく@Dino_Spike_web3Follow\nシステムエンジニア ChatGPT / Claude Codeを主に使っています。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nすぱいく\n\n@Dino_Spike_web3\n\n\n\n\nShow translation\n鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった\n\n画像も素材も使わず、コードだけ\n鉛筆の軸も炭素の並びも六角形なのが地味に好き\n\nプロンプトはリプに置いときます\n\n#生成AI #Opus5.5\n\n\n00:00\n\n\n\n\n\n\n\n\n12:22 PM · Sep 29, 2026·78\nViews\n\n\n\n1\n\n8\n\n\n\n\n\n\n\n\n\n\nすぱいく\n\n@Dino_Spike_web3\n16h\n\n\n一言でも出てくるらしいが、プロンプトも作ってもらったから\n参考にしてください\n\n~~~プロンプト~~~\nThree.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n\n【ズームの流れ（カットなしの1ショット）】\n1. Show more\n\n\n\n\n1\n85\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Dino_Spike_web3"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Dino_Spike_web3/status/2104909723443302770",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104909693001027584/img/gCdn_79rVxlgw9Tz.jpg",
+  "coverPath": "data/covers/2104909723443302770-wide.jpg",
+  "gifPath": "data/gifs/2104909723443302770.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104909693001027584",
+    "x-post:2104909723443302770"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Continuous Zoom from Pencil Tip to Carbon Atom in Three.js",
+      "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML animation showing an unbroken 30-second zoom from a pencil tip down to a single carbon atom, complete with dynamic scale indicators and step labels.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "鉛筆の芯から炭素原子1個まで、カットなしでズームし続ける動画をClaudeのOpus5.5に作ってもらった"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Three.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n\n【ズームの流れ（カットなしの1ショット）】\n1. 机の上の、削った六角形の木の鉛筆（ロゴや文字は入れない）\n2. 芯の先端：黒鉛と粘土が混ざった、黒く光る粒の集まり\n3. 黒鉛の粒：薄い層が何枚も重なった断面\n4. 層1枚：炭素原子が六角形のハニカム状に並んだ網目\n5. 最後に炭素原子1個で止まる\n\n【演出】\n・最初の鉛筆の六角形と、最後の炭素の六角形が同じ形だと分かるように、終盤で一瞬だけ鉛筆の断面の六角形の輪郭を重ねて見せる\n・各段階で画面下に短い日本語ラベルを出す（「鉛筆」「芯」「黒鉛の粒」「黒鉛の層」「炭素の六角形」「炭素原子」）。スマホでも読める大きさにする\n・画面右に今の大きさの目盛りを表示し、cm→mm→µm→nmと単位が切り替わっていく\n・落ち着いた暗めの背景に、黒鉛の金属っぽい光沢と、炭素の網目を淡く光らせる\n\n【仕様】\n・外部の画像や3Dモデル、素材ファイルは使わず、形・質感・光はすべてコードで描いて\n・画面は正方形にして、開いた瞬間から自動で再生し、最後に原子で1秒止まってから最初に戻ってループするようにして\n・Three.jsはcdnjsから読み込む",
+        "englishText": "Create a 30-second video in a single HTML file using Three.js, where the camera continuously zooms in without cuts from the tip of a pencil on a desk.\n\n[Zoom Flow (Continuous Single Shot)]\n1. A sharpened hexagonal wooden pencil on a desk (no logos or text)\n2. Tip of the lead: A cluster of shiny black particles mixing graphite and clay\n3. Graphite particle: Cross-section showing multiple thin layers stacked together\n4. Single layer: Hexagonal honeycomb lattice mesh of carbon atoms\n5. Finally stops on a single carbon atom\n\n[Staging]\n- To make it clear that the initial pencil hexagon and final carbon hexagon share the same shape, briefly overlay the hexagonal outline of the pencil cross-section near the end\n- Display short Japanese labels at the bottom of the screen at each stage (\"鉛筆\", \"芯\", \"黒鉛の粒\", \"黒鉛の層\", \"炭素の六角形\", \"炭素原子\"). Make them readable on mobile\n- Display a current scale bar on the right side of the screen, transitioning through cm -> mm -> µm -> nm\n- Use a calm, dark background, giving the graphite a metallic sheen and softly glowing carbon lattice\n\n[Specifications]\n- Do not use external images, 3D models, or asset files; draw all shapes, textures, and lighting entirely in code\n- Use a square aspect ratio, autoplay immediately upon opening, pause on the atom for 1 second at the end, and then loop back to the start\n- Load Three.js from cdnjs",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a seamless 1:1 continuous zoom-in animation progressing through the sharpened pencil, lead tip, graphite particle layers, honeycomb lattice with hexagon highlight, and finally a single carbon atom, complete with scale indicators (mm, µm, nm) and matching Japanese labels.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering engine loaded from cdnjs to generate and animate the procedural scene",
+          "evidence": "Three.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n・Three.jsはcdnjsから読み込む",
+          "sourceUrl": "https://x.com/Dino_Spike_web3/status/2104909912283431143",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Continuous Macro Zoom Explainer",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "scientific-visualization",
+          "zoom",
+          "procedural",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Writing the complete standalone HTML/Three.js procedural 3D animation code",
+      "outputSource": "Three.js in browser environment",
+      "divisionEvidence": "画像も素材も使わず、コードだけ\nThree.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。",
+      "video": {
+        "shots": "1",
+        "duration": "30s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicitly confirms Claude Opus 5.5, provides full verbatim reproduction prompt in the author thread, uses pure Three.js code without external assets, and includes a matching continuous zoom video render.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Dino_Spike_web3/status/2104909912283431143",
+        "start": 52,
+        "end": 611
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Dino_Spike_web3/status/2104909723443302770",
+        "author": "Dino_Spike_web3",
+        "postId": "2104909723443302770",
+        "publishedAt": "2026-09-29T12:22:40.000Z"
+      },
+      "checkedAt": "2026-09-30T04:55:44.199Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Dino_Spike_web3/status/2104909912283431143",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML animation showing an unbroken 30-second zoom from a pencil tip down to a single carbon atom, complete with dynamic scale indicators and step labels.",
+    "summaryEn": "Continuous Zoom from Pencil Tip to Carbon Atom in Three.js",
+    "originalPrompt": "Three.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n\n【ズームの流れ（カットなしの1ショット）】\n1. 机の上の、削った六角形の木の鉛筆（ロゴや文字は入れない）\n2. 芯の先端：黒鉛と粘土が混ざった、黒く光る粒の集まり\n3. 黒鉛の粒：薄い層が何枚も重なった断面\n4. 層1枚：炭素原子が六角形のハニカム状に並んだ網目\n5. 最後に炭素原子1個で止まる\n\n【演出】\n・最初の鉛筆の六角形と、最後の炭素の六角形が同じ形だと分かるように、終盤で一瞬だけ鉛筆の断面の六角形の輪郭を重ねて見せる\n・各段階で画面下に短い日本語ラベルを出す（「鉛筆」「芯」「黒鉛の粒」「黒鉛の層」「炭素の六角形」「炭素原子」）。スマホでも読める大きさにする\n・画面右に今の大きさの目盛りを表示し、cm→mm→µm→nmと単位が切り替わっていく\n・落ち着いた暗めの背景に、黒鉛の金属っぽい光沢と、炭素の網目を淡く光らせる\n\n【仕様】\n・外部の画像や3Dモデル、素材ファイルは使わず、形・質感・光はすべてコードで描いて\n・画面は正方形にして、開いた瞬間から自動で再生し、最後に原子で1秒止まってから最初に戻ってループするようにして\n・Three.jsはcdnjsから読み込む",
+    "sourceRange": {
+      "start": 52,
+      "end": 611
+    },
+    "translations": {
+      "zh": "Three.jsで、机に置いた鉛筆の先からカメラが途切れずにズームインし続ける30秒の映像を、1つのHTMLファイルで作って。\n\n【ズームの流れ（カットなしの1ショット）】\n1. 机の上の、削った六角形の木の鉛筆（ロゴや文字は入れない）\n2. 芯の先端：黒鉛と粘土が混ざった、黒く光る粒の集まり\n3. 黒鉛の粒：薄い層が何枚も重なった断面\n4. 層1枚：炭素原子が六角形のハニカム状に並んだ網目\n5. 最後に炭素原子1個で止まる\n\n【演出】\n・最初の鉛筆の六角形と、最後の炭素の六角形が同じ形だと分かるように、終盤で一瞬だけ鉛筆の断面の六角形の輪郭を重ねて見せる\n・各段階で画面下に短い日本語ラベルを出す（「鉛筆」「芯」「黒鉛の粒」「黒鉛の層」「炭素の六角形」「炭素原子」）。スマホでも読める大きさにする\n・画面右に今の大きさの目盛りを表示し、cm→mm→µm→nmと単位が切り替わっていく\n・落ち着いた暗めの背景に、黒鉛の金属っぽい光沢と、炭素の網目を淡く光らせる\n\n【仕様】\n・外部の画像や3Dモデル、素材ファイルは使わず、形・質感・光はすべてコードで描いて\n・画面は正方形にして、開いた瞬間から自動で再生し、最後に原子で1秒止まってから最初に戻ってループするようにして\n・Three.jsはcdnjsから読み込む",
+      "en": "Create a 30-second video in a single HTML file using Three.js, where the camera continuously zooms in without cuts from the tip of a pencil on a desk.\n\n[Zoom Flow (Continuous Single Shot)]\n1. A sharpened hexagonal wooden pencil on a desk (no logos or text)\n2. Tip of the lead: A cluster of shiny black particles mixing graphite and clay\n3. Graphite particle: Cross-section showing multiple thin layers stacked together\n4. Single layer: Hexagonal honeycomb lattice mesh of carbon atoms\n5. Finally stops on a single carbon atom\n\n[Staging]\n- To make it clear that the initial pencil hexagon and final carbon hexagon share the same shape, briefly overlay the hexagonal outline of the pencil cross-section near the end\n- Display short Japanese labels at the bottom of the screen at each stage (\"鉛筆\", \"芯\", \"黒鉛の粒\", \"黒鉛の層\", \"炭素の六角形\", \"炭素原子\"). Make them readable on mobile\n- Display a current scale bar on the right side of the screen, transitioning through cm -> mm -> µm -> nm\n- Use a calm, dark background, giving the graphite a metallic sheen and softly glowing carbon lattice\n\n[Specifications]\n- Do not use external images, 3D models, or asset files; draw all shapes, textures, and lighting entirely in code\n- Use a square aspect ratio, autoplay immediately upon opening, pause on the atom for 1 second at the end, and then loop back to the start\n- Load Three.js from cdnjs"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Continuous Macro Zoom Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a seamless 1:1 continuous zoom-in animation progressing through the sharpened pencil, lead tip, graphite particle layers, honeycomb lattice with hexagon highlight, and finally a single carbon atom, complete with scale indicators (mm, µm, nm) and matching Japanese labels."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

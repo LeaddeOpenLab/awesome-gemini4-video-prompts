@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:18:22.549Z",
+  "model": "opus5.5",
+  "prompt": "Slouching on a bench witnessing an atomic bomb explosion",
+  "promptTranslations": {
+    "en": "Slouching on a bench witnessing an atomic bomb explosion"
+  },
+  "summary": "The author demonstrates an animation generated via shaders and code written by Claude Opus 5.5 based on the concept of slouching in a chair and witnessing an atomic bomb explosion.",
+  "summaryEn": "Claude Opus 5.5 Shader-Based Atomic Bomb Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104448788790477239",
+    "canonicalUrl": "https://x.com/esrhengwu/status/2104448788790477239",
+    "author": {
+      "username": "esrhengwu",
+      "displayName": "基恩-Keane 🌊",
+      "profileUrl": "https://x.com/esrhengwu"
+    },
+    "publishedAt": "2026-09-28T05:51:04.000Z",
+    "collectedAt": "2026-09-28T07:04:31.459Z",
+    "language": "zh",
+    "originalText": "让Claude Opus5.5把\"瘫坐长椅原子弹爆炸”做成了动画跑了小16个小时，他竟然给每个图写了个着色器..离谱.....\n\n声音、画面全部代码生成..Opus 5.5要开启mv、动画、\n像素游戏、3d游戏各种新玩法了.... https://t.co/teQzW2Jh7N",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/esrhengwu/status/2104448788790477239",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104448503531675648/img/KXHTEXl0wp9CE8G1.jpg",
+        "analysisUrl": "https://x.com/esrhengwu/status/2104448788790477239"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 359
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/esrhengwu/status/2104448788790477239",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104448503531675648/img/KXHTEXl0wp9CE8G1.jpg",
+  "coverPath": "data/covers/2104448788790477239-wide.jpg",
+  "gifPath": "data/gifs/2104448788790477239.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104448503531675648",
+    "x-post:2104448788790477239"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Shader-Based Atomic Bomb Animation",
+      "summary": "The author demonstrates an animation generated via shaders and code written by Claude Opus 5.5 based on the concept of slouching in a chair and witnessing an atomic bomb explosion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "让Claude Opus5.5把\"瘫坐长椅原子弹爆炸”做成了动画跑了小16个小时，他竟然给每个图写了个着色器..离谱..... 声音、画面全部代码生成..Opus 5.5要开启mv、动画、像素游戏、3d游戏各种新玩法了...."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "瘫坐长椅原子弹爆炸",
+        "englishText": "Slouching on a bench witnessing an atomic bomb explosion",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete user prompt and system instructions",
+          "Shader architecture and rendering pipeline specifications",
+          "Audio generation code instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays a multi-scene stylized animation showing a person in front of a monitor, followed by varied artistic shader interpretations of an atomic blast (ink wash, fresco, stained glass, oil paint, papercut, 3D cloud, building facade lights), concluding with '100% code Opus 5.5'.",
+        "textualResultQuote": "我瘫坐在椅子上 仿佛看到了原子弹爆炸 100% code Opus 5.5"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Shader / Code Execution Runtime",
+          "role": "Compiles and executes the Opus-generated shader and audio code into frames and sound",
+          "evidence": "他竟然给每个图写了个着色器..离谱..... 声音、画面全部代码生成",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Code generation for procedural shaders and audio synthesis",
+      "outputSource": "Shader rendering engine executing Claude Opus 5.5 code",
+      "divisionEvidence": "让Claude Opus5.5把\"瘫坐长椅原子弹爆炸”做成了动画跑了小16个小时，他竟然给每个图写了个着色器..离谱..... 声音、画面全部代码生成",
+      "video": {
+        "shots": "Montage transition: dark room desk shot, flash, varied historical and artistic shader scenes of atomic mushroom clouds, close-up human iris reflection, apartment building matrix forming mushroom cloud silhouette, return to desk and closing text",
+        "duration": "0:31",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates creative video and motion graphic generation driven entirely by Claude Opus 5.5 code and procedural shaders with verified author video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/esrhengwu/status/2104448788790477239",
+        "start": 17,
+        "end": 26
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/esrhengwu/status/2104448788790477239",
+        "author": "esrhengwu",
+        "postId": "2104448788790477239",
+        "publishedAt": "2026-09-28T05:51:04.000Z"
+      },
+      "checkedAt": "2026-09-28T07:09:36.902Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/esrhengwu/status/2104448788790477239",
+        "evidence": ""
+      }
+    },
+    "summary": "The author demonstrates an animation generated via shaders and code written by Claude Opus 5.5 based on the concept of slouching in a chair and witnessing an atomic bomb explosion.",
+    "summaryEn": "Claude Opus 5.5 Shader-Based Atomic Bomb Animation",
+    "originalPrompt": "瘫坐长椅原子弹爆炸",
+    "sourceRange": {
+      "start": 17,
+      "end": 26
+    },
+    "translations": {
+      "zh": "瘫坐长椅原子弹爆炸",
+      "en": "Slouching on a bench witnessing an atomic bomb explosion"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "The author demonstrates an animation generated via shaders and code written by Claude Opus 5.5 based on the concept of slouching in a chair and witnessing an atomic bomb explosion.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete user prompt and system instructions",
+        "Shader architecture and rendering pipeline specifications",
+        "Audio generation code instructions"
+      ],
+      "evidence": "The attached video displays a multi-scene stylized animation showing a person in front of a monitor, followed by varied artistic shader interpretations of an atomic blast (ink wash, fresco, stained glass, oil paint, papercut, 3D cloud, building facade lights), concluding with '100% code Opus 5.5'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

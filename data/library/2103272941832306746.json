@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:30.939Z",
+  "model": "opus5.5",
+  "prompt": "make a brainrot video about the terminal. i can't escape it. ai is so addictive.",
+  "promptTranslations": {
+    "en": "make a brainrot video about the terminal. i can't escape it. ai is so addictive."
+  },
+  "summary": "A prompt provided to Opus 5.5 alongside an article to generate a brainrot-style video exploring an addiction to AI and the terminal.",
+  "summaryEn": "Brainrot Video About the Terminal",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102751574183313715",
+      "canonicalUrl": "https://x.com/pleometric/status/2102751574183313715",
+      "author": {
+        "username": "pleometric",
+        "displayName": "Pleometric",
+        "profileUrl": "https://x.com/pleometric"
+      },
+      "originalText": "I fed it my article and said \"have fun\", no other instructions\n\nhttps://t.co/JJWv5equVp"
+    },
+    "id": "2103272941832306746",
+    "canonicalUrl": "https://x.com/supremebeme/status/2103272941832306746",
+    "author": {
+      "username": "supremebeme",
+      "displayName": "Supreme",
+      "profileUrl": "https://x.com/supremebeme"
+    },
+    "publishedAt": "2026-09-24T23:58:40.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "fed opus 5.5 this article by @pleometric with the prompt\n\n\"make a brainrot video about the terminal. i can't escape it. ai is so addictive.\" https://t.co/4NlZqUTeUe",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/supremebeme/status/2103272941832306746",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103272429724528640/img/XXawVzlE98ZowBcA.jpg",
+        "analysisUrl": "https://x.com/supremebeme/status/2103272941832306746"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 375
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/supremebeme/status/2103272941832306746",
+        "text": "Supreme on X: \"fed opus 5.5 this article by @pleometric with the prompt\n\n\"make a brainrot video about the terminal. i can&#x27;t escape it. ai is so addictive.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSupreme on X: \"fed opus 5.5 this article by @pleometric with the prompt\n\n\"make a brainrot video about the terminal. i can&#x27;t escape it. ai is so addictive.\"\"\n\n\n\nSupreme\n\n@supremebeme\n\n\n\n\nfed opus 5.5 this article by @pleometric with the prompt\n\n\"make a brainrot video about the terminal. i can&#x27;t escape it. ai is so addictive.\"\n\n\n00:00\n\n\n\n\n\n\n\n\nPleometric\n\n@pleometric\nSep 23\n\nReplying to @pleometric\nI fed it my article and said \"have fun\", no other instructions\n\npleometric.net/articles/brief…\n\n\n\n\n11:58 PM · Sep 24, 2026·375\nViews\n\n\n\n1\n\n4\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSupreme@supremebemeFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupreme\n\n@supremebeme\n\n\n\n\nfed opus 5.5 this article by @pleometric with the prompt\n\n\"make a brainrot video about the terminal. i can&#x27;t escape it. ai is so addictive.\"\n\n\n00:00\n\n\n\n\n\n\n\n\nPleometric\n\n@pleometric\nSep 23\n\nReplying to @pleometric\nI fed it my article and said \"have fun\", no other instructions\n\npleometric.net/articles/brief…\n\n\n\n\n11:58 PM · Sep 24, 2026·375\nViews\n\n\n\n1\n\n4\n1\n\n\n\n\n\n\n\n\n\nIchel Park\n\n@ichelpark\nSep 25\n\n\ndid it time the captions itself or did you line those up to the beat after?\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "supremebeme"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/supremebeme/status/2103272941832306746",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103272429724528640/img/XXawVzlE98ZowBcA.jpg",
+  "coverPath": "data/covers/2103272941832306746-wide.jpg",
+  "gifPath": "data/gifs/2103272941832306746.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103272429724528640",
+    "x-post:2103272941832306746",
+    "x-post:2102751574183313715"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Brainrot Video About the Terminal",
+      "summary": "A prompt provided to Opus 5.5 alongside an article to generate a brainrot-style video exploring an addiction to AI and the terminal.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "fed opus 5.5 this article by @pleometric with the prompt"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a brainrot video about the terminal. i can't escape it. ai is so addictive.",
+        "englishText": "make a brainrot video about the terminal. i can't escape it. ai is so addictive.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/supremebeme/status/2103272941832306746",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/supremebeme/status/2103272941832306746",
+        "start": 59,
+        "end": 139
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/supremebeme/status/2103272941832306746",
+        "author": "supremebeme",
+        "postId": "2103272941832306746",
+        "publishedAt": "2026-09-24T23:58:40.000Z"
+      },
+      "checkedAt": "2026-09-28T08:29:11.208Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/supremebeme/status/2103272941832306746",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt provided to Opus 5.5 alongside an article to generate a brainrot-style video exploring an addiction to AI and the terminal.",
+    "summaryEn": "Brainrot Video About the Terminal",
+    "originalPrompt": "make a brainrot video about the terminal. i can't escape it. ai is so addictive.",
+    "sourceRange": {
+      "start": 59,
+      "end": 139
+    },
+    "translations": {
+      "zh": "make a brainrot video about the terminal. i can't escape it. ai is so addictive.",
+      "en": "make a brainrot video about the terminal. i can't escape it. ai is so addictive."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt provided to Opus 5.5 alongside an article to generate a brainrot-style video exploring an addiction to AI and the terminal.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

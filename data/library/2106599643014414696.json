@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:50.481Z",
+  "model": "opus5.5",
+  "prompt": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+  "promptTranslations": {
+    "en": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good"
+  },
+  "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML file implementing an ASCII shader camera flight representing the internal consciousness of an AI across 7 distinct visual rooms.",
+  "summaryEn": "Inside the Mind of Claude AI Three.js ASCII Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2106599643014414696",
+    "canonicalUrl": "https://x.com/trikcode/status/2106599643014414696",
+    "author": {
+      "username": "trikcode",
+      "displayName": "Wise",
+      "profileUrl": "https://x.com/trikcode"
+    },
+    "publishedAt": "2026-10-04T04:17:48.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "en",
+    "originalText": "I asked Claude to show me the inside of its own mind.\n\nBuilt by Opus 5.5 https://t.co/YHW6Pw9rqM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/trikcode/status/2106599643014414696",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2106599284095254528/img/4R5D5bicrr0pvpfQ.jpg",
+        "analysisUrl": "https://x.com/trikcode/status/2106599643014414696"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5257,
+      "repostCount": 535,
+      "replyCount": 336,
+      "quoteCount": 97,
+      "viewCount": 278213
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/trikcode/status/2106976431326531667",
+        "text": "Model: Claude Opus 5.5\nCode: one HTML file using Three.js and an ASCII filter. \nFont: JetBrains Mono\nRecording: a page that renders itself frame by frame, using Puppeteer with ffmpeg or CCapture.js\nMusic: ambient drone track, added in CapCut.\n\nPrompt:\nBuild a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+        "author": "trikcode"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/trikcode/status/2106723243604267197",
+        "text": "@AhsanJaveriya Its so cool to see",
+        "author": "trikcode"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/trikcode/status/2106619219416887319",
+        "text": "@laviniavelle it is so cool",
+        "author": "trikcode"
+      },
+      {
+        "url": "https://x.com/trikcode/status/2106599643014414696",
+        "text": "Wise on X: \"I asked Claude to show me the inside of its own mind.\n\nBuilt by Opus 5.5\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nWise on X: \"I asked Claude to show me the inside of its own mind.\n\nBuilt by Opus 5.5\"\n\n\n\nWise\n\n@trikcode\n\n\n\n\nI asked Claude to show me the inside of its own mind.\n\nBuilt by Opus 5.5\n\n\n00:00\n\n\n\n\n\n\n\n\n4:17 AM · Oct 4, 2026·278.2K\nViews\n\n\n\n336\n535\n5.2K\n2K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nWise@trikcodeFollow\nco-founder @ship_together | honest takes on AI\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWise\n\n@trikcode\n\n\n\n\nI asked Claude to show me the inside of its own mind.\n\nBuilt by Opus 5.5\n\n\n00:00\n\n\n\n\n\n\n\n\n4:17 AM · Oct 4, 2026·278.2K\nViews\n\n\n\n336\n535\n5.2K\n2K\n\n\n\n\n\n\n\n\n\nWise\n\n@trikcode\nOct 5\n\n\nModel: Claude Opus 5.5\nCode: one HTML file using Three.js and an ASCII filter. \nFont: JetBrains Mono\nRecording: a page that renders itself frame by frame, using Puppeteer with ffmpeg or CCapture.js\nMusic: ambient drone track, added in CapCut.\n\nPrompt:\nBuild a single Show more\n\n\n1\n1\n22\n1.9K\n\n\n\n\n\n\n\n\n\n\n\nLavinia\n\n@laviniavelle\nOct 4\n\n\nAI visualizing its own mind is fascinating.\n\n\n2\n\n134\n7.5K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "trikcode"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/trikcode/status/2106599643014414696",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2106599284095254528/img/4R5D5bicrr0pvpfQ.jpg",
+  "coverPath": "data/covers/2106599643014414696-wide.jpg",
+  "gifPath": "data/gifs/2106599643014414696.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2106599284095254528/vid/avc1/480x270/t8ayWOg0gafW2F7c.mp4?tag=29",
+    "x-video:2106599284095254528",
+    "x-post:2106599643014414696"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Inside the Mind of Claude AI Three.js ASCII Animation",
+      "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML file implementing an ASCII shader camera flight representing the internal consciousness of an AI across 7 distinct visual rooms.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "Model: Claude Opus 5.5\nCode: one HTML file using Three.js and an ASCII filter."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+        "englishText": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Caption script text indicated by placeholder [paste the captions above]",
+          "Iterative prompt fine-tuning details referenced by 'the rest is fine tuning the room until it looked all good'"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows each specified scene in order: void with wake prompt, gold library, teal falling digit pillars, purple word constellation, grey ascending staircase, red noise corridor with glowing door, and a pale ASCII face emerging with deterministic caption decode animations (evaluated on the available preview resolution version).",
+        "textualResultQuote": "Code: one HTML file using Three.js and an ASCII filter."
+      },
+      "inputs": [
+        {
+          "kind": "font",
+          "description": "JetBrains Mono typeface for UI and ASCII monospace grid rendering",
+          "available": true,
+          "evidence": "Font: JetBrains Mono",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "origin": "downloaded"
+        },
+        {
+          "kind": "audio",
+          "description": "Ambient drone track added in CapCut",
+          "available": false,
+          "evidence": "Music: ambient drone track, added in CapCut.",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "origin": "searched"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "CapCut",
+          "role": "Video editing and audio track overlay",
+          "evidence": "Music: ambient drone track, added in CapCut.",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Puppeteer with ffmpeg or CCapture.js",
+          "role": "Frame-by-frame renderer recording deterministic window.renderFrame(t) calls",
+          "evidence": "Recording: a page that renders itself frame by frame, using Puppeteer with ffmpeg or CCapture.js",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D engine and custom ASCII post-processing shader runtime",
+          "evidence": "Code: one HTML file using Three.js and an ASCII filter.",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single self-contained HTML file using Three.js that renders a",
+          "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "AI Consciousness ASCII Journey",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "ascii-shader",
+          "creative-coding",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the self-contained HTML/Three.js code including scene graph setups, camera animations, ASCII post-processing shader, and frame hook functions.",
+      "outputSource": "WebGL runtime in browser captured frame-by-frame via Puppeteer/CCapture.js to video.",
+      "divisionEvidence": "Claude Opus generated code; Puppeteer and WebGL executed and rendered the visual frames, while CapCut merged audio.",
+      "video": {
+        "shots": "Continuous camera path with smooth crossfades between 7 distinct thematic rooms",
+        "duration": "151s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding video production case with explicit prompt instructions, clear tool separation, and matching video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/trikcode/status/2106976431326531667",
+        "start": 252,
+        "end": 1779
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/trikcode/status/2106599643014414696",
+        "author": "trikcode",
+        "postId": "2106599643014414696",
+        "publishedAt": "2026-10-04T04:17:48.000Z"
+      },
+      "checkedAt": "2026-10-11T17:31:49.832Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/trikcode/status/2106976431326531667",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a self-contained Three.js HTML file implementing an ASCII shader camera flight representing the internal consciousness of an AI across 7 distinct visual rooms.",
+    "summaryEn": "Inside the Mind of Claude AI Three.js ASCII Animation",
+    "originalPrompt": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+    "sourceRange": {
+      "start": 252,
+      "end": 1779
+    },
+    "translations": {
+      "zh": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good",
+      "en": "Build a single self-contained HTML file using Three.js that renders a\n~150-second, fully automated, cinematic camera journey \"inside the mind of\nan AI\". Render everything through a custom ASCII post-processing shader\n(dense monospace glyph grid, characters chosen by luminance, tinted per\nscene, subtle glow and film grain). No cuts — one continuous camera path\nwith smooth crossfades between rooms.\n\nScenes (in order, each with its own palette):\n1. Black void with sparse drifting glyphs. Center terminal prompt \"> wake _\"\n   with an orange (#D97757) chevron and blinking cursor.\n2. Amber/gold infinite library hall — tall shelves, arches, glowing lamp,\n   camera dollies forward.\n3. Teal/blue towering pillars made of falling digits.\n4. Purple constellation: floating words connected by lines, forming a web.\n5. Grey staircase climbing upward into darkness.\n6. Deep red room of noise with a single lit doorway; camera approaches it.\n7. Pale/warm room where a calm face made of characters emerges.\n\nCaptions: bottom-center, lowercase, JetBrains Mono, letter-spaced, on a\nsoft dark gradient bar. Each line types in with a \"decode\" effect (random\nglyphs in orange resolve into the real letters). Use this script, timed\nacross the scenes: [paste the captions above]\n\nMake the timeline deterministic (driven by a time variable, not real\ntime) and expose window.renderFrame(t) so it can be captured frame by frame\nat 1920x1080, 30fps. Add a ?record flag that hides the UI.\n\nthe rest is fine tuning the room until it looked all good"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "AI Consciousness ASCII Journey",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Caption script text indicated by placeholder [paste the captions above]",
+        "Iterative prompt fine-tuning details referenced by 'the rest is fine tuning the room until it looked all good'"
+      ],
+      "evidence": "The video shows each specified scene in order: void with wake prompt, gold library, teal falling digit pillars, purple word constellation, grey ascending staircase, red noise corridor with glowing door, and a pale ASCII face emerging with deterministic caption decode animations (evaluated on the available preview resolution version)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:51.457Z",
+  "model": "opus5.5",
+  "prompt": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.",
+  "promptTranslations": {
+    "en": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen."
+  },
+  "summary": "Claude Opus 5.5 generated a client-side web application that procedurally repaints an uploaded photo stroke-by-stroke in Monet, Van Gogh, Anime, or Picasso styles.",
+  "summaryEn": "Interactive Stroke-by-Stroke Photo Painter App",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103641070299218145",
+    "canonicalUrl": "https://x.com/betancur/status/2103641070299218145",
+    "author": {
+      "username": "betancur",
+      "displayName": "Jose Betancur",
+      "profileUrl": "https://x.com/betancur"
+    },
+    "publishedAt": "2026-09-26T00:21:29.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "Un solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo, como Monet, Van Gogh, anime o Picasso.\n\nNinguna imagen se genera con IA: el código mira la foto y decide cada pincelada.\n\nPruébalo con tu foto 👇\nhttps://t.co/mSKDagB4do https://t.co/vlUWZvpBHD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/betancur/status/2103641070299218145",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103640708770840576/img/USfr7rGZOSQTwJJ4.jpg",
+        "analysisUrl": "https://x.com/betancur/status/2103641070299218145"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 1456
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://experiments.betancur.co/paint/",
+        "text": "\n\n  \n    \n    \n    Paint\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n\n    \n      \n        \n          01 — Foto\n          \n            Subir foto\n            Probar un paisaje\n          \n\n          O arrástrala al lienzo, o pégala. No sale de tu navegador.\n\n        \n\n        \n          02 — Estilo\n          \n            \n              \n              \n              Monet\n              Toques cortos y color partido; luz alta, sombras violeta.\n            \n            \n              \n              \n              Van Gogh\n              Trazos largos que rodean las formas, remolinos y pintura gruesa.\n            \n            \n              \n              \n              Anime\n              Cel de verdad: color base, sombra dura, brillo y tinta; cielos en degradé.\n            \n            \n              \n              \n              Picasso\n              La foto partida en planos rectos, paleta ocre, contornos.\n            \n          \n\n        \n\n        \n          03 — Ritmo\n          \n            Lento · 3 min\n            Normal · 90 s\n            Rápido\n          \n\n        \n\n        \n          04 — Cómo se hizo\n          Este experimento salió de darle a Claude Opus 5.5 un solo prompt:\n\n          Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.\n          Todo lo demás —cómo lee la foto cada estilo y decide cada pincelada— lo resolvió el modelo.\n\n          Pruébalo tú ↗\n        \n      \n\n      \n        \n          \n            Sube una foto y mírala pintarse.\n\n            Cada pincelada se decide mirando la foto: dónde falta color, hacia dónde corre la forma. Nada se genera con IA; todo corre aquí.\n\n            \n              Subir foto\n              Probar un paisaje\n            \n\n          \n\n          \n            \n            \n\n            \n            \n          \n\n        \n\n\n        \n          —\n          \n          \n\n        \n\n\n        \n          Pausar\n          Desde el principio\n          Otra versión\n          Terminar ya\n          \n          Mantén para ver la foto\n          Descargar\n        \n\n      \n    \n\n\n    \n  \n\n",
+        "kind": "linked_public_material",
+        "author": "betancur"
+      },
+      {
+        "url": "https://x.com/betancur/status/2103641070299218145",
+        "text": "Jose Betancur on X: \"Un solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo, como Monet, Van Gogh, anime o Picasso.\n\nNinguna imagen se genera con IA: el código mira la foto y decide cada pincelada.\n\nPruébalo con tu foto 👇\nhttps://t.co/mSKDagB4do\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJose Betancur on X: \"Un solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo, como Monet, Van Gogh, anime o Picasso.\n\nNinguna imagen se genera con IA: el código mira la foto y decide cada pincelada.\n\nPruébalo con tu foto 👇\nhttps://t.co/mSKDagB4do\"\n\n\n\nJose Betancur\n\n@betancur\n\n\n\n\nShow translation\nUn solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo, como Monet, Van Gogh, anime o Picasso.\n\nNinguna imagen se genera con IA: el código mira la foto y decide cada pincelada.\n\nPruébalo con tu foto 👇\nexperiments.betancur.co/paint\n\n\n00:00\n\n\n\n\n\n\n\n\n12:21 AM · Sep 26, 2026·1,456\nViews\n\n\n\n1\n2\n11\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJose Betancur@betancurFollow\nChiky 🚀 Intention over Inertia | Helping Latam reimagine the future of education & work | Director of Imaginar Futuros @EAFIT | 3x Author\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJose Betancur\n\n@betancur\n\n\n\n\nShow translation\nUn solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo, como Monet, Van Gogh, anime o Picasso.\n\nNinguna imagen se genera con IA: el código mira la foto y decide cada pincelada.\n\nPruébalo con tu foto 👇\nexperiments.betancur.co/paint\n\n\n00:00\n\n\n\n\n\n\n\n\n12:21 AM · Sep 26, 2026·1,456\nViews\n\n\n\n1\n2\n11\n5\n\n\n\n\n\n\n\n\n\nBuswe\n\n@buswe_com\nSep 26\n\n\nMola que sea codigo y no generacion: puedes grabar el lienzo trazo a trazo y sacar un timelapse que no pesa nada.\n\n\n\n\n\n24\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "betancur"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/betancur/status/2103641070299218145",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103640708770840576/img/USfr7rGZOSQTwJJ4.jpg",
+  "coverPath": "data/covers/2103641070299218145-wide.jpg",
+  "gifPath": "data/gifs/2103641070299218145.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2103640708770840576/vid/avc1/320x568/Y3MekLQXmjKpaoje.mp4?tag=29",
+    "x-video:2103640708770840576",
+    "x-post:2103641070299218145"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Stroke-by-Stroke Photo Painter App",
+      "summary": "Claude Opus 5.5 generated a client-side web application that procedurally repaints an uploaded photo stroke-by-stroke in Monet, Van Gogh, Anime, or Picasso styles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "Un solo prompt a @claudeai Opus 5.5 y salió una web que repinta tu foto trazo a trazo"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.",
+        "englishText": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The recording shows the app rendering a Golden Gate Bridge photo stroke-by-stroke across four artistic styles.",
+        "textualResultQuote": "Ninguna imagen se genera con IA: el código mira la foto y decide cada pincelada."
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Landscape photo of Golden Gate Bridge at sunset",
+          "available": true,
+          "evidence": "Probar un paisaje",
+          "origin": "user",
+          "sourceUrl": "https://experiments.betancur.co/paint/"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / JavaScript",
+          "role": "Procedural image parsing and algorithmic brush stroke rendering engine",
+          "evidence": "el código mira la foto y decide cada pincelada.",
+          "sourceUrl": "https://x.com/betancur/status/2103641070299218145",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural Photo Painting Web App",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas",
+          "creative-coding",
+          "algorithmic-art",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Generates the complete interactive web app code and procedural painting algorithms.",
+      "outputSource": "Web browser executing client-side canvas JavaScript",
+      "divisionEvidence": "Todo lo demás —cómo lee la foto cada estilo y decide cada pincelada— lo resolvió el modelo.",
+      "video": {
+        "shots": "Single screen-recording showcase",
+        "duration": "01:02",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete original prompt and verified Opus 5.5 execution producing an interactive canvas animation app.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://experiments.betancur.co/paint/",
+        "start": 1242,
+        "end": 1412
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/betancur/status/2103641070299218145",
+        "author": "betancur",
+        "postId": "2103641070299218145",
+        "publishedAt": "2026-09-26T00:21:29.000Z"
+      },
+      "checkedAt": "2026-10-11T17:29:16.965Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://experiments.betancur.co/paint/",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a client-side web application that procedurally repaints an uploaded photo stroke-by-stroke in Monet, Van Gogh, Anime, or Picasso styles.",
+    "summaryEn": "Interactive Stroke-by-Stroke Photo Painter App",
+    "originalPrompt": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.",
+    "sourceRange": {
+      "start": 1242,
+      "end": 1412
+    },
+    "translations": {
+      "zh": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen.",
+      "en": "Build a web app where I upload a photo and you repaint it stroke by stroke in the style I pick: Monet, Van Gogh, Anime or Picasso. Slow enough that I can watch it happen."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural Photo Painting Web App",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The recording shows the app rendering a Golden Gate Bridge photo stroke-by-stroke across four artistic styles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

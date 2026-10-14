@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-13T16:39:34.299Z",
+  "model": "opus5.5",
+  "prompt": "I want to create a PythagoraSwitch-style JavaScript animation. It should pay homage to the original PythagoraSwitch, be mainly composed of stationery, and have a flat, cute atmosphere. I want to add some kind of punchline at the end.",
+  "promptTranslations": {
+    "en": "I want to create a PythagoraSwitch-style JavaScript animation. It should pay homage to the original PythagoraSwitch, be mainly composed of stationery, and have a flat, cute atmosphere. I want to add some kind of punchline at the end."
+  },
+  "summary": "Opus 5.5 generated a 2D physics chain reaction animation made of stationery with custom Web Audio sound effects.",
+  "summaryEn": "Stationery Rube Goldberg Machine in JavaScript",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102896431883497891",
+    "canonicalUrl": "https://x.com/kohya_tech/status/2102896431883497891",
+    "author": {
+      "username": "kohya_tech",
+      "displayName": "Kohya Tech",
+      "profileUrl": "https://x.com/kohya_tech"
+    },
+    "publishedAt": "2026-09-23T23:02:33.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "ja",
+    "originalText": "Opus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。ｶﾜｲｲ(･∀･)　\nオチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。Highで20分くらい考えてた。プロンプトはリプへ。 https://t.co/eiC7ciBQL8",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kohya_tech/status/2102896431883497891",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102895973873905664/img/WHtSPuYbFuYGXgdV.jpg",
+        "analysisUrl": "https://x.com/kohya_tech/status/2102896431883497891"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 2693
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/kohya_tech/status/2102896431883497891",
+        "text": "Kohya Tech on X: \"Opus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。ｶﾜｲｲ(･∀･)　\nオチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。Highで20分くらい考えてた。プロンプトはリプへ。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKohya Tech on X: \"Opus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。ｶﾜｲｲ(･∀･)　\nオチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。Highで20分くらい考えてた。プロンプトはリプへ。\"\n\n\n\nKohya Tech\n\n@kohya_tech\n\n\n\n\nShow translation\nOpus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。ｶﾜｲｲ(･∀･)　\nオチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。Highで20分くらい考えてた。プロンプトはリプへ。\n\n\n00:00\n\n\n\n\n\n\n\n\n11:02 PM · Sep 23, 2026·2,693\nViews\n\n\n\n1\n\n19\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKohya Tech@kohya_techFollow\n機械学習、プログラム、電子工作などの話題のアカウントです。\nsd-scripts https://t.co/05ZbhTqcfw\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKohya Tech\n\n@kohya_tech\n\n\n\n\nShow translation\nOpus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。ｶﾜｲｲ(･∀･)　\nオチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。Highで20分くらい考えてた。プロンプトはリプへ。\n\n\n00:00\n\n\n\n\n\n\n\n\n11:02 PM · Sep 23, 2026·2,693\nViews\n\n\n\n1\n\n19\n2\n\n\n\n\n\n\n\n\n\nKohya Tech\n\n@kohya_tech\nSep 23\n\n\nプロンプト自体も「ピタゴラスイッチのJavaScriptアニメーションを作りたい。本家のピタゴラスイッチをオマージュして主に文房具で構成され、雰囲気としてはフラットな、可愛らしい雰囲気のアニメーションにしたい。最後は何かオチを付けたい」的なプロンプトで作ってもらった。 Show more\n\n\n\n1\n2\n1.3K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "kohya_tech"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kohya_tech/status/2102896431883497891",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102895973873905664/img/WHtSPuYbFuYGXgdV.jpg",
+  "coverPath": "https://pbs.twimg.com/amplify_video_thumb/2102895973873905664/img/WHtSPuYbFuYGXgdV.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2102895973873905664/vid/avc1/480x270/AUBX6wY6SSpqa3ZU.mp4?tag=29",
+    "x-video:2102895973873905664",
+    "x-post:2102896431883497891"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Stationery Rube Goldberg Machine in JavaScript",
+      "summary": "Opus 5.5 generated a 2D physics chain reaction animation made of stationery with custom Web Audio sound effects.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5にピタゴラ装置っぽいJavaScriptアニメーションを作ってもらった。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "ピタゴラスイッチのJavaScriptアニメーションを作りたい。本家のピタゴラスイッチをオマージュして主に文房具で構成され、雰囲気としてはフラットな、可愛らしい雰囲気のアニメーションにしたい。最後は何かオチを付けたい",
+        "englishText": "I want to create a PythagoraSwitch-style JavaScript animation. It should pay homage to the original PythagoraSwitch, be mainly composed of stationery, and have a flat, cute atmosphere. I want to add some kind of punchline at the end.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt",
+          "Full verbatim user prompt instructions",
+          "Implementation specifics for Web Audio synthesis"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 32-second video shows stationery triggering a chain reaction ending with an ink stamp on unfinished homework, matching the description.",
+        "textualResultQuote": "オチまで考えてもらったけど最後は連鎖してないな……(;･∀･)　効果音もWeb Audioで作成してるらしい。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "status": "author_confirmed",
+          "evidence": "プロンプト自体も「ピタゴラスイッチのJavaScriptアニメーションを作りたい。本家のピタゴラスイッチをオマージュして主に文房具で構成され、雰囲気としてはフラットな、可愛らしい雰囲気のアニメーションにしたい。最後は何かオチを付けたい」的なプロンプトで作ってもらった。 Show more",
+          "sourceUrl": "https://x.com/kohya_tech/status/2102896431883497891"
+        },
+        {
+          "name": "JavaScript / Web Audio API",
+          "role": "Execution environment for 2D canvas animation and synthesized sound effects",
+          "evidence": "効果音もWeb Audioで作成してるらしい。",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/kohya_tech/status/2102896431883497891"
+        }
+      ],
+      "purpose": {
+        "label": "Rube Goldberg Stationery Animation",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas",
+          "javascript",
+          "rube-goldberg",
+          "web-audio"
+        ]
+      },
+      "targetModelRole": "Wrote the complete HTML/JavaScript/Web Audio code generating the interactive animation and synthesized audio.",
+      "outputSource": "Web browser rendering of model-generated JavaScript and Web Audio canvas scene.",
+      "divisionEvidence": "Opus 5.5 wrote the JavaScript logic and audio synthesis; the browser engine executed and rendered the visual simulation.",
+      "video": {
+        "shots": "Single continuous panning and zooming sequence",
+        "duration": "32s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic example of Opus 5.5 writing interactive 2D canvas motion and audio code resulting in video media.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kohya_tech/status/2102896431883497891",
+        "start": 1282,
+        "end": 1390
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kohya_tech/status/2102896431883497891",
+        "author": "kohya_tech",
+        "postId": "2102896431883497891",
+        "publishedAt": "2026-09-23T23:02:33.000Z"
+      },
+      "checkedAt": "2026-10-12T16:41:38.345Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kohya_tech/status/2102896431883497891",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 generated a 2D physics chain reaction animation made of stationery with custom Web Audio sound effects.",
+    "summaryEn": "Stationery Rube Goldberg Machine in JavaScript",
+    "originalPrompt": "ピタゴラスイッチのJavaScriptアニメーションを作りたい。本家のピタゴラスイッチをオマージュして主に文房具で構成され、雰囲気としてはフラットな、可愛らしい雰囲気のアニメーションにしたい。最後は何かオチを付けたい",
+    "sourceRange": {
+      "start": 1282,
+      "end": 1390
+    },
+    "translations": {
+      "zh": "ピタゴラスイッチのJavaScriptアニメーションを作りたい。本家のピタゴラスイッチをオマージュして主に文房具で構成され、雰囲気としてはフラットな、可愛らしい雰囲気のアニメーションにしたい。最後は何かオチを付けたい",
+      "en": "I want to create a PythagoraSwitch-style JavaScript animation. It should pay homage to the original PythagoraSwitch, be mainly composed of stationery, and have a flat, cute atmosphere. I want to add some kind of punchline at the end."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Rube Goldberg Stationery Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt",
+        "Full verbatim user prompt instructions",
+        "Implementation specifics for Web Audio synthesis"
+      ],
+      "evidence": "A 32-second video shows stationery triggering a chain reaction ending with an ink stamp on unfinished homework, matching the description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

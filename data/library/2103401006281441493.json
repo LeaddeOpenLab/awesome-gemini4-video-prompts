@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:31:52.838Z",
+  "model": "opus5.5",
+  "prompt": "make about my studio with Risograph style",
+  "promptTranslations": {
+    "en": "make about my studio with Risograph style"
+  },
+  "summary": "A prompt used to generate a video of a studio in a Risograph art style using Opus 5.5.",
+  "summaryEn": "Risograph Studio Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103401006281441493",
+    "canonicalUrl": "https://x.com/rneayan/status/2103401006281441493",
+    "author": {
+      "username": "rneayan",
+      "displayName": "Rneayan_Official",
+      "profileUrl": "https://x.com/rneayan"
+    },
+    "publishedAt": "2026-09-25T08:27:33.000Z",
+    "collectedAt": "2026-09-28T08:20:04.128Z",
+    "language": "en",
+    "originalText": "Opus 5.5 Risograph style\nwith one prompt\n\nPrompt : \nmake about my studio with Risograph style https://t.co/JiVw8QWHEX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rneayan/status/2103401006281441493",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103400837309743104/img/aWk04-Af8Hgk0iAk.jpg",
+        "analysisUrl": "https://x.com/rneayan/status/2103401006281441493"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 21
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/rneayan/status/2103401006281441493",
+        "text": "Rneayan_Official on X: \"Opus 5.5 Risograph style\nwith one prompt\n\nPrompt : \nmake about my studio with Risograph style\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRneayan_Official on X: \"Opus 5.5 Risograph style\nwith one prompt\n\nPrompt : \nmake about my studio with Risograph style\"\n\n\n\nRneayan_Official\n@rneayan\n\n\n\n\nOpus 5.5 Risograph style\nwith one prompt\n\nPrompt : \nmake about my studio with Risograph style\n\n\n00:00\n\n\n\n\n\n\n\n\n8:27 AM · Sep 25, 2026·21\nViews\n\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRneayan_Official@rneayanFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nRneayan_Official\n@rneayan\n\n\n\n\nOpus 5.5 Risograph style\nwith one prompt\n\nPrompt : \nmake about my studio with Risograph style\n\n\n00:00\n\n\n\n\n\n\n\n\n8:27 AM · Sep 25, 2026·21\nViews\n\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "rneayan"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rneayan/status/2103401006281441493",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103400837309743104/img/aWk04-Af8Hgk0iAk.jpg",
+  "coverPath": "data/covers/2103401006281441493-wide.jpg",
+  "gifPath": "data/gifs/2103401006281441493.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103400837309743104",
+    "x-post:2103401006281441493"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Risograph Studio Video Prompt",
+      "summary": "A prompt used to generate a video of a studio in a Risograph art style using Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make about my studio with Risograph style",
+        "englishText": "make about my studio with Risograph style",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/rneayan/status/2103401006281441493",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rneayan/status/2103401006281441493",
+        "start": 52,
+        "end": 93
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rneayan/status/2103401006281441493",
+        "author": "rneayan",
+        "postId": "2103401006281441493",
+        "publishedAt": "2026-09-25T08:27:33.000Z"
+      },
+      "checkedAt": "2026-09-28T08:21:12.310Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rneayan/status/2103401006281441493",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt used to generate a video of a studio in a Risograph art style using Opus 5.5.",
+    "summaryEn": "Risograph Studio Video Prompt",
+    "originalPrompt": "make about my studio with Risograph style",
+    "sourceRange": {
+      "start": 52,
+      "end": 93
+    },
+    "translations": {
+      "zh": "make about my studio with Risograph style",
+      "en": "make about my studio with Risograph style"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt used to generate a video of a studio in a Risograph art style using Opus 5.5.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

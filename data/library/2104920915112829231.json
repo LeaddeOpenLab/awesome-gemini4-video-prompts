@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:11:06.043Z",
+  "model": "opus5.5",
+  "prompt": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.",
+  "promptTranslations": {
+    "en": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this."
+  },
+  "summary": "Alexey Fateev documents the creation of 'Fogline', an interactive browser-based bodycam shooter built in Three.js and WebGL shaders from a single prompt, utilizing Sonnet 5.5 as orchestrator with Opus 5.5 and Fable 5.1 as subagents.",
+  "summaryEn": "Bodycam FPS 'Fogline' Built with Three.js and Web Shaders",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104920915112829231",
+    "canonicalUrl": "https://x.com/superalesha/status/2104920915112829231",
+    "author": {
+      "username": "superalesha",
+      "displayName": "Alexey Fateev",
+      "profileUrl": "https://x.com/superalesha"
+    },
+    "publishedAt": "2026-09-29T13:07:08.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "en",
+    "originalText": "Sonnet 5.5 built this FPS from 1 prompt.\n\nAlmost 12 hours and 3 usage-limit stops later, I had to tell it to wrap up. The game looks cool, but fuck me.\n\nI usually test new models by making shooters. This time I opened a fresh session, set effort to Max and gave it a slightly more detailed prompt. Modern combat with a Bodycam look, dirty trenches, drones, rain, fog and good gunplay. Sent it and walked away.\n\nWhen I checked on it, I couldn't understand what it was doing at first. It was rendering a cube, testing the browser renderer and taking screenshots. Then separate checks for weapons, materials and lighting. I hadn't seen this much checking in my other shooter tests. I'd done these with Opus Max too, without this kind of usage.\n\nI came back to a usage limit. Fine, waited for the reset and hit continue. 17 minutes later I hit the limit AGAIN. What the fuck? The screenshots looked pretty good and I wanted to see the result, but I couldn't continue.\n\nAfter another reset, it hit the limit a 3rd time. By morning I was telling it to wrap up because I couldn't afford to use this much of my allowance on 1 game.\n\nWe checked the logs. Sonnet had launched 6 subagents: 4 on Fable 5.1 and 2 on Opus 5.5. They handled audio, weapons and arms, soldiers and drones, UI and the environment while Sonnet built and tested the game around them.\n\nThe game-building part logged 186.6M tokens:\n\nSonnet 5.5: 125.3M.\nOpus 5.5: 39.2M.\nFable 5.1: 22.1M.\n\n176.7M of that was repeated cache reads. Output including reasoning was 2.18M tokens. These are logged usage totals, which don't directly tell us how much subscription allowance the session used.\nI never changed the brief. I never asked it to redo the weapons or add more effects. Just continuations after the limits and eventually asking it to finish. All of this came from the original prompt.\n\nI like the game. But I probably won't do this again. I can't afford to use that much of my allowance on 1 task.\n\nThe full prompt:\n\nMake me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.\n\nLink in reply",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/superalesha/status/2104920915112829231",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104920350702088192/img/tyZLoTKdF1V3hOCW.jpg",
+        "analysisUrl": "https://x.com/superalesha/status/2104920915112829231"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 2,
+      "replyCount": 10,
+      "quoteCount": 1,
+      "viewCount": 1529
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/superalesha/status/2104948721787994580",
+        "text": "@Anbeeld I think I’ll keep using Opus 5.5.",
+        "author": "superalesha"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/superalesha/status/2104927024779555284",
+        "text": "@1_John_4_16 To be honest, I haven’t noticed that with Opus. It seemed pretty straightforward to me.",
+        "author": "superalesha"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/superalesha/status/2104923809476444297",
+        "text": "@_Kanevry subcontractors",
+        "author": "superalesha"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/superalesha/status/2104921051348230445",
+        "text": "play now: https://t.co/s6VjLJwJDA",
+        "author": "superalesha"
+      },
+      {
+        "url": "https://alesha-pro.github.io/bench-portal/games/fogline/",
+        "text": "\n\n\n\n\nFOGLINE — Bodycam // Sector 7\n\n\n\n  \n\n\n\nINITIALIZING BODY-WORN VIDEO …\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "superalesha"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/superalesha/status/2104920915112829231",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104920350702088192/img/tyZLoTKdF1V3hOCW.jpg",
+  "coverPath": "data/covers/2104920915112829231-wide.jpg",
+  "gifPath": "data/gifs/2104920915112829231.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104920350702088192",
+    "x-post:2104920915112829231"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bodycam FPS 'Fogline' Built with Three.js and Web Shaders",
+      "summary": "Alexey Fateev documents the creation of 'Fogline', an interactive browser-based bodycam shooter built in Three.js and WebGL shaders from a single prompt, utilizing Sonnet 5.5 as orchestrator with Opus 5.5 and Fable 5.1 as subagents.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "We checked the logs. Sonnet had launched 6 subagents: 4 on Fable 5.1 and 2 on Opus 5.5. They handled audio, weapons and arms, soldiers and drones, UI and the environment while Sonnet built and tested the game around them. The game-building part logged 186.6M tokens: Sonnet 5.5: 125.3M. Opus 5.5: 39.2M. Fable 5.1: 22.1M."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.",
+        "englishText": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The 2-minute 44-second screen recording depicts interactive gameplay of 'Fogline', showing the bodycam visual style, rain, fog, trench combat arena, swarming enemies, drone attack alerts, weapon customization/gunsmith UI, ADS aiming, weapon recoil, and hit reactions. Note: Media inspected is a lower-bitrate/size preview stream, but features align consistently with prompt specifications.",
+        "textualResultQuote": "FOGLINE — Bodycam // Sector 7\n\nINITIALIZING BODY-WORN VIDEO …"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Browser renderer test harness",
+          "role": "Automated code execution and screenshot validation during agent building",
+          "evidence": "It was rendering a cube, testing the browser renderer and taking screenshots. Then separate checks for weapons, materials and lighting.",
+          "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser rendering framework",
+          "evidence": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!",
+          "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Web Shaders",
+          "role": "Post-processing and environmental visual effects",
+          "evidence": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!",
+          "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Browser-based 3D bodycam shooter game",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "shaders",
+          "bodycam",
+          "fps",
+          "gameplay",
+          "subagents"
+        ]
+      },
+      "targetModelRole": "Specialized subagent generating code for core game components (handling audio, weapons and arms, soldiers and drones, UI, and environmental modules).",
+      "outputSource": "Three.js and WebGL custom shaders executed directly in the browser.",
+      "divisionEvidence": "Sonnet had launched 6 subagents: 4 on Fable 5.1 and 2 on Opus 5.5. They handled audio, weapons and arms, soldiers and drones, UI and the environment while Sonnet built and tested the game around them.",
+      "video": {
+        "shots": "Continuous interactive gameplay screen capture including menu, gunsmith loadout, trench traversal, and combat encounters",
+        "duration": "02:44",
+        "aspectRatio": "17:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic multi-agent interactive 3D scene/game production case where Claude Opus 5.5 was confirmed by author logs as a key subagent generating code for Three.js assets and gameplay systems, supported by the complete original prompt and gameplay screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/superalesha/status/2104920915112829231",
+        "start": 1978,
+        "end": 2830
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/superalesha/status/2104920915112829231",
+        "author": "superalesha",
+        "postId": "2104920915112829231",
+        "publishedAt": "2026-09-29T13:07:08.000Z"
+      },
+      "checkedAt": "2026-09-30T09:43:11.773Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
+        "evidence": ""
+      }
+    },
+    "summary": "Alexey Fateev documents the creation of 'Fogline', an interactive browser-based bodycam shooter built in Three.js and WebGL shaders from a single prompt, utilizing Sonnet 5.5 as orchestrator with Opus 5.5 and Fable 5.1 as subagents.",
+    "summaryEn": "Bodycam FPS 'Fogline' Built with Three.js and Web Shaders",
+    "originalPrompt": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.",
+    "sourceRange": {
+      "start": 1978,
+      "end": 2830
+    },
+    "translations": {
+      "zh": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this.",
+      "en": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Browser-based 3D bodycam shooter game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 2-minute 44-second screen recording depicts interactive gameplay of 'Fogline', showing the bodycam visual style, rain, fog, trench combat arena, swarming enemies, drone attack alerts, weapon customization/gunsmith UI, ADS aiming, weapon recoil, and hit reactions. Note: Media inspected is a lower-bitrate/size preview stream, but features align consistently with prompt specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

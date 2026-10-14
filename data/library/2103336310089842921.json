@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:16.730Z",
+  "model": "opus5.5",
+  "prompt": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.",
+  "promptTranslations": {
+    "en": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album."
+  },
+  "summary": "A prompt requesting a 60-second music video and track inspired by Peter Gabriel's \"Sledgehammer\" and \"Big Time\" featuring modern figures and references.",
+  "summaryEn": "Peter Gabriel Style Music Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103336310089842921",
+    "canonicalUrl": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+    "author": {
+      "username": "DavidShulmanFL",
+      "displayName": "David Shulman",
+      "profileUrl": "https://x.com/DavidShulmanFL"
+    },
+    "publishedAt": "2026-09-25T04:10:29.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "en",
+    "originalText": "Opus 5.5 prompt \"Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.\" https://t.co/j4QpMkKfuM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103336274031484928/img/WLYweRTsoz7b_hsF.jpg",
+        "analysisUrl": "https://x.com/DavidShulmanFL/status/2103336310089842921"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 365
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+        "text": "David Shulman on X: \"Opus 5.5 prompt \"Create a 60 second music video in the style of Peter Gabriel&#x27;s Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel&#x27;s So album.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nDavid Shulman on X: \"Opus 5.5 prompt \"Create a 60 second music video in the style of Peter Gabriel&#x27;s Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel&#x27;s So album.\"\"\n\n\n\nDavid Shulman\n\n@DavidShulmanFL\n\n\n\n\nOpus 5.5 prompt \"Create a 60 second music video in the style of Peter Gabriel&#x27;s Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel&#x27;s So album.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n4:10 AM · Sep 25, 2026·365\nViews\n\n\n\n1\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDavid Shulman@DavidShulmanFLFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Shulman\n\n@DavidShulmanFL\n\n\n\n\nOpus 5.5 prompt \"Create a 60 second music video in the style of Peter Gabriel&#x27;s Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel&#x27;s So album.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n4:10 AM · Sep 25, 2026·365\nViews\n\n\n\n1\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DavidShulmanFL"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103336274031484928/img/WLYweRTsoz7b_hsF.jpg",
+  "coverPath": "data/covers/2103336310089842921-wide.jpg",
+  "gifPath": "data/gifs/2103336310089842921.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103336274031484928",
+    "x-post:2103336310089842921"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Peter Gabriel Style Music Video Prompt",
+      "summary": "A prompt requesting a 60-second music video and track inspired by Peter Gabriel's \"Sledgehammer\" and \"Big Time\" featuring modern figures and references.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.",
+        "englishText": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+        "start": 17,
+        "end": 231
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+        "author": "DavidShulmanFL",
+        "postId": "2103336310089842921",
+        "publishedAt": "2026-09-25T04:10:29.000Z"
+      },
+      "checkedAt": "2026-09-28T08:29:10.206Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/DavidShulmanFL/status/2103336310089842921",
+        "evidence": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album."
+      },
+      "purpose": {
+        "label": "Music video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt requesting a 60-second music video and track inspired by Peter Gabriel's \"Sledgehammer\" and \"Big Time\" featuring modern figures and references.",
+    "summaryEn": "Peter Gabriel Style Music Video Prompt",
+    "originalPrompt": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.",
+    "sourceRange": {
+      "start": 17,
+      "end": 231
+    },
+    "translations": {
+      "zh": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album.",
+      "en": "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time. But use modern references and figures. Also create the song, something sounds like it would fit on Peter Gabriel's So album."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Music video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:20.503Z",
+  "model": "opus5.5",
+  "prompt": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
+  "promptTranslations": {
+    "en": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts."
+  },
+  "summary": "A prompt designed for Claude to generate a dynamic motion graphics showreel video focusing on a specific topic with brand styling and audio synchronization.",
+  "summaryEn": "Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103689373774483815",
+      "canonicalUrl": "https://x.com/polydao/status/2103689373774483815",
+      "author": {
+        "username": "polydao",
+        "displayName": "Mr. Buzzoni",
+        "profileUrl": "https://x.com/polydao"
+      },
+      "originalText": "https://t.co/hIl5jyrAQz"
+    },
+    "id": "2103783134206566862",
+    "canonicalUrl": "https://x.com/polydao/status/2103783134206566862",
+    "author": {
+      "username": "polydao",
+      "displayName": "Mr. Buzzoni",
+      "profileUrl": "https://x.com/polydao"
+    },
+    "publishedAt": "2026-09-26T09:46:00.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 is scary good at motion design\n\nI asked for a showreel on Jev engineering and got studio-level work from one prompt\n\nstock Claude Code, Opus 5.5 on max reasoning, memory off:\n\n\"Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/polydao/status/2103783134206566862",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103693209062842368/img/u5o0IpLmvX0atbtS.jpg",
+        "analysisUrl": "https://x.com/polydao/status/2103783134206566862"
+      }
+    ],
+    "metrics": {
+      "likeCount": 58,
+      "repostCount": 7,
+      "replyCount": 20,
+      "quoteCount": 1,
+      "viewCount": 3544
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/polydao/status/2103783134206566862",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103693209062842368/img/u5o0IpLmvX0atbtS.jpg",
+  "coverPath": "data/covers/2103783134206566862-wide.jpg",
+  "gifPath": "data/gifs/2103783134206566862.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103693209062842368",
+    "x-post:2103783134206566862",
+    "x-post:2103689373774483815"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Motion Graphics Showreel Prompt",
+      "summary": "A prompt designed for Claude to generate a dynamic motion graphics showreel video focusing on a specific topic with brand styling and audio synchronization.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
+        "englishText": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/polydao/status/2103783134206566862",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/polydao/status/2103783134206566862",
+        "start": 193,
+        "end": 416
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/polydao/status/2103783134206566862",
+        "author": "polydao",
+        "postId": "2103783134206566862",
+        "publishedAt": "2026-09-26T09:46:00.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:19.631Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/polydao/status/2103783134206566862",
+        "evidence": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt designed for Claude to generate a dynamic motion graphics showreel video focusing on a specific topic with brand styling and audio synchronization.",
+    "summaryEn": "Motion Graphics Showreel Prompt",
+    "originalPrompt": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
+    "sourceRange": {
+      "start": 193,
+      "end": 416
+    },
+    "translations": {
+      "zh": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
+      "en": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

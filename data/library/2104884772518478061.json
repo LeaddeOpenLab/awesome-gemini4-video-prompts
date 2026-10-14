@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T05:21:06.152Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Dzair.io prompts Claude Opus 5.5 with high effort to create a dynamic 15-second motion graphics showreel demonstrating kinetic typography, particle systems, 3D camera motion, and UI animation.",
+  "summaryEn": "Claude Opus 5.5 Motion Graphics Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104884772518478061",
+    "canonicalUrl": "https://x.com/dzairio_/status/2104884772518478061",
+    "author": {
+      "username": "dzairio_",
+      "displayName": "Dzair.io | Kader",
+      "profileUrl": "https://x.com/dzairio_"
+    },
+    "publishedAt": "2026-09-29T10:43:31.000Z",
+    "collectedAt": "2026-09-30T04:15:59.171Z",
+    "language": "en",
+    "originalText": "Prompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\",\nClaude Opus 5.5, high effort (costed me 10% of 5 hours session). https://t.co/KITkIijYHD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/dzairio_/status/2104884772518478061",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104884714649640960/img/ZOcXZ9qj9OLy261T.jpg",
+        "analysisUrl": "https://x.com/dzairio_/status/2104884772518478061"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/dzairio_/status/2104884772518478061",
+        "text": "Dzair.io | Kader on X: \"Prompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\",\nClaude Opus 5.5, high effort (costed me 10% of 5 hours session).\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nDzair.io | Kader on X: \"Prompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\",\nClaude Opus 5.5, high effort (costed me 10% of 5 hours session).\"\n\n\n\nDzair.io | Kader\n@dzairio_\n\n\n\n\nPrompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\",\nClaude Opus 5.5, high effort (costed me 10% of 5 hours session).\n\n\n00:00\n\n\n\n\n\n\n\n\n10:43 AM · Sep 29, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDzair.io | Kader@dzairio_Follow\nI develop things.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDzair.io | Kader\n@dzairio_\n\n\n\n\nPrompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\",\nClaude Opus 5.5, high effort (costed me 10% of 5 hours session).\n\n\n00:00\n\n\n\n\n\n\n\n\n10:43 AM · Sep 29, 2026·7\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "dzairio_"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/dzairio_/status/2104884772518478061",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104884714649640960/img/ZOcXZ9qj9OLy261T.jpg",
+  "coverPath": "data/covers/2104884772518478061-wide.jpg",
+  "gifPath": "data/gifs/2104884772518478061.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104884714649640960",
+    "x-post:2104884772518478061"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Motion Graphics Showreel",
+      "summary": "Dzair.io prompts Claude Opus 5.5 with high effort to create a dynamic 15-second motion graphics showreel demonstrating kinetic typography, particle systems, 3D camera motion, and UI animation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5, high effort (costed me 10% of 5 hours session)."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second video showcases a dynamic showreel titled 'CLAUDE / MOTION DESIGN' featuring kinetic typography, shape and rhythm grids, particle systems spelling 'FLOW', a 3D geometric tunnel, and UI product motion.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Motion Graphics Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "showreel",
+          "motion design",
+          "kinetic typography",
+          "particle systems",
+          "creative coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the animation code and choreographed the multi-scene motion design sequence.",
+      "outputSource": "unknown",
+      "divisionEvidence": "Dzair.io specifies: 'Prompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\", Claude Opus 5.5, high effort'.",
+      "video": {
+        "shots": "6 segments: Kinetic Typography, Shape & Rhythm, Particle Systems, 3D & Camera, UI & Product Motion, and Outro logo",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic creator showcase with explicit Claude Opus 5.5 attribution, complete verbatim prompt, and consistent 15-second motion graphics video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/dzairio_/status/2104884772518478061",
+        "start": 9,
+        "end": 160
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/dzairio_/status/2104884772518478061",
+        "author": "dzairio_",
+        "postId": "2104884772518478061",
+        "publishedAt": "2026-09-29T10:43:31.000Z"
+      },
+      "checkedAt": "2026-09-30T04:59:09.537Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dzairio_/status/2104884772518478061",
+        "evidence": ""
+      }
+    },
+    "summary": "Dzair.io prompts Claude Opus 5.5 with high effort to create a dynamic 15-second motion graphics showreel demonstrating kinetic typography, particle systems, 3D camera motion, and UI animation.",
+    "summaryEn": "Claude Opus 5.5 Motion Graphics Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 9,
+      "end": 160
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Motion Graphics Showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 15-second video showcases a dynamic showreel titled 'CLAUDE / MOTION DESIGN' featuring kinetic typography, shape and rhythm grids, particle systems spelling 'FLOW', a 3D geometric tunnel, and UI product motion."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

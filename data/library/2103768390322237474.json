@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:23.486Z",
+  "model": "opus5.5",
+  "prompt": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.",
+  "promptTranslations": {
+    "en": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got."
+  },
+  "summary": "A prompt requesting a 15-second motion graphic video based on the Nohandslabs website, directing the model to go all out.",
+  "summaryEn": "Nohandslabs Motion Graphic Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103768390322237474",
+    "canonicalUrl": "https://x.com/robvjourney/status/2103768390322237474",
+    "author": {
+      "username": "robvjourney",
+      "displayName": "iamrobinvv",
+      "profileUrl": "https://x.com/robvjourney"
+    },
+    "publishedAt": "2026-09-26T08:47:25.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "OPUS 5.5 IS COOKING MOTION GRAPHICS.\n\nThis was the prompt:  \"Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.\"\n\n@nohandslabs https://t.co/i8yRcrcsKe",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/robvjourney/status/2103768390322237474",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103768056245665792/img/N1H6l3pXOn3pdp4A.jpg",
+        "analysisUrl": "https://x.com/robvjourney/status/2103768390322237474"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 95
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://nohandslabs.com/",
+        "text": "Nohandslabs — Companies that build themselves\nsys.onlineportfolio: 2/5 livetarget: 95% ai / 5% humanuptime: 24/7ams --:--:--\n\nnohandslabs\n\n// venture builder for autonomous companies\nCompanies\nthat build\nthemselvesthemselvesthemselves\nNohandslabs builds and holds businesses that run on AI agents instead of headcount. We design them, launch them, and let them operate — no founders standing watch, no teams clocking in.\nSee the portfolio→Join the waitlist\n\nfig.01 — the hand lets gorender: live\n\n■ fragments → systemmove cursor to interfere\n\n\n\ncompanies live02\nin the pipeline03\nbuilt by ai — target95%\nby humans — target5%\n\nno founders standing watch ///no teams clocking in ///no meetings ///95% ai / 5% human ///no hands ///no founders standing watch ///no teams clocking in ///no meetings ///95% ai / 5% human ///no hands ///\nno founders standing watch ///no teams clocking in ///no meetings ///95% ai / 5% human ///no hands ///no founders standing watch ///no teams clocking in ///no meetings ///95% ai / 5% human ///no hands ///\n\n\n[02]the ratio\n95% built by AI. 5% by humans. That&#x27;s the goal.\n\nwork.split — target■ ai 95■ human 05\n\n\n\n95%\nThe repeatable work runs on agents.\nIntake, production, delivery, support, billing. Everything that used to need a department runs as a system — around the clock, at the same quality on the thousandth job as on the first.\n\n\n5%\nHumans own the judgment.\nStrategy, taste and the final call. At No Hands Studio, that 5% is a senior designer finishing every detail.\n\n\n\n// we&#x27;re not chasing zero. the 5% is where the quality lives.\n\n[03]the shift\nFor the first time, a company can be smaller than the work it does.\n\ncompany.config−3 +3\n1 # the work that used to need a department runs as a system that never clocks out\n2−software: \"a tool\"\n3+software: \"the operator\"\n\n5 # every process a company added used to cost people. that ratio just broke\n6−headcount: \"leverage\"\n7+headcount: \"drag\"\n\n9 # build the system first, and the company runs on it\n10−startups: \"founders\"\n11+startups: \"an operating system\"\n\n\n\n\n\n\n[04]how we build\nFour steps. The last one is the whole point.\n\n\n01\nfind_wedge()\nFind the wedge\nA market where the work is repeatable, the margins get eaten by labour, and a system can simply do it better than a team can.\n\n02\nbuild_operator()\nBuild the operator\nAgents that do the actual work — intake, production, delivery, support. Not a chatbot bolted onto a product. The company is the system.\n\n03\nship_live()\nShip it live\nReal customers, real money, from day one. If a company can only survive by hiring its way out of the work, it does not ship.\n\n04\nlet_go()\nLet go\nWe keep strategy and taste. Everything between a customer arriving and a customer being served runs on agents. We own the last 5%.\n← the whole point\n\n// every step runs on Benchdesk — the desk we built to build these companies. now on waitlist.benchdesk.ai ↗\n\n[05]runtime\nWhat “no hands” looks like on a Tuesday.\nA portfolio company is a set of agents with a job each: intake, production, delivery, support, billing. Humans own the 5% that needs judgment: strategy, taste, the final sign-off.\nagent.intakerunning\nagent.draftrunning\nagent.reviewrunning\nagent.deployrunning\nagent.supportrunning\nagent.billingrunning\nhuman.designersign-off\n\n~/portfolio/01-studio — runtime.log\n[illustrative]\n$ █\ntasks.run\n0\n\nai.target\n95%\n\nhuman.target\n5%\n\n\n\nfig.02 — a working session at portfolio company 01. illustrative, not live data.\n\n\n\n[06]portfolio\nTwo live. More on the way.\n\nEvery company in the portfolio is wholly built and held by Nohandslabs.\n\nLive02Waitlist01Coming soon01Research01\n\n01Live\nNo Hands Studio\nYour website. Tomorrow.\nAI drafts your site overnight, a senior designer finishes every detail. Subscription pricing with hosting, updates and unlimited revisions included — no templates, no meetings.\nweb designsubscriptionfrom $77/mo\n\ncompany.01nohandsstudio.com ↗\n\n02Live\nNo Hands Sites\nWebsites that run themselves.\nA portfolio of affiliate and e-commerce websites, run by AI. Agents handle the content, the listings and the optimisation. Humans keep the 5%: direction and the quality bar.\naffiliatee-commerceportfolio\n\ncompany.02follow on x ↗\n\n\n03Waitlist\nBenchdesk\nLaunch startups straight from your desk.\nThe vibe working tool for solopreneurs. A Mac app where you set the goal and build your startup with Claude Code and Codex — product, site, content and sales. We use it in-house to build every Nohandslabs company.\nmac appsolopreneursour own stack\n\ncompany.03benchdesk.ai ↗\n\n04Coming soon\nNo Hands Agency\nComing soon.\nNext in line. Details the day it takes its first customer, not before.\n\n\n\ncompany.04follow on x ↗\n\n05Research\nnull_\nIn research.\nWe are pressure-testing the wedge. Most ideas die here, and that is the point.\n\ncompany.05wedge testing\n\n\n\n[07]build in public\nFind us on X. We document everything.\nThe wedges we test, the agents we build, what breaks and what ships. Building autonomous companies, in public.\nFollow @nohandslabs↗\n$ tail -f x.com/nohandslabs\n#wedgeswhich markets we test, and why most die\n#agentshow each operator is built\n#launchesevery company, the day it goes live\n#failureswhat broke, and what we changed\n› streaming█\n\n\n\n[08]waitlist\nGet notified when the next company goes live.\n\nNo newsletter. One email per launch, and the occasional note on what we learned building it. Want the day-to-day? Follow along on X.\nnohandslabs subscribe --launches-only\nemail>\nExecute ↵\n\n\n\n\nnohandslabs/method/portfoliox.com/nohandslabs ↗nohandsstudio.com ↗\n\nnohandslabs\n© 2026 Nohandslabsbuilt 95% by ai. finished by hand.\n\n\n",
+        "kind": "linked_public_material",
+        "author": "robvjourney"
+      },
+      {
+        "url": "https://x.com/robvjourney/status/2103768390322237474",
+        "text": "iamrobinvv on X: \"OPUS 5.5 IS COOKING MOTION GRAPHICS.\n\nThis was the prompt:  \"Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you&#x27;ve got.\"\n\n@nohandslabs\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\niamrobinvv on X: \"OPUS 5.5 IS COOKING MOTION GRAPHICS.\n\nThis was the prompt:  \"Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you&#x27;ve got.\"\n\n@nohandslabs\"\n\n\n\niamrobinvv\n\n@robvjourney\n\n\n\n\nOPUS 5.5 IS COOKING MOTION GRAPHICS.\n\nThis was the prompt:  \"Can you make a 15-second motion graphic video of nohandslabs.com? Go ALL OUT and make the most badass video you possibly can use everything you&#x27;ve got.\"\n\n@nohandslabs\n\n\n00:00\n\n\n\n\n\n\n\n\n8:47 AM · Sep 26, 2026·95\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\niamrobinvv@robvjourneyFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\niamrobinvv\n\n@robvjourney\n\n\n\n\nOPUS 5.5 IS COOKING MOTION GRAPHICS.\n\nThis was the prompt:  \"Can you make a 15-second motion graphic video of nohandslabs.com? Go ALL OUT and make the most badass video you possibly can use everything you&#x27;ve got.\"\n\n@nohandslabs\n\n\n00:00\n\n\n\n\n\n\n\n\n8:47 AM · Sep 26, 2026·95\nViews\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "robvjourney"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/robvjourney/status/2103768390322237474",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103768056245665792/img/N1H6l3pXOn3pdp4A.jpg",
+  "coverPath": "data/covers/2103768390322237474-wide.jpg",
+  "gifPath": "data/gifs/2103768390322237474.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103768056245665792",
+    "x-post:2103768390322237474"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Nohandslabs Motion Graphic Video",
+      "summary": "A prompt requesting a 15-second motion graphic video based on the Nohandslabs website, directing the model to go all out.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.",
+        "englishText": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/robvjourney/status/2103768390322237474",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/robvjourney/status/2103768390322237474",
+        "start": 61,
+        "end": 220
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/robvjourney/status/2103768390322237474",
+        "author": "robvjourney",
+        "postId": "2103768390322237474",
+        "publishedAt": "2026-09-26T08:47:25.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:46.986Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/robvjourney/status/2103768390322237474",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt requesting a 15-second motion graphic video based on the Nohandslabs website, directing the model to go all out.",
+    "summaryEn": "Nohandslabs Motion Graphic Video",
+    "originalPrompt": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.",
+    "sourceRange": {
+      "start": 61,
+      "end": 220
+    },
+    "translations": {
+      "zh": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got.",
+      "en": "Can you make a 15-second motion graphic video of https://t.co/4AZZ7AlJvi? Go ALL OUT and make the most badass video you possibly can use everything you've got."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt requesting a 15-second motion graphic video based on the Nohandslabs website, directing the model to go all out.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

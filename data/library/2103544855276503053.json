@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:38.689Z",
+  "model": "opus5.5",
+  "prompt": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.",
+  "promptTranslations": {
+    "en": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out."
+  },
+  "summary": "A prompt designed to create a motion graphics showreel acting as a designer résumé to display full creative range.",
+  "summaryEn": "Opus 5.5 Highlight Reel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103544855276503053",
+    "canonicalUrl": "https://x.com/samuel_spitz/status/2103544855276503053",
+    "author": {
+      "username": "samuel_spitz",
+      "displayName": "Samuel Spitz",
+      "profileUrl": "https://x.com/samuel_spitz"
+    },
+    "publishedAt": "2026-09-25T17:59:10.000Z",
+    "collectedAt": "2026-09-28T08:12:48.941Z",
+    "language": "en",
+    "originalText": "I asked Opus 5.5 to make a highlight reel for itself\n\nPrompt: \"Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.\" https://t.co/JJH4Hc3tuP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/samuel_spitz/status/2103544855276503053",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103539685092151296/img/yzD9s1r5Jd0p0Rdi.jpg",
+        "analysisUrl": "https://x.com/samuel_spitz/status/2103544855276503053"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 3,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1560
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/samuel_spitz/status/2103544855276503053",
+        "text": "Samuel Spitz on X: \"I asked Opus 5.5 to make a highlight reel for itself\n\nPrompt: \"Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nSamuel Spitz on X: \"I asked Opus 5.5 to make a highlight reel for itself\n\nPrompt: \"Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.\"\"\n\n\n\nSamuel Spitz\n\n@samuel_spitz\n\n\n\n\nI asked Opus 5.5 to make a highlight reel for itself\n\nPrompt: \"Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n5:59 PM · Sep 25, 2026·1,560\nViews\n\n\n\n1\n3\n21\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSamuel Spitz@samuel_spitzFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Spitz\n\n@samuel_spitz\n\n\n\n\nI asked Opus 5.5 to make a highlight reel for itself\n\nPrompt: \"Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.\"\n\n\n00:00\n\n\n\n\n\n\n\n\n5:59 PM · Sep 25, 2026·1,560\nViews\n\n\n\n1\n3\n21\n10\n\n\n\n\n\n\n\n\n\nTom\n\n@TaoGhost08\nSep 25\n\n\nI don&#x27;t like Claude\n\n\n\n\n\n41\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "samuel_spitz"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/samuel_spitz/status/2103544855276503053",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103539685092151296/img/yzD9s1r5Jd0p0Rdi.jpg",
+  "coverPath": "data/covers/2103544855276503053-wide.jpg",
+  "gifPath": "data/gifs/2103544855276503053.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103539685092151296",
+    "x-post:2103544855276503053"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 Highlight Reel Prompt",
+      "summary": "A prompt designed to create a motion graphics showreel acting as a designer résumé to display full creative range.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to make a highlight reel for itself"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.",
+        "englishText": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/samuel_spitz/status/2103544855276503053",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/samuel_spitz/status/2103544855276503053",
+        "start": 63,
+        "end": 261
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/samuel_spitz/status/2103544855276503053",
+        "author": "samuel_spitz",
+        "postId": "2103544855276503053",
+        "publishedAt": "2026-09-25T17:59:10.000Z"
+      },
+      "checkedAt": "2026-09-28T08:13:19.437Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/samuel_spitz/status/2103544855276503053",
+        "evidence": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt designed to create a motion graphics showreel acting as a designer résumé to display full creative range.",
+    "summaryEn": "Opus 5.5 Highlight Reel Prompt",
+    "originalPrompt": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.",
+    "sourceRange": {
+      "start": 63,
+      "end": 261
+    },
+    "translations": {
+      "zh": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out.",
+      "en": "Create a motion graphics video that feels like the centerpiece of a world-class designer’s showreel. Treat it as your résumé: showcase your full range, push the craft as far as possible. Go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T09:17:43.154Z",
+  "model": "opus5.5",
+  "prompt": "explain how a coding agent works in 40 seconds",
+  "promptTranslations": {
+    "en": "explain how a coding agent works in 40 seconds"
+  },
+  "summary": "Arthur Katcher shares a 40-second motion-graphics explainer video on how coding agents work, generated in a single prompt using Claude Code (Opus 5.5) with Remotion and a NumPy audio synthesizer.",
+  "summaryEn": "Coding Agent Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104198927549604161",
+    "canonicalUrl": "https://x.com/arthurkatcher/status/2104198927549604161",
+    "author": {
+      "username": "arthurkatcher",
+      "displayName": "Arthur Katcher",
+      "profileUrl": "https://x.com/arthurkatcher"
+    },
+    "publishedAt": "2026-09-27T13:18:13.000Z",
+    "collectedAt": "2026-09-28T08:46:23.264Z",
+    "language": "en",
+    "originalText": "I asked Opus 5.5 to explain how a coding agent works in 40 seconds.\n\nnever been this shocked. It animated the whole thing, wrote the music, and landed every cut on the beat.\n\none message in Claude Code, 14 minutes. Workflow is in the comments 👇 https://t.co/BjtAFcGtWN",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arthurkatcher/status/2104198927549604161",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104176718382497792/img/vnusC0O50Gw8pIVs.jpg",
+        "analysisUrl": "https://x.com/arthurkatcher/status/2104198927549604161"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 185
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/arthurkatcher/status/2104204372880003095",
+        "text": "@ZentrionGlobal yeah",
+        "author": "arthurkatcher"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/arthurkatcher/status/2104198984449265731",
+        "text": "here's the skill if you want to make your own: https://t.co/Wpw1orG2WL\n\nit's remotion for the picture and a small numpy synth for the music. just ask your agent for an explainer about whatever",
+        "author": "arthurkatcher"
+      },
+      {
+        "url": "https://x.com/arthurkatcher/status/2104198927549604161",
+        "text": "Arthur Katcher on X: \"I asked Opus 5.5 to explain how a coding agent works in 40 seconds.\n\nnever been this shocked. It animated the whole thing, wrote the music, and landed every cut on the beat.\n\none message in Claude Code, 14 minutes. Workflow is in the comments 👇\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nArthur Katcher on X: \"I asked Opus 5.5 to explain how a coding agent works in 40 seconds.\n\nnever been this shocked. It animated the whole thing, wrote the music, and landed every cut on the beat.\n\none message in Claude Code, 14 minutes. Workflow is in the comments 👇\"\n\n\n\nArthur Katcher\n\n@arthurkatcher\n\n\n\n\nI asked Opus 5.5 to explain how a coding agent works in 40 seconds.\n\nnever been this shocked. It animated the whole thing, wrote the music, and landed every cut on the beat.\n\none message in Claude Code, 14 minutes. Workflow is in the comments 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n1:18 PM · Sep 27, 2026·185\nViews\n\n\n\n3\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nArthur Katcher@arthurkatcherFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nArthur Katcher\n\n@arthurkatcher\n\n\n\n\nI asked Opus 5.5 to explain how a coding agent works in 40 seconds.\n\nnever been this shocked. It animated the whole thing, wrote the music, and landed every cut on the beat.\n\none message in Claude Code, 14 minutes. Workflow is in the comments 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n1:18 PM · Sep 27, 2026·185\nViews\n\n\n\n3\n\n2\n\n\n\n\n\n\n\n\n\n\nArthur Katcher\n\n@arthurkatcher\n19h\n\n\nhere&#x27;s the skill if you want to make your own: github.com/arthurkatcher/…\n\nit&#x27;s remotion for the picture and a small numpy synth for the music. just ask your agent for an explainer about whatever\n\n\nGitHub - arthurkatcher/explainer-video: Agent skill: motion-graphics explainer videos made entirely...\n\n\nFrom github.com\n\n\n\n\n\n\n45\n\n\n\n\n\n\n\n\n\n\n\nZentrion\n\n@ZentrionGlobal\n19h\n\n\n에이전트가 잔일부터 가져가면 월급으로 사는 일이 먼저 바뀝니다.\nWhen agents take the small tasks first, the work that pays the paycheck changes before the title does.\n\n\n1\n\n1\n13\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "arthurkatcher"
+      },
+      {
+        "url": "https://github.com/arthurkatcher/explainer-video",
+        "text": "\n\n\n\n  \n\n\n\n\n\n\n\n  \n    \n  \n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n  \n\n  \n\n    \n    \n    \n    \n  \n\n\n  \n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  GitHub - arthurkatcher/explainer-video: Agent skill: motion-graphics explainer videos made entirely in code (Remotion + numpy music) · GitHub\n\n\n\n  \n  \n  \n  \n\n    \n  \n\n\n  \n\n\n    \n\n\n  \n  \n\n  \n  \n\n    \n\n\n\n\n\n\n\n  \n\n  \n\n\n\n\n    \n\n  \n\n    \n\n    \n\n      \n\n      \n\n    \n    \n    \n\n      \n  \n  \n\n\n\n\n      \n\n\n\n        \n\n\n  \n  \n  \n  \n\n  \n\n      \n\n    \n\n  \n\n  \n  \n\n\n\n    \n\n    \n  \n\n\n  \n\n\n  \n\n  \n  \n\n  \n  \n  \n\n\n\n\n\n  \n\n  \n\n  \n    \n      \n\n      \n\n    \n      Skip to content\n\n      \n    \n      \n      \n\n\n\n\n\n  \n  \n  \n\n\n\n\n\n\n\n      \n\n          \n\n\n\n\n\n  \n  \n  \n\n\n\n\n          \n\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  Navigation Menu\n\nSign inAppearance settings\n\n\nSearch/\n\nSign in\nSign upAppearance settings\n\n\n\n\n\n\n\n\n\n\n\n\n      \n  \n        \n    \n\n        You signed in with another tab or window. Reload to refresh your session.\n        You signed out in another tab or window. Reload to refresh your session.\n        You switched accounts on another tab or window. Reload to refresh your session.\n\n      \n    \n\nDismiss alert\n\n\n  \n\n\n    \n\n\n  \n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n  \n    \n\n  \n    \n      \n    \n\n    \n    \n      \n      {{ message }}\n\n\n    \n\n  \n\n\n\n  \n\n\n\n\n    \n\n\n\n\n\n\n  \n        \n    \n      \n      \n\n\n\n\n\n\n\n\n  \n\n    \n\n        \n\n          \n              \n  \n      \n    \n\n    \n    \n      \n        arthurkatcher\n    \n    /\n    \n      explainer-video\n    \n\n    Public\n  \n\n\n\n          \n\n\n          \n              \n    \n      \n\n  \n                \n    \nNotifications\n    You must be signed in to change notification settings\n\n  \n\n\n  \n              \n    \nFork\n    0\n\n  \n\n\n  \n        \n            \n    \n\n          Star\n          0\n\n\n  \n\n\n\n\n          \n\n        \n\n\n          \n\n\n\n\n            \n\n    \n\n  \n\n\n\n\n    \n    \n\n\n\n    \n      \n    \n\n\n\n\n\n\n\n\n\n  \n  \n     \n\n\n\nmain\n\n\n\nBranchesTags\n\n\n\n\n\nGo to file\n\nCodeOpen more actions menu\n\n\n\nLatest commit\n \n\nHistory\n1 Commit\n1 Commit\n\n\n\n\nFolders and files\nNameNameLast commit message\nLast commit date\nreference\n\n\n\nreference\n\n\n\n \n \n\nscripts\n\n\n\nscripts\n\n\n\n \n \n\nREADME.md\n\n\n\nREADME.md\n\n\n\n \n \n\nSKILL.md\n\n\n\nSKILL.md\n\n\n\n \n \n\nView all files\n\nRepository files navigation\n\n\nexplainer-video\n\n\nAn Agent Skill for Claude Code / Codex: 30-60s motion-graphics explainers and demo videos made entirely in code. Remotion + React for the picture, a numpy synth for the music and sound design, one timeline.json driving both, rendered to mp4 on a laptop.\n\nreference/ is a finished 40s video, \"How a coding agent works\".\n\nInstall:\n\ngit clone https://github.com/arthurkatcher/explainer-video ~/.claude/skills/explainer-video\n\n\nThen ask your agent for \"an explainer video about X\".\n\n\n\n\n\n\n\n\n\nAbout\nAgent skill: motion-graphics explainer videos made entirely in code (Remotion + numpy music)\nResources\nReadme\nActivity\nStars\n0 stars\nWatchers\n0 watching\nForks\n0 forks\nReport repository\n\nReleases\n\n\n\nPackages\n\n\nContributors\n\n\nLanguages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   \n\n\n\n\n\n\n  \n\n\n\n\n    \n  \n\n\n  \n\n\n          \n  Footer\n\n\n  \n\n\n  \n    \n      \n        \n    \n\n\n      \n        &copy; 2026 GitHub, Inc.\n      \n    \n\n\n    \n  \n\n\n\n\n\n    \n\n\n\n\n  \n    \n    \n\n    \n      \n    \n\n    \n    You can’t perform that action at this time.\n  \n\n\n    \n  \n    \n    \n      \n        \n    \n\n      \n      \n\n    \n  \n\n\n    \n  \n  \n\n\n\n\n    \n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n  \n    \n      \n    \n\n      \n    \n\n    \n  \n\n\n\n\n\n\n    \n\n    \n\n    \n\n  \n\n\n",
+        "kind": "linked_public_material",
+        "author": "arthurkatcher"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arthurkatcher/status/2104198927549604161",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104176718382497792/img/vnusC0O50Gw8pIVs.jpg",
+  "coverPath": "data/covers/2104198927549604161-wide.jpg",
+  "gifPath": "data/gifs/2104198927549604161.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104176718382497792",
+    "x-post:2104198927549604161"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Coding Agent Explainer Video",
+      "summary": "Arthur Katcher shares a 40-second motion-graphics explainer video on how coding agents work, generated in a single prompt using Claude Code (Opus 5.5) with Remotion and a NumPy audio synthesizer.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to explain how a coding agent works in 40 seconds."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "explain how a coding agent works in 40 seconds",
+        "englishText": "explain how a coding agent works in 40 seconds",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/arthurkatcher/status/2104198927549604161",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arthurkatcher/status/2104198927549604161",
+        "start": 20,
+        "end": 66
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arthurkatcher/status/2104198927549604161",
+        "author": "arthurkatcher",
+        "postId": "2104198927549604161",
+        "publishedAt": "2026-09-27T13:18:13.000Z"
+      },
+      "checkedAt": "2026-09-28T08:48:38.687Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/arthurkatcher/status/2104198927549604161",
+        "evidence": ""
+      }
+    },
+    "summary": "Arthur Katcher shares a 40-second motion-graphics explainer video on how coding agents work, generated in a single prompt using Claude Code (Opus 5.5) with Remotion and a NumPy audio synthesizer.",
+    "summaryEn": "Coding Agent Explainer Video",
+    "originalPrompt": "explain how a coding agent works in 40 seconds",
+    "sourceRange": {
+      "start": 20,
+      "end": 66
+    },
+    "translations": {
+      "zh": "explain how a coding agent works in 40 seconds",
+      "en": "explain how a coding agent works in 40 seconds"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Arthur Katcher shares a 40-second motion-graphics explainer video on how coding agents work, generated in a single prompt using Claude Code (Opus 5.5) with Remotion and a NumPy audio synthesizer.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

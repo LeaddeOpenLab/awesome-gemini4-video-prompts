@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:23.056Z",
+  "model": "opus5.5",
+  "prompt": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.",
+  "promptTranslations": {
+    "en": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email."
+  },
+  "summary": "A prompt directing Opus 5.5 to generate a motion graphics showreel video for a developer relations engineer portfolio using Remotion, featuring animated browser captures, real Q&A from the site's assistant, premium branding principles, and beat-synced 120 BPM pacing.",
+  "summaryEn": "Remotion Portfolio Showreel Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103769906638459278",
+    "canonicalUrl": "https://x.com/wani_shola/status/2103769906638459278",
+    "author": {
+      "username": "wani_shola",
+      "displayName": "Wani",
+      "profileUrl": "https://x.com/wani_shola"
+    },
+    "publishedAt": "2026-09-26T08:53:26.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is genuinely impressive. I gave it my portfolio website and asked for a motion video. This is what it made.\n\nLink: https://t.co/Y2MJ2DHedD\n\nPrompt:\n\"Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/wani_shola/status/2103769906638459278",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103768901662179328/img/plwUcebyyob2ZeqE.jpg",
+        "analysisUrl": "https://x.com/wani_shola/status/2103769906638459278"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 126
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://sholajegede.com/",
+        "text": "Shola Jegede — Developer Relations Engineer for AI and Developer ToolsDeveloper Relations Engineer · Lagos\nShola Jegede\nI engineer open-source infrastructure for AI agents, authentication, and billing, then document it in long-form articles so the engineers who read them can run the same systems in production.\nDeveloper Relations Engineer at Kinde\nOne of 33 Developer Champions at Convex\nFounder of DevRel Studio\nWork with meSee my work\n\n\n Ask an assistant that knows my work\nHow does Jev Gatehouse work?What is DevRel Studio?What does Shola do at Kinde?\n\n56,039npm downloads in the last 12 months\n22,380views on my most-read freeCodeCamp handbook\n45pieces shipped for Kinde, tracked live\n98builders at v0 IRL Lagos\nFeatured build\nJev Gatehouse\n\nEvery agent tool call stops at the gate.\nA starter kit in Kinde&#x27;s official starter-kits organization. It checks every AI agent tool call before it runs. Kinde answers who the agent acts for and what that user can do. Jev, the System One model from TypeSafe AI, answers whether the user asked for the call. Policy code then allows the call, holds it for a fresh sign-in, or stops it.\n01KindeSigns the user in and passes their token through a Kinde MCP connection. The guard reads the organization, permissions, and feature flags.\n02JevReads the call, the request, and the documents the agent read. It returns typed signals in about 200 ms.\n03PolicyCode decides from the signals. It writes the decision to a ledger before anything runs.\n\nBenchmark: 300 labeled tool calls, run 3 times each\n0.0%False allowsvs 7.9% for an LLM judge\n205 msp50 latencyvs 2,073 ms for an LLM judge\n$0.029Cost per 1,000 callsvs $0.931 for an LLM judge\n\n\nNext.jsKindeJevConvexMCP\nLive demo Code Read the guide \n\nExperience\nWork\n\nJun 2025 — PresentRemote\nKinde\nDeveloper Relations Engineer\nOwned the developer narrative for the billing launch, from the reference architecture to publication: 15 long-form technical articles and a live AI SaaS application that passed 18,000 views against a 15,000-view target\nTurned the launch distribution into more than 20 direct conversations with founders and engineers who were evaluating Kinde\nBuilt the Kinde Agent Kit, a four-part Convex component suite that gives AI agents identity, billing, memory, and tool access in multi-tenant applications\nWrote the official Kinde integration for Mastra, which connects Kinde authentication to an emerging AI agent framework\nMaintain the open-source packages that the writing depends on, covering auth event sync, reactive billing in Convex, web data caching, and cascading deletes\n\nMar 2025 — PresentRemote\nConvex\nDeveloper Champion\nInvited to apply by Convex&#x27;s Head of Community, who had read my production engineering and community work. Convex lists 33 Champions worldwide\nPublished 14 components in the official Convex Components Directory, across AI, payments, authentication, web data, communications, and developer tools\nWorked with Bright Data&#x27;s AI engineering team on their live market research terminal. I wrote the technical deep dive and built Convex components around the underlying system. The article is the only entry in the repository&#x27;s Resources section, and the Bright Data blog cites it\nWrite tutorials on building with Convex for freeCodeCamp and DEV, covering real-time AI apps, multi-tenant authentication and RBAC, audit logs, and billing\nBuilt every client project at NextMVP, my product studio, on Convex, and help founders and engineers move their apps to Convex\n\nJan 2026 — Feb 2026Lagos, Nigeria\nVercel\nFounding Host, v0 IRL Lagos\nSelected as one of 52 founding hosts worldwide for v0 IRL, Vercel&#x27;s global community program\nDesigned and delivered a Prompt-to-Production workshop on February 7, 2026: 114 registrations, 98 attendees, and 16 products shipped live\nContinue to support the community that formed there, now more than 60 builders, through follow-up sessions and peer knowledge sharing\n\n2024 — PresentRemote\nfreeCodeCamp, DEV, Hashnode, and Medium\nTechnical Author\nAccepted through freeCodeCamp&#x27;s editorial process. I publish on AI agents, authentication, developer infrastructure, and AI-native SaaS for an audience of 4.3 million monthly readers\nPublished 54 articles on DEV, where 3,945 developers follow my work, alongside articles on freeCodeCamp, Hashnode, and Medium\n\n\nSpeaking\nTalks and workshops\n\n\nUpcomingDevFest Lagos 2026 · GDG Lagos\nAuthenticating AI Agents: Why Your Agents Need Their Own Identity\n November 13, 2026 Lagos, Nigeria\nAI agents make decisions, call APIs, and touch sensitive data, but many still use their user&#x27;s login. This session covers what it takes to give an AI agent its own verifiable identity, and why getting it wrong is a large security blind spot in modern software.\n\n\nRecording coming soon. I will record the session and publish it on YouTube after November 13.\nGet tickets \n\n\nWorkshopv0 IRL Lagos · Vercel\nv0 Prompt to Production — Lagos\n February 7, 2026 Lagos, Nigeria, and YouTube Live\nLagos&#x27;s first official v0 IRL event, which I designed and hosted as one of 52 founding v0 IRL hosts worldwide. In four hours of hands-on building, founders, product managers, designers, and builders used v0 and other AI tools to ship landing pages, rental applications, startup MVPs, and marketing sites to live URLs. Vercel and Kinde backed the event.\n114registered\n98attended (26 in person, 72 on YouTube Live)\n16apps deployed live\n\n\n\nEvent page Watch the highlights Watch attendee interviews \n\n\nFor Kinde\nReference apps and packages\nRunnable demos I built in Kinde&#x27;s official starter-kits organization, each paired with an article, plus the packages I wrote under kinde-oss.\n\nContract Intelligence\nShows an AI agent crew approve a clause its user cannot approve, then shows Kinde permission intersection stop it with a real 403.\nCode ↗Article ↗\nProcurement Floor\nAgents hand work down a chain. Attenuated delegation stops a Buyer&#x27;s agents from placing a $142,000 order that needs tier-2 approval.\nCode ↗Article ↗\nEvidence Locker\nEvery agent action on legal case files is authorized and written to a hash-chained record that an auditor can replay and verify.\nCode ↗Article ↗\nPlan My Day (Mastra starter kit)\nA Mastra agent that knows the user, their organization, and their permissions. The same prompt saves a plan for one user and is refused for another.\nCode ↗Demo ↗\n\nkinde-convex-agent-authAgent identity, delegation, and authorize()kinde-convex-agent-memoryTenant-scoped agent memorykinde-convex-agent-toolsPermission-checked tool accesskinde-convex-billingReactive Kinde billing in Convexkinde-convex-syncKinde auth events synced to Convexmastra-auth-kindeKinde auth provider for Mastra\nFounder\nDevRel Studio\n\nA product I founded and own. Developer advocates log each piece of work they ship: a post, a talk, a package, or a demo. Each client gets a live dashboard with views, downloads, attendees, and stars that refresh on their own. The advocate also gets a public portfolio of everything they have published.\nSix content types, each with its own number\nDaily npm and GitHub refresh, so no number goes stale\nBranded client dashboards on a subdomain or custom domain\nScheduled monthly PDF reports\nNext.js 16ConvexKindeStripeResend\ndevrel.studio See my Kinde dashboard \n\nkinde.devrel.studio\nPublished45\nViews43,662\nDownloads2,398\n\nJev for Agent AuthorizationMediumPublished\nJev GatehouseDemoPublished\nStep-Up Auth for Claude AgentsDEVPublished\nKinde Agent Auth componentPackagePublished\n\n“This is the best approach I have ever seen from anyone we have worked with and a completely unique experience.”Andre Selton, KindeOpen source\nSelected projects\n\nKinde Agent Kit \nA four-part open-source Convex component suite that gives AI agents identity, billing, memory, and tool access across multi-tenant applications.\nKindeConvexAI agents\nconvex-cascading-deletes \nCascading deletes for Convex. It is in the official Convex Components Directory and is the most widely used package I maintain.\nConvexnpm\nmastra-auth-kinde \nThe Kinde authentication provider for the Mastra AI agent framework. It supports user and machine-to-machine tokens and verifies them with jose, so it runs on Cloudflare Workers without nodejs_compat.\nMastraKinde\nmastra-vs-langchain \nA public benchmark that runs the same AI agent pipeline in Mastra and LangChain, with instrumented data, G-Eval scoring, and a bias fix. I analyzed the results in a freeCodeCamp deep dive.\nBenchmarkfreeCodeCamp\nmcp-starter-kit \nA universal MCP server starter with authentication, database, and billing built in.\nMCPnpm\nopenloops \nA local-first Chrome extension that clusters browsing history into intent threads. It grounds Claude&#x27;s labels in real company data from the Context.dev API.\nChromeClaude\n\nWriting\nRecent and most-read articles\nAll 45 pieces I have shipped for Kinde, with live views, are on my DevRel Studio dashboard.\n\nMediumSep 2026\nJev for Agent Authorization: The Ultimate Guide to Real-Time Tool-Call Checks with Kinde\nHow Jev Gatehouse checks every agent tool call, and a 300-call benchmark against an LLM judge.\nRead freeCodeCampJan 202622,380 views\nHow to Build and Deploy Tetris Inside ChatGPT: A Complete Guide to the Vercel ChatGPT Apps SDK with TypeScript, Convex, and Kinde OAuth\nA full handbook for building a ChatGPT app with a replay system and a leaderboard.\nRead DEVAug 2026391 views\nHow to Require Step-Up Auth Before a Claude Agent&#x27;s Destructive Actions With Kinde\nRead DEVJul 2026312 views\nHow to Build Agent-to-Agent Delegation That Attenuates Authority\nRead DEVFeb 20261,073 views\nStop Treating AI Agents Like Users: Why Your Auth Model Needs a New Layer for Non-Human Identities\nRead freeCodeCampJun 2026\nMastra vs LangChain: Building an AI Agent Pipeline and Analyzing the Data\nRead \nMost-read articles\n43,662 views across 45 pieces for Kinde, tracked on DevRel Studio.\n\nHow to Build and Deploy Tetris Inside ChatGPTfreeCodeCamp22,380\nHow to Build Passwordless Auth That Doesn&#x27;t Frustrate UsersDEV1,327\nAI Generated 47% of My Code Last Month. Here&#x27;s What I Actually Had to FixDEV1,312\nWhy Your SaaS Can&#x27;t Charge Per-Seat Anymore (And What Replaces It)DEV1,227\nHow to Send Auth Codes via WhatsApp in Your App With KindeDEV1,105\nHow to Build Organization-Scoped M2M Authentication for Multi-Tenant APIsDEV1,102\nHow to Build a Secure MCP Server for AI AgentsDEV1,101\nStop Treating AI Agents Like UsersDEV1,073\n\nBuilding on Convex\nTutorials and deep dives from a Convex Developer Champion who ships client and product work on it.\n\nHow to Build and Deploy Tetris Inside ChatGPT: A Complete Guide to the Vercel ChatGPT Apps SDK with TypeScript, Convex, and Kinde OAuthfreeCodeCamp · Jan 2026 · 22,380 views\nBuilding a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time EverythingDEV · Mar 2026\nHow to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and KindeDEV · Apr 2026 · 481 views\nHow to Stop an AI Agent That Lies About Its Own SpendingDEV · Sep 2026 · 86 views\nPart 1: Master Authentication and Role-Based Access Control (RBAC) with Kinde and Convex in a File-Sharing ApplicationDEV · Dec 2024\nPart 2: Master Authentication and Role-Based Access Control (RBAC) with Kinde and Convex in a File-Sharing ApplicationDEV · Jan 2025\nConvex & KindeDEV · Dec 2024\n\nfreeCodeCampEditorially reviewed long-form work for 4.3 million monthly readersDEV54 articles, followed by 3,945 developersMediumIn-depth guides, starting with Jev for agent authorizationHashnodeField notes on developer relations and tooling decisions\nnpm\nPackages\n15 npm packages across AI, payments, authentication, web data, communications, and developer tools. Fourteen are in the official Convex Components Directory.\n\n56,039downloads · last 12 months ↗\nSearch packagesCategoryAllAIAuthenticationCommunicationsDatabaseDeveloper toolsPaymentsWeb dataSortMost downloadedMost recent\n15 of 15 packages\n@sholajegede/convex-cascading-deletesDatabase\nA convex cascading deletes component for Convex.\nDetails, versions & guide →npm ↗GitHub ↗v0.1.2Published Mar 13, 2026Convex directory ↗\n\n41,721 downloadsHistory \n\n\nmcp-starter-kitDeveloper tools\nUniversal MCP starter kit with authentication, database, and billing\nDetails, versions & guide →npm ↗GitHub ↗v1.4.9Published Oct 11, 2025\n\n4,741 downloadsHistory \n\n\nconvex-kinde-billingPayments\nSync Kinde billing events into Convex reactively. Real-time subscription state, payment tracking, and metered usage.\nDetails, versions & guide →npm ↗GitHub ↗v0.1.11Published Mar 17, 2026Convex directory ↗\n\n1,662 downloadsHistory \n\n\nconvex-livekitCommunications\nSync LiveKit rooms, participants, tracks, egress, and ingress into Convex reactively, and manage them directly from Convex functions.\nDetails, versions & guide →npm ↗GitHub ↗v0.0.9Published Sep 18, 2026Convex directory ↗\n\n1,218 downloadsHistory \n\n\nconvex-githubDeveloper tools\nSync GitHub issues and pull requests into Convex reactively, and open issues, comment, and merge PRs from Convex functions.\nDetails, versions & guide →npm ↗GitHub ↗v0.0.6Published Sep 18, 2026Convex directory ↗\n\n767 downloadsHistory \n\n\n@sholajegede/convex-bright-data-datasetsWeb data\nA convex bright data datasets component for Convex.\nDetails, versions & guide →npm ↗GitHub ↗v0.1.3Published Mar 14, 2026Convex directory ↗\n\n661 downloadsHistory \n\n\nShow all 15 packagesPackage details and download counts come from npm. They update automatically.\nAbout\nShola Jegede, in short\n\nShola Jegede is a developer relations engineer based in Lagos, Nigeria. He is a Developer Relations Engineer at Kinde, one of 33 Convex Developer Champions, and the founder of DevRel Studio. He builds open-source infrastructure for AI agents, authentication, and billing, and writes long-form technical articles about it on freeCodeCamp, DEV, and Medium.\nCompanies in developer tools and AI infrastructure bring him in to launch products to developers, build the reference apps and integrations that prove them, and run workshops that get people shipping. See how he works with teams.\n\nRecognition\nSelected by\n\nConvex, Kinde, and Vercel each selected me independently within the same twelve months\nOne of 33 Convex Developer Champions worldwide\nVercel v0 IRL founding host, one of 52 selected globally\nfreeCodeCamp contributor, accepted in August 2025 by an editorial team that approves a small percentage of applicants\nCited twice by Bright Data: as the only entry in their market terminal README and in an article on their blog\nHonorable Mention in the Agent.ai x DEV Community Challenge for NextRaise, an agentic fundraising platform\n\nEducation\nEducation\n\nFederal University of Technology AkureB.Sc. Building Construction2015 — 2020\nHave a specific question? Ask the portfolio assistant about any project, package, or article.\nBuilding developer tools or AI infrastructure?\nI write, build, and run programs that help developers adopt them.\nwork@sholajegede.comHow I work with teams\n\n© 2026 Shola Jegede · Lagos, Nigeria · Open analytics\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "wani_shola"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/Y2MJ2DHedD,"
+    ]
+  },
+  "xUrl": "https://x.com/wani_shola/status/2103769906638459278",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103768901662179328/img/plwUcebyyob2ZeqE.jpg",
+  "coverPath": "data/covers/2103769906638459278-wide.jpg",
+  "gifPath": "data/gifs/2103769906638459278.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103768901662179328",
+    "x-post:2103769906638459278"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Remotion Portfolio Showreel Video Prompt",
+      "summary": "A prompt directing Opus 5.5 to generate a motion graphics showreel video for a developer relations engineer portfolio using Remotion, featuring animated browser captures, real Q&A from the site's assistant, premium branding principles, and beat-synced 120 BPM pacing.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.",
+        "englishText": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion.",
+          "sourceUrl": "https://x.com/wani_shola/status/2103769906638459278",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/wani_shola/status/2103769906638459278",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/wani_shola/status/2103769906638459278",
+        "start": 158,
+        "end": 1164
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/wani_shola/status/2103769906638459278",
+        "author": "wani_shola",
+        "postId": "2103769906638459278",
+        "publishedAt": "2026-09-26T08:53:26.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:45.717Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/wani_shola/status/2103769906638459278",
+        "evidence": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt directing Opus 5.5 to generate a motion graphics showreel video for a developer relations engineer portfolio using Remotion, featuring animated browser captures, real Q&A from the site's assistant, premium branding principles, and beat-synced 120 BPM pacing.",
+    "summaryEn": "Remotion Portfolio Showreel Video Prompt",
+    "originalPrompt": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.",
+    "sourceRange": {
+      "start": 158,
+      "end": 1164
+    },
+    "translations": {
+      "zh": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email.",
+      "en": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.\n\n- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.\n- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.\n- Follow premium brand rules: three colours and the site's own fonts, one idea per shot, key objects centred, space to breathe, eased motion only, smooth transitions instead of hard cuts, and a rhythm that speeds up and slows down with the story.\n- Add music at about 120 BPM (elite, kinetic, sophisticated) and cut every scene on the beat. No extra sound effects.\n- 1920×1080, about 90 to 100 seconds, ending on the website and my contact email."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

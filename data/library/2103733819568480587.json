@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:56:31.844Z",
+  "model": "opus5.5",
+  "prompt": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+  "promptTranslations": {
+    "en": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video."
+  },
+  "summary": "A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.",
+  "summaryEn": "Remotion Product Showcase Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103733819568480587",
+    "canonicalUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+    "author": {
+      "username": "lester_tyy",
+      "displayName": "Lester",
+      "profileUrl": "https://x.com/lester_tyy"
+    },
+    "publishedAt": "2026-09-26T06:30:02.000Z",
+    "collectedAt": "2026-09-28T07:53:42.298Z",
+    "language": "en",
+    "originalText": "Opus 5.5 is crazy good. One prompt and it cooked up this whole video.\n\nMy prompt was basically:\n\n“Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.” https://t.co/u8tx3I9hRI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/lester_tyy/status/2103733819568480587",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103733769098481664/img/lE4_GCWf-9o8cqV5.jpg",
+        "analysisUrl": "https://x.com/lester_tyy/status/2103733819568480587"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 41
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://experiments.cloudjoi.com/",
+        "text": "Find something special | CloudJoi\n\n?\n\nFind something special around you\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "lester_tyy"
+      },
+      {
+        "url": "https://x.com/lester_tyy/status/2103733819568480587",
+        "text": "Lester on X: \"Opus 5.5 is crazy good. One prompt and it cooked up this whole video.\n\nMy prompt was basically:\n\n“Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.”\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nLester on X: \"Opus 5.5 is crazy good. One prompt and it cooked up this whole video.\n\nMy prompt was basically:\n\n“Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.”\"\n\n\n\nLester\n@lester_tyy\n\n\n\n\nOpus 5.5 is crazy good. One prompt and it cooked up this whole video.\n\nMy prompt was basically:\n\n“Study how this experiments.cloudjoi.com works and use Remotion to make a product showcase video.”\n\n\n00:00\n\n\n\n\n\n\n\n\n6:30 AM · Sep 26, 2026·41\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nLester@lester_tyyFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nLester\n@lester_tyy\n\n\n\n\nOpus 5.5 is crazy good. One prompt and it cooked up this whole video.\n\nMy prompt was basically:\n\n“Study how this experiments.cloudjoi.com works and use Remotion to make a product showcase video.”\n\n\n00:00\n\n\n\n\n\n\n\n\n6:30 AM · Sep 26, 2026·41\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "lester_tyy"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103733769098481664/img/lE4_GCWf-9o8cqV5.jpg",
+  "coverPath": "data/covers/2103733819568480587-wide.jpg",
+  "gifPath": "data/gifs/2103733819568480587.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103733769098481664",
+    "x-post:2103733819568480587"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Remotion Product Showcase Video",
+      "summary": "A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+        "englishText": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+          "sourceUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+          "status": "required"
+        }
+      ],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/lester_tyy/status/2103733819568480587",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/lester_tyy/status/2103733819568480587",
+        "start": 98,
+        "end": 193
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/lester_tyy/status/2103733819568480587",
+        "author": "lester_tyy",
+        "postId": "2103733819568480587",
+        "publishedAt": "2026-09-26T06:30:02.000Z"
+      },
+      "checkedAt": "2026-09-28T07:54:01.960Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.",
+    "summaryEn": "Remotion Product Showcase Video",
+    "originalPrompt": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+    "sourceRange": {
+      "start": 98,
+      "end": 193
+    },
+    "translations": {
+      "zh": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+      "en": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

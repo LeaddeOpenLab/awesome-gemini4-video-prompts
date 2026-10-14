@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:16:38.210Z",
+  "model": "opus5.5",
+  "prompt": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+  "promptTranslations": {
+    "en": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy."
+  },
+  "summary": "A prompt provided to Opus 5.5 alongside repo access to generate a 30-second dynamic motion graphics and sound design video for Ren.",
+  "summaryEn": "Dynamic Ren Motion Graphics Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103545787875733862",
+    "canonicalUrl": "https://x.com/macrohou/status/2103545787875733862",
+    "author": {
+      "username": "macrohou",
+      "displayName": "Josh",
+      "profileUrl": "https://x.com/macrohou"
+    },
+    "publishedAt": "2026-09-25T18:02:52.000Z",
+    "collectedAt": "2026-09-28T08:12:48.941Z",
+    "language": "en",
+    "originalText": "RIP motion designers. Absolutely blown away by the visual and sound design from Opus 5.5.\n\nExperimenting with potential launch videos for @getrenapp with one-shot prompts using Opus 5.5.\n\nPrompt:\n\n\"[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.\"\n\nAfter each video I told it to one-up the previous one with its capabilities. Here are the results:",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/macrohou/status/2103545787875733862",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103545006157889536/img/jwj0xW-2HarPPUqw.jpg",
+        "analysisUrl": "https://x.com/macrohou/status/2103545787875733862"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 3,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 407
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/macrohou/status/2103545792342499735",
+        "text": "\"Make it the best one yet\" https://t.co/ROdevHwwSq",
+        "author": "macrohou"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/macrohou/status/2103545790589534373",
+        "text": "Told it make it to go above and beyond. \"Show me your full capabilities\" https://t.co/JpoW7Avmpd",
+        "author": "macrohou"
+      },
+      {
+        "url": "https://x.com/macrohou/status/2103545792342499735",
+        "text": "Josh on X: \"\"Make it the best one yet\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJosh on X: \"\"Make it the best one yet\"\"\n\n\n\nJosh\n\n@macrohou\n\n\n\n\n\"Make it the best one yet\"\n\n\n00:00\n\n\n\n\n\n\n\n\n6:02 PM · Sep 25, 2026·32\nViews\n\n\n\n\n\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJosh@macrohouFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\nSep 25\n\n\nRIP motion designers. Absolutely blown away by the visual and sound design from Opus 5.5.\n\nExperimenting with potential launch videos for @getrenapp with one-shot prompts using Opus 5.5.\n\nPrompt:\n\n\"[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n3\n7\n407\n\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\nSep 25\n\n\nTold it make it to go above and beyond. \"Show me your full capabilities\"\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n2\n66\n\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\n\n\n\n\n\"Make it the best one yet\"\n\n\n00:00\n\n\n\n\n\n\n\n\n6:02 PM · Sep 25, 2026·32\nViews\n\n\n\n\n\n3\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "macrohou"
+      },
+      {
+        "url": "https://x.com/macrohou/status/2103545790589534373",
+        "text": "Josh on X: \"Told it make it to go above and beyond. \"Show me your full capabilities\"\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nJosh on X: \"Told it make it to go above and beyond. \"Show me your full capabilities\"\"\n\n\n\nJosh\n\n@macrohou\n\n\n\n\nTold it make it to go above and beyond. \"Show me your full capabilities\"\n\n\n00:00\n\n\n\n\n\n\n\n\n6:02 PM · Sep 25, 2026·66\nViews\n\n\n\n1\n\n2\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJosh@macrohouFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\nSep 25\n\n\nRIP motion designers. Absolutely blown away by the visual and sound design from Opus 5.5.\n\nExperimenting with potential launch videos for @getrenapp with one-shot prompts using Opus 5.5.\n\nPrompt:\n\n\"[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n3\n7\n407\n\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\n\n\n\n\nTold it make it to go above and beyond. \"Show me your full capabilities\"\n\n\n00:00\n\n\n\n\n\n\n\n\n6:02 PM · Sep 25, 2026·66\nViews\n\n\n\n1\n\n2\n1\n\n\n\n\n\n\n\n\n\nJosh\n\n@macrohou\nSep 25\n\n\n\"Make it the best one yet\"\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n3\n32\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "macrohou"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/macrohou/status/2103545787875733862",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103545006157889536/img/jwj0xW-2HarPPUqw.jpg",
+  "coverPath": "data/covers/2103545787875733862-wide.jpg",
+  "gifPath": "data/gifs/2103545787875733862.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103545006157889536",
+    "x-post:2103545787875733862"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Ren Motion Graphics Video Prompt",
+      "summary": "A prompt provided to Opus 5.5 alongside repo access to generate a 30-second dynamic motion graphics and sound design video for Ren.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Experimenting with potential launch videos for @getrenapp with one-shot prompts using Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+        "englishText": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/macrohou/status/2103545787875733862",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/macrohou/status/2103545787875733862",
+        "start": 198,
+        "end": 333
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/macrohou/status/2103545787875733862",
+        "author": "macrohou",
+        "postId": "2103545787875733862",
+        "publishedAt": "2026-09-25T18:02:52.000Z"
+      },
+      "checkedAt": "2026-09-28T08:13:21.989Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/macrohou/status/2103545787875733862",
+        "evidence": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt provided to Opus 5.5 alongside repo access to generate a 30-second dynamic motion graphics and sound design video for Ren.",
+    "summaryEn": "Dynamic Ren Motion Graphics Video Prompt",
+    "originalPrompt": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+    "sourceRange": {
+      "start": 198,
+      "end": 333
+    },
+    "translations": {
+      "zh": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+      "en": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

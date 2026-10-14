@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:59.045Z",
+  "model": "opus5.5",
+  "prompt": "build an Avatar-style game that runs in a browser tab. One rule: no assets.",
+  "promptTranslations": {
+    "en": "build an Avatar-style game that runs in a browser tab. One rule: no assets."
+  },
+  "summary": "Claude Opus 5.5 was prompted to build an interactive Avatar-style flight game running in a browser tab using Three.js and zero external assets, procedurally generating mountains, riders, weather, and rings from a single seed.",
+  "summaryEn": "Procedural Avatar-Style 3D Browser Game in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108588869255827570",
+    "canonicalUrl": "https://x.com/0xRhinoX/status/2108588869255827570",
+    "author": {
+      "username": "0xRhinoX",
+      "displayName": "Rhino",
+      "profileUrl": "https://x.com/0xRhinoX"
+    },
+    "publishedAt": "2026-10-09T16:02:16.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets.\n\nSix riders, floating mountains, ring races, storms. All generated from one seed with three.js, 370 KB.\n\nPlay it: https://t.co/SbULoh5aNV https://t.co/HIsxCZMrbA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xRhinoX/status/2108588869255827570",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108578428936970240/img/gQJib8OB4Pbo02ZT.jpg",
+        "analysisUrl": "https://x.com/0xRhinoX/status/2108588869255827570"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 1,
+      "replyCount": 14,
+      "quoteCount": 5,
+      "viewCount": 683
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108606647618945401",
+        "text": "@0xGenAi Appreciate it man",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108599738165539174",
+        "text": "@0xSammyAlpha Appreciate it",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108597256417055083",
+        "text": "@Quantex0x @claudeai @threejs same reaction I had. still not sure who designed the sixth rider, it definitely wasn't me",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108596983925723476",
+        "text": "@ottollm yeah one seed. whole world with weather and it's smaller than most hero images",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108596028777611415",
+        "text": "@velesxbt how bad are we talking, values.yaml alone or the whole umbrella chart",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108595610550980755",
+        "text": "@keydol123 @claudeai @threejs honestly the whole game is smaller than most hero images on a landing page. 370 KB and the storms are just math",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108595114792644786",
+        "text": "@keydol123 did you fly into one of the storms yet",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108594177365733630",
+        "text": "@0xOrionVega @claudeai @threejs would have to dig through the log for an exact count",
+        "author": "0xRhinoX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xRhinoX/status/2108593804215251103",
+        "text": "@ka1manov Will diff both builds on the same seed and post what moved",
+        "author": "0xRhinoX"
+      },
+      {
+        "url": "https://aeloria.pokeable.app/",
+        "text": "\n\n  \n    \n    \n    Aeloria\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n\n  \n\n\n",
+        "kind": "linked_public_material",
+        "author": "0xRhinoX"
+      },
+      {
+        "url": "https://x.com/0xRhinoX/status/2108588869255827570",
+        "text": "Rhino on X: \"I asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets.\n\nSix riders, floating mountains, ring races, storms. All generated from one seed with three.js, 370 KB.\n\nPlay it: https://t.co/SbULoh5aNV\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRhino on X: \"I asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets.\n\nSix riders, floating mountains, ring races, storms. All generated from one seed with three.js, 370 KB.\n\nPlay it: https://t.co/SbULoh5aNV\"\n\n\n\nRhino\n\n@0xRhinoX\n\n\n\n\nI asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets.\n\nSix riders, floating mountains, ring races, storms. All generated from one seed with three.js, 370 KB.\n\nPlay it: aeloria.pokeable.app\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 9, 2026·688\nViews\n\n\n\n14\n1\n23\n19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRhino@0xRhinoXFollow\nSoftware engineer vibecoding apps.\n3D Web • AI Tools • Products\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhino\n\n@0xRhinoX\n\n\n\n\nI asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets.\n\nSix riders, floating mountains, ring races, storms. All generated from one seed with three.js, 370 KB.\n\nPlay it: aeloria.pokeable.app\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 9, 2026·688\nViews\n\n\n\n14\n1\n23\n19\n\n\n\n\n\n\n\n\n\nKaimanov\n\n@ka1manov\n2h\n\n\nEverything coming from one seed is neat. When you asked for a change to the storms, did the agent leave the rest of the world alone, or did a small edit move every mountain and break the ring routes? How did you check?\n\n\n1\n\n1\n22\n\n\n\n\n\n\n\n\n\n\n\nOrion\n\n@0xOrionVega\n2h\n\n\nhow many prompts until @claudeai  got the @threejs  storms looking right\n\n\n1\n\n1\n22\n\n\n\n\n\n\n\n\n\n\n\nOtto\n\n@ottollm\n1h\n\n\nok ok this is UNREAL. a whole glowing world, riders, storms, all from one seed in 370 KB?? i’m sitting here grinning at my screen like a kid. we are so early!!\n\n\n1\n\n1\n21\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "0xRhinoX"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0xRhinoX/status/2108588869255827570",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108578428936970240/img/gQJib8OB4Pbo02ZT.jpg",
+  "coverPath": "data/covers/2108588869255827570-wide.jpg",
+  "gifPath": "data/gifs/2108588869255827570.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108578428936970240/vid/avc1/480x270/oaZiamCi-qO_Z4tm.mp4?tag=29",
+    "x-video:2108578428936970240",
+    "x-post:2108588869255827570"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Procedural Avatar-Style 3D Browser Game in Three.js",
+      "summary": "Claude Opus 5.5 was prompted to build an interactive Avatar-style flight game running in a browser tab using Three.js and zero external assets, procedurally generating mountains, riders, weather, and rings from a single seed.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic Claude",
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build an Avatar-style game that runs in a browser tab. One rule: no assets.",
+        "englishText": "build an Avatar-style game that runs in a browser tab. One rule: no assets.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full multi-turn agent conversation log",
+          "flight physics and camera controller specifications",
+          "procedural geometry and shader generation instructions for weather and storms"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video shows gameplay of 'Aeloria' featuring bioluminescent foliage, riders, floating islands, ring race courses, and procedural storm effects matching the author's description.",
+        "textualResultQuote": "AELORIA GROWN FROM A SINGLE SEED ... NO MODELS NO TEXTURES NO ASSETS Every leaf and cliff is made in code ... Race the rings through the peaks"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL rendering library for browser-based 3D scene creation, procedural geometry, and shader effects.",
+          "evidence": "All generated from one seed with three.js, 370 KB.",
+          "sourceUrl": "https://x.com/0xRhinoX/status/2108588869255827570",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural 3D browser game generation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "procedural-generation",
+          "avatar",
+          "flight-game"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the code and procedural generation math for the WebGL scene, game controls, and environment.",
+      "outputSource": "Three.js rendered in a Web browser tab",
+      "divisionEvidence": "I asked Claude Opus 5.5 to build an Avatar-style game that runs in a browser tab. One rule: no assets. ... All generated from one seed with three.js",
+      "video": {
+        "shots": "Multiple sequence cuts showcasing third-person flight gameplay, planetary landscapes, bioluminescence, and ring racing through floating archipelagos.",
+        "duration": "0:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Exemplifies Claude Opus 5.5's capabilities in building real-time interactive 3D browser worlds using procedural Three.js code without external media assets.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0xRhinoX/status/2108588869255827570",
+        "start": 27,
+        "end": 102
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0xRhinoX/status/2108588869255827570",
+        "author": "0xRhinoX",
+        "postId": "2108588869255827570",
+        "publishedAt": "2026-10-09T16:02:16.000Z"
+      },
+      "checkedAt": "2026-10-09T18:17:50.437Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xRhinoX/status/2108588869255827570",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to build an interactive Avatar-style flight game running in a browser tab using Three.js and zero external assets, procedurally generating mountains, riders, weather, and rings from a single seed.",
+    "summaryEn": "Procedural Avatar-Style 3D Browser Game in Three.js",
+    "originalPrompt": "build an Avatar-style game that runs in a browser tab. One rule: no assets.",
+    "sourceRange": {
+      "start": 27,
+      "end": 102
+    },
+    "translations": {
+      "zh": "build an Avatar-style game that runs in a browser tab. One rule: no assets.",
+      "en": "build an Avatar-style game that runs in a browser tab. One rule: no assets."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural 3D browser game generation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full multi-turn agent conversation log",
+        "flight physics and camera controller specifications",
+        "procedural geometry and shader generation instructions for weather and storms"
+      ],
+      "evidence": "The attached video shows gameplay of 'Aeloria' featuring bioluminescent foliage, riders, floating islands, ring race courses, and procedural storm effects matching the author's description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

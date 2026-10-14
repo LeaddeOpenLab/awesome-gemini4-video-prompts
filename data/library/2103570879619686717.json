@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:08:11.881Z",
+  "model": "opus5.5",
+  "prompt": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.",
+  "promptTranslations": {
+    "en": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video."
+  },
+  "summary": "Paranoid American shared the exact prompt used with Claude to generate, composite, and animate a complete music video for their song \"Deep Dish\".",
+  "summaryEn": "Deep Dish Music Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103570879619686717",
+    "canonicalUrl": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+    "author": {
+      "username": "ParanoidAmerica",
+      "displayName": "Paranoid American",
+      "profileUrl": "https://x.com/ParanoidAmerica"
+    },
+    "publishedAt": "2026-09-25T19:42:34.000Z",
+    "collectedAt": "2026-09-28T08:06:41.588Z",
+    "language": "en",
+    "originalText": "\"Deep Dish\" (music video)\n\nI'm beyond impressed with what AI can do now.\n\nThis was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below).\n\nIt took 67 minutes total. No post-production at all. No art provided. https://t.co/6KTvXvx5T0",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103570572227604480/img/hPLcycf4wajwMDEZ.jpg",
+        "analysisUrl": "https://x.com/ParanoidAmerica/status/2103570879619686717"
+      }
+    ],
+    "metrics": {
+      "likeCount": 62,
+      "repostCount": 12,
+      "replyCount": 14,
+      "quoteCount": 3,
+      "viewCount": 7791
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ParanoidAmerica/status/2103642320776159586",
+        "text": "@plutoelputo 🙏",
+        "author": "ParanoidAmerica"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ParanoidAmerica/status/2103579359663534449",
+        "text": "@vehementstudios Already cooking on more now. This is where all my extra tokens will be going",
+        "author": "ParanoidAmerica"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ParanoidAmerica/status/2103574086719062207",
+        "text": "entire prompt:\n\ncreate a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.\n\nclaude/opus 5.5 detected comfyui on my system, generated all the assets with SDXL and then composited and animated it all together.\n\nEven if I had all of the art assets and timeline markers, this would have easily taken be 8-10+ hours in After Effects to do manually.\n\nI might never open After Effects again.",
+        "author": "ParanoidAmerica"
+      },
+      {
+        "url": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+        "text": "Paranoid American on X: \"\"Deep Dish\" (music video)\n\nI&#x27;m beyond impressed with what AI can do now.\n\nThis was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below).\n\nIt took 67 minutes total. No post-production at all. No art provided… / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nParanoid American on X: \"\"Deep Dish\" (music video)\n\nI&#x27;m beyond impressed with what AI can do now.\n\nThis was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below).\n\nIt took 67 minutes total. No post-production at all. No art provided.\"\n\n\n\nParanoid American\n\n@ParanoidAmerica\n\n\n\n\n\"Deep Dish\" (music video)\n\nI&#x27;m beyond impressed with what AI can do now.\n\nThis was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below).\n\nIt took 67 minutes total. No post-production at all. No art provided.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:42 PM · Sep 25, 2026·7,791\nViews\n\n\n\n14\n12\n62\n18\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nParanoid American@ParanoidAmericaFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nParanoid American\n\n@ParanoidAmerica\n\n\n\n\n\"Deep Dish\" (music video)\n\nI&#x27;m beyond impressed with what AI can do now.\n\nThis was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below).\n\nIt took 67 minutes total. No post-production at all. No art provided.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:42 PM · Sep 25, 2026·7,791\nViews\n\n\n\n14\n12\n62\n18\n\n\n\n\n\n\n\n\n\nParanoid American\n\n@ParanoidAmerica\nSep 25\n\n\nentire prompt:\n\ncreate a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a Show more\n\n\n\n\n16\n295\n\n\n\n\n\n\n\n\n\n\n\nBen Soto\n\n@vehementstudios\nSep 25\n\n\nYou need to make more of these! This was great.\n\n\n1\n\n3\n91\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ParanoidAmerica"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103570572227604480/img/hPLcycf4wajwMDEZ.jpg",
+  "coverPath": "data/covers/2103570879619686717-wide.jpg",
+  "gifPath": "data/gifs/2103570879619686717.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103570572227604480",
+    "x-post:2103570879619686717"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Deep Dish Music Video Prompt",
+      "summary": "Paranoid American shared the exact prompt used with Claude to generate, composite, and animate a complete music video for their song \"Deep Dish\".",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "This was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below)."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.",
+        "englishText": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ParanoidAmerica/status/2103574086719062207",
+        "start": 16,
+        "end": 589
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ParanoidAmerica/status/2103570879619686717",
+        "author": "ParanoidAmerica",
+        "postId": "2103570879619686717",
+        "publishedAt": "2026-09-25T19:42:34.000Z"
+      },
+      "checkedAt": "2026-09-28T08:07:28.430Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ParanoidAmerica/status/2103574086719062207",
+        "evidence": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video."
+      },
+      "purpose": {
+        "label": "Music video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "Paranoid American shared the exact prompt used with Claude to generate, composite, and animate a complete music video for their song \"Deep Dish\".",
+    "summaryEn": "Deep Dish Music Video Prompt",
+    "originalPrompt": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.",
+    "sourceRange": {
+      "start": 16,
+      "end": 589
+    },
+    "translations": {
+      "zh": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.",
+      "en": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Music video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

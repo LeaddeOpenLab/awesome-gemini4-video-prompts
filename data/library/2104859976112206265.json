@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-30T08:19:11.789Z",
+  "model": "opus5.5",
+  "prompt": "shoot a bullet in a water balloon",
+  "promptTranslations": {
+    "en": "shoot a bullet in a water balloon"
+  },
+  "summary": "Claude Opus 5.5 generated an interactive 3D physics simulation and ray tracer modeling a bullet tearing through a water balloon with real-time refraction and fluid dynamics.",
+  "summaryEn": "Interactive Water Balloon Ballistics Simulation with Ray Traced Physics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104859976112206265",
+    "canonicalUrl": "https://x.com/decodedbysania/status/2104859976112206265",
+    "author": {
+      "username": "decodedbysania",
+      "displayName": "Sania",
+      "profileUrl": "https://x.com/decodedbysania"
+    },
+    "publishedAt": "2026-09-29T09:04:59.000Z",
+    "collectedAt": "2026-09-30T05:24:33.692Z",
+    "language": "en",
+    "originalText": "I asked Claude Opus 5.5 to shoot a bullet in a water balloon.\n\nIt wrote the physics, ray traced it, screenshotted its own work, gave itself a 2/10, and refused to stop.\n\nA bullet goes through a water balloon at 360 m/s, and you can freeze it at any millisecond and walk around it.\n\nWhat's actually being simulated:\n\n>the rubber tearing back from both bullet holes within a few milliseconds\n>the water holding the balloon's shape after the rubber is gone\n>the tunnel the bullet punched through the water collapsing\n>spray and mist blasting out of the exit hole\n>the whole blob drifting forward, because the bullet shoved it\n>the splash, the puddle, and the light bending through every bit of it\n\nEvery ray of light bends when it enters the water and again when it leaves. That's why the full balloon works like a lens and warps the grid behind it.\n\nThen you get to break it. Change the bullet speed, the calibre, where it hits, the gravity, the balloon size, how fast the rubber snaps, the lighting.\n\nIt scored every round of screenshots out of 10 and rewrote the physics until it stopped hating them.\n\nFirst score: 2. Last score: 8.5.\n\nTry it: https://t.co/9TDNca1n2t \n\nWhat should I make next?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/decodedbysania/status/2104859976112206265",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104858813493055488/img/CId3y_inh9qpn29D.jpg",
+        "analysisUrl": "https://x.com/decodedbysania/status/2104859976112206265"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 2,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 1052
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://water-balloon-sim.vercel.app/",
+        "text": "\n\n\n\n\nWater balloon ballistics\n\n\n\n\n\n\n\n  \n    \n    \n      Water balloon, 9 mm round at 360 m/s\n\n      −0.37ms2 400× slower\n\n      Bullet approaching\n\n    \n\n    Simulating…\n\n    \n      Pause\n      \n      \n      \n        \n        shot0.9 s\n\n      \n\n      Settings\n    \n\n    \n\n  \n\n\n  \n    Shot\n\n    Bullet speed\n\n    Caliber\n\n    Impact height\n\n    Drag in water\n\n\n    Balloon\n\n    Diameter\n\n    Hanging height\n\n    Rubber snap speed\n\n    \n\n\n    Physics\n\n    Gravity\n\n    Cavity collapse\n\n    Spray and mist\n\n    Water particles\n\n\n    Light and camera\n\n    Light direction\n\n    Light height\n\n    Light intensity\n\n    Exposure\n\n    Render resolution\n\n    \n      Side\n      Down the barrel\n      Above\n      Floor\n    \n\n     Follow the water\n\n    Playback\n\n    Slow motion at impact\n\n     Speed ramp after impact\n    Drag to orbit, scroll or pinch to zoom, right-drag or shift-drag to pan. Space pauses, → steps one frame, R restarts.\n\n    \n\n  \n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "decodedbysania"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_unavailable"
+    ]
+  },
+  "xUrl": "https://x.com/decodedbysania/status/2104859976112206265",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104858813493055488/img/CId3y_inh9qpn29D.jpg",
+  "coverPath": "data/covers/2104859976112206265-wide.jpg",
+  "gifPath": "data/gifs/2104859976112206265.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104858813493055488",
+    "x-post:2104859976112206265"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Water Balloon Ballistics Simulation with Ray Traced Physics",
+      "summary": "Claude Opus 5.5 generated an interactive 3D physics simulation and ray tracer modeling a bullet tearing through a water balloon with real-time refraction and fluid dynamics.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to shoot a bullet in a water balloon."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "shoot a bullet in a water balloon",
+        "englishText": "shoot a bullet in a water balloon",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt and initial prompt instructions",
+          "Full self-evaluation and screenshot feedback loop code or harness",
+          "Source simulation and WebGL/raytracing implementation codebase"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows an interactive 3D web interface matching the linked Vercel app with adjustable ballistics, water particle physics, ray traced refraction, and free camera orbiting.",
+        "textualResultQuote": "A bullet goes through a water balloon at 360 m/s, and you can freeze it at any millisecond and walk around it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Web Raytracer",
+          "role": "Interactive real-time 3D renderer and physics engine running in browser",
+          "evidence": "It wrote the physics, ray traced it, screenshotted its own work, gave itself a 2/10, and refused to stop.",
+          "sourceUrl": "https://x.com/decodedbysania/status/2104859976112206265",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D ballistics and fluid ray tracing simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "physics-simulation",
+          "raytracing",
+          "ballistics",
+          "webgl",
+          "interactive-demo",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Wrote the physics simulation, ray tracing shader/rendering code, and iterated on visual fidelity through automated screenshot evaluation.",
+      "outputSource": "In-browser WebGL canvas / interactive web application deployed on Vercel.",
+      "divisionEvidence": "Claude Opus 5.5 generated the code and physics logic; the rendering execution and interactive UI run in the client web browser.",
+      "video": {
+        "shots": "Single continuous interactive screen capture demonstrating orbit controls, slow-motion bullet impact, and parameter tweaks.",
+        "duration": "1:03",
+        "aspectRatio": "19:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides a clear demonstration of Claude Opus 5.5 authoring an interactive 3D physics and ray traced graphics simulation accompanied by verified video output and linked public deployment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/decodedbysania/status/2104859976112206265",
+        "start": 27,
+        "end": 60
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/decodedbysania/status/2104859976112206265",
+        "author": "decodedbysania",
+        "postId": "2104859976112206265",
+        "publishedAt": "2026-09-29T09:04:59.000Z"
+      },
+      "checkedAt": "2026-09-30T06:31:00.591Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/decodedbysania/status/2104859976112206265",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated an interactive 3D physics simulation and ray tracer modeling a bullet tearing through a water balloon with real-time refraction and fluid dynamics.",
+    "summaryEn": "Interactive Water Balloon Ballistics Simulation with Ray Traced Physics",
+    "originalPrompt": "shoot a bullet in a water balloon",
+    "sourceRange": {
+      "start": 27,
+      "end": 60
+    },
+    "translations": {
+      "zh": "shoot a bullet in a water balloon",
+      "en": "shoot a bullet in a water balloon"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D ballistics and fluid ray tracing simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt and initial prompt instructions",
+        "Full self-evaluation and screenshot feedback loop code or harness",
+        "Source simulation and WebGL/raytracing implementation codebase"
+      ],
+      "evidence": "The video shows an interactive 3D web interface matching the linked Vercel app with adjustable ballistics, water particle physics, ray traced refraction, and free camera orbiting."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

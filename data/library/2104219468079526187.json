@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-11T17:36:50.984Z",
+  "model": "opus5.5",
+  "prompt": "Research EDteam and create a promotional video showing all your Motion Graphics skills",
+  "promptTranslations": {
+    "en": "Research EDteam and create a promotional video showing all your Motion Graphics skills"
+  },
+  "summary": "Alvaro Felipe Chávez tests Claude Opus 5.5 with a single prompt requesting research into EDteam and a promotional motion graphics video demonstrating its visual capabilities.",
+  "summaryEn": "EDteam Promotional Motion Graphics Video with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104219468079526187",
+    "canonicalUrl": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+    "author": {
+      "username": "AlvaroFelipeCh",
+      "displayName": "Alvaro Felipe Chávez",
+      "profileUrl": "https://x.com/AlvaroFelipeCh"
+    },
+    "publishedAt": "2026-09-27T14:39:50.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "¿Has visto la moda de crear videos con Opus 5.5? Pues esos videos son slop (basura).\n\nPasamos de \"Claude ha resuelto los motion graphics con un solo prompt 🤯\" o  \"Jamás volvería a pagar por un video 🤩\" a \"Otro video con Claude igualito a los cientos que ya vi 😴\"\n\nPorque cuando puedes crear lo que sea con un solo prompt, la velocidad con que eso se convierte en basura (slop) es rapidísima. \n\nY esa es una prueba más de que la IA no va a reemplazar a los profesionales. Porque cuando hasta un niño de primaria puede crear lo mismo con un prompt, los que destacan son los profesionales que con su experiencia, criterio, atención a los detalles, investigación y ética de trabajo pueden aportar valor en lugar de entregar la misma basura que todos.\n\nLos que destaquen no serán los que construyan con IA (en 2026 cualquiera construya con IA) sino los que aporten valor con lo que construyen y para lograrlo debes seguir aprendiendo y seguir mejorando tus habilidades. \n\nPor eso #NuncaFueMasimportanteAprender \n\nAdjunto un video de un solo prompt que Claude me hizo para EDteam: \"Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics\"\n\nSí, es un prompt de mierda y es un video de mierda. Y justamente es es el punto que intento demostrar.\n\nEspero que no sea necesario aclarar que no estoy diciendo que Opus 5.5 sea basura. Hablo del output que somos capaces de conseguir con él.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2104218585694400513/pu/img/4rIArnglCeKWuZ81.jpg",
+        "analysisUrl": "https://x.com/AlvaroFelipeCh/status/2104219468079526187"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 1,
+      "viewCount": 4685
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2104218585694400513/pu/img/4rIArnglCeKWuZ81.jpg",
+  "coverPath": "data/covers/2104219468079526187-wide.jpg",
+  "gifPath": "data/gifs/2104219468079526187.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104218585694400513",
+    "x-post:2104219468079526187"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "EDteam Promotional Motion Graphics Video with Claude Opus 5.5",
+      "summary": "Alvaro Felipe Chávez tests Claude Opus 5.5 with a single prompt requesting research into EDteam and a promotional motion graphics video demonstrating its visual capabilities.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Adjunto un video de un solo prompt que Claude me hizo para EDteam: \"Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics\"... Espero que no sea necesario aclarar que no estoy diciendo que Opus 5.5 sea basura."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics",
+        "englishText": "Research EDteam and create a promotional video showing all your Motion Graphics skills",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The resulting 40-second video features stylized kinetic typography, animated geometric nodes, course catalog cards, a multi-stage learning curve diagram, and EDteam branding matching the prompt instructions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "EDteam Promotional Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "promotional-video",
+          "kinetic-typography",
+          "single-prompt"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 researched company context and generated the motion graphics code/animation script to produce the promotional video.",
+      "outputSource": "Claude Opus 5.5 code execution / animation rendering",
+      "divisionEvidence": "Adjunto un video de un solo prompt que Claude me hizo para EDteam: \"Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics\"",
+      "video": {
+        "shots": "Sequential kinetic typography scenes, rotating node network graphic, course card grid, step-by-step learning curve line animation, and logo outro with call to action.",
+        "duration": "40s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The post provides an explicit Claude Opus 5.5 model confirmation, a verbatim single prompt, and the complete rendered motion graphics video result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+        "start": 1079,
+        "end": 1185
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+        "author": "AlvaroFelipeCh",
+        "postId": "2104219468079526187",
+        "publishedAt": "2026-09-27T14:39:50.000Z"
+      },
+      "checkedAt": "2026-10-11T17:20:05.691Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+        "evidence": ""
+      }
+    },
+    "summary": "Alvaro Felipe Chávez tests Claude Opus 5.5 with a single prompt requesting research into EDteam and a promotional motion graphics video demonstrating its visual capabilities.",
+    "summaryEn": "EDteam Promotional Motion Graphics Video with Claude Opus 5.5",
+    "originalPrompt": "Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics",
+    "sourceRange": {
+      "start": 1079,
+      "end": 1185
+    },
+    "translations": {
+      "zh": "Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics",
+      "en": "Research EDteam and create a promotional video showing all your Motion Graphics skills"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "EDteam Promotional Motion Graphics",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The resulting 40-second video features stylized kinetic typography, animated geometric nodes, course catalog cards, a multi-stage learning curve diagram, and EDteam branding matching the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

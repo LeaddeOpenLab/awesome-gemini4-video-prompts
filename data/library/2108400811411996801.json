@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:23.522Z",
+  "model": "opus5.5",
+  "prompt": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change",
+  "promptTranslations": {
+    "en": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change"
+  },
+  "summary": "Claude Opus 5.5 generated an interactive virtual MacBook keyboard component featuring typing sounds and split-flap keycap animations.",
+  "summaryEn": "Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108400811411996801",
+    "canonicalUrl": "https://x.com/fedemas/status/2108400811411996801",
+    "author": {
+      "username": "fedemas",
+      "displayName": "Federico",
+      "profileUrl": "https://x.com/fedemas"
+    },
+    "publishedAt": "2026-10-09T03:35:00.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "en",
+    "originalText": "Still amazed that Opus 5.5 built this entire keyboard from a single prompt.\n\nI asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change\n\nIt got everything right on the first try. No follow-up prompts needed.\n\nTurn your sound on and try it 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fedemas/status/2108400811411996801",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108124166574465024/img/Qw_8mprENFT95GY7.jpg",
+        "analysisUrl": "https://x.com/fedemas/status/2108400811411996801"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 58
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/fedemas/status/2108400811411996801",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108124166574465024/img/Qw_8mprENFT95GY7.jpg",
+  "coverPath": "data/covers/2108400811411996801-wide.jpg",
+  "gifPath": "data/gifs/2108400811411996801.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108124166574465024",
+    "x-post:2108400811411996801"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation",
+      "summary": "Claude Opus 5.5 generated an interactive virtual MacBook keyboard component featuring typing sounds and split-flap keycap animations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Author states: 'Still amazed that Opus 5.5 built this entire keyboard from a single prompt.'"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change",
+        "englishText": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt text and parameters",
+          "Implementation code / framework details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive MacBook keyboard on Keyameleon's site, complete with typing audio and split-flap animations when changing input sources.",
+        "textualResultQuote": "It got everything right on the first try. No follow-up prompts needed."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web / Browser DOM / Web Audio",
+          "role": "Runtime renderer and interactive execution environment",
+          "evidence": "Interactive website UI on https://keyameleon.app/",
+          "sourceUrl": "https://keyameleon.app/",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Animated Keyboard",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive-ui",
+          "audio",
+          "split-flap-animation",
+          "web-component"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the front-end code for the interactive keyboard component.",
+      "outputSource": "Web browser rendering generated code",
+      "divisionEvidence": "Opus 5.5 wrote the front-end logic and component markup, rendered natively in browser.",
+      "video": {
+        "shots": "Single continuous screen interaction capture",
+        "duration": "0:14",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 generating an interactive web-based UI component featuring audio and animated transitions.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/fedemas/status/2108400811411996801",
+        "start": 77,
+        "end": 229
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/fedemas/status/2108400811411996801",
+        "author": "fedemas",
+        "postId": "2108400811411996801",
+        "publishedAt": "2026-10-09T03:35:00.000Z"
+      },
+      "checkedAt": "2026-10-09T17:36:09.729Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/fedemas/status/2108400811411996801",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated an interactive virtual MacBook keyboard component featuring typing sounds and split-flap keycap animations.",
+    "summaryEn": "Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation",
+    "originalPrompt": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change",
+    "sourceRange": {
+      "start": 77,
+      "end": 229
+    },
+    "translations": {
+      "zh": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change",
+      "en": "I asked it to build this for the Keyameleon website:\n→ Recreate a MacBook keyboard\n→ Add key sounds\n→ Add a split-flap animation when the keycaps change"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Animated Keyboard",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt text and parameters",
+        "Implementation code / framework details"
+      ],
+      "evidence": "Screen recording demonstrates an interactive MacBook keyboard on Keyameleon's site, complete with typing audio and split-flap animations when changing input sources."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

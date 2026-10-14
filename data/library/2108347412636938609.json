@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:36.348Z",
+  "model": "opus5.5",
+  "prompt": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+  "promptTranslations": {
+    "en": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it."
+  },
+  "summary": "Claude Opus 5.5 generates a standalone interactive Three.js 3D model of the Saturn V rocket featuring internal cutaway views, interactive explode animation, and part inspection tooltips.",
+  "summaryEn": "Interactive 3D Saturn V Rocket Cutaway in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108347412636938609",
+    "canonicalUrl": "https://x.com/aichrislee/status/2108347412636938609",
+    "author": {
+      "username": "aichrislee",
+      "displayName": "AI Chris Lee | Sell AI",
+      "profileUrl": "https://x.com/aichrislee"
+    },
+    "publishedAt": "2026-10-09T00:02:49.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "Opus 5.5 just built me a Saturn V rocket in 3D.\n\n1 prompt in Claude Code, about 15 minutes. It stands on the launch pad cut open, so you see the fuel tanks inside, and 1 button pulls all 20 parts apart with their names on them, from the 5 F-1 engines up to the escape tower. Hover any part and it tells you what it does.\n\nI'm giving away the exact prompt. Steal it ↓\n\nBuild me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aichrislee/status/2108347412636938609",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2108347187260276736/pu/img/14gXV89HSZxb-eOc.jpg",
+        "analysisUrl": "https://x.com/aichrislee/status/2108347412636938609"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 55
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/aichrislee/status/2108347412636938609",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2108347187260276736/pu/img/14gXV89HSZxb-eOc.jpg",
+  "coverPath": "data/covers/2108347412636938609-wide.jpg",
+  "gifPath": "data/gifs/2108347412636938609.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/ext_tw_video/2108347187260276736/pu/vid/avc1/480x270/Z_51jtcKeYbJYhMd.mp4?tag=12",
+    "x-video:2108347187260276736",
+    "x-post:2108347412636938609"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Saturn V Rocket Cutaway in Three.js",
+      "summary": "Claude Opus 5.5 generates a standalone interactive Three.js 3D model of the Saturn V rocket featuring internal cutaway views, interactive explode animation, and part inspection tooltips.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 just built me a Saturn V rocket in 3D. 1 prompt in Claude Code, about 15 minutes."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+        "englishText": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays the rendered Three.js Saturn V rocket on a launchpad with animated engine smoke/flames, cutaway fuel tanks, interactive camera controls, an Explode button that separates labeled stages/components, and tooltip hover descriptions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "CLI development agent environment executing Opus 5.5",
+          "evidence": "1 prompt in Claude Code, about 15 minutes.",
+          "sourceUrl": "https://x.com/aichrislee/status/2108347412636938609",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library",
+          "evidence": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.",
+          "sourceUrl": "https://x.com/aichrislee/status/2108347412636938609",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.",
+          "sourceUrl": "https://x.com/aichrislee/status/2108347412636938609",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Saturn V rocket exploded view",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "saturn-v",
+          "interactive",
+          "cutaway",
+          "claude-code"
+        ]
+      },
+      "targetModelRole": "Code generation of the single standalone HTML file with Three.js logic and 3D procedural geometries",
+      "outputSource": "Web browser executing Three.js / WebGL",
+      "divisionEvidence": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js. No images. Do not ask me any questions. Just build it.",
+      "video": {
+        "shots": "Single continuous screen recording capturing interactive camera manipulation, button toggles, and hover states",
+        "duration": "16s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic original post documenting Claude Opus 5.5 generating an interactive 3D WebGL scene via Claude Code, complete with verbatim prompt and matching screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aichrislee/status/2108347412636938609",
+        "start": 368,
+        "end": 1196
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aichrislee/status/2108347412636938609",
+        "author": "aichrislee",
+        "postId": "2108347412636938609",
+        "publishedAt": "2026-10-09T00:02:49.000Z"
+      },
+      "checkedAt": "2026-10-09T12:32:02.119Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aichrislee/status/2108347412636938609",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a standalone interactive Three.js 3D model of the Saturn V rocket featuring internal cutaway views, interactive explode animation, and part inspection tooltips.",
+    "summaryEn": "Interactive 3D Saturn V Rocket Cutaway in Three.js",
+    "originalPrompt": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+    "sourceRange": {
+      "start": 368,
+      "end": 1196
+    },
+    "translations": {
+      "zh": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it.",
+      "en": "Build me a Saturn V rocket in interactive 3D, in one HTML file with Three.js.\n\nMake it look real: the white and black rocket standing on the launch pad, and inside it the parts you never get to see. The five giant F-1 engines at the bottom, the fuel and oxygen tanks in each stage, the second and third stages with their own engines, the lunar lander tucked in under the nose, the command module where the astronauts sit, and the escape tower on top. The engines glow and roar with fire and smoke. I can drag to orbit around it and scroll to zoom.\n\nAdd an Explode button. When I press it, every part slides apart along the rocket with its name on a label. Press it again and it all snaps back together. When I hover a part, it lights up and shows one line on what it does.\n\nNo images. Do not ask me any questions. Just build it."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Saturn V rocket exploded view",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording displays the rendered Three.js Saturn V rocket on a launchpad with animated engine smoke/flames, cutaway fuel tanks, interactive camera controls, an Explode button that separates labeled stages/components, and tooltip hover descriptions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

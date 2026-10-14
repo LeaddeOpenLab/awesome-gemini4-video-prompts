@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T13:38:34.301Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Demonstration of a 15-second dynamic motion designer showreel generated using Claude Opus 5.5 integrated with DuskCut.",
+  "summaryEn": "Dynamic 15-Second Motion Design Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108300297487413491",
+    "canonicalUrl": "https://x.com/pascal_gha83332/status/2108300297487413491",
+    "author": {
+      "username": "pascal_gha83332",
+      "displayName": "Just an npc",
+      "profileUrl": "https://x.com/pascal_gha83332"
+    },
+    "publishedAt": "2026-10-08T20:55:35.000Z",
+    "collectedAt": "2026-10-09T12:00:39.548Z",
+    "language": "en",
+    "originalText": "I recreated this motion graphic using Opus 5.5 together with DuskCut to show that connecting Opus to a real video editor can be beneficial. This was the prompt:\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/pascal_gha83332/status/2108300297487413491",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108299660221710336/img/PRGX1KrnzoTnAcQY.jpg",
+        "analysisUrl": "https://x.com/pascal_gha83332/status/2108300297487413491"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/pascal_gha83332/status/2108300297487413491",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108299660221710336/img/PRGX1KrnzoTnAcQY.jpg",
+  "coverPath": "data/covers/2108300297487413491-wide.jpg",
+  "gifPath": "data/gifs/2108300297487413491.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108299660221710336/vid/avc1/480x270/sLq9QDqr5oQYJqou.mp4?tag=29",
+    "x-video:2108299660221710336",
+    "x-post:2108300297487413491"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic 15-Second Motion Design Showreel",
+      "summary": "Demonstration of a 15-second dynamic motion designer showreel generated using Claude Opus 5.5 integrated with DuskCut.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I recreated this motion graphic using Opus 5.5 together with DuskCut"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 15-second video showcases a multi-section motion graphics showreel titled 'Claude - Motion Design Reel 2026', covering kinetic typography, shape language, 3D objects, generative systems, and animated interface counters.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "DuskCut",
+          "role": "video editor / rendering execution",
+          "evidence": "together with DuskCut to show that connecting Opus to a real video editor can be beneficial",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/pascal_gha83332/status/2108300297487413491"
+        }
+      ],
+      "purpose": {
+        "label": "Motion Design Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "showreel",
+          "motion-graphics",
+          "kinetic-typography",
+          "duskcut"
+        ]
+      },
+      "targetModelRole": "Generates the motion graphics layout, timing, and structure for the video editor.",
+      "outputSource": "DuskCut",
+      "divisionEvidence": "connecting Opus to a real video editor can be beneficial",
+      "video": {
+        "shots": "6 sections / multi-shot",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 controlling an external video tool (DuskCut) to generate a motion graphics showreel with verbatim prompt and matching video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/pascal_gha83332/status/2108300297487413491",
+        "start": 163,
+        "end": 314
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/pascal_gha83332/status/2108300297487413491",
+        "author": "pascal_gha83332",
+        "postId": "2108300297487413491",
+        "publishedAt": "2026-10-08T20:55:35.000Z"
+      },
+      "checkedAt": "2026-10-09T13:11:13.295Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pascal_gha83332/status/2108300297487413491",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of a 15-second dynamic motion designer showreel generated using Claude Opus 5.5 integrated with DuskCut.",
+    "summaryEn": "Dynamic 15-Second Motion Design Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 163,
+      "end": 314
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Motion Design Showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached 15-second video showcases a multi-section motion graphics showreel titled 'Claude - Motion Design Reel 2026', covering kinetic typography, shape language, 3D objects, generative systems, and animated interface counters."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

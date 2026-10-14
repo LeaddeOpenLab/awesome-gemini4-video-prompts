@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:24.818Z",
+  "model": "opus5.5",
+  "prompt": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+  "promptTranslations": {
+    "en": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works."
+  },
+  "summary": "Robin Ebers uses Claude Opus 5.5 to inspect an application codebase and generate an interactive, zoomable architecture diagram canvas that explains system data flows step by step.",
+  "summaryEn": "Interactive Architecture Canvas Generator",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105309987983745060",
+    "canonicalUrl": "https://x.com/robinebers/status/2105309987983745060",
+    "author": {
+      "username": "robinebers",
+      "displayName": "Robin Ebers",
+      "profileUrl": "https://x.com/robinebers"
+    },
+    "publishedAt": "2026-09-30T14:53:10.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "had a crazy idea today\n\nfor the past two months i've been building a pretty massive app\n\nand truth be told, i often play catch-up on architecture, because features move so damn fast\n\nso today i asked claude (opus 5.5, high)\n\n\"I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works.\"\n\n(full prompt in first comment)\n\nthis came out pretty great and it truly visualized, with steps and connected graphs what everything does\n\n10/10 would recommend",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/robinebers/status/2105309987983745060",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105308444328923136/img/Rk6dkc6EKloRRob0.jpg",
+        "analysisUrl": "https://x.com/robinebers/status/2105309987983745060"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1658,
+      "repostCount": 92,
+      "replyCount": 87,
+      "quoteCount": 10,
+      "viewCount": 188363
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105462068296192228",
+        "text": "@BuescherScott @BitcoinCyborg this yeah \n\nand gaining confidence",
+        "author": "robinebers"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105461869540741364",
+        "text": "@aarondevs or, hear me out, run one prompt",
+        "author": "robinebers"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105460948412846109",
+        "text": "@0xPaulius am not buffet level rich\n\nbut am considering it",
+        "author": "robinebers"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105322138563748018",
+        "text": "@woodchipdaddy far too slow imo\n\nship fast\nmake it work\nremove shit after\n\nthat's how most companies ship right now and the longer i do it myself, the more i realize why. lightspeed. yes you absolutely ship some slop. but you ship faster than ever and iterate faster too.",
+        "author": "robinebers"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105311253384347873",
+        "text": "@TomBuildsTech it works! and yes super helpful",
+        "author": "robinebers"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/robinebers/status/2105309990835933399",
+        "text": "here's the full prompt:\n\n(obviously adjust the last part)\n\n\"I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.\"",
+        "author": "robinebers"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/robinebers/status/2105309987983745060",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105308444328923136/img/Rk6dkc6EKloRRob0.jpg",
+  "coverPath": "data/covers/2105309987983745060-wide.jpg",
+  "gifPath": "data/gifs/2105309987983745060.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2105308444328923136/vid/avc1/416x270/moKISEMWqOZ_aZGf.mp4?tag=29",
+    "x-video:2105308444328923136",
+    "x-post:2105309987983745060"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Architecture Canvas Generator",
+      "summary": "Robin Ebers uses Claude Opus 5.5 to inspect an application codebase and generate an interactive, zoomable architecture diagram canvas that explains system data flows step by step.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "so today i asked claude (opus 5.5, high)"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+        "englishText": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Target application codebase and architecture files referenced in the prompt"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a screen recording of an interactive browser canvas titled 'Attention Machine Architecture Map' with pan/zoom navigation, tours, step-by-step flows, and boxes detailing Convex, Cloudflare R2, Modal workers, and Clerk/Stripe.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "codebase",
+          "description": "Full application codebase and architecture configuration for the target app",
+          "available": false,
+          "evidence": "I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/robinebers/status/2105309987983745060"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Web Browser Canvas",
+          "role": "Interactive rendering environment for zooming, panning, and stepping through architectural diagrams",
+          "evidence": "create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works",
+          "status": "required",
+          "sourceUrl": "https://x.com/robinebers/status/2105309987983745060"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Architecture Map",
+        "topic": "explainers",
+        "tags": [
+          "architecture-diagram",
+          "interactive-canvas",
+          "code-visualization",
+          "software-explainer"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 analyzed the repository code and authored the code for an interactive web canvas application visualizing system architecture flows.",
+      "outputSource": "Interactive web browser frontend rendered from Claude-generated code",
+      "divisionEvidence": "Author states: 'so today i asked claude (opus 5.5, high) ... to look at the app and create ... a canvas that I can zoom in and zoom out and move around to see how our architecture actually works.'",
+      "video": {
+        "shots": "single shot",
+        "duration": "12s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Robin Ebers provides a confirmed Claude Opus 5.5 implementation, quotes the full original prompt, and includes a screen recording demonstrating the generated interactive canvas application.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/robinebers/status/2105309990835933399",
+        "start": 60,
+        "end": 1147
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/robinebers/status/2105309987983745060",
+        "author": "robinebers",
+        "postId": "2105309987983745060",
+        "publishedAt": "2026-09-30T14:53:10.000Z"
+      },
+      "checkedAt": "2026-10-12T16:58:14.532Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/robinebers/status/2105309990835933399",
+        "evidence": ""
+      }
+    },
+    "summary": "Robin Ebers uses Claude Opus 5.5 to inspect an application codebase and generate an interactive, zoomable architecture diagram canvas that explains system data flows step by step.",
+    "summaryEn": "Interactive Architecture Canvas Generator",
+    "originalPrompt": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+    "sourceRange": {
+      "start": 60,
+      "end": 1147
+    },
+    "translations": {
+      "zh": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+      "en": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Architecture Map",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Target application codebase and architecture files referenced in the prompt"
+      ],
+      "evidence": "The video shows a screen recording of an interactive browser canvas titled 'Attention Machine Architecture Map' with pan/zoom navigation, tours, step-by-step flows, and boxes detailing Convex, Cloudflare R2, Modal workers, and Clerk/Stripe."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

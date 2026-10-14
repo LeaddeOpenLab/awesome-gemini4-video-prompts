@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:31:23.404Z",
+  "model": "opus5.5",
+  "prompt": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.",
+  "promptTranslations": {
+    "en": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself."
+  },
+  "summary": "A prompt asking for a dynamic 40-second motion graphics showreel explaining Distilbook, using original music inspired by the Oppenheimer score.",
+  "summaryEn": "Distilbook Motion Graphics Showreel Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103800569584562538",
+    "canonicalUrl": "https://x.com/ajith_io/status/2103800569584562538",
+    "author": {
+      "username": "ajith_io",
+      "displayName": "Ajith",
+      "profileUrl": "https://x.com/ajith_io"
+    },
+    "publishedAt": "2026-09-26T10:55:17.000Z",
+    "collectedAt": "2026-09-28T07:27:53.901Z",
+    "language": "en",
+    "originalText": "OMG ..\n\nI asked Claude OPUS 5.5 to use the Oppenheimer score to explain what https://t.co/4PFg2EoRAf is.\n\nAnd here is the output.\n\nPrompt:\n\n“Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ajith_io/status/2103800569584562538",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103800326029787136/img/YWu2Y3Nq01psafxf.jpg",
+        "analysisUrl": "https://x.com/ajith_io/status/2103800569584562538"
+      }
+    ],
+    "metrics": {
+      "likeCount": 60,
+      "repostCount": 3,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 4514
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2104088864776478739",
+        "text": "@GeorgeCamaraLop Prompt\nin claude code?\nwith max effort?",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103916961638007185",
+        "text": "@GeorgeCamaraLop Hey can I know which model you are using?",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103825661500825628",
+        "text": "@itisRazak 😅😅",
+        "author": "ajith_io"
+      },
+      {
+        "url": "https://distilbook.com/",
+        "text": "DistilBook | Turn Documents into Hand-Illustrated Explainer Videos\nTurn Documents into Hand-Illustrated Explainer Videos\nDistilBook turns any document into an engaging explainer video with narration, visuals, and captions, from a script you approve.\nSupportsPDFDOCXTXTand more\nTry for free\n\n\n\n\nTrusted by teams, schools, and organizations around the world\nMonash University\nUCSC Chile\n\n\n\nAppWizards\n\nJet Events\niBuyFlowers\nMonash University\nUCSC Chile\n\n\n\nAppWizards\n\nJet Events\niBuyFlowers\n\n\n\n\nOne document. Any style. Every use case.\nClick a style to watch a real video made with it.\n\nAllTrainingComplianceTechnicalEducationBusiness\n\n\n\n\n0:00 / 0:00\n\n\n\n\n\n\nIsometric Illustration· How things work\n\n\nIsometric Illustration\nHow things work\n\n\nEarthy Organic\nSafety & sustainability\n\n\nSoft 3D Coral\nBiography & story\n\n\nSketch Notebook\nAcademic lessons\n\n\nHand-Drawn Education\nSchool science\n\n\nBauhaus Poster\nAI & tech concepts\n\n\nCut Paper Collage\nHabits & behaviour\n\n\nDoodle Color Pop\nCustomer education\n\n\nEditorial Flat Vector\nEmployee onboarding\n\n\nInkwash Journal\nBook & wellness summaries\n\n\nIvory Navy Gold\nLeadership & culture\n\n\nMinimal Yellow Line\nProcess & SOPs\n\n\nNavy & Red Editorial\nCompliance training\n\n\nTriangle Badges\nSales enablement\n\n\n\nIsometric Illustration\nHow things work\n\nEarthy Organic\nSafety & sustainability\n\nSoft 3D Coral\nBiography & story\n\nSketch Notebook\nAcademic lessons\n\nHand-Drawn Education\nSchool science\n\nBauhaus Poster\nAI & tech concepts\n\nCut Paper Collage\nHabits & behaviour\n\nDoodle Color Pop\nCustomer education\n\nEditorial Flat Vector\nEmployee onboarding\n\nInkwash Journal\nBook & wellness summaries\n\nIvory Navy Gold\nLeadership & culture\n\nMinimal Yellow Line\nProcess & SOPs\n\nNavy & Red Editorial\nCompliance training\n\nTriangle Badges\nSales enablement\n\n\n\n01 · Sources\nDrop any source in.\nPDF, Doc, website, or image. Drop anything in and DistilBook reads it instantly.\n\n\n\n\n\n02 · Templates\nPick a template and colours.\nChoose a template and colour palette that fits your brand in a single click.\n\n\n\n\n\n03 · AI Agent\nThe agent animates and explains everything.\nOur AI agent turns your content into animated, narrated explanations, automatically.\n\n\n\n\n\n04 · Editor\nEdit any asset easily.\nFine-tune text, visuals, and timing. Every asset stays fully editable.\n\n\n\n\n\n\n\nBuilt for teams who move fast\nDistilBook helps teams, educators, and creators turn documents into engaging explainer videos in minutes.\n\nAmazing — my team thinks I&#x27;m a genius. We produced high-quality executive video presentations and operating models in days, not weeks. DistilBook is a department in itself.\nML\nMark L.\nFounder & Serial Entrepreneur\n\n\n\nRead the full review→Minutes\nFrom upload to video\nNarration, visuals, and captions, all generated automatically.\n\n\nPDF · DOCX · TXT\nAny document in\nPlus images and article links. DistilBook reads them all.\n\n\n1,500+\nCreators on board\nFounders, educators, and teams turning documents into videos.\n\n\n2,800+\nVideos created\nBuilt automatically from documents, every week.\n\n\nI used to use VideoScribe, but it took up a lot of my time. I was always looking for an alternative when I came across DistilBook. It will make content creation much easier for me.\nBK\nBymatrixkoli\nContent Creator · Former VideoScribe user\n\n\nRead the full review→Stop spending weeks making videos. Start creating them in minutes. DistilBook writes the script, narrates it, and animates every slide for you.\n\nTry for free→\n\n\n\nVideos created with the DistilBook\nFrom a single document to a polished, narrated deck. Here&#x27;s a glimpse of what people are creating with DistilBook.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAQs\n\nTalk to founder\nGet a direct 1:1 with our founder.\n\n\nContact live chat support\n24/7 available. No chatbots.\n\n\nVisit help center\nCheck out tutorials.\n\n\n\nWhat is DistilBook, and how does it work?DistilBook turns a document into a narrated explainer video that looks hand-illustrated. Upload a PDF, a Word file or an article link, or type a prompt. DistilBook writes the narration script and pauses so you can review and edit every line. Then it draws original artwork for each slide and animates it in time with the voiceover.\n\n\nWhat do DistilBook videos look like?Every scene is original artwork drawn for your content, revealed stroke by stroke as the narration reaches it, so the finished video looks like an illustrator made it for you. There are 15 visual styles: a hand-drawn whiteboard look plus 14 motion-graphics styles such as isometric illustration, soft 3D, cut paper collage, inkwash journal and editorial flat vector.\n\n\nHow is DistilBook different from other AI video tools?Most AI video tools reuse something the viewer has seen before: stock footage, a synthetic presenter, template characters, or one whiteboard look for every subject. DistilBook uses none of these. It draws new scenes for your content, in any of 15 styles, from a script you approve first, with your own logo and brand colours on every paid plan.\n\n\nWhat can I turn into a video?PDFs (including scanned pages), Word documents, Markdown, plain text, images, article links, or a written prompt. Lessons, training manuals, SOPs, research papers, course material, product guides and book summaries all work well. PDFs can be up to 10 pages on the free and Basic plans, 30 on Pro and 999 on Max.\n\n\nCan I edit the video before and after it is made?Yes, before it is made. DistilBook shows you the narration script before anything is drawn or voiced, so you can fix names, numbers and wording, or regenerate a slide&#x27;s narration with your own instructions. The narration is locked once generation starts, so this review is where you get it right. You can also write visual instructions to steer how the artwork is drawn, and on Pro you can pause at each slide to edit its image before continuing.\n\n\nCan I add my own logo and brand colours?Yes, on every paid plan, including the $15 one. Add them once and DistilBook applies them to every scene of every video. Branding is never an upgrade.\n\n\nCan I make vertical videos for Shorts, Reels and TikTok?Yes. DistilBook makes videos in 16:9 landscape or 9:16 vertical, so the same document can become a course video and a short for social media.\n\n\nHow long does it take to make a video?The script is ready to review within a couple of minutes. After you approve it, the first narrated slide plays in about 6 minutes, and a typical 8 to 10 slide video finishes in about 35 minutes. A whiteboard video can run to about 36 minutes in one piece.\n\n\nIs DistilBook free to use?You get 30 free credits when you sign up, with no card. A slide costs 10 credits, so that is a complete 3 slide narrated video you can watch in full and share by link. Paid plans are $15, $35 and $75 a month for 170, 450 and 1,000 credits, and remove the watermark.\n\n\nCan I use DistilBook for my business or team?Yes. Course creators, publishers, trainers and teams use it for lessons, onboarding, SOPs, compliance training and product guides. Your logo and brand colours are on every paid plan, narration is available in more than 20 languages, and the Max plan gives 1,000 credits a month. For more volume, email ajith@distilbook.com.\n\n\nIs my data secure?Yes. Your documents travel over encrypted connections (HTTPS) and live in private cloud storage tied to your account, so only you can access your uploads and generated videos, and share links exist only for videos you choose to publish. Your content is used solely to generate your videos; we never use it to train AI models. You stay in control: deleting a video permanently removes it from our storage.\n\n\nWhat formats can I export my videos in?MP4, up to 1440p on paid plans, ready for a course platform, a website, a presentation or social media. Every video, including free ones, also gets a share link. Free videos carry a watermark, which paid plans remove.\n\n\n\n\n\n\nPrivacy Policy|Terms of Service\nDISTILBOOK\n\n\n\nDistilBook\nTransform any document into clear, engaging explainer videos regardless of complexity.\n\n\nFree tools\nAI whiteboard animation generator\nPDF to video converter\nAI explainer video maker\nWord document to video\nResearch paper to video\nBlog to video converter\nAll free tools\n\nCompany\nAbout us\nContact us\nPricing\nBlog\nCompare\nAlternatives\nDocs\nAnswers\nTalk to Founder\n\nLegal\nTerms of Service\nPrivacy Policy\nSite Map\n\n\n\nBack to top\n© 2026 DistilBook.\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ajith_io"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ajith_io/status/2103800569584562538",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103800326029787136/img/YWu2Y3Nq01psafxf.jpg",
+  "coverPath": "data/covers/2103800569584562538-wide.jpg",
+  "gifPath": "data/gifs/2103800569584562538.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103800326029787136",
+    "x-post:2103800569584562538"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Distilbook Motion Graphics Showreel Prompt",
+      "summary": "A prompt asking for a dynamic 40-second motion graphics showreel explaining Distilbook, using original music inspired by the Oppenheimer score.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude OPUS 5.5 to use the Oppenheimer score to explain what https://t.co/4PFg2EoRAf is."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.",
+        "englishText": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/ajith_io/status/2103800569584562538",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ajith_io/status/2103800569584562538",
+        "start": 141,
+        "end": 367
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ajith_io/status/2103800569584562538",
+        "author": "ajith_io",
+        "postId": "2103800569584562538",
+        "publishedAt": "2026-09-26T10:55:17.000Z"
+      },
+      "checkedAt": "2026-09-28T07:28:58.926Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ajith_io/status/2103800569584562538",
+        "evidence": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt asking for a dynamic 40-second motion graphics showreel explaining Distilbook, using original music inspired by the Oppenheimer score.",
+    "summaryEn": "Distilbook Motion Graphics Showreel Prompt",
+    "originalPrompt": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.",
+    "sourceRange": {
+      "start": 141,
+      "end": 367
+    },
+    "translations": {
+      "zh": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself.",
+      "en": "Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are, like it's your showreel - go all out. Use the Oppenheimer theme music as inspiration, but compose it yourself."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

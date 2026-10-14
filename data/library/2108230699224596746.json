@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:06.294Z",
+  "model": "opus5.5",
+  "prompt": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+  "promptTranslations": {
+    "en": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done."
+  },
+  "summary": "Opus 5.5 automates Blender via MCP to create and record a 3D previs car chase on a mountain road.",
+  "summaryEn": "Mountainside Car Chase Previs",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108230699224596746",
+    "canonicalUrl": "https://x.com/tonysurix/status/2108230699224596746",
+    "author": {
+      "username": "tonysurix",
+      "displayName": "tonysuri",
+      "profileUrl": "https://x.com/tonysurix"
+    },
+    "publishedAt": "2026-10-08T16:19:02.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "en",
+    "originalText": "Opus 5.5 and Blender MCP can make some amazing previs videos.  All I did was \"in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.\"  It started with a nice sun glare too.  I think its because of its motion graphics ability.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/tonysurix/status/2108230699224596746",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108230130430840832/img/Fv2w5WYsMJl7dKbO.jpg",
+        "analysisUrl": "https://x.com/tonysurix/status/2108230699224596746"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 38
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/tonysurix/status/2108230699224596746",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108230130430840832/img/Fv2w5WYsMJl7dKbO.jpg",
+  "coverPath": "data/covers/2108230699224596746-wide.jpg",
+  "gifPath": "data/gifs/2108230699224596746.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108230130430840832",
+    "x-post:2108230699224596746"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Mountainside Car Chase Previs",
+      "summary": "Opus 5.5 automates Blender via MCP to create and record a 3D previs car chase on a mountain road.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 and Blender MCP can make some amazing previs videos."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+        "englishText": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "3D animated video showing a red car pursued by a black car along a sunny mountain road.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "in blender make a previs of a car driving thru a mountainside with a another car chasing.",
+          "sourceUrl": "https://x.com/tonysurix/status/2108230699224596746",
+          "status": "required"
+        },
+        {
+          "name": "Blender MCP",
+          "role": "3D scene creation, animation, and video rendering",
+          "evidence": "Opus 5.5 and Blender MCP can make some amazing previs videos. All I did was \"in blender make a previs...",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Car Chase Previs",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "mcp",
+          "previs",
+          "car-chase",
+          "animation"
+        ]
+      },
+      "targetModelRole": "Agent directing Blender via MCP tools to model, animate, and render the scene.",
+      "outputSource": "Blender MCP",
+      "divisionEvidence": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+      "video": {
+        "shots": "Multiple camera cuts following the chase along the mountain road, starting with a wide sun glare shot.",
+        "duration": "16s",
+        "aspectRatio": "2.39:1",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Original user demonstration of Claude Opus 5.5 using Blender MCP to orchestrate and render a 3D video sequence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/tonysurix/status/2108230699224596746",
+        "start": 78,
+        "end": 215
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/tonysurix/status/2108230699224596746",
+        "author": "tonysurix",
+        "postId": "2108230699224596746",
+        "publishedAt": "2026-10-08T16:19:02.000Z"
+      },
+      "checkedAt": "2026-10-09T11:47:31.848Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/tonysurix/status/2108230699224596746",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 automates Blender via MCP to create and record a 3D previs car chase on a mountain road.",
+    "summaryEn": "Mountainside Car Chase Previs",
+    "originalPrompt": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+    "sourceRange": {
+      "start": 78,
+      "end": 215
+    },
+    "translations": {
+      "zh": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done.",
+      "en": "in blender make a previs of a car driving thru a mountainside with a another car chasing.  record a video and show me here when its done."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "blender",
+    "useCase": "Car Chase Previs",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "3D animated video showing a red car pursued by a black car along a sunny mountain road."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

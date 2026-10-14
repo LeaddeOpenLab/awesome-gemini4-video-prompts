@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:06.947Z",
+  "model": "opus5.5",
+  "prompt": "anime cold open, westworld x cowboy bebop x blade runner 2049",
+  "promptTranslations": {
+    "en": "anime cold open, westworld x cowboy bebop x blade runner 2049"
+  },
+  "summary": "Garvin Bulkin demonstrates Claude Opus 5.5 orchestrating an 84-second, 23-shot anime sequence blending Westworld, Cowboy Bebop, and Blade Runner 2049 themes, rendered locally on an RTX 4090.",
+  "summaryEn": "Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108242769844310331",
+    "canonicalUrl": "https://x.com/gpbulkin/status/2108242769844310331",
+    "author": {
+      "username": "gpbulkin",
+      "displayName": "Garvin Bulkin",
+      "profileUrl": "https://x.com/gpbulkin"
+    },
+    "publishedAt": "2026-10-08T17:07:00.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "en",
+    "originalText": "> be me\n> bored of working on my app\n> wrote one lazy prompt: anime cold open, westworld x cowboy bebop x blade runner 2049\n> opus 5.5: 23 shots, 84 sec, all on my 4090\n> it can't hear, so it picks the music off spectrograms\n> still slop ngl\n> needs a real script and storyboard\n> or just a better prompt lmao",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/gpbulkin/status/2108242769844310331",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108241587713232896/img/5jkzrC4XLFmtovGW.jpg",
+        "analysisUrl": "https://x.com/gpbulkin/status/2108242769844310331"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/gpbulkin/status/2108242769844310331",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108241587713232896/img/5jkzrC4XLFmtovGW.jpg",
+  "coverPath": "data/covers/2108242769844310331-wide.jpg",
+  "gifPath": "data/gifs/2108242769844310331.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108241587713232896",
+    "x-post:2108242769844310331"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049",
+      "summary": "Garvin Bulkin demonstrates Claude Opus 5.5 orchestrating an 84-second, 23-shot anime sequence blending Westworld, Cowboy Bebop, and Blade Runner 2049 themes, rendered locally on an RTX 4090.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5: 23 shots, 84 sec, all on my 4090"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "anime cold open, westworld x cowboy bebop x blade runner 2049",
+        "englishText": "anime cold open, westworld x cowboy bebop x blade runner 2049",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "agent system prompt",
+          "video diffusion model and local inference script",
+          "spectrogram audio selection workflow"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 84-second anime video depicts 23 cinematic shots of a sci-fi western town, robotic hosts, jazz/blues title cards, and futuristic noir elements matching Cowboy Bebop, Westworld, and Blade Runner.",
+        "textualResultQuote": "opus 5.5: 23 shots, 84 sec, all on my 4090"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "NVIDIA RTX 4090",
+          "role": "Local hardware running video generation and inference",
+          "evidence": "all on my 4090",
+          "sourceUrl": "https://x.com/gpbulkin/status/2108242769844310331",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Anime Cold Open Generation",
+        "topic": "motion-graphics",
+        "tags": [
+          "anime",
+          "orchestration",
+          "cinematic",
+          "local-inference"
+        ]
+      },
+      "targetModelRole": "Orchestrates multi-shot storyboard, video generation pipeline, and audio selection via spectrograms",
+      "outputSource": "Local video diffusion renderer running on RTX 4090",
+      "divisionEvidence": "opus 5.5: 23 shots, 84 sec, all on my 4090; it can't hear, so it picks the music off spectrograms",
+      "video": {
+        "shots": "23",
+        "duration": "84s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Author shares an original 84-second video showcase orchestrated by Claude Opus 5.5 driving multi-shot generation on local hardware.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/gpbulkin/status/2108242769844310331",
+        "start": 62,
+        "end": 123
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/gpbulkin/status/2108242769844310331",
+        "author": "gpbulkin",
+        "postId": "2108242769844310331",
+        "publishedAt": "2026-10-08T17:07:00.000Z"
+      },
+      "checkedAt": "2026-10-09T11:53:22.526Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gpbulkin/status/2108242769844310331",
+        "evidence": ""
+      }
+    },
+    "summary": "Garvin Bulkin demonstrates Claude Opus 5.5 orchestrating an 84-second, 23-shot anime sequence blending Westworld, Cowboy Bebop, and Blade Runner 2049 themes, rendered locally on an RTX 4090.",
+    "summaryEn": "Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049",
+    "originalPrompt": "anime cold open, westworld x cowboy bebop x blade runner 2049",
+    "sourceRange": {
+      "start": 62,
+      "end": 123
+    },
+    "translations": {
+      "zh": "anime cold open, westworld x cowboy bebop x blade runner 2049",
+      "en": "anime cold open, westworld x cowboy bebop x blade runner 2049"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "Anime Cold Open Generation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "agent system prompt",
+        "video diffusion model and local inference script",
+        "spectrogram audio selection workflow"
+      ],
+      "evidence": "The attached 84-second anime video depicts 23 cinematic shots of a sci-fi western town, robotic hosts, jazz/blues title cards, and futuristic noir elements matching Cowboy Bebop, Westworld, and Blade Runner."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

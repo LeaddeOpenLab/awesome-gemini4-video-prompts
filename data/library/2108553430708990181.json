@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T09:36:28.642Z",
+  "model": "opus5.5",
+  "prompt": "a 90s Zelda… and then, beat it all by himself",
+  "promptTranslations": {
+    "en": "a 90s Zelda… and then, beat it all by himself"
+  },
+  "summary": "Demonstration of a complete 90s Zelda-style 2D game generated, rendered via procedural code, and autonomously completed by Claude Opus 5.5.",
+  "summaryEn": "Retro 2D Zelda Game Built and Played by Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108553430708990181",
+    "canonicalUrl": "https://x.com/IAenCrudo/status/2108553430708990181",
+    "author": {
+      "username": "IAenCrudo",
+      "displayName": "IA en Crudo",
+      "profileUrl": "https://x.com/IAenCrudo"
+    },
+    "publishedAt": "2026-10-09T13:41:27.000Z",
+    "collectedAt": "2026-10-10T08:56:06.893Z",
+    "language": "es",
+    "originalText": "Le pedí a Claude Opus 5.5 un Zelda de los 90… y después, que se lo pasara él solo 🗡️🎮\n\nLo hizo todo: el juego, el pixel art, la música y el jugador. Lo terminó en 3:07 sin morir ni una vez.\n\nPuedes jugarlo tú: el link está en el post de abajo 👇\n\n#IA #ClaudeAI #GameDev #PixelArt",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/IAenCrudo/status/2108553430708990181",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108553317655744513/img/urRlnyzGIC7NvVTK.jpg",
+        "analysisUrl": "https://x.com/IAenCrudo/status/2108553430708990181"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 67
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IAenCrudo/status/2108561445222846519",
+        "text": "@daemons_art Todo dibujado con código, píxel a píxel 👾 Crudo, los muros, el jefe… en el juego no hay ni una imagen generada. Lo más difícil fue que Crudo caminara: la IA de pixel art le deformaba el cubo, así que Claude acabó dibujando la animación a mano en código. Parecido a tus daemons 😄",
+        "author": "IAenCrudo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IAenCrudo/status/2108553433167049209",
+        "text": "🎮 Juégalo gratis, en el móvil o en el PC:\nhttps://t.co/guVs03tlEv\n\n👀 O mira a Claude pasárselo en directo:\nhttps://t.co/79aTc0tBiC",
+        "author": "IAenCrudo"
+      },
+      {
+        "url": "https://cripta-crudo.centro-datos-crudo.workers.dev/",
+        "text": "\r\n\r\n  \r\n    \r\n    \r\n    \r\n    Crudo y la Cripta del Token\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \n    \n  \r\n  \r\n    \n\r\n    \r\n      \n\r\n      \r\n        HABLAR\nABRIR\n\r\n        GANCHO\n\r\n        ESPADA\n\r\n      \n\r\n    \n\r\n    ESTÁ JUGANDO CLAUDE · toca la pantalla o pulsa una tecla para empezar\nQUIERO JUGAR YO\n\r\n    Flechas/WASD moverte · J/Espacio espada · K gancho · L/Enter hablar y abrir cofres · ver a Claude jugarPartida nueva\n\r\r\n  \r\n\r\n",
+        "kind": "linked_public_material",
+        "author": "IAenCrudo"
+      },
+      {
+        "url": "https://cripta-crudo.centro-datos-crudo.workers.dev/?bot",
+        "text": "\r\n\r\n  \r\n    \r\n    \r\n    \r\n    Crudo y la Cripta del Token\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \n    \n  \r\n  \r\n    \n\r\n    \r\n      \n\r\n      \r\n        HABLAR\nABRIR\n\r\n        GANCHO\n\r\n        ESPADA\n\r\n      \n\r\n    \n\r\n    ESTÁ JUGANDO CLAUDE · toca la pantalla o pulsa una tecla para empezar\nQUIERO JUGAR YO\n\r\n    Flechas/WASD moverte · J/Espacio espada · K gancho · L/Enter hablar y abrir cofres · ver a Claude jugarPartida nueva\n\r\r\n  \r\n\r\n",
+        "kind": "linked_public_material",
+        "author": "IAenCrudo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/IAenCrudo/status/2108553430708990181",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108553317655744513/img/urRlnyzGIC7NvVTK.jpg",
+  "coverPath": "data/covers/2108553430708990181-wide.jpg",
+  "gifPath": "data/gifs/2108553430708990181.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108553317655744513/vid/avc1/320x568/8SAZHKGdmuXCHlZ-.mp4?tag=29",
+    "x-video:2108553317655744513",
+    "x-post:2108553430708990181"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Retro 2D Zelda Game Built and Played by Claude Opus 5.5",
+      "summary": "Demonstration of a complete 90s Zelda-style 2D game generated, rendered via procedural code, and autonomously completed by Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Le pedí a Claude Opus 5.5 un Zelda de los 90… y después, que se lo pasara él solo"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "un Zelda de los 90… y después, que se lo pasara él solo",
+        "englishText": "a 90s Zelda… and then, beat it all by himself",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "game architecture specifications",
+          "code generation prompts",
+          "autonomous bot navigation prompts"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording shows the complete playthrough of the generated retro game Crudo y la Cripta del Token completed in 3:07.",
+        "textualResultQuote": "Lo terminó en 3:07 sin morir ni una vez."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / JavaScript",
+          "role": "Game runtime and procedural pixel art rendering",
+          "evidence": "Todo dibujado con código, píxel a píxel 👾 Crudo, los muros, el jefe… en el juego no hay ni una imagen generada.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/IAenCrudo/status/2108561445222846519"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 2D Retro Game Coded and Autonomously Played by AI",
+        "topic": "games-interactive",
+        "tags": [
+          "game-dev",
+          "canvas-interactive",
+          "pixel-art",
+          "autonomous-agent"
+        ]
+      },
+      "targetModelRole": "End-to-end game logic code generation, procedural pixel art, audio generation, and autonomous player control.",
+      "outputSource": "Web browser canvas recording",
+      "divisionEvidence": "Claude Opus 5.5 wrote the game code and played it; execution runs inside a browser environment.",
+      "video": {
+        "shots": "Single edited gameplay screen recording",
+        "duration": "02:05",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive canvas game and automated screen capture generated entirely through Claude Opus 5.5 coding.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/IAenCrudo/status/2108553430708990181",
+        "start": 26,
+        "end": 81
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/IAenCrudo/status/2108553430708990181",
+        "author": "IAenCrudo",
+        "postId": "2108553430708990181",
+        "publishedAt": "2026-10-09T13:41:27.000Z"
+      },
+      "checkedAt": "2026-10-10T09:14:55.553Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/IAenCrudo/status/2108553430708990181",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of a complete 90s Zelda-style 2D game generated, rendered via procedural code, and autonomously completed by Claude Opus 5.5.",
+    "summaryEn": "Retro 2D Zelda Game Built and Played by Claude Opus 5.5",
+    "originalPrompt": "un Zelda de los 90… y después, que se lo pasara él solo",
+    "sourceRange": {
+      "start": 26,
+      "end": 81
+    },
+    "translations": {
+      "zh": "un Zelda de los 90… y después, que se lo pasara él solo",
+      "en": "a 90s Zelda… and then, beat it all by himself"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 2D Retro Game Coded and Autonomously Played by AI",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "game architecture specifications",
+        "code generation prompts",
+        "autonomous bot navigation prompts"
+      ],
+      "evidence": "Screen recording shows the complete playthrough of the generated retro game Crudo y la Cripta del Token completed in 3:07."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T06:24:32.548Z",
+  "model": "opus5.5",
+  "prompt": "Produce a comedy sketch animation on the fly, completely leaving everything up to you, including the scenario, illustrations, animation, and audio.",
+  "promptTranslations": {
+    "en": "Produce a comedy sketch animation on the fly, completely leaving everything up to you, including the scenario, illustrations, animation, and audio."
+  },
+  "summaryTranslations": {
+    "en": "A 2-minute and 2-second short comedy sketch animation video created by utilizing Claude Opus 5.5 and batch-specifying everything from the scenario, illustrations, and animation to the audio."
+  },
+  "translationVersion": 2,
+  "summary": "Claude Opus 5.5を活用し、シナリオ・イラスト・アニメーション・音声まで一括指定して制作された2分2秒の短編コントアニメーション動画。",
+  "summaryEn": "全自動ポン出しコントアニメ「おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ」",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104409268351062188",
+    "canonicalUrl": "https://x.com/cryptoninjanime/status/2104409268351062188",
+    "author": {
+      "username": "cryptoninjanime",
+      "displayName": "りょー｜AI動画制作・編集",
+      "profileUrl": "https://x.com/cryptoninjanime"
+    },
+    "publishedAt": "2026-09-28T03:14:02.000Z",
+    "collectedAt": "2026-09-28T05:56:20.121Z",
+    "language": "ja",
+    "originalText": "タイムラインに流れてくるOpus 5.5がポン出しした動画をいろいろ見ていて、「AIってユーモアわかってきてる？」と思ったので、シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで作ってもらいました。\n面白いような面白くないような…😂\nでも最後のオチの感じとかAIシナリオの可能性を感じました。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/cryptoninjanime/status/2104409268351062188",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104408552454717440/img/pl3peQIANVNTBvmQ.jpg",
+        "analysisUrl": "https://x.com/cryptoninjanime/status/2104409268351062188"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 341
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/cryptoninjanime/status/2104409268351062188",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104408552454717440/img/pl3peQIANVNTBvmQ.jpg",
+  "coverPath": "data/covers/2104409268351062188-wide.jpg",
+  "gifPath": "data/gifs/2104409268351062188.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104408552454717440",
+    "x-post:2104409268351062188"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "全自動ポン出しコントアニメ「おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ」",
+      "summary": "Claude Opus 5.5を活用し、シナリオ・イラスト・アニメーション・音声まで一括指定して制作された2分2秒の短編コントアニメーション動画。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "タイムラインに流れてくるOpus 5.5がポン出しした動画をいろいろ見ていて、「AIってユーモアわかってきてる？」と思ったので、シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで作ってもらいました。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "プロンプト本文",
+          "生成・レンダリング用コード",
+          "ワークフローの詳細手順"
+        ],
+        "englishText": "Produce a comedy sketch animation on the fly, completely leaving everything up to you, including the scenario, illustrations, animation, and audio."
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "動画内で「アニメコント おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ」という2DアニメーションとVOICEVOX音声による掛け合いコントが再生されており、投稿文の記述と整合している（画質は低解像度プレビュー版での確認）。",
+        "textualResultQuote": "アニメコント おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "VOICEVOX",
+          "role": "音声合成（白上虎太郎、冥鳴ひまり、九州そら）",
+          "evidence": "声 VOICEVOX: 白上虎太郎／冥鳴ひまり／九州そら（ささやき）",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "コントのシナリオ構成、アニメーションおよび演出全体の自動生成指示",
+      "outputSource": "VOICEVOXおよびアニメーションレンダラー",
+      "divisionEvidence": "投稿文「シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで作ってもらいました」および動画末尾クレジット「声 VOICEVOX: 白上虎太郎／冥鳴ひまり／九州そら（ささやき）」",
+      "video": {
+        "shots": "タイトル、扉前、井戸のある庭、非常口の廊下、出口前、エンドカードの複数カット",
+        "duration": "02:02",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Opus 5.5によるアニメーション・動画制作の具体的な実例であり、完全な成果物動画が提示されているため。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/cryptoninjanime/status/2104409268351062188",
+        "start": 64,
+        "end": 104
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/cryptoninjanime/status/2104409268351062188",
+        "author": "cryptoninjanime",
+        "postId": "2104409268351062188",
+        "publishedAt": "2026-09-28T03:14:02.000Z"
+      },
+      "checkedAt": "2026-09-28T06:14:32.216Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/cryptoninjanime/status/2104409268351062188",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5を活用し、シナリオ・イラスト・アニメーション・音声まで一括指定して制作された2分2秒の短編コントアニメーション動画。",
+    "summaryEn": "全自動ポン出しコントアニメ「おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ」",
+    "originalPrompt": "シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで",
+    "sourceRange": {
+      "start": 64,
+      "end": 104
+    },
+    "translations": {
+      "zh": "シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで",
+      "en": "シナリオ、イラスト、アニメーション、音声まで全部お任せでコントアニメをポン出しで"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Claude Opus 5.5を活用し、シナリオ・イラスト・アニメーション・音声まで一括指定して制作された2分2秒の短編コントアニメーション動画。",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "プロンプト本文",
+        "生成・レンダリング用コード",
+        "ワークフローの詳細手順"
+      ],
+      "evidence": "動画内で「アニメコント おばけ屋敷のおばけが、怖がらせる前に全部説明してくるやつ」という2DアニメーションとVOICEVOX音声による掛け合いコントが再生されており、投稿文の記述と整合している（画質は低解像度プレビュー版での確認）。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

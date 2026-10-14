@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:22.689Z",
+  "model": "opus5.5",
+  "prompt": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose",
+  "promptTranslations": {
+    "en": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose"
+  },
+  "summary": "Otto demonstrates an interactive real-time 3D browser scene titled Hraunheim, featuring an erupting volcano, flowing lava river, gnome dome, and dynamic lighting controls built with Three.js via Claude Opus 5.5.",
+  "summaryEn": "Hraunheim: Interactive 3D Lava River and Volcano in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108311732376453546",
+    "canonicalUrl": "https://x.com/ottollm/status/2108311732376453546",
+    "author": {
+      "username": "ottollm",
+      "displayName": "Otto",
+      "profileUrl": "https://x.com/ottollm"
+    },
+    "publishedAt": "2026-10-08T21:41:02.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "en",
+    "originalText": "HOLY F*CK OPUS 5.5 BUILT ME A LAVA RIVER THAT RUNS IN A BROWSER TAB\n\ni asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose\n\nit’s not a video and not a prerender. this thing is running live in a browser:\n\n→ the lava actually flows and cracks as it moves\n→ the volcano keeps throwing sparks\n→ golden hour, blue hour, night, all in one click\n→ a DSLR mode with real depth of field\n→ WASD and you’re walking along the lava river\ni named it hraunheim. hraun is icelandic for lava, heim is home. the tagline on screen says “where the little ones live by the fire” and i’m a little too proud of that\nthe crazy part is it’s all three.js. no game engine, no install, no 4090. the whole scene gets drawn by your browser in real time, and the lighting switches without reloading the page!!!\nmy laptop sounded like the volcano for the entire recording\na few years ago a scene like this meant a studio and a render farm. now it’s a link",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ottollm/status/2108311732376453546",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108311048725856256/img/0DzAcpgCdBffG_rK.jpg",
+        "analysisUrl": "https://x.com/ottollm/status/2108311732376453546"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 129
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/ottollm/status/2108311732376453546",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108311048725856256/img/0DzAcpgCdBffG_rK.jpg",
+  "coverPath": "data/covers/2108311732376453546-wide.jpg",
+  "gifPath": "data/gifs/2108311732376453546.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108311048725856256/vid/avc1/432x270/6cQZRCvxqbRzEtDI.mp4?tag=29",
+    "x-video:2108311048725856256",
+    "x-post:2108311732376453546"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Hraunheim: Interactive 3D Lava River and Volcano in Three.js",
+      "summary": "Otto demonstrates an interactive real-time 3D browser scene titled Hraunheim, featuring an erupting volcano, flowing lava river, gnome dome, and dynamic lighting controls built with Three.js via Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "HOLY F*CK OPUS 5.5 BUILT ME A LAVA RIVER THAT RUNS IN A BROWSER TAB"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose",
+        "englishText": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt instructions",
+          "Three.js configuration, shaders, and UI controls setup",
+          "Camera controller and WASD movement implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays the real-time Three.js scene 'Hraunheim' with an active volcano erupting sparks, a glowing lava river flowing past a geodesic dome, and interactive UI toggles for lighting modes (Afternoon, Sunset, Blue Hour, Night) and DSLR mode.",
+        "textualResultQuote": "it’s not a video and not a prerender. this thing is running live in a browser:\n\n→ the lava actually flows and cracks as it moves\n→ the volcano keeps throwing sparks\n→ golden hour, blue hour, night, all in one click\n→ a DSLR mode with real depth of field\n→ WASD and you’re walking along the lava river"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "Client-side 3D WebGL rendering engine running directly in the browser",
+          "evidence": "the crazy part is it’s all three.js. no game engine, no install, no 4090. the whole scene gets drawn by your browser in real time",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/ottollm/status/2108311732376453546"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Lava River and Gnome Habitat in Three.js",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "webgl",
+          "procedural-terrain",
+          "lava-flow",
+          "interactive-environment"
+        ]
+      },
+      "targetModelRole": "Code generation of the complete interactive Three.js WebGL application and shaders based on natural language direction",
+      "outputSource": "Web browser rendering real-time Three.js scene",
+      "divisionEvidence": "OPUS 5.5 BUILT ME A LAVA RIVER THAT RUNS IN A BROWSER TAB ... the crazy part is it’s all three.js. no game engine, no install, no 4090. the whole scene gets drawn by your browser in real time",
+      "video": {
+        "shots": "Single continuous screen capture demonstrating interactive navigation, camera movement, and lighting toggles in the browser",
+        "duration": "00:19",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating an interactive, browser-rendered 3D WebGL scene with screen recording proof, meeting the criteria for agent-driven interactive 3D video production despite prompt fragments.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ottollm/status/2108311732376453546",
+        "start": 69,
+        "end": 213
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ottollm/status/2108311732376453546",
+        "author": "ottollm",
+        "postId": "2108311732376453546",
+        "publishedAt": "2026-10-08T21:41:02.000Z"
+      },
+      "checkedAt": "2026-10-09T20:09:22.685Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ottollm/status/2108311732376453546",
+        "evidence": ""
+      }
+    },
+    "summary": "Otto demonstrates an interactive real-time 3D browser scene titled Hraunheim, featuring an erupting volcano, flowing lava river, gnome dome, and dynamic lighting controls built with Three.js via Claude Opus 5.5.",
+    "summaryEn": "Hraunheim: Interactive 3D Lava River and Volcano in Three.js",
+    "originalPrompt": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose",
+    "sourceRange": {
+      "start": 69,
+      "end": 213
+    },
+    "translations": {
+      "zh": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose",
+      "en": "i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where\n\ngnomes live. by the fire. on purpose"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Lava River and Gnome Habitat in Three.js",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt instructions",
+        "Three.js configuration, shaders, and UI controls setup",
+        "Camera controller and WASD movement implementation details"
+      ],
+      "evidence": "The screen recording displays the real-time Three.js scene 'Hraunheim' with an active volcano erupting sparks, a glowing lava river flowing past a geodesic dome, and interactive UI toggles for lighting modes (Afternoon, Sunset, Blue Hour, Night) and DSLR mode."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:01:52.581Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot"
+  },
+  "summary": "A dynamic 15-second motion graphics video prompt styled as a resume showreel to celebrate the first 100 users of @eyezonbot.",
+  "summaryEn": "100 Users Celebration Motion Graphics Reel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103638831669076027",
+    "canonicalUrl": "https://x.com/Sudiyasa_/status/2103638831669076027",
+    "author": {
+      "username": "Sudiyasa_",
+      "displayName": "Sudiyasa 👁️",
+      "profileUrl": "https://x.com/Sudiyasa_"
+    },
+    "publishedAt": "2026-09-26T00:12:35.000Z",
+    "collectedAt": "2026-09-28T07:59:57.957Z",
+    "language": "en",
+    "originalText": "Celerating 100 @eyezonbot users 🎉\n\n(Opus 5.5 bringing us to the next phase of marketing)\n\nPrompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Sudiyasa_/status/2103638831669076027",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103638506476306432/img/FHWliD-plzXiAeW3.jpg",
+        "analysisUrl": "https://x.com/Sudiyasa_/status/2103638831669076027"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 2,
+      "viewCount": 373
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Sudiyasa_/status/2103638831669076027",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103638506476306432/img/FHWliD-plzXiAeW3.jpg",
+  "coverPath": "data/covers/2103638831669076027-wide.jpg",
+  "gifPath": "data/gifs/2103638831669076027.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103638506476306432",
+    "x-post:2103638831669076027"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "100 Users Celebration Motion Graphics Reel",
+      "summary": "A dynamic 15-second motion graphics video prompt styled as a resume showreel to celebrate the first 100 users of @eyezonbot.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/Sudiyasa_/status/2103638831669076027",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Sudiyasa_/status/2103638831669076027",
+        "start": 100,
+        "end": 302
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Sudiyasa_/status/2103638831669076027",
+        "author": "Sudiyasa_",
+        "postId": "2103638831669076027",
+        "publishedAt": "2026-09-26T00:12:35.000Z"
+      },
+      "checkedAt": "2026-09-28T08:00:32.257Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Sudiyasa_/status/2103638831669076027",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A dynamic 15-second motion graphics video prompt styled as a resume showreel to celebrate the first 100 users of @eyezonbot.",
+    "summaryEn": "100 Users Celebration Motion Graphics Reel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot",
+    "sourceRange": {
+      "start": 100,
+      "end": 302
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of @eyezonbot"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

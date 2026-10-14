@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T08:31:35.189Z",
+  "model": "opus5.5",
+  "prompt": "an educational video about the Riemann hypothesis, starting from prime numbers, \"Stephen Hawking style\"",
+  "promptTranslations": {
+    "en": "an educational video about the Riemann hypothesis, starting from prime numbers, \"Stephen Hawking style\""
+  },
+  "summary": "Educational video explaining the Riemann hypothesis and prime numbers produced via Claude Code with animated Python graphics and local TTS narration.",
+  "summaryEn": "Educational Explainer on the Riemann Hypothesis",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108716885646639338",
+    "canonicalUrl": "https://x.com/insideology/status/2108716885646639338",
+    "author": {
+      "username": "insideology",
+      "displayName": "Insideology",
+      "profileUrl": "https://x.com/insideology"
+    },
+    "publishedAt": "2026-10-10T00:30:58.000Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
+    "language": "es",
+    "originalText": "Le pedí a Claude Code (Opus 5.5, esfuerzo medio) un video educativo sobre la hipótesis de Riemann, desde los números primos, “estilo Stephen Hawking”.\n\nUn prompt. Sin tocar código.\n\nSalieron casi 6 min narrados, con subtítulos y gráficas calculadas con datos reales.\n\nHilo con el cómo 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/insideology/status/2108716885646639338",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108716019900469248/img/EviMwDfG4jrf1lRC.jpg",
+        "analysisUrl": "https://x.com/insideology/status/2108716885646639338"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 51
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716905431187782",
+        "text": "⏳ Total: ~90 min, incluyendo ~9 min de render en 4 núcleos de CPU.\n\nVeredicto: para contenido educativo ya es usable. Lo que falta es una voz en español a la altura.\n\n¿Qué tema le pido para el próximo? 👇",
+        "author": "insideology"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716902579052585",
+        "text": "⏱️ La animación se sincroniza con cada frase de la narración. Dentro de una frase, calcula el momento de cada palabra por su posición en el texto, así que a veces va un pelín desfasada.",
+        "author": "insideology"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716899815071808",
+        "text": "🗣️ Las APIs de voz de Google y Microsoft estaban bloqueadas en su entorno, así que usó Piper (es_MX-ald-medium) y sonaba robótico.\n\nLe pedí Kokoro y mejoró bastante, pero en español todavía no suena natural. Kokoro solo tiene 3 voces en español; en inglés suena mucho mejor.",
+        "author": "insideology"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716897130705318",
+        "text": "🔁 Lo que más me sorprendió: renderizaba fotogramas de prueba, los miraba, detectaba errores (textos encimados, fórmulas que salían como cuadros blancos, un 3D mal orientado) y los corregía solo.\n\nHasta encontró un bug que colgaba el render y lo arregló.",
+        "author": "insideology"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716893074829504",
+        "text": "🔢 Las gráficas no son decorativas. Usó mpmath para calcular:\n• los primeros 100 ceros de la función zeta\n• la espiral ζ(½+it)\n• el “paisaje” 3D de zeta\n• la fórmula explícita de Riemann, que reconstruye la escalera de los primos con 100 ceros (en x=50,5 da 14,96; el valor real es 15)",
+        "author": "insideology"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/insideology/status/2108716888071024702",
+        "text": "🧰 Lo que usó:\n• Guion, código y dirección: Claude Code\n• Voz: Kokoro TTS (open source, Apache-2.0), voz em_alex, corriendo en local\n• Animación: Python + pycairo, ~10.600 fotogramas dibujados por código\n• Fórmulas: matplotlib\n• Montaje y música: ffmpeg + numpy",
+        "author": "insideology"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/insideology/status/2108716885646639338",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108716019900469248/img/EviMwDfG4jrf1lRC.jpg",
+  "coverPath": "data/covers/2108716885646639338-wide.jpg",
+  "gifPath": "data/gifs/2108716885646639338.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108716019900469248/vid/avc1/480x270/wjE4GcC2IlerDerV.mp4?tag=29",
+    "x-video:2108716019900469248",
+    "x-post:2108716885646639338"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Educational Explainer on the Riemann Hypothesis",
+      "summary": "Educational video explaining the Riemann hypothesis and prime numbers produced via Claude Code with animated Python graphics and local TTS narration.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Le pedí a Claude Code (Opus 5.5, esfuerzo medio) un video educativo sobre la hipótesis de Riemann"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "un video educativo sobre la hipótesis de Riemann, desde los números primos, “estilo Stephen Hawking”",
+        "englishText": "an educational video about the Riemann hypothesis, starting from prime numbers, \"Stephen Hawking style\"",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts",
+          "Full verbatim user instruction prompt",
+          "File structure configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A complete 5-minute and 54-second educational video showing narrated math visualisations, Riemann zeta zero calculations, and synchronized subtitles.",
+        "textualResultQuote": "Salieron casi 6 min narrados, con subtítulos y gráficas calculadas con datos reales."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video assembly and audio mixing",
+          "evidence": "Montaje y música: ffmpeg + numpy",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/insideology/status/2108716888071024702"
+        },
+        {
+          "name": "Kokoro TTS",
+          "role": "Local voiceover generation",
+          "evidence": "Voz: Kokoro TTS (open source, Apache-2.0), voz em_alex, corriendo en local",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/insideology/status/2108716888071024702"
+        },
+        {
+          "name": "matplotlib",
+          "role": "Formula rendering",
+          "evidence": "Fórmulas: matplotlib",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/insideology/status/2108716888071024702"
+        },
+        {
+          "name": "mpmath",
+          "role": "Zeta function and zero computation",
+          "evidence": "Usó mpmath para calcular: los primeros 100 ceros de la función zeta",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "pycairo",
+          "role": "Frame-by-frame 2D animation rendering",
+          "evidence": "Animación: Python + pycairo, ~10.600 fotogramas dibujados por código",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/insideology/status/2108716888071024702"
+        }
+      ],
+      "purpose": {
+        "label": "Mathematics Explainer Video",
+        "topic": "explainers",
+        "tags": [
+          "math",
+          "pycairo",
+          "matplotlib",
+          "educational",
+          "riemann-hypothesis",
+          "autonomous-coding"
+        ]
+      },
+      "targetModelRole": "Scriptwriting, autonomous Python rendering script generation, visual inspection of rendered frames, and pipeline debugging.",
+      "outputSource": "Python (pycairo/matplotlib) rendered to video via FFmpeg with Kokoro TTS audio.",
+      "divisionEvidence": "Guion, código y dirección: Claude Code; Animación: Python + pycairo; Voz: Kokoro TTS; Montaje: ffmpeg",
+      "video": {
+        "shots": "Multi-segment animated mathematical explainer with synchronized title cards, plots, and 3D surface visualizations.",
+        "duration": "05:54",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 orchestrating end-to-end procedural code generation, self-correction, and video production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/insideology/status/2108716885646639338",
+        "start": 49,
+        "end": 149
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/insideology/status/2108716885646639338",
+        "author": "insideology",
+        "postId": "2108716885646639338",
+        "publishedAt": "2026-10-10T00:30:58.000Z"
+      },
+      "checkedAt": "2026-10-10T08:16:26.324Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/insideology/status/2108716885646639338",
+        "evidence": ""
+      }
+    },
+    "summary": "Educational video explaining the Riemann hypothesis and prime numbers produced via Claude Code with animated Python graphics and local TTS narration.",
+    "summaryEn": "Educational Explainer on the Riemann Hypothesis",
+    "originalPrompt": "un video educativo sobre la hipótesis de Riemann, desde los números primos, “estilo Stephen Hawking”",
+    "sourceRange": {
+      "start": 49,
+      "end": 149
+    },
+    "translations": {
+      "zh": "un video educativo sobre la hipótesis de Riemann, desde los números primos, “estilo Stephen Hawking”",
+      "en": "an educational video about the Riemann hypothesis, starting from prime numbers, \"Stephen Hawking style\""
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Mathematics Explainer Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts",
+        "Full verbatim user instruction prompt",
+        "File structure configuration"
+      ],
+      "evidence": "A complete 5-minute and 54-second educational video showing narrated math visualisations, Riemann zeta zero calculations, and synchronized subtitles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

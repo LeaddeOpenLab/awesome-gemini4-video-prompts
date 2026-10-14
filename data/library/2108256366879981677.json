@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:37.859Z",
+  "model": "opus5.5",
+  "prompt": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+  "promptTranslations": {
+    "en": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup."
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained interactive 3D WebGL jelly koi pond with procedural physics, deformable geometry, and custom UI controls.",
+  "summaryEn": "Interactive 3D Jelly Koi Pond Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108256366879981677",
+    "canonicalUrl": "https://x.com/vib3coded/status/2108256366879981677",
+    "author": {
+      "username": "vib3coded",
+      "displayName": "Vib3Coded",
+      "profileUrl": "https://x.com/vib3coded"
+    },
+    "publishedAt": "2026-10-08T18:01:02.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "en",
+    "originalText": "I just wanted a peaceful pond. Now the fish are having an earthquake and the frog has questions for the landlord 🐸😭\n\nAsked Claude Opus 5.5 and GPT-6 Astra to make a jelly koi pond\n\nOpus made an entire gummy aquarium for $12.38. Thick, transparent, little pebbles inside. Give it a pull - and the pond takes off with everyone still in it. The frog is holding onto its lily pad. The mortgage isn’t paid off yet\n\nAstra’s $15.57 pond is thinner, but the flowers are bigger and the fish have fancy patterns. Lift the edge - and the whole thing folds into a pancake. Started as a Japanese garden, ended up as a fish wrap\n\nI prefer Opus here - the jelly looks juicier, and it cost $3.19 less\n\nWho would you trust to build your frog’s home?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vib3coded/status/2108256366879981677",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108252063754764288/img/yXM21pIUwMU_Nv6s.jpg",
+        "analysisUrl": "https://x.com/vib3coded/status/2108256366879981677"
+      }
+    ],
+    "metrics": {
+      "likeCount": 838,
+      "repostCount": 98,
+      "replyCount": 19,
+      "quoteCount": 1,
+      "viewCount": 20872
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108549719052210632",
+        "text": "@Majid_hussain66 asked for a zen pond, got a frog rave. honestly not complaining",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108478978688253961",
+        "text": "@nex_ify i asked for a lively pond and it took that literally",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108478642099511324",
+        "text": "@OpenGradient now i need to figure out what astra’s fish spent the extra budget on",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108478495735361590",
+        "text": "@AIFuturenama claude gave the fish a nicer home for less money too",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108260950000517157",
+        "text": "@N1njaCodex claude opus xhigh\ngpt-6 astra ultra",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108260616322572339",
+        "text": "@AntarexBTC they follow the deformation, so the whole pond moves as one gummy ecosystem",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108260375657611376",
+        "text": "@Alchem1stTech of course, hope it helps!",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108260048422195499",
+        "text": "@0xPifagor yeah, it made the whole pond look weirdly edible",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108259895984406707",
+        "text": "@maxt3chno yeah, i wanted to see how the same trend would look with two different models",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108259438637600983",
+        "text": "@shmopixbzn same exact prompt for both, no tweaks",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108256735886487863",
+        "text": "PROMPT \nBuild an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+        "author": "vib3coded"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vib3coded/status/2108256470152482910",
+        "text": "GPT-6 Astra https://t.co/AaUhEbVbPN\nOpus 5.5 https://t.co/Ps9xdYIqDu",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://jelly-koi-pond.vercel.app/",
+        "text": "\n\n\n\n\n\nJelly Koi Pond — a little pocket of calm\n\n\n\n\nA LITTLE POCKET OF CALM\nJellyKoiPond.\nA pond with a softer side.\n\n水STILL WATER.\nSOFT WORLD.\n\n\nDrop\n≈Wobble\nJelly softness\n\n\n\n↻\n\n\nLift & throwStretch\n\nDRAG UP TO LIFT. RELEASE TO THROW.\nWAKING THE POND\n\n\n\nA little moment…\nLetting the pond settle.\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      },
+      {
+        "url": "https://claude.ai/artifact/X94CbU7i3DddLNMNEcFo1N",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "vib3coded"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vib3coded/status/2108256366879981677",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108252063754764288/img/yXM21pIUwMU_Nv6s.jpg",
+  "coverPath": "data/covers/2108256366879981677-wide.jpg",
+  "gifPath": "data/gifs/2108256366879981677.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108252063754764288/vid/avc1/320x400/3qVmxJivP2eH2hex.mp4?tag=29",
+    "x-video:2108252063754764288",
+    "x-post:2108256366879981677"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Jelly Koi Pond Simulation",
+      "summary": "Claude Opus 5.5 generates a self-contained interactive 3D WebGL jelly koi pond with procedural physics, deformable geometry, and custom UI controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "Asked Claude Opus 5.5 and GPT-6 Astra to make a jelly koi pond"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+        "englishText": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording showcases the resulting interactive WebGL single-file application where clicking and dragging deforms the translucent jelly pond with the frog, lily pads, and koi fish reacting dynamically across color themes.",
+        "textualResultQuote": "Opus made an entire gummy aquarium for $12.38. Thick, transparent, little pebbles inside. Give it a pull - and the pond takes off with everyone still in it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / WebGL",
+          "role": "Client-side interactive 3D rendering and physics simulation environment",
+          "evidence": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.",
+          "sourceUrl": "https://x.com/vib3coded/status/2108256735886487863",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jelly Koi Pond",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas-interactive",
+          "3d-scenes",
+          "webgl",
+          "interactive-physics"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the entire self-contained interactive 3D application code and physics simulation logic.",
+      "outputSource": "Web browser rendering HTML5 WebGL code generated by Claude Opus 5.5.",
+      "divisionEvidence": "Prompt asks Claude Opus 5.5 to 'Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file' with 'procedural geometry and materials, with no external image or model assets'.",
+      "video": {
+        "shots": "Single split-screen view comparing Opus 5.5 and GPT-6 Astra runtime recordings",
+        "duration": "20s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete original prompt provided by the author along with clear model version attribution (Claude Opus 5.5) and a corresponding screen recording showing dynamic interaction.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vib3coded/status/2108256735886487863",
+        "start": 8,
+        "end": 1694
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vib3coded/status/2108256366879981677",
+        "author": "vib3coded",
+        "postId": "2108256366879981677",
+        "publishedAt": "2026-10-08T18:01:02.000Z"
+      },
+      "checkedAt": "2026-10-09T15:20:08.618Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vib3coded/status/2108256735886487863",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained interactive 3D WebGL jelly koi pond with procedural physics, deformable geometry, and custom UI controls.",
+    "summaryEn": "Interactive 3D Jelly Koi Pond Simulation",
+    "originalPrompt": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+    "sourceRange": {
+      "start": 8,
+      "end": 1694
+    },
+    "translations": {
+      "zh": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup.",
+      "en": "Build an interactive 3D “Jelly Koi Pond” in a single self-contained HTML file.\n\nCreate a small oval pond made entirely of soft, translucent jelly, floating just above a warm pastel background. Inside the jelly, add colorful koi fish and smooth little pebbles. Place lily pads, pink water lilies, and one adorable green frog with big eyes on the surface.\n\nThe pond should look like a beautiful miniature Japanese garden trapped inside a glossy gummy candy. Give it visible thickness, rounded edges, soft reflections, convincing transparency, and a soft shadow underneath.\n\nMake the jelly physically interactive:\n- Click and drag any part of the pond to stretch and lift it.\n- Deform the pond locally rather than moving it as a rigid object.\n- On release, let it bounce and wobble before gradually settling.\n- Keep the fish, pebbles, lily pads, flowers, and frog attached to their positions within or on the deforming pond.\n- Let the koi swim slowly when the pond is undisturbed.\n- Clicking the surface should create a small ripple.\n\nAdd a compact, elegant control bar with Drag and Wobble modes, a jelly softness slider, three color options (mint, blue, and pink), and a reset button.\n\nUse a minimal editorial layout with a large serif “Jelly Koi Pond.” title in the upper-left corner, small interaction hints, generous whitespace, and a soft sage background. Keep the pond as the main focus.\n\nUse procedural geometry and materials, with no external image or model assets. Include lighting, shadows, mouse and touch support, and responsive resizing. Keep the simulation stable during strong dragging and repeated interactions.\n\nDeliver a complete working experience, not a static mockup."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jelly Koi Pond",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video recording showcases the resulting interactive WebGL single-file application where clicking and dragging deforms the translucent jelly pond with the frog, lily pads, and koi fish reacting dynamically across color themes."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

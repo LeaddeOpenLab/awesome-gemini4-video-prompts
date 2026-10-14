@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T09:17:48.397Z",
+  "model": "opus5.5",
+  "prompt": "A fishbowl with reflection, refraction and water caustics.",
+  "promptTranslations": {
+    "en": "A fishbowl with reflection, refraction and water caustics."
+  },
+  "summary": "A prompt used to evaluate Claude Opus 5.5 on generating GLSL shaders in Three.js, focusing on refraction, reflection, and water caustics.",
+  "summaryEn": "GLSL Fishbowl in Three.js",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102492538469044336",
+      "canonicalUrl": "https://x.com/NicolaManzini/status/2102492538469044336",
+      "author": {
+        "username": "NicolaManzini",
+        "displayName": "Nicola",
+        "profileUrl": "https://x.com/NicolaManzini"
+      },
+      "originalText": "Opus 5.5 High forest is incredible.\nlink https://t.co/zbcucfg6GD https://t.co/Pq09OPQNrq"
+    },
+    "id": "2103499771206156628",
+    "canonicalUrl": "https://x.com/NicolaManzini/status/2103499771206156628",
+    "author": {
+      "username": "NicolaManzini",
+      "displayName": "Nicola",
+      "profileUrl": "https://x.com/NicolaManzini"
+    },
+    "publishedAt": "2026-09-25T15:00:01.000Z",
+    "collectedAt": "2026-09-28T09:01:31.586Z",
+    "language": "en",
+    "originalText": "Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nhttps://t.co/4jx8jqbemA https://t.co/91NQf90yoE",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103496188695625728/img/BFYB0S0WDtBuaX_y.jpg",
+        "analysisUrl": "https://x.com/NicolaManzini/status/2103499771206156628"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102492441110523904/img/wNM-_ryOIwjWmdaK.jpg",
+        "analysisUrl": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "sourcePostId": "2102492538469044336"
+      }
+    ],
+    "metrics": {
+      "likeCount": 102,
+      "repostCount": 8,
+      "replyCount": 7,
+      "quoteCount": 2,
+      "viewCount": 9652
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103573519917265269",
+        "text": "@metalim @aollivier82 Adding",
+        "author": "NicolaManzini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103572292370596124",
+        "text": "@metalim @aollivier82 Is that the latest? I will add.",
+        "author": "NicolaManzini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103561563559092700",
+        "text": "@metalim @aollivier82 Because i can't afford to do all the reasoning effort of all models. I should do high also for astra.",
+        "author": "NicolaManzini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103517619899002896",
+        "text": "@paul_spala yeah no model before nailed it. I actually could not imagine how pretty it could be before.",
+        "author": "NicolaManzini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103517452080701920",
+        "text": "@aollivier82 absolutely that was one of the eval i was not expecting to work so well one shotted.\nbecause no one aced it before opus 5.5\nhave you checked https://t.co/beKpayDS7p?",
+        "author": "NicolaManzini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/NicolaManzini/status/2103516463545901206",
+        "text": "@DannyLimanseta just 10 months before opus 4.5 https://t.co/CnefA3tpZu",
+        "author": "NicolaManzini"
+      },
+      {
+        "url": "https://threejseval.com/gallery?eval=fishtank",
+        "text": "\n\n  \n    \n    \n    \n    \n\n    Gallery | Scenes by Model - threejseval\n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n\n    \n\n  \n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "NicolaManzini"
+      },
+      {
+        "url": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "text": "Nicola on X: \"Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nhttps://t.co/4jx8jqbemA\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nNicola on X: \"Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nhttps://t.co/4jx8jqbemA\"\n\n\n\nNicola\n\n@NicolaManzini\n\n\n\n\nOpus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nthreejseval.com/gallery?eval=f…\n\n\n00:00\n\n\n\n\n\n\n\n\nNicola\n\n@NicolaManzini\nSep 22\n\nOpus 5.5 High forest is incredible.\nlink threejseval.com/gallery?eval=r…\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n3:00 PM · Sep 25, 2026·9,652\nViews\n\n\n\n7\n8\n102\n50\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNicola@NicolaManziniFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nNicola\n\n@NicolaManzini\n\n\n\n\nOpus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nthreejseval.com/gallery?eval=f…\n\n\n00:00\n\n\n\n\n\n\n\n\nNicola\n\n@NicolaManzini\nSep 22\n\nOpus 5.5 High forest is incredible.\nlink threejseval.com/gallery?eval=r…\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n3:00 PM · Sep 25, 2026·9,652\nViews\n\n\n\n7\n8\n102\n50\n\n\n\n\n\n\n\n\n\nAlix Ollivier\n\n@aollivier82\nSep 25\n\n\nI think fish tanks are incredible as an eval because they deal with water, glass and lighting.\n\n\nAlix Ollivier\n\n@aollivier82\nSep 25\n\nI asked Claude Opus 5.5 to make me an aquarium in @threejs in the style of the legendary aquascaper Takashi Amano.\n\n3d graphics are now a solved issue. \n\nIt even added Amano Shrimp!\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n1\n\n2\n111\n\n\n\n\n\n\n\n\n\n\n\nDanny Limanseta\n\n@DannyLimanseta\nSep 25\n\n\nThat looks pretty good man\n\n\n1\n\n1\n334\n\n\n\n\n\n\n\n\n\n\n\nSimon\n\n@leytonsimon\nSep 25\n\n\n👏👏👏👏👏👏👏\n\n\n\n\n1\n24\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "NicolaManzini"
+      },
+      {
+        "url": "https://threejseval.com/",
+        "text": "\n\n  \n    \n    \n    \n    \n\n    threejseval - Three.js Benchmark for AI Coding Agents\n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n\n    \n\n  \n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "NicolaManzini"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/NicolaManzini/status/2103499771206156628",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103496188695625728/img/BFYB0S0WDtBuaX_y.jpg",
+  "coverPath": "data/covers/2103499771206156628-wide.jpg",
+  "gifPath": "data/gifs/2103499771206156628.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103496188695625728",
+    "x-video:2102492441110523904",
+    "x-post:2103499771206156628",
+    "x-post:2102492538469044336"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "GLSL Fishbowl in Three.js",
+      "summary": "A prompt used to evaluate Claude Opus 5.5 on generating GLSL shaders in Three.js, focusing on refraction, reflection, and water caustics.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "A fishbowl with reflection, refraction and water caustics.",
+        "englishText": "A fishbowl with reflection, refraction and water caustics.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/NicolaManzini/status/2103499771206156628",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "start": 108,
+        "end": 166
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "author": "NicolaManzini",
+        "postId": "2103499771206156628",
+        "publishedAt": "2026-09-25T15:00:01.000Z"
+      },
+      "checkedAt": "2026-09-28T09:02:10.783Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/NicolaManzini/status/2103499771206156628",
+        "evidence": ""
+      }
+    },
+    "summary": "A prompt used to evaluate Claude Opus 5.5 on generating GLSL shaders in Three.js, focusing on refraction, reflection, and water caustics.",
+    "summaryEn": "GLSL Fishbowl in Three.js",
+    "originalPrompt": "A fishbowl with reflection, refraction and water caustics.",
+    "sourceRange": {
+      "start": 108,
+      "end": 166
+    },
+    "translations": {
+      "zh": "A fishbowl with reflection, refraction and water caustics.",
+      "en": "A fishbowl with reflection, refraction and water caustics."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "A prompt used to evaluate Claude Opus 5.5 on generating GLSL shaders in Three.js, focusing on refraction, reflection, and water caustics.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

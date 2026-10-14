@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:42:18.393Z",
+  "model": "opus5.5",
+  "prompt": "Whenever a new model comes out, everyone asks it to draw a \"pelican riding a bicycle\" to evaluate its spatial capabilities, mostly animating it using HTML and SVG. Since I'm genuinely tired of seeing the same thing over and over, I want you to create the most complex, detailed, and exquisite animated video of a \"pelican riding a bicycle.\" You can use any technology, take your time, even if it takes a whole day.",
+  "promptTranslations": {
+    "en": "Whenever a new model comes out, everyone asks it to draw a \"pelican riding a bicycle\" to evaluate its spatial capabilities, mostly animating it using HTML and SVG. Since I'm genuinely tired of seeing the same thing over and over, I want you to create the most complex, detailed, and exquisite animated video of a \"pelican riding a bicycle.\" You can use any technology, take your time, even if it takes a whole day."
+  },
+  "summary": "A creative challenge prompt instructing an AI to produce the most intricate and detailed animation of a pelican riding a bicycle using any technology, without rushing.",
+  "summaryEn": "Pelican Riding a Bicycle Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103119648271290566",
+    "canonicalUrl": "https://x.com/AxtonLiu/status/2103119648271290566",
+    "author": {
+      "username": "AxtonLiu",
+      "displayName": "Axton",
+      "profileUrl": "https://x.com/AxtonLiu"
+    },
+    "publishedAt": "2026-09-24T13:49:32.000Z",
+    "collectedAt": "2026-09-28T07:35:52.811Z",
+    "language": "zh",
+    "originalText": "Opus 5.5 《鹈鹕骑自行车》剧场版：\n\n提示词一次生成：\n---\n每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。\n---\n\n没用任何 3D 模型、贴图和音频素材：它自己写了一个 GPU 光线步进渲染器，鹈鹕、自行车、栈桥、海面、天空和配乐全部由代码计算生成。1140 帧，每帧 40 次采样。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AxtonLiu/status/2103119648271290566",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103119572568313856/img/vedd97bTOFX7F0Qg.jpg",
+        "analysisUrl": "https://x.com/AxtonLiu/status/2103119648271290566"
+      }
+    ],
+    "metrics": {
+      "likeCount": 69,
+      "repostCount": 3,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 10119
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AxtonLiu/status/2103119648271290566",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103119572568313856/img/vedd97bTOFX7F0Qg.jpg",
+  "coverPath": "data/covers/2103119648271290566-wide.jpg",
+  "gifPath": "data/gifs/2103119648271290566.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103119572568313856",
+    "x-post:2103119648271290566"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Pelican Riding a Bicycle Animation",
+      "summary": "A creative challenge prompt instructing an AI to produce the most intricate and detailed animation of a pelican riding a bicycle using any technology, without rushing.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。",
+        "englishText": "Whenever a new model comes out, everyone asks it to draw a \"pelican riding a bicycle\" to evaluate its spatial capabilities, mostly animating it using HTML and SVG. Since I'm genuinely tired of seeing the same thing over and over, I want you to create the most complex, detailed, and exquisite animated video of a \"pelican riding a bicycle.\" You can use any technology, take your time, even if it takes a whole day.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/AxtonLiu/status/2103119648271290566",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AxtonLiu/status/2103119648271290566",
+        "start": 36,
+        "end": 170
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AxtonLiu/status/2103119648271290566",
+        "author": "AxtonLiu",
+        "postId": "2103119648271290566",
+        "publishedAt": "2026-09-24T13:49:32.000Z"
+      },
+      "checkedAt": "2026-09-28T07:37:07.261Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AxtonLiu/status/2103119648271290566",
+        "evidence": "每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。"
+      },
+      "purpose": {
+        "label": "Detailed character animation",
+        "topic": "3d-scenes",
+        "tags": []
+      }
+    },
+    "summary": "A creative challenge prompt instructing an AI to produce the most intricate and detailed animation of a pelican riding a bicycle using any technology, without rushing.",
+    "summaryEn": "Pelican Riding a Bicycle Animation",
+    "originalPrompt": "每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。",
+    "sourceRange": {
+      "start": 36,
+      "end": 170
+    },
+    "translations": {
+      "zh": "每次一个新的模型出来呢，大家都让它去画 “鹈鹕骑自行车” 来判断这个模型的空间能力，基本上都是用 HTML、SVG 来画动画。当我实在看得都有审美疲劳了，我希望你能画一个最复杂、最精细、最精美的 “鹈鹕骑自行车”的动画视频，你可以用任何的技术，不用着急，画一天都可以。",
+      "en": "Whenever a new model comes out, everyone asks it to draw a \"pelican riding a bicycle\" to evaluate its spatial capabilities, mostly animating it using HTML and SVG. Since I'm genuinely tired of seeing the same thing over and over, I want you to create the most complex, detailed, and exquisite animated video of a \"pelican riding a bicycle.\" You can use any technology, take your time, even if it takes a whole day."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Detailed character animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

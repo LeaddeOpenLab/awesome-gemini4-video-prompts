@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:39.267Z",
+  "model": "opus5.5",
+  "prompt": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
+  "promptTranslations": {
+    "en": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural."
+  },
+  "summary": "Comparison of a 30-second procedural F1 pit stop Three.js animation created using Claude Opus 5.5 as orchestrator and Claude Haiku 5.5 as executor versus an alternative model setup.",
+  "summaryEn": "F1 Pit Stop Procedural Three.js Animation with Claude Opus 5.5 Orchestration",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108289170871582851",
+    "canonicalUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+    "author": {
+      "username": "rubenssoto_ai",
+      "displayName": "Rubens Soto | AI & SaaS",
+      "profileUrl": "https://x.com/rubenssoto_ai"
+    },
+    "publishedAt": "2026-10-08T20:11:23.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "en",
+    "originalText": "Same one-shot prompt, two AI setups: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\n🟠 Claude Opus 5.5 (orchestrator) + Claude Haiku 5.5 (executor)\n• Opus: 94.8M tokens, $34.50\n• Haiku: 819.9M tokens, $61.77\n• Total: 914.7M tokens, $96.27\n• Time: 3h 53m\n\n🟢 GPT Sol 6.1 (orchestrator) + GPT Luna 6 (executor)\n• Sol: 38.2M tokens, $6.26\n• Luna: 128.3M tokens, $1.80\n• Total: 166.5M tokens, $8.06\n• Time: 2h 16m\n\nMuch cheaper low quality, High quality more expensive? What is your favorite?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108288428466995200/img/Yd4BxzX279Y2LvVt.jpg",
+        "analysisUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 1,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 1011
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108361858105094537",
+        "text": "@VulKan42069 but the opus quality is pretttyy good.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108361637652582427",
+        "text": "@Union25Dev Plumbers as well.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108293817862340766",
+        "text": "@Ionkosm The output quality was much better",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108293767698518460",
+        "text": "@markfenner There is a big difference, but Opus quality was much better too",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108293664023740555",
+        "text": "@deeponailabs Yes, exactly, Opus was much more meticulous when validating, thats the reason I imagine the output was much better.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108293334955430073",
+        "text": "@IndependentEco The Opus+Haiku output was muchhhhh better.",
+        "author": "rubenssoto_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108288428466995200/img/Yd4BxzX279Y2LvVt.jpg",
+  "coverPath": "data/covers/2108289170871582851-wide.jpg",
+  "gifPath": "data/gifs/2108289170871582851.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108288428466995200",
+    "x-post:2108289170871582851"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "F1 Pit Stop Procedural Three.js Animation with Claude Opus 5.5 Orchestration",
+      "summary": "Comparison of a 30-second procedural F1 pit stop Three.js animation created using Claude Opus 5.5 as orchestrator and Claude Haiku 5.5 as executor versus an alternative model setup.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 (orchestrator) + Claude Haiku 5.5 (executor)\n• Opus: 94.8M tokens, $34.50"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
+        "englishText": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full orchestration pipeline prompt",
+          "Sub-agent task specifications",
+          "Detailed Three.js procedural animation code templates"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Split-screen video comparison displays the procedural 3D pit lane scene with an F1 car entering, an 8-person crew animating tyre swaps, and car departure in Three.js over 30 seconds.",
+        "textualResultQuote": "Opus was much more meticulous when validating, thats the reason I imagine the output was much better."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Haiku 5.5",
+          "role": "Executor agent generating and editing procedural code",
+          "evidence": "Claude Haiku 5.5 (executor)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics library executing and rendering the procedural scene",
+          "evidence": "a 30s cinematic F1 pit stop in Three.js.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural 3D F1 Pit Stop Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "procedural",
+          "f1",
+          "agent-orchestration",
+          "3d-animation"
+        ]
+      },
+      "targetModelRole": "Orchestrator planning, directing, and validating code generation and task execution",
+      "outputSource": "Procedural Three.js WebGL canvas rendering",
+      "divisionEvidence": "Claude Opus 5.5 (orchestrator) + Claude Haiku 5.5 (executor)... Opus was much more meticulous when validating, thats the reason I imagine the output was much better.",
+      "video": {
+        "shots": "Cinematic dynamic camera cuts showing entrance, crew tyre changes, and pit exit",
+        "duration": "30s",
+        "aspectRatio": "10:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic creator showcase demonstrating Claude Opus 5.5 orchestrating a procedural 3D animation in Three.js, supported by split-screen video footage.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+        "start": 37,
+        "end": 164
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+        "author": "rubenssoto_ai",
+        "postId": "2108289170871582851",
+        "publishedAt": "2026-10-08T20:11:23.000Z"
+      },
+      "checkedAt": "2026-10-09T15:08:47.043Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rubenssoto_ai/status/2108289170871582851",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison of a 30-second procedural F1 pit stop Three.js animation created using Claude Opus 5.5 as orchestrator and Claude Haiku 5.5 as executor versus an alternative model setup.",
+    "summaryEn": "F1 Pit Stop Procedural Three.js Animation with Claude Opus 5.5 Orchestration",
+    "originalPrompt": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
+    "sourceRange": {
+      "start": 37,
+      "end": 164
+    },
+    "translations": {
+      "zh": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
+      "en": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural 3D F1 Pit Stop Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full orchestration pipeline prompt",
+        "Sub-agent task specifications",
+        "Detailed Three.js procedural animation code templates"
+      ],
+      "evidence": "Split-screen video comparison displays the procedural 3D pit lane scene with an F1 car entering, an 8-person crew animating tyre swaps, and car departure in Three.js over 30 seconds."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

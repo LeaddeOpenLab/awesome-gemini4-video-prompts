@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:31:24.093Z",
+  "model": "opus5.5",
+  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+  "promptTranslations": {
+    "en": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
+  },
+  "summary": "A prompt designed for Claude Opus 5.5 to research a product from its web pages and autonomously produce a dynamic 15-second motion graphics video.",
+  "summaryEn": "Dynamic Motion Graphics Video Prompt",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103703135902740699",
+      "canonicalUrl": "https://x.com/tdinh_me/status/2103703135902740699",
+      "author": {
+        "username": "tdinh_me",
+        "displayName": "Tony Dinh",
+        "profileUrl": "https://x.com/tdinh_me"
+      },
+      "originalText": "Holy shit.\n\nJust 1 year ago, I paid ~$1,000+ for a video like this.\n\nNow I made this with Opus 5.5 in less than 30 minutes 😂 https://t.co/omRDFLn8lE"
+    },
+    "id": "2103723183899852885",
+    "canonicalUrl": "https://x.com/ann_nnng/status/2103723183899852885",
+    "author": {
+      "username": "ann_nnng",
+      "displayName": "Ann Nguyen",
+      "profileUrl": "https://x.com/ann_nnng"
+    },
+    "publishedAt": "2026-09-26T05:47:46.000Z",
+    "collectedAt": "2026-09-28T07:27:53.901Z",
+    "language": "en",
+    "originalText": "this is my version, and it's straight up disruptive 😱\n\none prompt with claude opus 5.5, almost an hour, and it cooked the whole thing\n\nI used to spend nearly 4 weeks going back and forth with 2 freelancers just to get videos like this https://t.co/K0wbwJWOw7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ann_nnng/status/2103723183899852885",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103721031798325248/img/AQACnSg93oS7mh4T.jpg",
+        "analysisUrl": "https://x.com/ann_nnng/status/2103723183899852885"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/ann_nnng/status/2103723183899852885",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103702920181272576/img/0Mcdvuag4dj0FvlB.jpg",
+        "analysisUrl": "https://x.com/ann_nnng/status/2103723183899852885",
+        "sourcePostId": "2103703135902740699"
+      }
+    ],
+    "metrics": {
+      "likeCount": 974,
+      "repostCount": 36,
+      "replyCount": 34,
+      "quoteCount": 11,
+      "viewCount": 97232
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ann_nnng/status/2103827160880632304",
+        "text": "@calflegal For me it’s the sound effect 😂",
+        "author": "ann_nnng"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ann_nnng/status/2103807451351093449",
+        "text": "and don’t forget to check out typingmind https://t.co/w6rdXodvuH",
+        "author": "ann_nnng"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ann_nnng/status/2103759390386057227",
+        "text": "feel free to use this prompt:\nMake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+        "author": "ann_nnng"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ann_nnng/status/2103759251118391381",
+        "text": "@ComplexiaSC I used claude code only, you don't even need to install any skills. It auto-loads whatever tools it needs and then just hands you the final video",
+        "author": "ann_nnng"
+      },
+      {
+        "url": "https://x.com/ann_nnng/status/2103723183899852885",
+        "text": "Ann Nguyen on X: \"this is my version, and it&#x27;s straight up disruptive 😱\n\none prompt with claude opus 5.5, almost an hour, and it cooked the whole thing\n\nI used to spend nearly 4 weeks going back and forth with 2 freelancers just to get videos like this\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAnn Nguyen on X: \"this is my version, and it&#x27;s straight up disruptive 😱\n\none prompt with claude opus 5.5, almost an hour, and it cooked the whole thing\n\nI used to spend nearly 4 weeks going back and forth with 2 freelancers just to get videos like this\"\n\n\n\nAnn Nguyen\n\n@ann_nnng\n\n\n\n\nthis is my version, and it&#x27;s straight up disruptive 😱\n\none prompt with claude opus 5.5, almost an hour, and it cooked the whole thing\n\nI used to spend nearly 4 weeks going back and forth with 2 freelancers just to get videos like this\n\n\n00:00\n\n\n\n\n\n\n\n\nTony Dinh\n\n@tdinh_me\nSep 26\n\nHoly shit.\n\nJust 1 year ago, I paid ~$1,000+ for a video like this.\n\nNow I made this with Opus 5.5 in less than 30 minutes 😂\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n5:47 AM · Sep 26, 2026·97.2K\nViews\n\n\n\n34\n36\n974\n1.1K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAnn Nguyen@ann_nnngFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnn Nguyen\n\n@ann_nnng\n\n\n\n\nthis is my version, and it&#x27;s straight up disruptive 😱\n\none prompt with claude opus 5.5, almost an hour, and it cooked the whole thing\n\nI used to spend nearly 4 weeks going back and forth with 2 freelancers just to get videos like this\n\n\n00:00\n\n\n\n\n\n\n\n\nTony Dinh\n\n@tdinh_me\nSep 26\n\nHoly shit.\n\nJust 1 year ago, I paid ~$1,000+ for a video like this.\n\nNow I made this with Opus 5.5 in less than 30 minutes 😂\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n5:47 AM · Sep 26, 2026·97.2K\nViews\n\n\n\n34\n36\n974\n1.1K\n\n\n\n\n\n\n\n\n\nAnn Nguyen\n\n@ann_nnng\nSep 26\n\n\nfeel free to use this prompt:\nMake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.\n\n\n5\n1\n67\n7.3K\n\n\n\n\n\n\n\n\n\nAnn Nguyen\n\n@ann_nnng\nSep 26\n\n\nand don’t forget to check out typingmind \n\n\nTypingMind — LLM Frontend Chat UI for AI models\n\n\nFrom typingmind.com\n\n\n\n\n\n6\n2.2K\n\n\n\n\n\n\n\n\n\n\n\nRoma\n\n@ComplexiaSC\nSep 26\n\n\nHow do you get the video? Claude is not a video gen model. I’ve seen so many of these recently, and when I tried myself, Claude used threejs to make a vid. Impressive as hell but it was very bad.\n\nAre you using Claude to drive Seedance or something?\n\n\n2\n\n6\n1.8K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ann_nnng"
+      },
+      {
+        "url": "https://www.typingmind.com/",
+        "text": "TypingMind — LLM Frontend Chat UI for AI models\nTypingMind\n\n\nThe best  frontend for LLMs\nAdvanced chat UI for AI models. ChatGPT, Gemini, Claude, and more. All in one place.\n\n\nData Visualization & Chart Rendering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe AI client you actually own\nCentralized all LLM chats, multi-model support\n\nBring your own API keys, private local data storage\n\nBuild agents, prompts, plugins, knowledge base\n\nNo subscription. Pay once, use forever.\n\n\n\n\n20,641+ happy customers use TypingMind daily\n\n\nGet a lifetime license50% off today! 14-day money-back guarantee.\n\n\n\n\n\n\n\n\n\n\n\n\n\n❝This is the best ChatGPT client and I tested so many! So much better than the OpenAI user interface.❞\nMirel VasileCo-founder Nextasee and Anticipal\n\n\n\n\n\n\nWhy TypingMind\nThe all-in-one platform for  AI chats\nMore than 20,641+ customers have set up their own personal AI workspaces.\nGet a lifetime license\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMulti AI chat models\nAccess ChatGPT, Claude, Gemini, and any LLMs through a single interface. Seamlessly switch between different AI providers as needed.\n\n\n\n\n\nNo monthly fee, no usage limit\nBring your own API keys and only pay for actual usage. No recurring fees, subscriptions, or limitations on your usage.\n\n\n\n\n\nPrivacy-first local storage\nAll your data remains securely stored on your device. Zero data collection or transmission for AI model training purposes.\n\n\n\n\n\nBest-in-class powerful features\nComplete suite of professional tools featuring Project settings, Canvas editors, Artifacts, and beyond.\n\n\n\n\n\nComprehensive AI Agent builder\nDesign custom AI agents, develop plugins, and create prompts. Seamlessly integrate with your existing data infrastructure.\n\n\n\n\n\n\n\nFlexible integration via plugins\nEnhance functionality by connecting your preferred tools and data sources through our comprehensive plugin systems.\n\n\n\n\n\n\nTrusted by the world&#x27;s top organizations\nFrom universities and colleges, startups to Fortune 500 companies, TypingMind is the go-to AI workspace for their members who use AI every day in their work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGet a lifetime license now\nPowerful features\nBring more value to  every token\nAdvanced features to give you more control and power, effortlessly doubling your productivity\n\n\n\nArtifacts\nGenerate interactive and editable outputs, from documents and images to more complex coding\n\n\n\n\n\nProject Folders\nBuild dedicated workspaces with chat history, knowledge bases, API content etc.\n\n\n\n\n\nWeb search\nAccess real-time information from the internet to improve accuracy and expand AI knowledge\n\n\n\n\n\nText-to-speech, Voice input\nUse voice commands and listen to AI responses\n\n\n\n\nCanvas\n\nInteractive Canvas editor\nCollaborate with AI on writing and coding beyond basic chat\n\n\n\n\n\nChat with documents\nSecurely analyze and discuss uploaded documents\n\n\n\n\n\nEasily manage all chats\nOrganize conversations with search, tags, filter and more\n\n\n\n\nGet a lifetime license now\n\nBuilt for pro users\n\nMy experience with TypingMind has been nothing but excellent... It is easy to use for the novice user and has powerful features for advanced users.— Brad Nickel\n\nbuild an MVP for this ideaMulti-model response GPT 5\n\nMulti-model parallel chats\nChat with multiple AI models simultaneously, comparing responses and leveraging different model strengths in real-time.\n\n\n\nFigma MCP\nGitHub\nGitLab\nRedis DBs\nMake\nApify\n Setup connector\n\nMCP (Model Context Protocol)\nConnect AI models with external tools and services through Anthropic&#x27;s standard protocol, expanding capabilities beyond basic chat.\n\n\n\n\n\nPrompt caching\nReduce token costs up to 90% and speed up responses by reusing recent prompt context.\n\n\n\nTemporary ChatThis chat won&#x27;t appear in your history\n\nTemporary chat sessions\nQuick conversations that aren&#x27;t saved to history, perfect for testing ideas and one-off queries.\n\n\n\n1 / 2 \n\nThreads & Forked chats\nSwitch versions when editing messages, or fork to another chat for relevant discussion.\n\n\n\nLet me retrieve your sales data in 2025 for youbook open  magnifier  \nSearching Knowledge Base...\n\nRAG (Retrieval-augmented generation)\nUpload documents and connect external sources like GitHub, Notion, Google Drive for AI models to access your specific data.\n\n\n\nresearch the EV market from 2010 until nowDeep Research ›Deep Research Research Plan...Here is the planned approach for this research task:...Deep Research Search Web...Deep Research Extract Web Page...Deep Research Research Plan...\n\nDeep research\nComprehensive research with multi-step analysis, source verification, and detailed report generation beyond basic web search.\n\n\n\n\n\nGet a lifetime license now\n\n\nHighlights\nBuild smart  AI agents\nAdd your training filesUpload documents, PDFs, or text files to train your AI agent with custom knowledge. Your agent will learn from these materials to provide more accurate and contextual responses.\n\n\n\n\n\n\nFetch real-time data with dynamic APIsConnect your agent to live data sources through APIs. Enable real-time information access for up-to-date responses and dynamic interaction with external services.\n\n\n\n\n\n\n\n\nInteract with other systems via pluginsUse plugins to boost AI agents with advanced skills like sending Slack notifications, accessing your Google Calendar accounts, or interacting with other systems.\n\n\n\n\n\n\n\n\nAssign any LLM for the agentsDesignate a specific AI model to the agent, along with instructions and a custom prompt. Let it solve specific tasks.\n\n\n\n\n\n\n\n\nPrompt chainingCreate multi-step prompt chains that tag multiple AI agents into the flow. Each agent can have its own model, parameters, dynamic context, system prompt, plugins, etc., to help you with repetitive tasks.\n\n\n\n\n\n\n\n\nAdd a voice for the agentGive your AI agent a voice with text-to-speech capabilities. Enable natural voice interactions for a more engaging and accessible user experience.\n\n\n\n\n\n\n\n\nOver 50 pre-built specialized AI AgentsEnjoy our ready-to-use AI agents built for specific tasks with necessary plugins like Pro Coder, Market Researcher, and Data Analyst, and beyond.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGet a lifetime license now\n\n\n\nUse plugins or  build your own\nMultiple plugins availablePre-built plugins\nCreate any pluginsCreate any plugins\nFully customizable outputsCustomizable outputs\nFlexible to any integrationEasy integration\n\n\n\n\nWeb Search\nSearch the web for real-time information and resources.\n\n\n\n\n\nPowerPoint Generator\nCreate PowerPoint presentations from structured data.\n\n\n\n\n\nMermaid Diagram\nGenerate diagrams using Mermaid.js for your projects.\n\n\n\n\n\nGPT Image Editor\nGenerate AI-based images using GPT Image.\n\n\n\n\n\nAzure AI Search\nExplore AI-powered search capabilities with Azure.\n\n\n\n\n\nImage Search\nSearch for images quickly and efficiently.\n\n\n\n\n\nSlack Message Notifier\nSend Slack notifications and stay updated.\n\n\n\n\n\nWord Generator\nGenerate structured Word documents easily.\n\n\n\n\n\nFirecrawl Web Page Reader\nRetrieve web page content using Firecrawl technology.\n\n\n\n\n\nWeb Page Reader\nLoad and analyze web pages within your projects.\n\n\n\n\n\n\n\nWeb Search\nSearch the web for real-time information and resources.\n\n\n\n\n\nPowerPoint Generator\nCreate PowerPoint presentations from structured data.\n\n\n\n\n\nMermaid Diagram\nGenerate diagrams using Mermaid.js for your projects.\n\n\n\n\n\nGPT Image Editor\nGenerate AI-based images using GPT Image.\n\n\n\n\n\nAzure AI Search\nExplore AI-powered search capabilities with Azure.\n\n\n\n\n\nImage Search\nSearch for images quickly and efficiently.\n\n\n\n\n\nSlack Message Notifier\nSend Slack notifications and stay updated.\n\n\n\n\n\nWord Generator\nGenerate structured Word documents easily.\n\n\n\n\n\nFirecrawl Web Page Reader\nRetrieve web page content using Firecrawl technology.\n\n\n\n\n\nWeb Page Reader\nLoad and analyze web pages within your projects.\n\n\n\n\n\n\n\nWeb Search\nSearch the web for real-time information and resources.\n\n\n\n\n\nPowerPoint Generator\nCreate PowerPoint presentations from structured data.\n\n\n\n\n\nMermaid Diagram\nGenerate diagrams using Mermaid.js for your projects.\n\n\n\n\n\nGPT Image Editor\nGenerate AI-based images using GPT Image.\n\n\n\n\n\nAzure AI Search\nExplore AI-powered search capabilities with Azure.\n\n\n\n\n\nImage Search\nSearch for images quickly and efficiently.\n\n\n\n\n\nSlack Message Notifier\nSend Slack notifications and stay updated.\n\n\n\n\n\nWord Generator\nGenerate structured Word documents easily.\n\n\n\n\n\nFirecrawl Web Page Reader\nRetrieve web page content using Firecrawl technology.\n\n\n\n\n\nWeb Page Reader\nLoad and analyze web pages within your projects.\n\n\n\n\n\n\n\nWeb Search\nSearch the web for real-time information and resources.\n\n\n\n\n\nPowerPoint Generator\nCreate PowerPoint presentations from structured data.\n\n\n\n\n\nMermaid Diagram\nGenerate diagrams using Mermaid.js for your projects.\n\n\n\n\n\nGPT Image Editor\nGenerate AI-based images using GPT Image.\n\n\n\n\n\nAzure AI Search\nExplore AI-powered search capabilities with Azure.\n\n\n\n\n\nImage Search\nSearch for images quickly and efficiently.\n\n\n\n\n\nSlack Message Notifier\nSend Slack notifications and stay updated.\n\n\n\n\n\nWord Generator\nGenerate structured Word documents easily.\n\n\n\n\n\nFirecrawl Web Page Reader\nRetrieve web page content using Firecrawl technology.\n\n\n\n\n\nWeb Page Reader\nLoad and analyze web pages within your projects.\n\n\n\n\n\n\n\n\nPerplexity Search\nFind answers and resources with Perplexity.\n\n\n\n\n\nInteractive Canvas\nRun and debug code snippets in real time.\n\n\n\n\n\nRender Chart\nVisualize your data by rendering charts seamlessly.\n\n\n\n\n\nStable Diffusion\nGenerate stunning AI artwork using Stable Diffusion.\n\n\n\n\n\nZapier\nIntegrate workflows across popular services using Zapier.\n\n\n\n\n\nGoogle Search\nSearch the web using Google’s powerful search engine.\n\n\n\n\n\nSimple Calculator\nPerform simple and quick calculations.\n\n\n\n\n\nMarket News\nStay updated with the latest market news and trends.\n\n\n\n\n\nJavaScript Interpreter\nRun and debug JavaScript code snippets in real time.\n\n\n\n\n\nRender HTML\nRender custom HTML content dynamically in your projects.\n\n\n\n\n\n\n\nPerplexity Search\nFind answers and resources with Perplexity.\n\n\n\n\n\nInteractive Canvas\nRun and debug code snippets in real time.\n\n\n\n\n\nRender Chart\nVisualize your data by rendering charts seamlessly.\n\n\n\n\n\nStable Diffusion\nGenerate stunning AI artwork using Stable Diffusion.\n\n\n\n\n\nZapier\nIntegrate workflows across popular services using Zapier.\n\n\n\n\n\nGoogle Search\nSearch the web using Google’s powerful search engine.\n\n\n\n\n\nSimple Calculator\nPerform simple and quick calculations.\n\n\n\n\n\nMarket News\nStay updated with the latest market news and trends.\n\n\n\n\n\nJavaScript Interpreter\nRun and debug JavaScript code snippets in real time.\n\n\n\n\n\nRender HTML\nRender custom HTML content dynamically in your projects.\n\n\n\n\n\n\n\nPerplexity Search\nFind answers and resources with Perplexity.\n\n\n\n\n\nInteractive Canvas\nRun and debug code snippets in real time.\n\n\n\n\n\nRender Chart\nVisualize your data by rendering charts seamlessly.\n\n\n\n\n\nStable Diffusion\nGenerate stunning AI artwork using Stable Diffusion.\n\n\n\n\n\nZapier\nIntegrate workflows across popular services using Zapier.\n\n\n\n\n\nGoogle Search\nSearch the web using Google’s powerful search engine.\n\n\n\n\n\nSimple Calculator\nPerform simple and quick calculations.\n\n\n\n\n\nMarket News\nStay updated with the latest market news and trends.\n\n\n\n\n\nJavaScript Interpreter\nRun and debug JavaScript code snippets in real time.\n\n\n\n\n\nRender HTML\nRender custom HTML content dynamically in your projects.\n\n\n\n\n\n\n\nPerplexity Search\nFind answers and resources with Perplexity.\n\n\n\n\n\nInteractive Canvas\nRun and debug code snippets in real time.\n\n\n\n\n\nRender Chart\nVisualize your data by rendering charts seamlessly.\n\n\n\n\n\nStable Diffusion\nGenerate stunning AI artwork using Stable Diffusion.\n\n\n\n\n\nZapier\nIntegrate workflows across popular services using Zapier.\n\n\n\n\n\nGoogle Search\nSearch the web using Google’s powerful search engine.\n\n\n\n\n\nSimple Calculator\nPerform simple and quick calculations.\n\n\n\n\n\nMarket News\nStay updated with the latest market news and trends.\n\n\n\n\n\nJavaScript Interpreter\nRun and debug JavaScript code snippets in real time.\n\n\n\n\n\nRender HTML\nRender custom HTML content dynamically in your projects.\n\n\n\n\n\n\n\n\nGet a lifetime license now\n\n\nPrivacy & Security\nPrivacy-first AI workspace\n\n\nData stored locally by default\nYour data stays on your device by default, ensuring maximum privacy and security.\n\nNo training on your data\nYour conversations are never used for AI training, guaranteeing complete confidentiality.\n\nEncryption with password\nSecure your API credentials with password encryption for an extra layer of protection.\n\n\n\nGet a lifetime license now\n\n\nTestimonials\nWhat our customers say\nWith hundreds of thousands of productive users using TypingMind daily, here&#x27;s what they have to say.\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Frank\nYouTuber (2.9M) & WatchNebula Co-founder.\n\n\n\nMy go-to ChatGPT client.\nI have entirely switched to TypingMind from the normal ChatGPT client.\nI find the responses are typically faster than ChatGPT, which is probably due to the fact that you connect your own API key.\nYou can put chats in folders, search them, switch between all sorts of models... it&#x27;s awesome.\n\n\n\n\nMirel Vasile\nCo-founder Nextasee and Anticipal\n\n\n\nThis is the best ChatGPT client and I tested so many!\nSo much better than the OpenAI user interface. Added my gpt4 API to bypass the 25 message cap PLUS have a better user experience.\n\n\n\n\nIrshad Ahmad W.\nMaster Trainer - Education Management\n\n\n\nTypingMind provides customizable features, themes, layout and prompt tuning which makes session more simpler and interactive.\nThe intutuive and polished interface makes it easy to use and apply. This gives a prompt response and smoother experience.\nI really recommend that.\n\n\n\n\nIan Dikhtiar\nAI Engineer at BundlyAI\n\n\n\nTypingmind is Life\nI am the early adopter of the app and I use it every day way more often than I use ChatGPT. \nTypingMind is the first app on my bookmark bar for a reason - it&#x27;s just that great!\n\n\n\n\nGraydon T.\nFounder - Information Technology and Services\n\n\n\nIt&#x27;s incredibly powerful and flexible. It&#x27;s like an AI Swiss Army Knife. It allows me to centralize all my interactions with the different models. [...]\nI recommend it enthusiastically to anyone working with all the different LLMs and every one of them that follows my advice loves using it.\n\n\n\n\nAndrea Bizzotto\nCode With Andrea - YouTuber (39.2K)\n\n\n\nSo much better than the regular ChatGPT UI!\nTypingMind is a fantastic product, and I use it almost every day!\n\n\n\n\nGet a lifetime license now\n\nNeed more details? Gotcha\nOrganization & Management\n📂 Project folders\n📌 Pin favorite chats\n🗑️ Bulk delete/archive chats\n🏷️ Tags management\n🧨 Dynamic context for projects\nAI Models & Integration\n🔄 Auto update latest AI\n🤖 Custom AI models\n☁️ Azure OpenAI support\n🔌 OpenRouter integration\n🔚 Custom endpoints & proxy\n🎯 Fine-tuning models support\n🛡️ Safety settings for Gemini\n🧠 Reasoning effort control\n🔥 Fireworks AI integration\n✅ Domain check integration\n🔍 Google/Kagi/Brave for search\nChat Experience\n⚡ Stream AI responses support\n⚡️ Parallel chat support\n🔀 Fork chat feature\n🕒 Message timestamp display\n🧹 Clear chat context\n🔁 Reset/Stop chat function\n✏️ Edit message function\n💭 Conversation starter templates\n📍 Pin favorite messages\n🔔 Sound notification\nDocument & File Handling\n📄 Chat with PDF\n📥 Upload various file types\n🎥 Chat with videos\n📚 Upload files for AI agents\n📊 Upload XLSX files\n📋 RAG (Retrieval Augmented Generation)\nVoice & Audio\n🎤 Multi-language voice input\n🗣️ TTS via ElevenLabs\n🔊 OpenAI TTS\n🎵 Custom voice creation\n🎧 Upload audios for transcription\n🎙️ Azure Whisper for STT\n🗩 Groq Whisper for STT\n💻 Local Whisper setup\nCustomization & Settings\n🌙 Beautiful dark mode\n🌡️ Temperature settings\n⚙️ Custom parameters for models\n⌨️ Customize keyboard shortcuts\n📝 Change text size\n↔️ Customize sidebar width\n🎨 Change theme for sidebar\n👥 Multiple profiles setup\nPlugins & Extensions\n🔍 Web search plugin\n🖼️ Image search plugin\n🎭 Dall-E 3\n🎴 Stable Diffusion v3\n📱 Web page reader\n📰 Market news\n🔆 Azure AI search\n🔎 Perplexity search\n📊 Powerpoint generator\n📜 Word generator\n📉 Mermaid diagram\n🖌️ Interactive canvas\n🧩 Browser extension support\n🔧 Multi-function plugins support\n🔍 Deep Research plugin\nSharing & Export\n📤 Export/import chats\n📋 Quick share chats\n💾 Export settings to JSON\n📨 Export multi-chats as JSON\nAI Agents\n🦾 Pre-built AI agent library\n🔳 Assign plugins\n🎚️ Add custom parameters\n📧 Assign AI agents to Projects\nPrompt Library\n🌟 50+ community prompts\n🔧 Add template variables\n⛓️ Workflow by Prompt Chaining\n🤖 Mention AI agents\nCost & Performance\n💰 Cost estimation\n📊 Token usage tracking\n📏 Context length indicator\n⚗️ Max token setting\n🧮 Cost estimation calculator\n🧠 Prompt Caching\nSecurity and Privacy\n🏠 Local private by default\n🔐 API key encryption\n🛡️ No chats used for training\nCloud & Sync\n⛅ Manage cloud storage\n📎 Include/exclude attachments in sync\n🔃 Auto-manage archived chats\n\nGet a lifetime license now\n\n\n\n\n\nBuy A License\n\n",
+        "kind": "linked_public_material",
+        "author": "ann_nnng"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ann_nnng/status/2103723183899852885",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103721031798325248/img/AQACnSg93oS7mh4T.jpg",
+  "coverPath": "data/covers/2103723183899852885-wide.jpg",
+  "gifPath": "data/gifs/2103723183899852885.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103721031798325248",
+    "x-video:2103702920181272576",
+    "x-post:2103723183899852885",
+    "x-post:2103703135902740699"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Motion Graphics Video Prompt",
+      "summary": "A prompt designed for Claude Opus 5.5 to research a product from its web pages and autonomously produce a dynamic 15-second motion graphics video.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "one prompt with claude opus 5.5, almost an hour, and it cooked the whole thing"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+        "englishText": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/ann_nnng/status/2103723183899852885",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ann_nnng/status/2103759390386057227",
+        "start": 30,
+        "end": 275
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ann_nnng/status/2103723183899852885",
+        "author": "ann_nnng",
+        "postId": "2103723183899852885",
+        "publishedAt": "2026-09-26T05:47:46.000Z"
+      },
+      "checkedAt": "2026-09-28T07:29:38.292Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ann_nnng/status/2103759390386057227",
+        "evidence": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
+    },
+    "summary": "A prompt designed for Claude Opus 5.5 to research a product from its web pages and autonomously produce a dynamic 15-second motion graphics video.",
+    "summaryEn": "Dynamic Motion Graphics Video Prompt",
+    "originalPrompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+    "sourceRange": {
+      "start": 30,
+      "end": 275
+    },
+    "translations": {
+      "zh": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself.",
+      "en": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

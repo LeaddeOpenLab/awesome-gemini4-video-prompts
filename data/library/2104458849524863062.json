@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:21:05.418Z",
+  "model": "opus5.5",
+  "prompt": "Made a DeepSeek MV with Opus 5.5",
+  "promptTranslations": {
+    "en": "Made a DeepSeek MV with Opus 5.5"
+  },
+  "summary": "作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。",
+  "summaryEn": "DeepSeek 灰测版魔性 MV 动画制作",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104458849524863062",
+    "canonicalUrl": "https://x.com/esrhengwu/status/2104458849524863062",
+    "author": {
+      "username": "esrhengwu",
+      "displayName": "基恩-Keane 🌊",
+      "profileUrl": "https://x.com/esrhengwu"
+    },
+    "publishedAt": "2026-09-28T06:31:03.000Z",
+    "collectedAt": "2026-09-28T07:04:31.459Z",
+    "language": "zh",
+    "originalText": "用Opus 5.5 做了个 DeepSeek MV，太魔性了！\n\nxhigh 档位，大概1小时生成，额度只用了我20X MAX周额度的5% 强悍。 https://t.co/qvhYTOSuR0",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/esrhengwu/status/2104458849524863062",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104452981395787776/img/dxVFl0Ie49DwLn3h.jpg",
+        "analysisUrl": "https://x.com/esrhengwu/status/2104458849524863062"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 151
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/esrhengwu/status/2104458849524863062",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104452981395787776/img/dxVFl0Ie49DwLn3h.jpg",
+  "coverPath": "data/covers/2104458849524863062-wide.jpg",
+  "gifPath": "data/gifs/2104458849524863062.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104452981395787776",
+    "x-post:2104458849524863062"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "DeepSeek 灰测版魔性 MV 动画制作",
+      "summary": "作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "用Opus 5.5 做了个 DeepSeek MV，太魔性了！\n\nxhigh 档位，大概1小时生成，额度只用了我20X MAX周额度的5% 强悍。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "用Opus 5.5 做了个 DeepSeek MV",
+        "englishText": "Made a DeepSeek MV with Opus 5.5",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "完整提示词与系统指令",
+          "动画渲染技术栈与代码框架（如 Remotion、Canvas 或 SVG 脚本）",
+          "音频与人声配乐生成说明与依赖资产"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "视频展示了完整的 DeepSeek 灰测主题动效音乐录影带，包含歌词动效、卡通角色动画及多场景切换，与作者描述相符。注：本次检验使用的是作品的较小码率/尺寸备选版本，画质评估仅针对此输入。",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "DeepSeek 灰测主题原创/合成歌曲伴奏及人声音频",
+          "available": false,
+          "evidence": "视频包含完整人声歌曲与伴奏，但推文未提供音频生成方式或源文件链接",
+          "origin": "unknown"
+        },
+        {
+          "kind": "image_asset",
+          "description": "DeepSeek 鲸鱼吉祥物及 Q 版人物立绘形象",
+          "available": false,
+          "evidence": "视频中出现多处特定矢量角色与图标资产，未公开原始素材文件",
+          "origin": "unknown"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unknown Renderer / Framework",
+          "role": "视频动效代码执行与渲染引擎",
+          "evidence": "作者仅提及使用 Opus 5.5 xhigh 档位耗时约 1 小时生成，未指明具体代码框架（如 Remotion、Web 动效或 Manim）",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "代码编写与动画生成智能体，负责编排视觉分镜并输出动画程序代码",
+      "outputSource": "unknown",
+      "divisionEvidence": "作者发文称“用Opus 5.5 做了个 DeepSeek MV... xhigh 档位，大概1小时生成”，未具体指明渲染管线与模型分工细节。",
+      "video": {
+        "shots": "多镜头分镜切换，包含 2D 卡通立绘动画、波普风动态背景、进度条/终端模拟画面与动态字幕排版",
+        "duration": "04:12",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "该案例展示了使用 Claude Opus 5.5 制作完整动效音乐视频的实际成果，符合参考案例收录要求；依据参考案例标准，虽未公开全部代码与提示词，仍属于切题且真实的内容生产案例。",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/esrhengwu/status/2104458849524863062",
+        "start": 0,
+        "end": 25
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/esrhengwu/status/2104458849524863062",
+        "author": "esrhengwu",
+        "postId": "2104458849524863062",
+        "publishedAt": "2026-09-28T06:31:03.000Z"
+      },
+      "checkedAt": "2026-09-28T07:11:14.170Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/esrhengwu/status/2104458849524863062",
+        "evidence": ""
+      }
+    },
+    "summary": "作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。",
+    "summaryEn": "DeepSeek 灰测版魔性 MV 动画制作",
+    "originalPrompt": "用Opus 5.5 做了个 DeepSeek MV",
+    "sourceRange": {
+      "start": 0,
+      "end": 25
+    },
+    "translations": {
+      "zh": "用Opus 5.5 做了个 DeepSeek MV",
+      "en": "Made a DeepSeek MV with Opus 5.5"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "完整提示词与系统指令",
+        "动画渲染技术栈与代码框架（如 Remotion、Canvas 或 SVG 脚本）",
+        "音频与人声配乐生成说明与依赖资产"
+      ],
+      "evidence": "视频展示了完整的 DeepSeek 灰测主题动效音乐录影带，包含歌词动效、卡通角色动画及多场景切换，与作者描述相符。注：本次检验使用的是作品的较小码率/尺寸备选版本，画质评估仅针对此输入。"
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

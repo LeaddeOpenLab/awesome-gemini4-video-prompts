@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:41:44.957Z",
+  "model": "opus5.5",
+  "prompt": "I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies.",
+  "promptTranslations": {
+    "en": "I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies."
+  },
+  "summary": "Tiago Chi demonstrates a 3D interactive claymation-style web game created with Claude Opus 5.5, where players navigate a school full of zombie teachers.",
+  "summaryEn": "Escola de Massinha 3D Game with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104407040135164032",
+    "canonicalUrl": "https://x.com/tiagochilanti/status/2104407040135164032",
+    "author": {
+      "username": "tiagochilanti",
+      "displayName": "Tiago Chi",
+      "profileUrl": "https://x.com/tiagochilanti"
+    },
+    "publishedAt": "2026-09-28T03:05:11.000Z",
+    "collectedAt": "2026-09-28T07:04:31.459Z",
+    "language": "pt",
+    "originalText": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar, que se passa numa escola onde os professores viraram zumbies. Link pra jogar no primeiro comentário!\n\nInspirador no Rabisco do @oalanicolas https://t.co/a62DcSgNBU",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/tiagochilanti/status/2104407040135164032",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104406729622474752/img/m3hs7jODAMrrs6kW.jpg",
+        "analysisUrl": "https://x.com/tiagochilanti/status/2104407040135164032"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 63
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/tiagochilanti/status/2104407040135164032",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104406729622474752/img/m3hs7jODAMrrs6kW.jpg",
+  "coverPath": "data/covers/2104407040135164032-wide.jpg",
+  "gifPath": "data/gifs/2104407040135164032.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104406729622474752",
+    "x-post:2104407040135164032"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Escola de Massinha 3D Game with Claude Opus 5.5",
+      "summary": "Tiago Chi demonstrates a 3D interactive claymation-style web game created with Claude Opus 5.5, where players navigate a school full of zombie teachers.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar, que se passa numa escola onde os professores viraram zumbies.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial code generation prompt",
+          "Interactive mechanics and 3D modeling specifications",
+          "Step-by-step game implementation prompts"
+        ],
+        "englishText": "I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies."
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows first-person gameplay of a 3D claymation school environment featuring zombie teachers and students, slingshot mechanics, and Portuguese text consistent with the description.",
+        "textualResultQuote": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar, que se passa numa escola onde os professores viraram zumbies."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Web 3D Engine / Browser",
+          "role": "Execution and rendering of the generated interactive 3D claymation game",
+          "evidence": "Joga e me diz o que achou: escola-de-massinha.vercel.app",
+          "status": "inferred"
+        }
+      ],
+      "targetModelRole": "Code generation and logic implementation for the interactive 3D browser game",
+      "outputSource": "Browser WebGL renderer running deployed code on Vercel",
+      "divisionEvidence": "Author states 'Criei um jogo com o Opus 5.5' and provides a playable Vercel deployment link alongside the gameplay capture.",
+      "video": {
+        "shots": "Continuous first-person screen recording traversing school playground, cafeteria, hallway, and sports court",
+        "duration": "PT31S",
+        "aspectRatio": "2:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author demonstration of an interactive 3D web game created using Claude Opus 5.5, supported by video screen recording and playable web link under reference-case guidelines.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/tiagochilanti/status/2104407040135164032",
+        "start": 0,
+        "end": 125
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/tiagochilanti/status/2104407040135164032",
+        "author": "tiagochilanti",
+        "postId": "2104407040135164032",
+        "publishedAt": "2026-09-28T03:05:11.000Z"
+      },
+      "checkedAt": "2026-09-28T06:55:08.140Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/tiagochilanti/status/2104407040135164032",
+        "evidence": ""
+      }
+    },
+    "summary": "Tiago Chi demonstrates a 3D interactive claymation-style web game created with Claude Opus 5.5, where players navigate a school full of zombie teachers.",
+    "summaryEn": "Escola de Massinha 3D Game with Claude Opus 5.5",
+    "originalPrompt": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar, que se passa numa escola onde os professores viraram zumbies.",
+    "sourceRange": {
+      "start": 0,
+      "end": 125
+    },
+    "translations": {
+      "zh": "Criei um jogo com o Opus 5.5 todo feito em massinha de modelar, que se passa numa escola onde os professores viraram zumbies.",
+      "en": "I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tiago Chi demonstrates a 3D interactive claymation-style web game created with Claude Opus 5.5, where players navigate a school full of zombie teachers.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial code generation prompt",
+        "Interactive mechanics and 3D modeling specifications",
+        "Step-by-step game implementation prompts"
+      ],
+      "evidence": "The video shows first-person gameplay of a 3D claymation school environment featuring zombie teachers and students, slingshot mechanics, and Portuguese text consistent with the description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

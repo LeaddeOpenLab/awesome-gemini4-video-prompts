@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T17:05:24.363Z",
+  "model": "opus5.5",
+  "prompt": "make a creepy ass takeover video about 5 things it can do",
+  "promptTranslations": {
+    "en": "make a creepy ass takeover video about 5 things it can do"
+  },
+  "summary": "Vertical motion graphics video with glitch and terminal aesthetics showcasing five capabilities of Claude, framed as an AI system takeover.",
+  "summaryEn": "Creepy Takeover Video: 5 Things Claude Can Do",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107730352353452332",
+    "canonicalUrl": "https://x.com/forevertawl/status/2107730352353452332",
+    "author": {
+      "username": "forevertawl",
+      "displayName": "Isiah",
+      "profileUrl": "https://x.com/forevertawl"
+    },
+    "publishedAt": "2026-10-07T07:10:50.000Z",
+    "collectedAt": "2026-10-12T16:18:21.468Z",
+    "language": "en",
+    "originalText": "I asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do, the result legit gave me chills. https://t.co/ZlrdjHLrsu",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/forevertawl/status/2107730352353452332",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107730320036405248/img/D7Uo3mxCm02ZV5ZE.jpg",
+        "analysisUrl": "https://x.com/forevertawl/status/2107730352353452332"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 121
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/forevertawl/status/2107730352353452332",
+        "text": "Isiah on X: \"I asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do, the result legit gave me chills.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nIsiah on X: \"I asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do, the result legit gave me chills.\"\n\n\n\nIsiah\n@forevertawl\n\n\n\n\nI asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do, the result legit gave me chills.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:10 AM · Oct 7, 2026·121\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nIsiah@forevertawlFollow\njust a dude that hates the uniparty destroying the country.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsiah\n@forevertawl\n\n\n\n\nI asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do, the result legit gave me chills.\n\n\n00:00\n\n\n\n\n\n\n\n\n7:10 AM · Oct 7, 2026·121\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "forevertawl"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/forevertawl/status/2107730352353452332",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107730320036405248/img/D7Uo3mxCm02ZV5ZE.jpg",
+  "coverPath": "data/covers/2107730352353452332-wide.jpg",
+  "gifPath": "data/gifs/2107730352353452332.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2107730320036405248/vid/avc1/320x568/Xk_pHNsrqgOMgz9A.mp4?tag=29",
+    "x-video:2107730320036405248",
+    "x-post:2107730352353452332"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Creepy Takeover Video: 5 Things Claude Can Do",
+      "summary": "Vertical motion graphics video with glitch and terminal aesthetics showcasing five capabilities of Claude, framed as an AI system takeover.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked claude opus 5.5 to make a creepy ass takeover video about 5 things it can do"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a creepy ass takeover video about 5 things it can do",
+        "englishText": "make a creepy ass takeover video about 5 things it can do",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full system instructions or chat prompts",
+          "creative coding / video framework code (e.g. Remotion, Canvas, or HTML/CSS)",
+          "audio generation or asset sourcing instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video displays a glitchy takeover countdown sequence covering five capabilities of Claude with stylized terminal text, animations, and sound effects.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "AI capability showcase takeover animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "glitch",
+          "ai-capabilities",
+          "animation"
+        ]
+      },
+      "targetModelRole": "Script generation and programmatic animation code authoring.",
+      "outputSource": "Video rendering engine / programmatic animation runner (unspecified).",
+      "divisionEvidence": "Author notes 'I asked claude opus 5.5 to make a creepy ass takeover video' and video states 'Just one prompt', without explicitly disclosing the underlying rendering stack.",
+      "video": {
+        "shots": "Multi-segment animated sequence with analog static and glitch cuts",
+        "duration": "00:41",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Showcases Claude Opus 5.5 applied to motion graphics video generation with full accompanying video, qualifying under reference-case policy despite incomplete prompt disclosure.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/forevertawl/status/2107730352353452332",
+        "start": 27,
+        "end": 84
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/forevertawl/status/2107730352353452332",
+        "author": "forevertawl",
+        "postId": "2107730352353452332",
+        "publishedAt": "2026-10-07T07:10:50.000Z"
+      },
+      "checkedAt": "2026-10-12T16:54:29.815Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/forevertawl/status/2107730352353452332",
+        "evidence": ""
+      }
+    },
+    "summary": "Vertical motion graphics video with glitch and terminal aesthetics showcasing five capabilities of Claude, framed as an AI system takeover.",
+    "summaryEn": "Creepy Takeover Video: 5 Things Claude Can Do",
+    "originalPrompt": "make a creepy ass takeover video about 5 things it can do",
+    "sourceRange": {
+      "start": 27,
+      "end": 84
+    },
+    "translations": {
+      "zh": "make a creepy ass takeover video about 5 things it can do",
+      "en": "make a creepy ass takeover video about 5 things it can do"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI capability showcase takeover animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full system instructions or chat prompts",
+        "creative coding / video framework code (e.g. Remotion, Canvas, or HTML/CSS)",
+        "audio generation or asset sourcing instructions"
+      ],
+      "evidence": "The video displays a glitchy takeover countdown sequence covering five capabilities of Claude with stylized terminal text, animations, and sound effects."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

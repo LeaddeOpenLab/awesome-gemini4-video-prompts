@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-12T09:20:30.068Z",
+  "model": "opus5.5",
+  "prompt": "Generate an explanatory, highly accessible educational video clip explaining optogenetics from yesterday's Nobel Prize: what it does, recent breakthroughs, significance, and direct applications. A minimalist didactic clip, 2-3 minutes max.",
+  "promptTranslations": {
+    "en": "Generate an explanatory, highly accessible educational video clip explaining optogenetics from yesterday's Nobel Prize: what it does, recent breakthroughs, significance, and direct applications. A minimalist didactic clip, 2-3 minutes max."
+  },
+  "summary": "Claude Opus 5.5 generated a multi-chapter animated scientific explainer on optogenetics from a concise prompt.",
+  "summaryEn": "Minimalist Optogenetics Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107478638501220672",
+    "canonicalUrl": "https://x.com/miguelgarciadev/status/2107478638501220672",
+    "author": {
+      "username": "miguelgarciadev",
+      "displayName": "Miguel García 👨‍💻🚀",
+      "profileUrl": "https://x.com/miguelgarciadev"
+    },
+    "publishedAt": "2026-10-06T14:30:37.000Z",
+    "collectedAt": "2026-10-11T16:27:50.879Z",
+    "language": "es",
+    "originalText": "Se me ocurrio probar de tiempos las nuevas capacidades de claude para videos y contenido didactico minimalista, y me ah creado esto en aprox 15 minutos: Opus 5.5 | effort-Alto. Las cinematicas, dinamicas y conceptos, de principio a fin, son todas creaciones de el. Claramente siempre habra pie a pulir, pero estoy volando con esto, recuerdo que hace unos meses, era unir varias piezas, distintas plataformas y skills y mcps, y esto tomaba al menos unas 2-3 horas, ahora se ha reducido a minutos. Para variar el prompt que le di, fue simple, preciso, medio escueto diria, y hasta con typos/errores en el texto: ''Generame un tipo explicativo de video didactico y altamente facil de entneder, que es la optogenetica del reciente nobel de ayer, que es lo que hace, que realmente se ah avanzado y porque es importante, aplicaciones directas en el mundo. un clip didactico, minimalista y facil de comprender. no debe durar mas de 2-3 minutos, tu evalua\". 🤯",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/miguelgarciadev/status/2107478638501220672",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107477165793021952/img/rLWBmgCjjptu6x5j.jpg",
+        "analysisUrl": "https://x.com/miguelgarciadev/status/2107478638501220672"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 26
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/miguelgarciadev/status/2107478638501220672",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107477165793021952/img/rLWBmgCjjptu6x5j.jpg",
+  "coverPath": "data/covers/2107478638501220672-wide.jpg",
+  "gifPath": "data/gifs/2107478638501220672.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2107477165793021952/vid/avc1/480x270/ecPHUHHG78QeW04T.mp4?tag=29",
+    "x-video:2107477165793021952",
+    "x-post:2107478638501220672"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Minimalist Optogenetics Explainer Video",
+      "summary": "Claude Opus 5.5 generated a multi-chapter animated scientific explainer on optogenetics from a concise prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 | effort-Alto"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Generame un tipo explicativo de video didactico y altamente facil de entneder, que es la optogenetica del reciente nobel de ayer, que es lo que hace, que realmente se ah avanzado y porque es importante, aplicaciones directas en el mundo. un clip didactico, minimalista y facil de comprender. no debe durar mas de 2-3 minutos, tu evalua",
+        "englishText": "Generate an explanatory, highly accessible educational video clip explaining optogenetics from yesterday's Nobel Prize: what it does, recent breakthroughs, significance, and direct applications. A minimalist didactic clip, 2-3 minutes max.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video presents structured 2D animated scenes covering the history, mechanism, and applications of optogenetics.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Science Explainer",
+        "topic": "explainers",
+        "tags": [
+          "optogenetics",
+          "biology",
+          "science",
+          "minimalist",
+          "motion-graphics"
+        ]
+      },
+      "targetModelRole": "Generated complete concept, animation sequence logic, and explanatory content.",
+      "outputSource": "Claude Opus 5.5 code execution",
+      "divisionEvidence": "Las cinematicas, dinamicas y conceptos, de principio a fin, son todas creaciones de el.",
+      "video": {
+        "shots": "Seven structured animated motion sections with diagrammatic visuals and captions.",
+        "duration": "2m 44s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video generation case with verified prompt and matching video artifact.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/miguelgarciadev/status/2107478638501220672",
+        "start": 612,
+        "end": 947
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/miguelgarciadev/status/2107478638501220672",
+        "author": "miguelgarciadev",
+        "postId": "2107478638501220672",
+        "publishedAt": "2026-10-06T14:30:37.000Z"
+      },
+      "checkedAt": "2026-10-12T07:57:38.250Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/miguelgarciadev/status/2107478638501220672",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a multi-chapter animated scientific explainer on optogenetics from a concise prompt.",
+    "summaryEn": "Minimalist Optogenetics Explainer Video",
+    "originalPrompt": "Generame un tipo explicativo de video didactico y altamente facil de entneder, que es la optogenetica del reciente nobel de ayer, que es lo que hace, que realmente se ah avanzado y porque es importante, aplicaciones directas en el mundo. un clip didactico, minimalista y facil de comprender. no debe durar mas de 2-3 minutos, tu evalua",
+    "sourceRange": {
+      "start": 612,
+      "end": 947
+    },
+    "translations": {
+      "zh": "Generame un tipo explicativo de video didactico y altamente facil de entneder, que es la optogenetica del reciente nobel de ayer, que es lo que hace, que realmente se ah avanzado y porque es importante, aplicaciones directas en el mundo. un clip didactico, minimalista y facil de comprender. no debe durar mas de 2-3 minutos, tu evalua",
+      "en": "Generate an explanatory, highly accessible educational video clip explaining optogenetics from yesterday's Nobel Prize: what it does, recent breakthroughs, significance, and direct applications. A minimalist didactic clip, 2-3 minutes max."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Science Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video presents structured 2D animated scenes covering the history, mechanism, and applications of optogenetics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

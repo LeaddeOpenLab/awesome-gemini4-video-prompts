@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:01.634Z",
+  "model": "opus5.5",
+  "prompt": "And while you're at it, make some videos for Rawnd.",
+  "promptTranslations": {
+    "en": "And while you're at it, make some videos for Rawnd."
+  },
+  "summary": "Mattbuilds shares a product promotional video created for the photo culling web app Rawnd using remaining weekly usage on Claude Opus 5.5.",
+  "summaryEn": "Rawnd App Promotional Motion Graphics Video with Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108511993955065948",
+    "canonicalUrl": "https://x.com/am56ay/status/2108511993955065948",
+    "author": {
+      "username": "am56ay",
+      "displayName": "Mattbuilds",
+      "profileUrl": "https://x.com/am56ay"
+    },
+    "publishedAt": "2026-10-09T10:56:48.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "en",
+    "originalText": "Good morning builders ☕\n\nYesterday was my Claude weekly reset.\n\nOpus 5.5 is surprisingly cheap compared to 5 when you scope things properly.\n\nStill had 40% of my weekly usage left.\n\nSo naturally, I went:\n\n\"Build me a massive new feature for Loudship.\"\n\n\"And while you're at it, make some videos for Rawnd.\"\n\nCan't let those tokens go to waste 😂\n\nAnyone else go crazy right before their weekly reset?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/am56ay/status/2108511993955065948",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108511820059189248/img/zsMF_-2yz9YERpU3.jpg",
+        "analysisUrl": "https://x.com/am56ay/status/2108511993955065948"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/am56ay/status/2108511993955065948",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108511820059189248/img/zsMF_-2yz9YERpU3.jpg",
+  "coverPath": "data/covers/2108511993955065948-wide.jpg",
+  "gifPath": "data/gifs/2108511993955065948.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108511820059189248/vid/avc1/480x270/ZR0WXy9rxwiraiUB.mp4?tag=29",
+    "x-video:2108511820059189248",
+    "x-post:2108511993955065948"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Rawnd App Promotional Motion Graphics Video with Claude Opus 5.5",
+      "summary": "Mattbuilds shares a product promotional video created for the photo culling web app Rawnd using remaining weekly usage on Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Yesterday was my Claude weekly reset. Opus 5.5 is surprisingly cheap compared to 5 when you scope things properly. Still had 40% of my weekly usage left. So naturally, I went: [...] 'And while you're at it, make some videos for Rawnd.'"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "And while you're at it, make some videos for Rawnd.",
+        "englishText": "And while you're at it, make some videos for Rawnd.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Animation engine or framework specifications (e.g., Remotion, Canvas, or HTML/CSS)",
+          "Motion graphics storyboard, scene timing, and kinetic typography directions",
+          "Asset references and UI mockup integrations for Rawnd"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video is a synchronized kinetic motion graphics explainer showcasing the features, UI, and culling workflow of the web application Rawnd.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "application brand assets and screenshots",
+          "description": "Logos, contact sheet preview imagery, and Rawnd web app interface UI assets featured throughout the video.",
+          "available": false,
+          "evidence": "Visual assets from Rawnd (filmstrip images, UI sliders, and logo mark) appear prominently in the rendered video.",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Product Explainer Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "product-demo",
+          "kinetic-typography",
+          "explainer",
+          "motion-design"
+        ]
+      },
+      "targetModelRole": "Generates the programmatic animation code or orchestrates video creation assets based on conversational instructions.",
+      "outputSource": "Video renderer or motion code execution engine (unspecified programmatic motion graphics tool).",
+      "divisionEvidence": "The author prompted Claude Opus 5.5 to 'make some videos for Rawnd', producing the final rendered motion graphics showcase.",
+      "video": {
+        "shots": "Multiple dynamic motion graphics scenes: title typography, contact sheet roll, keep/reject hotkey demo, in-browser RAW photo developing UI, value propositions, and closing logo card.",
+        "duration": "00:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates product explainer motion graphics video production directed by Claude Opus 5.5, with explicit model version confirmation from the creator.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/am56ay/status/2108511993955065948",
+        "start": 254,
+        "end": 305
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/am56ay/status/2108511993955065948",
+        "author": "am56ay",
+        "postId": "2108511993955065948",
+        "publishedAt": "2026-10-09T10:56:48.000Z"
+      },
+      "checkedAt": "2026-10-09T11:33:06.746Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/am56ay/status/2108511993955065948",
+        "evidence": ""
+      }
+    },
+    "summary": "Mattbuilds shares a product promotional video created for the photo culling web app Rawnd using remaining weekly usage on Claude Opus 5.5.",
+    "summaryEn": "Rawnd App Promotional Motion Graphics Video with Claude Opus 5.5",
+    "originalPrompt": "And while you're at it, make some videos for Rawnd.",
+    "sourceRange": {
+      "start": 254,
+      "end": 305
+    },
+    "translations": {
+      "zh": "And while you're at it, make some videos for Rawnd.",
+      "en": "And while you're at it, make some videos for Rawnd."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Product Explainer Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Animation engine or framework specifications (e.g., Remotion, Canvas, or HTML/CSS)",
+        "Motion graphics storyboard, scene timing, and kinetic typography directions",
+        "Asset references and UI mockup integrations for Rawnd"
+      ],
+      "evidence": "The attached video is a synchronized kinetic motion graphics explainer showcasing the features, UI, and culling workflow of the web application Rawnd."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

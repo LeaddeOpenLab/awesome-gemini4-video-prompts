@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T00:19:54.573Z",
+  "model": "opus5.5",
+  "prompt": "put Attack on Titan gear into Minecraft",
+  "promptTranslations": {
+    "en": "put Attack on Titan gear into Minecraft"
+  },
+  "summary": "The author shares gameplay footage of swinging through a pine forest at sunset using dual blades and grappling gear in Minecraft, created with guidance from Claude Opus 5.5 to configure grappling mods and shaders.",
+  "summaryEn": "Attack on Titan ODM Gear Setup in Minecraft",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108301605544047099",
+    "canonicalUrl": "https://x.com/0xDeniAi/status/2108301605544047099",
+    "author": {
+      "username": "0xDeniAi",
+      "displayName": "Deni",
+      "profileUrl": "https://x.com/0xDeniAi"
+    },
+    "publishedAt": "2026-10-08T21:00:47.000Z",
+    "collectedAt": "2026-10-09T20:12:14.516Z",
+    "language": "en",
+    "originalText": "OPUS 5.5,WHAT THE FUCK IS THIS...\n\ni asked it to put Attack on Titan gear into Minecraft and now i’m jumping off rooftops with two blades, hooking into pine trees and flying over a forest at sunset\n\nno titans yet, the forest is completely empty and somehow that makes it feel even more like the anime\n\nnext step is adding the titans, imagine swinging through the trees and seeing a 15 meter one walking toward your house\n\nor i could make the trees fall when you hook them and turn the whole forest into a death trap",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xDeniAi/status/2108301605544047099",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108301383510175744/img/pPmkJXyy5inrxvRb.jpg",
+        "analysisUrl": "https://x.com/0xDeniAi/status/2108301605544047099"
+      }
+    ],
+    "metrics": {
+      "likeCount": 930,
+      "repostCount": 39,
+      "replyCount": 39,
+      "quoteCount": 4,
+      "viewCount": 86964
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:backfill24h",
+      "group:opus:en:Latest:tasks:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/0xDeniAi/status/2108301605544047099",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108301383510175744/img/pPmkJXyy5inrxvRb.jpg",
+  "coverPath": "data/covers/2108301605544047099-wide.jpg",
+  "gifPath": "data/gifs/2108301605544047099.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108301383510175744",
+    "x-post:2108301605544047099"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Attack on Titan ODM Gear Setup in Minecraft",
+      "summary": "The author shares gameplay footage of swinging through a pine forest at sunset using dual blades and grappling gear in Minecraft, created with guidance from Claude Opus 5.5 to configure grappling mods and shaders.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "OPUS 5.5,WHAT THE FUCK IS THIS... i asked it to put Attack on Titan gear into Minecraft"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "put Attack on Titan gear into Minecraft",
+        "englishText": "put Attack on Titan gear into Minecraft",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete prompt conversation",
+          "specific mod installation prompts",
+          "shader configuration instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows first-person and third-person Minecraft gameplay swinging across a pine forest at sunset using grappling cables and dual blades, consistent with Attack on Titan omni-directional mobility gear. Note: verified on lower bitrate/resolution preview.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "game_assets",
+          "description": "Minecraft game client, grappling hook mod, and visual shader pack",
+          "available": false,
+          "evidence": "ask Claude to help you sset up a grappling mod and add shaders, that's half the fun",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/0xDeniAi/status/2108303094559932511"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Grappling Mod and Shaders",
+          "role": "Minecraft modification for cable swinging mechanics and sunset lighting shaders",
+          "evidence": "ask Claude to help you sset up a grappling mod and add shaders",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/0xDeniAi/status/2108303094559932511"
+        },
+        {
+          "name": "Minecraft",
+          "role": "Game engine rendering environment and gameplay platform",
+          "evidence": "i asked it to put Attack on Titan gear into Minecraft",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/0xDeniAi/status/2108301605544047099"
+        }
+      ],
+      "purpose": {
+        "label": "Attack on Titan ODM Gear in Minecraft",
+        "topic": "games-interactive",
+        "tags": [
+          "minecraft",
+          "attack-on-titan",
+          "gaming",
+          "modding",
+          "interactive",
+          "shaders"
+        ]
+      },
+      "targetModelRole": "Assisted the author in setting up, configuring, and troubleshooting the grappling mechanics mod and shader pack for Minecraft",
+      "outputSource": "Minecraft game engine running third-party mods and shaders",
+      "divisionEvidence": "Author thread states: 'you can build your own version, ask Claude to help you sset up a grappling mod and add shaders, that's half the fun'",
+      "video": {
+        "shots": "Single-take screen recording shifting between first-person and third-person perspectives during aerial swinging",
+        "duration": "37s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 3D gameplay scene and mechanics setup in Minecraft guided by Claude Opus 5.5, accompanied by full video gameplay evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0xDeniAi/status/2108301605544047099",
+        "start": 49,
+        "end": 88
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0xDeniAi/status/2108301605544047099",
+        "author": "0xDeniAi",
+        "postId": "2108301605544047099",
+        "publishedAt": "2026-10-08T21:00:47.000Z"
+      },
+      "checkedAt": "2026-10-09T17:45:54.532Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xDeniAi/status/2108301605544047099",
+        "evidence": ""
+      }
+    },
+    "summary": "The author shares gameplay footage of swinging through a pine forest at sunset using dual blades and grappling gear in Minecraft, created with guidance from Claude Opus 5.5 to configure grappling mods and shaders.",
+    "summaryEn": "Attack on Titan ODM Gear Setup in Minecraft",
+    "originalPrompt": "put Attack on Titan gear into Minecraft",
+    "sourceRange": {
+      "start": 49,
+      "end": 88
+    },
+    "translations": {
+      "zh": "put Attack on Titan gear into Minecraft",
+      "en": "put Attack on Titan gear into Minecraft"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Attack on Titan ODM Gear in Minecraft",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete prompt conversation",
+        "specific mod installation prompts",
+        "shader configuration instructions"
+      ],
+      "evidence": "The video shows first-person and third-person Minecraft gameplay swinging across a pine forest at sunset using grappling cables and dual blades, consistent with Attack on Titan omni-directional mobility gear. Note: verified on lower bitrate/resolution preview."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
