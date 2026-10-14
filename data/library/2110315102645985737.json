@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T11:20:14.221Z",
+  "model": "gemini4",
+  "prompt": "Create an app to model lamp shades that I can 3D print.",
+  "promptTranslations": {
+    "en": "Create an app to model lamp shades that I can 3D print."
+  },
+  "summary": "Gemini 4 Argon generated a single-file WebGL parametric lampshade CAD and slicer studio from a one-shot prompt.",
+  "summaryEn": "Parametric 3D-Printable Lampshade CAD Studio in HTML",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110315102645985737",
+    "canonicalUrl": "https://x.com/SeHozaifa/status/2110315102645985737",
+    "author": {
+      "username": "SeHozaifa",
+      "displayName": "Se Hozaifa",
+      "profileUrl": "https://x.com/SeHozaifa"
+    },
+    "publishedAt": "2026-10-14T10:21:42.000Z",
+    "collectedAt": "2026-10-14T11:13:27.464Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon just one-shotted a complete parametric 3D-printable Lampshade CAD & Slicer Studio inside a single HTML file.\n\nPrompt: \"Create an app to model lamp shades that I can 3D print.\"\n\nWhat Gemini 4 Argon built from scratch: \n\n• Real-time 3D parametric engine (pleats, helical twist, knurled lattices) \n• Live LED bulb subsurface glow + Kelvin warmth shader \n• Built-in E27, E14, IKEA & Bambu Lab LED Kit socket fitters \n• Overhang angle printability heatmap + filament weight estimator \n• 1-click watertight binary .STL & .OBJ export for Bambu Studio / Cura\n\nZero external libraries. Runs 100% in the browser 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SeHozaifa/status/2110315102645985737",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110311166992134145/img/6XOsibqZQGfzoCtU.jpg",
+        "analysisUrl": "https://x.com/SeHozaifa/status/2110315102645985737"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 214
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110326530836758636",
+        "text": "@shownotover Yes check!",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110322037671755943",
+        "text": "@rubenssoto_ai haha same bro, Gemini making us all want a 3D printer now",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110321798252495121",
+        "text": "@emaann28 Yes insane",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110321707034824872",
+        "text": "@yevloop Yeah, totally wild. Building a whole CAD tool like that in one file is crazy.",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110321550985728250",
+        "text": "@shownotover No Gemini app bro! 😭",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110317100862697497",
+        "text": "@SahilPanhotra Insane",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110317026350883238",
+        "text": "@Mr_Salio Yes crazy",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110316984890241289",
+        "text": "@shownotover Gemini app",
+        "author": "SeHozaifa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SeHozaifa/status/2110315290391413053",
+        "text": "Built as a single self-contained .html file no servers, no external CDNs.\n\nIf anyone wants the .html file to play with or print their own shade, drop a reply and I'll share it!",
+        "author": "SeHozaifa"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SeHozaifa/status/2110315102645985737",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110311166992134145/img/6XOsibqZQGfzoCtU.jpg",
+  "coverPath": "covers/2110315102645985737.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110311166992134145",
+    "x-post:2110315102645985737"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Parametric 3D-Printable Lampshade CAD Studio in HTML",
+      "summary": "Gemini 4 Argon generated a single-file WebGL parametric lampshade CAD and slicer studio from a one-shot prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Gemini app",
+        "authorUseConfirmed": true,
+        "evidence": "\"Gemini 4 Argon just one-shotted a complete parametric 3D-printable Lampshade CAD & Slicer Studio inside a single HTML file.\" and \"Gemini app\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create an app to model lamp shades that I can 3D print.",
+        "englishText": "Create an app to model lamp shades that I can 3D print.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen capture displays LuminaPrint 3D executing directly in a browser with interactive 3D presets, custom mesh parameters, heatmap analysis, and STL export.",
+        "textualResultQuote": "What Gemini 4 Argon built from scratch: \n\n• Real-time 3D parametric engine (pleats, helical twist, knurled lattices) \n• Live LED bulb subsurface glow + Kelvin warmth shader \n• Built-in E27, E14, IKEA & Bambu Lab LED Kit socket fitters \n• Overhang angle printability heatmap + filament weight estimator \n• 1-click watertight binary .STL & .OBJ export for Bambu Studio / Cura"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 / WebGL",
+          "role": "Execution runtime for the client-side 3D application",
+          "evidence": "\"inside a single HTML file... Zero external libraries. Runs 100% in the browser\"",
+          "sourceUrl": "https://x.com/SeHozaifa/status/2110315102645985737",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Parametric 3D CAD Studio",
+        "topic": "games-interactive",
+        "tags": [
+          "3d-printing",
+          "webgl",
+          "cad",
+          "creative-coding",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Gemini 4 authored the complete HTML, CSS, JavaScript, and WebGL code for the parametric CAD application.",
+      "outputSource": "Web browser executing the generated self-contained HTML file.",
+      "divisionEvidence": "\"Gemini 4 Argon just one-shotted a complete parametric 3D-printable Lampshade CAD & Slicer Studio inside a single HTML file.\"",
+      "video": {
+        "shots": "Single continuous UI interaction screen capture",
+        "duration": "0:45",
+        "aspectRatio": "2:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides author-verified Gemini 4 code generation producing an interactive 3D WebGL screen recording with a full original prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SeHozaifa/status/2110315102645985737",
+        "start": 134,
+        "end": 189
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SeHozaifa/status/2110315102645985737",
+        "author": "SeHozaifa",
+        "postId": "2110315102645985737",
+        "publishedAt": "2026-10-14T10:21:42.000Z"
+      },
+      "checkedAt": "2026-10-14T11:16:42.797Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a single-file WebGL parametric lampshade CAD and slicer studio from a one-shot prompt.",
+    "summaryEn": "Parametric 3D-Printable Lampshade CAD Studio in HTML",
+    "originalPrompt": "Create an app to model lamp shades that I can 3D print.",
+    "sourceRange": {
+      "start": 134,
+      "end": 189
+    },
+    "translations": {
+      "zh": "Create an app to model lamp shades that I can 3D print.",
+      "en": "Create an app to model lamp shades that I can 3D print."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Parametric 3D CAD Studio",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen capture displays LuminaPrint 3D executing directly in a browser with interactive 3D presets, custom mesh parameters, heatmap analysis, and STL export."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
