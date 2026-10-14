@@ -1,5 +1,7 @@
 # Awesome Gemini 4 (Argon / Veo / Omni) Video Prompts & Animation Workflows
 
+**More from Leadde Open Lab: [Awesome Opus 5.5 Video Prompts →](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts)**
+
 English · [简体中文](README.zh-CN.md)
 
 [![1000 prompts · Gemini 4 Argon · Leadde Open Lab](data/banner.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
