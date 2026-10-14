@@ -2,51 +2,46 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**5 source-verified real cases** · 41 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**0 source-verified real cases** · 5 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Parametric 3D-Printable Lampshade CAD Studio in HTML](../../../prompts/2110315102645985737.md)
+### [Realistic Earth Simulation with Moon, ISS, and Landmarks](../../../prompts/2110329492740657211.md)
 
-![Preview by @SeHozaifa](<../../covers/2110315102645985737.jpg>)
+![Preview by @badboyfoxy](<../../covers/2110329492740657211.jpg>)
 
-By @SeHozaifa · [source](<https://x.com/SeHozaifa/status/2110315102645985737>)
+By @badboyfoxy · [source](<https://x.com/badboyfoxy/status/2110329492740657211>)
 
-### [Taxtello 15-Second Premium Fintech Product Film in Remotion](../../../prompts/2110275966094454864.md)
+### [Gemini 4 Single-HTML Ecosystem Simulator](../../../prompts/2110276716870647921.md)
 
-![Preview by @daniel_haida](<../../covers/2110275966094454864.jpg>)
+![Preview by @sakashiiiii](<../../covers/2110276716870647921.jpg>)
 
-By @daniel_haida · [source](<https://x.com/daniel_haida/status/2110275966094454864>)
+By @sakashiiiii · [source](<https://x.com/sakashiiiii/status/2110276716870647921>)
 
-### [Interactive Gummy Bears 3D Simulation](../../../prompts/2110262410133246370.md)
+### [Browser Mario Game via Gemini 4 Argon](../../../prompts/2110268248411541904.md)
 
-![Preview by @Sadiya_50](<../../covers/2110262410133246370.jpg>)
+![Preview by @komorin_ai](<../../covers/2110268248411541904.jpg>)
 
-By @Sadiya_50 · [source](<https://x.com/Sadiya_50/status/2110262410133246370>)
+By @komorin_ai · [source](<https://x.com/komorin_ai/status/2110268248411541904>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 28
+- [canvas-interactive](../../categories/canvas-interactive.md) — 3
 - [manim](../../categories/manim.md) — 0
-- [remotion](../../categories/remotion.md) — 2
-- [blender](../../categories/blender.md) — 3
-- [external-video-model](../../categories/external-video-model.md) — 4
-- [other-animation](../../categories/other-animation.md) — 5
+- [remotion](../../categories/remotion.md) — 0
+- [blender](../../categories/blender.md) — 1
+- [external-video-model](../../categories/external-video-model.md) — 0
+- [other-animation](../../categories/other-animation.md) — 1
 
 ## Recently added
 
-- 2026-10-14 · [Parametric 3D-Printable Lampshade CAD Studio in HTML](../../../prompts/2110315102645985737.md)
-- 2026-10-14 · [Taxtello 15-Second Premium Fintech Product Film in Remotion](../../../prompts/2110275966094454864.md)
-- 2026-10-14 · [Interactive Gummy Bears 3D Simulation](../../../prompts/2110262410133246370.md)
-- 2026-10-14 · [Mumbai: The Living City 3D Urban Simulation](../../../prompts/2110240752517193761.md)
-- 2026-10-14 · [Tesla-Style Electric Motor 3D Explainer Comparison](../../../prompts/2110240496073462021.md)
-- 2026-10-14 · [Interactive Pelican Cycling SVG Animation](../../../prompts/2110226280855830863.md)
-- 2026-10-14 · [Pro-Dahi Protein Curd Launch Commercial](../../../prompts/2110221562108584381.md)
-- 2026-10-14 · [Gemini 4 Pelican Riding Bicycle SVG Animation](../../../prompts/2110216771508805847.md)
-- 2026-10-14 · [Gemini 4 Cyberpunk Vehicle Scene](../../../prompts/2110206524270555576.md)
-- 2026-10-14 · [Sun Wukong Havoc in Heaven Video](../../../prompts/2110200910970253507.md)
+- 2026-10-14 · [Realistic Earth Simulation with Moon, ISS, and Landmarks](../../../prompts/2110329492740657211.md)
+- 2026-10-14 · [Gemini 4 Single-HTML Ecosystem Simulator](../../../prompts/2110276716870647921.md)
+- 2026-10-14 · [Browser Mario Game via Gemini 4 Argon](../../../prompts/2110268248411541904.md)
+- 2026-10-14 · [Trezio App Motion Video](../../../prompts/2110261415915213121.md)
+- 2026-10-14 · [Interactive 3D Jelly Island Diorama in Three.js](../../../prompts/2110047989280670072.md)
 
 ## Review policy
 
