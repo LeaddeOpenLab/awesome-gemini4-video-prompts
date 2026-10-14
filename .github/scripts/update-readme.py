@@ -27,7 +27,7 @@ def cards(items,columns=3,prefix='',featured=False,zh=False):
  lines.append('</table>');return '\n'.join(lines)
 for zh in [False,True]:
  lines=['# '+REPOSITORY['title'],'','**More from Leadde Open Lab: [Awesome Opus 5.5 Video Prompts →](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts)**','',
-        ('[English](README.md) · 简体中文' if zh else 'English · [简体中文](README.zh-CN.md)'),'',
+        ('[English](README.md) · 简体中文 · [更多语言](data/docs/translations/)' if zh else 'English · [简体中文](data/docs/translations/README.zh-CN.md) · [More languages](data/docs/translations/)'),'',
         f'[![1000 prompts · Gemini 4 Argon · Leadde Open Lab](data/banner.svg)]({base})','',('**由 Leadde Open Lab 整理的 Gemini 4 Argon 创作、视频预览与公开提示词。**' if zh else '**Gemini 4 Argon creations, video previews and public prompts — curated by Leadde Open Lab.**'),'',
         f'**[{"打开在线作品集 →" if zh else "Open the web collection →"}]({base})** · English / 简体中文','',('**☆ Star 本仓库，为下一个项目收藏灵感。**' if zh else '**☆ Star this repo to keep your next creative starting point close.**'),'',
         f'{len(videos)} '+('条视频案例 · ' if zh else 'video creations · ')+str(sum(bool(v['prompt']) for v in videos))+(' 条公开提示词或模板 · 5 个分类。' if zh else ' public prompts or templates · 5 collections.'),'',('其余作品明确标注未公开提示词，保留作者原帖供参考。' if zh else 'Entries without a public prompt are labelled accordingly and retain the creator’s original post.'),'',('[精选作品](#featured-creations) · [从这里开始](#start-here) · [完整分类](#browse-the-full-library)' if zh else '[Featured creations](#featured-creations) · [Start here](#start-here) · [Browse the full library](#browse-the-full-library)'),'', '<a id="featured-creations"></a>', '## '+('精选作品' if zh else 'Featured creations'),'',('从 47 条公开提示词或模板中，结合点赞、评论、转发和可复用性选取。互动数据采集于 2026-10-14，随时间变化。' if zh else 'Selected from 47 public prompts or templates for engagement and reusability. Likes, replies and reposts checked on October 14, 2026; counts change over time.'),'',
@@ -42,8 +42,13 @@ for zh in [False,True]:
   lines+=['','## '+(cn if zh else en)+' — '+('首页选摘' if zh else 'homepage picks'),'',
         cards(group[:3],zh=zh),'',
         f'[{"浏览全部" if zh else "Browse all"} {len(group)} →](data/categories/{key}.md)']
- lines+=['','## '+('使用方法' if zh else 'How to use'),'','1. '+('打开案例，观看视频并阅读原帖。' if zh else 'Open a creation, watch the video and read the original post.'),'2. '+('复制作者公开的提示词，按需要替换主题、参考图和模板占位符。' if zh else 'Copy a public prompt and replace the subject, reference images or template placeholders.'),'3. '+('按作者要求准备工具与素材，预览并迭代结果。' if zh else 'Prepare the tools and inputs described by the creator, then preview and refine.'),'','## '+('作者与权利' if zh else 'Creators & rights'),'','Videos, prompts and quoted posts belong to their original creators. See [media rights](MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.','','[Catalog](data/videos.json) · [Selection notes](data/featured.json) · [Engagement snapshot](data/engagement.json)','']
- (ROOT/('README.zh-CN.md' if zh else 'README.md')).write_text('\n'.join(lines))
+ lines+=['','## '+('使用方法' if zh else 'How to use'),'','1. '+('打开案例，观看视频并阅读原帖。' if zh else 'Open a creation, watch the video and read the original post.'),'2. '+('复制作者公开的提示词，按需要替换主题、参考图和模板占位符。' if zh else 'Copy a public prompt and replace the subject, reference images or template placeholders.'),'3. '+('按作者要求准备工具与素材，预览并迭代结果。' if zh else 'Prepare the tools and inputs described by the creator, then preview and refine.'),'','## '+('作者与权利' if zh else 'Creators & rights'),'','Videos, prompts and quoted posts belong to their original creators. See [media rights](data/docs/MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.','','[Catalog](data/videos.json) · [Selection notes](data/featured.json) · [Engagement snapshot](data/engagement.json)','']
+ text='\n'.join(lines)
+ if zh:
+  # The Chinese edition lives three directories below the repository root.
+  text=re.sub(r'(\]\(|(?:href|src)=")([^"\s\)]+)',
+              lambda m: m.group(1)+(m.group(2) if m.group(2).startswith(('http:', 'https:', '#')) else '../../../'+m.group(2)),text)
+ (ROOT/('data/docs/translations/README.zh-CN.md' if zh else 'README.md')).write_text(text)
 folder=ROOT/'data/categories';folder.mkdir(exist_ok=True)
 for key,(en,cn) in CATEGORY_NAMES.items():
  group=[v for v in videos if v['category']==key]

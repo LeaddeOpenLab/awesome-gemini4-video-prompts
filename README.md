@@ -2,7 +2,7 @@
 
 **More from Leadde Open Lab: [Awesome Opus 5.5 Video Prompts →](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts)**
 
-English · [简体中文](README.zh-CN.md)
+English · [简体中文](data/docs/translations/README.zh-CN.md) · [More languages](data/docs/translations/)
 
 [![1000 prompts · Gemini 4 Argon · Leadde Open Lab](data/banner.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
 
@@ -136,6 +136,6 @@ Selected from 47 public prompts or templates for engagement and reusability. Lik
 
 ## Creators & rights
 
-Videos, prompts and quoted posts belong to their original creators. See [media rights](MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.
+Videos, prompts and quoted posts belong to their original creators. See [media rights](data/docs/MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.
 
 [Catalog](data/videos.json) · [Selection notes](data/featured.json) · [Engagement snapshot](data/engagement.json)
