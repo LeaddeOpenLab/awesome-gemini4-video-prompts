@@ -16,11 +16,7 @@
     "Motion graphics, explainers & 3D worlds.": "动态图形、讲解动画与三维世界。",
     "Selected by Leadde Open Lab.": "由 Leadde Open Lab 整理。",
     "IN THE COLLECTION": "精选作品",
-    "By @MandelDuck · Browser-based 3D": "作者 @MandelDuck · 浏览器三维作品",
-    "Read the Starry Night prompt": "查看《星夜》提示词",
-    "A Van Gogh-inspired 3D village under a swirling starry sky": "以梵高画作为灵感的三维村庄，天空中流动着星光",
     "Gemini 4 video & animation prompts": "Gemini 4 视频与动画提示词",
-    "9 selected examples · 3 collections": "9 个精选案例 · 3 个专题",
     "Original creators, always credited": "每个作品都注明原作者",
     "Selected work": "精选作品",
     "Find your next starting point.": "为下一次创作，找个起点。",
@@ -88,7 +84,6 @@
     "Published": "发布时间",
     "Our reproduction": "本站复现情况",
     "Not tested": "尚未复现",
-    "Claude Opus (version not confirmed)": "Claude Opus（版本未确认）",
     "A note before you start": "开始前了解一下",
     "Keep exploring": "继续探索",
     "More motion graphics.": "更多动态图形。",
@@ -131,130 +126,47 @@
     "Found this useful?": "觉得有用？",
     "☆ Star this repo for your next project ↗": "☆ 在 GitHub 收藏，下次做项目时再用 ↗",
     "Explore Gemini 4": "探索 Gemini 4",
-    "video prompts.": "视频提示词。"
+    "video prompts.": "视频提示词。",
+    "View creation →": "查看作品 →",
+    "View featured creation": "查看精选作品",
+    "Standout work. Ideas worth exploring.": "精彩作品，值得探索的创意。",
+    "Find your next creative direction.": "找到你的下一个创作方向。",
+    "294 creations · 5 collections": "294 个作品 · 5 个分类",
+    "Creator video · audio available": "作者原视频 · 可开启声音",
+    "Public shared prompt": "作者公开提示词",
+    "Shared prompt template": "作者公开模板",
+    "Prompt not published": "未公开提示词",
+    "Original post": "原始帖子",
+    "Prompt source ↗": "提示词来源 ↗",
+    "Explore every creation in our open collection.": "浏览作品集中的全部案例。",
+    "Post & details →": "原帖与详情 →",
+    "The creator did not publish an exact prompt in the reviewed sources. The original post is a description, not a reconstructed prompt.": "在已查阅的来源中，作者没有公开确切的提示词。下方原帖是作品描述，并非重建的提示词。",
+    "Motion graphics & explainers": "动画与科普",
+    "Gemini 4 motion graphics & explainers": "Gemini 4 动画与科普",
+    "3D scenes & physics": "3D 场景与物理",
+    "Gemini 4 3d scenes & physics": "Gemini 4 3D 场景与物理",
+    "Games & interactive experiences": "游戏与交互",
+    "Gemini 4 games & interactive experiences": "Gemini 4 游戏与交互",
+    "Model comparisons": "模型对比",
+    "Gemini 4 model comparisons": "Gemini 4 模型对比",
+    "Build walkthroughs & workflow demos": "制作过程与工作流演示",
+    "Gemini 4 build walkthroughs & workflow demos": "Gemini 4 制作过程与工作流演示",
+    "Island Jelly — Argon vs Opus": "果冻海岛：Argon 与 Opus 对比",
+    "A tactile island with waves, floating objects and a plush surfer. A detailed, self-contained Three.js prompt.": "可交互的果冻海岛、波浪和毛绒冲浪角色，提供完整的 Three.js 实现要求。",
+    "Voxel Mercedes AMG F1 Car": "体素 F1 赛车",
+    "A one-line starting point for a voxel vehicle. Swap the subject to explore a different product or vehicle.": "一句话制作体素赛车，可替换车型或产品主题。",
+    "Fourier Epicycles — Mona Lisa": "傅里叶圆周动画：蒙娜丽莎",
+    "A reusable reveal template: replace [thing], supply a style reference and synchronize a cinematic soundtrack.": "替换 [thing]、提供风格参考图，将傅里叶绘制动画与电影感音乐同步。",
+    "Voxel Dragon Flying over a Temple": "飞越神庙的体素巨龙",
+    "A compact character-and-environment brief. Change the creature, setting or visual style for a new scene.": "简短的角色与环境描述，可替换生物、场景或视觉风格。",
+    "Blender shrine": "Blender 神社",
+    "Generate a shrine with a Python script, materials, lighting and a camera, then export it as GLB.": "用 Python 脚本生成神社，配置材质、灯光和相机，再导出 GLB。",
+    "3D shooting game": "单文件 3D 射击游戏",
+    "A browser game with a warp intro, escalating enemies and a final boss, packaged in a single HTML file.": "单个 HTML 文件承载浏览器射击游戏，包含跃迁开场、递进敌人和最终 Boss。",
+    "FEATURED CREATION": "精选作品",
+    "Open an example. Watch the video and read the original post.": "打开案例，观看视频并阅读原始帖子。",
+    "Use a public prompt when available. Add your subject, audience and visual direction.": "有公开提示词时，结合你的主题、受众和视觉方向使用。"
   },
-  "categories": {
-    "motion-graphics": {
-      "title": "Gemini 4 动态图形提示词",
-      "intro": "动态文字、界面动效与小巧的动画细节。看看创作者用了哪些提示词，做出这些效果。",
-      "when": "当作品的重点是节奏、字体或循环动画时，可以从这个专题开始。用短片探索视觉方向，或用连续的界面动效演示产品交互。",
-      "before": "先确定画面比例、配色和交付格式。浏览器动画与导出的视频是不同的产物；部分提示词需要渲染工具、音频文件或准备好的编程环境。",
-      "short": "动态文字、界面循环与有节奏感的动画。"
-    },
-    "explainers": {
-      "title": "Gemini 4 讲解视频提示词",
-      "intro": "把业务想法或难懂的概念讲清楚。这里收录了 HTML 讲解动画、Manim 课程和用代码绘制的科学故事。",
-      "when": "当观众需要理解一个概念、一段流程或随时间发生的变化时，可以从这里开始。先想清楚希望观众学到什么，以及视频是做给谁看的。",
-      "before": "先审阅脚本，再制作动画。核对事实，确定语言、受众和是否需要配音。案例页会分别展示作者分享的提示词与我们建议的操作步骤。",
-      "short": "用一个个画面，讲清业务故事与知识概念。"
-    },
-    "3d-worlds": {
-      "title": "Gemini 4 三维世界与 Blender 提示词",
-      "intro": "探索浏览器中的三维世界，以及用 Blender 重建的历史街景。阅读原始创作要求，了解尝试所需的工具和背景。",
-      "when": "适合空间探索、环境叙事，以及镜头穿行于场景的作品。浏览器适合交互体验；Blender 则有独立的建模与渲染流程。",
-      "before": "先选运行环境，把场景规模控制在可完成的范围内。尽早测试镜头控制与性能。历史场景还需要资料考证，看起来可信并不代表有事实依据。",
-      "short": "从画中的小镇到历史街道，走进可以探索的空间。"
-    }
-  },
-  "cases": {
-    "2103449416325890146": {
-      "title": "一位动效设计师的作品短片",
-      "description": "十五秒的动态文字、形状变化与精准节奏，用 Remotion 渲染完成。",
-      "inputs": "可使用 Remotion 的编程环境。作者分享的提示词没有指定品牌素材或音频。",
-      "steps": [
-        "将作者的提示词复制到编程助手中，并明确要求使用 Remotion。",
-        "预览合成结果，在渲染前调整节奏、字体与转场。",
-        "使用 Remotion 导出 MP4。作者的作品可作参考，但不能保证一句提示词就能得到相同效果。"
-      ],
-      "note": "作者确认使用 Remotion 渲染。这段简短提示词将大部分美术方向交给了编程助手。"
-    },
-    "2103273003555402193": {
-      "title": "一个形状，变出整套界面",
-      "description": "按钮变成播放器、滑杆和图表，跟着节拍完成一段连续循环。",
-      "inputs": "8–12 种界面状态、配色方案，以及有权使用的音乐。提示词还要求使用 Playwright、NumPy 和 FFmpeg。",
-      "steps": [
-        "先选好界面状态、颜色和音乐。提示词会要求助手确认这些输入。",
-        "检查节拍安排，先渲染静态帧，再制作完整动画。",
-        "按提示词要求使用 Playwright 和 FFmpeg 渲染，检查首尾画面能否顺畅衔接。"
-      ],
-      "note": "这是一个需要多种工具配合的流程，渲染步骤比单个浏览器动画更复杂。"
-    },
-    "2102476258948927543": {
-      "title": "一点像素魔法",
-      "description": "用一个 HTML 文件画出会施法的像素巫师，无需外部素材。",
-      "inputs": "编程助手和浏览器。提示词明确要求不使用外部素材、依赖库或网络请求。",
-      "steps": [
-        "将提示词复制到编程助手中，请它将结果保存为 index.html。",
-        "在浏览器中打开文件，检查待机、蓄力、施法与恢复四种动画状态。",
-        "通过后续提示词调整配色或魔法效果，同时保持低分辨率的像素网格。"
-      ],
-      "note": "适合作为浏览器动画的入门练习。仓库将作者公开的内容标记为分享的提示词片段。"
-    },
-    "2103128559174971663": {
-      "title": "让导数看得见",
-      "description": "用 Manim 制作导数概念动画，再用 edge-tts 配上讲解。",
-      "inputs": "安装了 Manim 和 edge-tts 的 Python 环境，以及这些工具需要的系统依赖。",
-      "steps": [
-        "复制提示词，补充受众、讲解语言和期望时长。",
-        "请助手生成 Manim 场景与旁白脚本，先检查数学解释是否正确。",
-        "渲染场景，用 edge-tts 生成配音，再将声音与动画步骤对齐。"
-      ],
-      "note": "作者的原始提示词为中文，下方保留现有的英文译文。原作者预览包含中文旁白和文字。"
-    },
-    "2103499977632997524": {
-      "title": "五个场景，讲清你的业务",
-      "description": "用三十秒，从客户的问题讲到你的服务、流程与可信的证明。",
-      "inputs": "你卖什么、面向谁、品牌配色、一条证明业务价值的信息，以及业务名称。",
-      "steps": [
-        "将提示词方括号内的业务描述替换为自己的信息。",
-        "请编程助手将动画保存为一个 HTML 文件，然后在浏览器中预览。",
-        "检查五个场景，替换缺乏依据的表述。导出 MP4 需要另外录制或渲染。"
-      ],
-      "note": "来源提到 Claude Opus，但未确认版本。这段提示词生成的是网页动画，没有规定 MP4 导出流程。"
-    },
-    "2103629247751618782": {
-      "title": "跟随光子，从太阳出发",
-      "description": "一段绘本风格的科学讲解，用代码绘制画面，配上旁白和有趣的角色。",
-      "inputs": "JavaScript 动画与渲染环境，以及可用的配音和音频工具。提示词未指定具体音频工具。",
-      "steps": [
-        "读完创作要求，确认当前环境中有哪些配音、音乐与渲染工具。",
-        "渲染前检查脚本和科学估算，对不确定的数字保留说明。",
-        "制作场景并检查静态帧，在最终导出中核对字幕与音频时序。"
-      ],
-      "note": "这是一份要求较高的制作说明。工具条件和后续修改会影响一次能完成多少内容。"
-    },
-    "2103802923465768972": {
-      "title": "走进《星夜》里的小镇",
-      "description": "在梵高画作风格的三维小镇里漫步，寻找藏在其中的十二只猫。",
-      "inputs": "Claude Code 工作区和浏览器。作者提到，工作区之前的上下文可能影响了最终结果。",
-      "steps": [
-        "将作者的提示词复制到编程工作区，要求生成浏览器中的三维项目。",
-        "先确定移动方式、视觉方向和一个可游玩的小场景，再扩展小镇。",
-        "在本地运行项目，在浏览器中测试移动、物体摆放和找猫交互。"
-      ],
-      "note": "原始短提示词已公开，但作者之前的工作区上下文没有提供。来源未确认具体的三维渲染库。"
-    },
-    "2103194052850241739": {
-      "title": "一个适合漫游的世界",
-      "description": "巨大的建筑、远山与超现实遗迹，组成可在浏览器中探索的风景。",
-      "inputs": "编程工作区，以及能运行所选三维渲染器的浏览器。原始来源没有指定渲染器。",
-      "steps": [
-        "复制提示词，与编程助手一起确定浏览器三维渲染库。",
-        "先制作地形、一处地标和镜头移动，检查尺度与构图。",
-        "逐步增加环境细节，在场景中移动时留意运行性能。"
-      ],
-      "note": "作者提到制作花费了较长时间。这段分享的提示词没有涵盖所有制作步骤。"
-    },
-    "2102466523164274839": {
-      "title": "地震前的市场街",
-      "description": "依据历史资料，用 Blender 重建 1906 年旧金山的街景。",
-      "inputs": "Blender，以及历史地图、照片和影片等参考资料。提示词要求先研究资料，再开始建模。",
-      "steps": [
-        "按照提示词建立历史资料文件，为每栋建筑记录依据与不确定之处。",
-        "让助手编写 Blender Python 生成器，按照整理好的资料组装场景。",
-        "检查地标与镜头移动，再渲染要求的十秒街道漫游视频。"
-      ],
-      "note": "历史研究是任务的一部分。场景看起来合理，并不能证明历史细节准确。"
-    }
-  }
+  "categories": {},
+  "cases": {}
 }

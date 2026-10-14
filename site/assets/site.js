@@ -92,10 +92,11 @@ if (dialog) {
       dialog.dataset.title = button.dataset.title;
       dialog.querySelector("h2").textContent = t(button.dataset.title);
       const prompt = dialog.querySelector("#preview-prompt");
-      prompt.textContent = window.sitePrompts[button.dataset.promptId];
+      prompt.textContent = window.sitePrompts[button.dataset.promptId] || "";
       prompt.hidden = true;
       dialog.querySelector("[data-star-hint]").hidden = true;
       const copy = dialog.querySelector("[data-copy]");
+      copy.hidden = !window.sitePrompts[button.dataset.promptId];
       copy.dataset.promptId = button.dataset.promptId;
       copy.textContent = t("Copy prompt");
       video.dataset.promptId = button.dataset.promptId;

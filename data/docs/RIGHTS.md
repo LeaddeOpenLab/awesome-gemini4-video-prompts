@@ -1,5 +1,9 @@
-# Attribution, permissions and removal
+# Media rights and attribution
 
-Third-party prompts, screenshots, covers, videos, code excerpts and linked assets remain the property of their respective authors. No licence on this repository applies to these third-party materials. Public availability is not permission to reuse. Check the original source and obtain permission when needed. Repository-authored structure/code is distinct from curated source content.
+Original videos, creator prompts, quoted posts, music, brands, and depicted assets remain owned by their respective rights holders. Their inclusion here is not a transfer of ownership or a claim that they are MIT-licensed or free to reuse commercially.
 
-For corrections or removal, open an [issue](https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts/issues/new) with the case ID, source URL and requested change. Please do not post private documents or contact details publicly. Maintainers will verify the report and correct or remove affected content.
+The MIT license applies to this repository's original scripts and curation structure only. Every catalog entry links to its source and credits its author. Model and workflow attribution follows the creator's own statements, not independent access to their generation logs. Some recordings compare multiple models or demonstrate a mixed workflow; entry notes retain those distinctions.
+
+To request a correction, updated credit, or removal, [open an issue](https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts/issues/new) with the source URL and requested change. For externally hosted media, contact the media host as well when removal is needed.
+
+This repository is not affiliated with or endorsed by Google.

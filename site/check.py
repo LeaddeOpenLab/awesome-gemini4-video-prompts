@@ -45,7 +45,7 @@ if len(canonicals)!=len(set(canonicals)):errors.append('Duplicate canonicals')
 xml=ET.parse(OUT/'sitemap.xml')
 locations=[e.text for e in xml.findall('.//{*}loc')]
 if set(locations)!=set(canonicals):errors.append('Sitemap does not match indexable pages')
-for case in json.loads((ROOT/'site/selection.json').read_text()):
+for case in json.loads((ROOT/'data/videos.json').read_text()):
     if not (ROOT/'prompts'/(case['id']+'.md')).is_file():errors.append('Missing repository prompt '+case['id'])
 if errors:raise SystemExit('\n'.join(errors))
 print(f'PASS: {len(pages)} HTML pages, {len(locations)} sitemap entries, metadata, local assets, links and anchors.')

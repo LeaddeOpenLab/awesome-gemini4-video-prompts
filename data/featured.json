@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2110047989280670072",
+    "title": "Island Jelly — Argon vs Opus",
+    "titleZh": "果冻海岛：Argon 与 Opus 对比",
+    "tool": "Three.js",
+    "description": "A tactile island with waves, floating objects and a plush surfer. A detailed, self-contained Three.js prompt.",
+    "descriptionZh": "可交互的果冻海岛、波浪和毛绒冲浪角色，提供完整的 Three.js 实现要求。",
+    "reason": "Highest engagement among the 47 public prompts. Detailed scene, UI, physics and single-file requirements can be adapted to other interactive dioramas.",
+    "reasonZh": "47 条公开提示词中互动最高；场景、交互、物理和单文件要求完整，可替换为其他微缩景观。",
+    "inputs": "A static web server and browser. The prompt loads Three.js and fonts from public CDNs. The video compares multiple models; only the labelled Argon output belongs to Gemini 4."
+  },
+  {
+    "id": "2110048102321365205",
+    "title": "Voxel Mercedes AMG F1 Car",
+    "titleZh": "体素 F1 赛车",
+    "tool": "Voxel art",
+    "description": "A one-line starting point for a voxel vehicle. Swap the subject to explore a different product or vehicle.",
+    "descriptionZh": "一句话制作体素赛车，可替换车型或产品主题。",
+    "reason": "Second-highest interaction total. Clear subject and visual style; easy to reuse by changing the vehicle.",
+    "reasonZh": "互动总量第二；主题和视觉风格明确，替换车型即可复用。",
+    "inputs": "A coding workspace. The creator used Gemini 4 Argon High in Antigravity; the short prompt does not specify a renderer."
+  },
+  {
+    "id": "2110045963951956250",
+    "title": "Fourier Epicycles — Mona Lisa",
+    "titleZh": "傅里叶圆周动画：蒙娜丽莎",
+    "tool": "Fourier · Lyria 3.5",
+    "description": "A reusable reveal template: replace [thing], supply a style reference and synchronize a cinematic soundtrack.",
+    "descriptionZh": "替换 [thing]、提供风格参考图，将傅里叶绘制动画与电影感音乐同步。",
+    "reason": "Third-highest interaction total and 86 bookmarks. An explicit subject placeholder makes this a reusable animation template.",
+    "reasonZh": "互动总量第三、86 次收藏；带有明确的主题占位符，适合反复使用。",
+    "inputs": "A subject and style-reference image, plus Lyria 3.5 for the soundtrack as requested by the creator. The exact original reference image is not supplied in the prompt text."
+  },
+  {
+    "id": "2110045402544341180",
+    "title": "Voxel Dragon Flying over a Temple",
+    "titleZh": "飞越神庙的体素巨龙",
+    "tool": "Voxel art",
+    "description": "A compact character-and-environment brief. Change the creature, setting or visual style for a new scene.",
+    "descriptionZh": "简短的角色与环境描述，可替换生物、场景或视觉风格。",
+    "reason": "Fourth-highest interaction total. The creature + action + environment structure is easy to adapt.",
+    "reasonZh": "互动总量第四；生物、动作、环境的结构清晰，便于替换。",
+    "inputs": "A coding workspace. Choose the renderer and output format in a follow-up; the creator’s prompt only specifies the scene and voxel style."
+  },
+  {
+    "id": "2110115515331129364",
+    "title": "Blender shrine",
+    "titleZh": "Blender 神社",
+    "tool": "Blender 5.x",
+    "description": "Generate a shrine with a Python script, materials, lighting and a camera, then export it as GLB.",
+    "descriptionZh": "用 Python 脚本生成神社，配置材质、灯光和相机，再导出 GLB。",
+    "reason": "96 likes, 15 reposts and 38 bookmarks. Specifies standard Blender APIs, procedural assets and GLB export; reusable for other architectural scenes.",
+    "reasonZh": "96 赞、15 转发、38 收藏；明确标准 API、程序化建模和 GLB 输出，可复用到建筑场景。",
+    "inputs": "Blender 5.x with Python scripting. The public prompt is in Japanese and uses only Blender’s standard API."
+  },
+  {
+    "id": "2110119580207337739",
+    "title": "3D shooting game",
+    "titleZh": "单文件 3D 射击游戏",
+    "tool": "HTML · CSS · JavaScript",
+    "description": "A browser game with a warp intro, escalating enemies and a final boss, packaged in a single HTML file.",
+    "descriptionZh": "单个 HTML 文件承载浏览器射击游戏，包含跃迁开场、递进敌人和最终 Boss。",
+    "reason": "56 likes and 10 reposts. Clear single-file delivery, browser runtime and one-minute progression make this an accessible reusable game brief.",
+    "reasonZh": "56 赞、10 转发；交付格式、运行环境和一分钟流程清晰，适合作为游戏模板。",
+    "inputs": "A coding workspace and a browser. The Japanese prompt asks for HTML, CSS and JavaScript combined into one HTML file."
+  }
+]

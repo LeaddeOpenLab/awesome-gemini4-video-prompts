@@ -1,372 +1,139 @@
 # Awesome Gemini 4 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261013-180152-collection.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
+English · [简体中文](README.zh-CN.md)
 
-**Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
+[![1000 prompts · Gemini 4 Argon · Leadde Open Lab](data/banner.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
 
-**☆ Star this repo to keep the prompts handy for your next project.**
+**Gemini 4 Argon creations, video previews and public prompts — curated by Leadde Open Lab.**
 
-**[Open the web collection →](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
+**[Open the web collection →](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)** · English / 简体中文
 
-[Motion graphics](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/collections/motion-graphics/) · [Explainers](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/collections/explainers/) · [3D worlds](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/collections/3d-worlds/)
+**☆ Star this repo to keep your next creative starting point close.**
 
-[Browse the full repository](#browse-the-full-library) · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
+294 video creations · 47 public prompts or templates · 5 collections.
 
+Entries without a public prompt are labelled accordingly and retain the creator’s original post.
+
+[Featured creations](#featured-creations) · [Start here](#start-here) · [Browse the full library](#browse-the-full-library)
+
+<a id="featured-creations"></a>
 ## Featured creations
 
-Read the prompt here on GitHub, or watch the preview and check setup notes on the website.
+Selected from 47 public prompts or templates for engagement and reusability. Likes, replies and reposts checked on October 14, 2026; counts change over time.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/remotion-motion-design-showreel/"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
-<strong>Motion Designer Résumé Showreel and Remotion</strong><br>
-
-<sub><a href="prompts/2103449416325890146.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/remotion-motion-design-showreel/">Watch preview · Website ↗</a> · <a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/starry-night-3d-cats-prompt/"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
-<strong>Vincent's Cats: 3D Starry Night Game</strong><br>
-
-<sub><a href="prompts/2103802923465768972.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/starry-night-3d-cats-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a></sub>
-</td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110047989280670072/"><img src="https://media.skillry.dev/gemini-4-argon/2110047989280670072/preview.140aea1f9927.webp" alt="Island Jelly — Argon vs Opus" width="100%" /></a><br><strong>Island Jelly — Argon vs Opus</strong><br><sub><a href="prompts/2110047989280670072.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110047989280670072/">Watch preview</a> · <a href="https://x.com/Adidotdev/status/2110047989280670072">@Adidotdev ↗</a></sub><br><sub>♥ 339 · 31 replies · 19 reposts</sub><br><sub>Highest engagement among the 47 public prompts. Detailed scene, UI, physics and single-file requirements can be adapted to other interactive dioramas.</sub></td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110048102321365205/"><img src="https://media.skillry.dev/gemini-4-argon/2110048102321365205/preview.f72625e81a56.webp" alt="Voxel Mercedes AMG F1 Car" width="100%" /></a><br><strong>Voxel Mercedes AMG F1 Car</strong><br><sub><a href="prompts/2110048102321365205.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110048102321365205/">Watch preview</a> · <a href="https://x.com/HarshithLucky3/status/2110048102321365205">@HarshithLucky3 ↗</a></sub><br><sub>♥ 207 · 18 replies · 8 reposts</sub><br><sub>Second-highest interaction total. Clear subject and visual style; easy to reuse by changing the vehicle.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/looping-ui-motion-prompt/"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
-<strong>Code-Driven Looping UI Motion Graphics</strong><br>
-
-<sub><a href="prompts/2103273003555402193.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/looping-ui-motion-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>
-<strong>Opus 5.5 and Manim Educational Video Explaining Derivatives</strong><br>
-
-<sub><a href="prompts/2103128559174971663.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/manim-derivatives-explainer/">Watch preview · Website ↗</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a></sub>
-</td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045963951956250/"><img src="https://media.skillry.dev/gemini-4-argon/2110045963951956250/preview.3a575068f054.webp" alt="Fourier Epicycles — Mona Lisa" width="100%" /></a><br><strong>Fourier Epicycles — Mona Lisa</strong><br><sub><a href="prompts/2110045963951956250.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045963951956250/">Watch preview</a> · <a href="https://x.com/fofrAI/status/2110045963951956250">@fofrAI ↗</a></sub><br><sub>♥ 174 · 9 replies · 10 reposts</sub><br><sub>Third-highest interaction total and 86 bookmarks. An explicit subject placeholder makes this a reusable animation template.</sub></td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045402544341180/"><img src="https://media.skillry.dev/gemini-4-argon/2110045402544341180/preview.f6f10b0659a2.webp" alt="Voxel Dragon Flying over a Temple" width="100%" /></a><br><strong>Voxel Dragon Flying over a Temple</strong><br><sub><a href="prompts/2110045402544341180.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045402544341180/">Watch preview</a> · <a href="https://x.com/HarshithLucky3/status/2110045402544341180">@HarshithLucky3 ↗</a></sub><br><sub>♥ 163 · 21 replies · 3 reposts</sub><br><sub>Fourth-highest interaction total. The creature + action + environment structure is easy to adapt.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/blender-1906-san-francisco/"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
-<strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
-
-<sub><a href="prompts/2102466523164274839.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/blender-1906-san-francisco/">Watch preview · Website ↗</a> · <a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
-<strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
-
-<sub><a href="prompts/2102476258948927543.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/pixel-art-wizard-html-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a></sub>
-</td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110115515331129364/"><img src="https://media.skillry.dev/gemini-4-argon/2110115515331129364/preview.531fa2b7461b.webp" alt="Blender shrine" width="100%" /></a><br><strong>Blender shrine</strong><br><sub><a href="prompts/2110115515331129364.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110115515331129364/">Watch preview</a> · <a href="https://x.com/npaka123/status/2110115515331129364">@npaka123 ↗</a></sub><br><sub>♥ 96 · 0 replies · 15 reposts</sub><br><sub>96 likes, 15 reposts and 38 bookmarks. Specifies standard Blender APIs, procedural assets and GLB export; reusable for other architectural scenes.</sub></td>
+<td width="50%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110119580207337739/"><img src="https://media.skillry.dev/gemini-4-argon/2110119580207337739/preview.8b5dee43aedb.webp" alt="3D shooting game" width="100%" /></a><br><strong>3D shooting game</strong><br><sub><a href="prompts/2110119580207337739.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110119580207337739/">Watch preview</a> · <a href="https://x.com/npaka123/status/2110119580207337739">@npaka123 ↗</a></sub><br><sub>♥ 56 · 0 replies · 10 reposts</sub><br><sub>56 likes and 10 reposts. Clear single-file delivery, browser runtime and one-minute progression make this an accessible reusable game brief.</sub></td>
 </tr>
 </table>
 
-
+<a id="start-here"></a>
 ## Start here
 
-Pick a result to try. Setup instructions are on each prompt page; these examples have not been reproduced by this repository.
-
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Easiest start: pixel-art wizard" width="100%" /></a><br>
-<strong>Easiest start: pixel-art wizard</strong><br>
-<sub>Copy the prompt, save one HTML file, and open it in your browser. No external assets.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/pixel-art-wizard-html-prompt/">Copy prompt &amp; setup →</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/business-explainer-html-prompt/"><img src="data/gifs/2103499977632997524.gif" alt="Your product: a 30-second business explainer" width="100%" /></a><br>
-<strong>Your product: a 30-second business explainer</strong><br>
-<sub>Replace the business description and brand colors, then preview the HTML animation.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/business-explainer-html-prompt/">Copy prompt &amp; setup →</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
-<strong>Teach a concept: derivatives with Manim</strong><br>
-<sub>Generate a narrated lesson with Manim and edge-tts. Python setup required.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/manim-derivatives-explainer/">Copy prompt &amp; setup →</a>
-</td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110048102321365205/"><img src="https://media.skillry.dev/gemini-4-argon/2110048102321365205/preview.f72625e81a56.webp" alt="Voxel Mercedes AMG F1 Car" width="100%" /></a><br><strong>Voxel Mercedes AMG F1 Car</strong><br><sub><a href="prompts/2110048102321365205.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110048102321365205/">Watch preview</a> · <a href="https://x.com/HarshithLucky3/status/2110048102321365205">@HarshithLucky3 ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045963951956250/"><img src="https://media.skillry.dev/gemini-4-argon/2110045963951956250/preview.3a575068f054.webp" alt="Fourier Epicycles — Mona Lisa" width="100%" /></a><br><strong>Fourier Epicycles — Mona Lisa</strong><br><sub><a href="prompts/2110045963951956250.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110045963951956250/">Watch preview</a> · <a href="https://x.com/fofrAI/status/2110045963951956250">@fofrAI ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110119580207337739/"><img src="https://media.skillry.dev/gemini-4-argon/2110119580207337739/preview.8b5dee43aedb.webp" alt="3D shooting game" width="100%" /></a><br><strong>3D shooting game</strong><br><sub><a href="prompts/2110119580207337739.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110119580207337739/">Watch preview</a> · <a href="https://x.com/npaka123/status/2110119580207337739">@npaka123 ↗</a></sub></td>
 </tr>
 </table>
-
 
 ## Recently added
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2110057151171338656.md"><img src="data/gifs/2110057151171338656.gif" alt="Interactive 3D Snow Globe Comparison" width="100%" /></a><br>
-<strong>Interactive 3D Snow Globe Comparison</strong><br>
-
-<sub><a href="https://x.com/shmopixbzn/status/2110057151171338656">Original post ↗</a> · <a href="prompts/2110057151171338656.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2110038361062723704.md"><img src="data/gifs/2110038361062723704.gif" alt="Paper Rapids: Sunlit Creek Run and Canvas Promo Trailer" width="100%" /></a><br>
-<strong>Paper Rapids: Sunlit Creek Run and Canvas Promo Trailer</strong><br>
-
-<sub><a href="https://x.com/jeffbruchado/status/2110038361062723704">Original post ↗</a> · <a href="prompts/2110038361062723704.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2110036224320884998.md"><img src="data/gifs/2110036224320884998.gif" alt="Floor Plan to Interactive 3D Walkthrough via Three.js" width="100%" /></a><br>
-<strong>Floor Plan to Interactive 3D Walkthrough via Three.js</strong><br>
-
-<sub><a href="https://x.com/everestchris6/status/2110036224320884998">Original post ↗</a> · <a href="prompts/2110036224320884998.md">Prompt ↗</a></sub>
-</td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110178222524731701/"><img src="https://media.skillry.dev/gemini-4-argon/2110178222524731701/preview.00c4a792dea5.webp" alt="Fushimi Inari Shrine in Blender" width="100%" /></a><br><strong>Fushimi Inari Shrine in Blender</strong><br><sub><a href="prompts/2110178222524731701.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110178222524731701/">Watch preview</a> · <a href="https://x.com/ai_prompt1/status/2110178222524731701">@ai_prompt1 ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110177611058196956/"><img src="https://media.skillry.dev/gemini-4-argon/2110177611058196956/preview.140243ffa801.webp" alt="Bass Forge 4 — audio-reactive visualizer" width="100%" /></a><br><strong>Bass Forge 4 — audio-reactive visualizer</strong><br><sub><a href="prompts/2110177611058196956.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110177611058196956/">Watch preview</a> · <a href="https://x.com/bennash/status/2110177611058196956">@bennash ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110177575825821842/"><img src="https://media.skillry.dev/gemini-4-argon/2110177575825821842/preview.884ecce470b0.webp" alt="Venice flood simulation comparison" width="100%" /></a><br><strong>Venice flood simulation comparison</strong><br><sub><a href="prompts/2110177575825821842.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110177575825821842/">Watch preview</a> · <a href="https://x.com/Fanfulladev/status/2110177575825821842">@Fanfulladev ↗</a></sub></td>
 </tr>
 </table>
 
+<a id="browse-the-full-library"></a>
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (84)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (226)
-- [UI & Web Animation](data/categories/ui-web.md) (17)
-- [Explainers & Education](data/categories/explainers.md) (83)
-- [Music & Storytelling](data/categories/music-storytelling.md) (31)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (93)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (84)
+- [Motion graphics & explainers](data/categories/motion.md) (65)
+- [3D scenes & physics](data/categories/3d.md) (76)
+- [Games & interactive experiences](data/categories/interactive.md) (84)
+- [Model comparisons](data/categories/comparison.md) (43)
+- [Build walkthroughs & workflow demos](data/categories/workflow.md) (26)
 
-30 homepage picks · Original creator links on every card.
-
-## Product & Brand Videos — homepage picks
+## Motion graphics & explainers — homepage picks
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2103846311149936736.md"><img src="data/gifs/2103846311149936736.gif" alt="Product Promo Video Generation Prompt" width="100%" /></a><br>
-<strong>Product Promo Video Generation</strong><br>
-
-<sub><a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="prompts/2103846311149936736.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2102554209166000267.md"><img src="data/gifs/2102554209166000267.gif" alt="Code-Driven Motion Design Video Prompt" width="100%" /></a><br>
-<strong>Code-Driven Motion Design Video</strong><br>
-
-<sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="prompts/2102554209166000267.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103835273813496100.md"><img src="data/gifs/2103835273813496100.gif" alt="Code-Based Apple-Style Keynote Motion Design Prompt" width="100%" /></a><br>
-<strong>Code-Based Apple-Style Keynote Motion Design</strong><br>
-
-<sub><a href="https://x.com/twoclipping/status/2103835273813496100">Original post ↗</a> · <a href="prompts/2103835273813496100.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2103746736980378066.md"><img src="data/gifs/2103746736980378066.gif" alt="Opus 5.5 Ad Inspired by Apple 1984" width="100%" /></a><br>
-<strong>Opus 5.5 Ad Inspired by Apple 1984</strong><br>
-
-<sub><a href="https://x.com/1littlecoder/status/2103746736980378066">Original post ↗</a> · <a href="prompts/2103746736980378066.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103845264649761062.md"><img src="data/gifs/2103845264649761062.gif" alt="Remotion Product Intro Prompt" width="100%" /></a><br>
-<strong>Remotion Product Intro</strong><br>
-
-<sub><a href="https://x.com/HO_BA/status/2103845264649761062">Original post ↗</a> · <a href="prompts/2103845264649761062.md">Prompt ↗</a></sub>
-</td><td></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037855452180633/"><img src="https://media.skillry.dev/gemini-4-argon/2110037855452180633/preview.7944c1862d6e.webp" alt="534 Code Paintings" width="100%" /></a><br><strong>534 Code Paintings</strong><br><sub><a href="prompts/2110037855452180633.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037855452180633/">Watch preview</a> · <a href="https://x.com/kickingkeys/status/2110037855452180633">@kickingkeys ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037859969491186/"><img src="https://media.skillry.dev/gemini-4-argon/2110037859969491186/preview.64bcded4847b.webp" alt="The Architect of Paper and Light" width="100%" /></a><br><strong>The Architect of Paper and Light</strong><br><sub><a href="prompts/2110037859969491186.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037859969491186/">Watch preview</a> · <a href="https://x.com/LexnLin/status/2110037859969491186">@LexnLin ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038198877552800/"><img src="https://media.skillry.dev/gemini-4-argon/2110038198877552800/preview.6748b983fe30.webp" alt="Code-Generated Interface Animation" width="100%" /></a><br><strong>Code-Generated Interface Animation</strong><br><sub><a href="prompts/2110038198877552800.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038198877552800/">Watch preview</a> · <a href="https://x.com/YuanA41755085/status/2110038198877552800">@YuanA41755085 ↗</a></sub></td>
 </tr>
 </table>
 
-[Browse all 84 product & brand videos →](data/categories/product-brand.md)
+[Browse all 65 →](data/categories/motion.md)
 
-## Motion Graphics & Typography — homepage picks
+## 3D scenes & physics — homepage picks
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2103129343253778767.md"><img src="data/gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="100%" /></a><br>
-<strong>Infinite Zoom Vintage Collage Animation</strong><br>
-
-<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103801834930606193.md"><img src="data/gifs/2103801834930606193.gif" alt="Spotify-Themed Motion Design Prompt" width="100%" /></a><br>
-<strong>Spotify-Themed Motion Design</strong><br>
-
-<sub><a href="https://x.com/brainextends/status/2103801834930606193">Original post ↗</a> · <a href="prompts/2103801834930606193.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103124033365762215.md"><img src="data/gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="100%" /></a><br>
-<strong>Four Seasons Train Window Animation</strong><br>
-
-<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
-</td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037856588845536/"><img src="https://media.skillry.dev/gemini-4-argon/2110037856588845536/preview.fb11ce46a2bc.webp" alt="Procedural Three.js Alpine Town" width="100%" /></a><br><strong>Procedural Three.js Alpine Town</strong><br><sub><a href="prompts/2110037856588845536.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037856588845536/">Watch preview</a> · <a href="https://x.com/LexnLin/status/2110037856588845536">@LexnLin ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037860623794266/"><img src="https://media.skillry.dev/gemini-4-argon/2110037860623794266/preview.f49459599a82.webp" alt="Japanese Pagoda — Google Demo Clip" width="100%" /></a><br><strong>Japanese Pagoda — Google Demo Clip</strong><br><sub><a href="prompts/2110037860623794266.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037860623794266/">Watch preview</a> · <a href="https://x.com/LexnLin/status/2110037860623794266">@LexnLin ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038238572515441/"><img src="https://media.skillry.dev/gemini-4-argon/2110038238572515441/preview.72b5d5065ec5.webp" alt="Jelly Koi Pond" width="100%" /></a><br><strong>Jelly Koi Pond</strong><br><sub><a href="prompts/2110038238572515441.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038238572515441/">Watch preview</a> · <a href="https://x.com/TimJayas/status/2110038238572515441">@TimJayas ↗</a></sub></td>
 </tr>
 </table>
 
-[Browse all 226 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 76 →](data/categories/3d.md)
 
-## UI & Web Animation — homepage picks
+## Games & interactive experiences — homepage picks
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2104471436039803295.md"><img src="data/gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="100%" /></a><br>
-<strong>Three.js 15s 3D Motion Graphics</strong><br>
-
-<sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="prompts/2104471436039803295.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103820321673675031.md"><img src="data/gifs/2103820321673675031.gif" alt="Auren Header Scroll-Scrubbed Hero Section" width="100%" /></a><br>
-<strong>Auren Header Scroll-Scrubbed Hero Section</strong><br>
-
-<sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="prompts/2103820321673675031.md">Prompt ↗</a></sub>
-</td><td></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037859294159072/"><img src="https://media.skillry.dev/gemini-4-argon/2110037859294159072/preview.96f63cc8ab4f.webp" alt="Animated Personal Website" width="100%" /></a><br><strong>Animated Personal Website</strong><br><sub><a href="prompts/2110037859294159072.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110037859294159072/">Watch preview</a> · <a href="https://x.com/LexnLin/status/2110037859294159072">@LexnLin ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039176662122771/"><img src="https://media.skillry.dev/gemini-4-argon/2110039176662122771/preview.48fb7eef3b75.webp" alt="Post Delivery Game with 2D Shaders" width="100%" /></a><br><strong>Post Delivery Game with 2D Shaders</strong><br><sub><a href="prompts/2110039176662122771.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039176662122771/">Watch preview</a> · <a href="https://x.com/jerrod_lew/status/2110039176662122771">@jerrod_lew ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039866788507709/"><img src="https://media.skillry.dev/gemini-4-argon/2110039866788507709/preview.f3d6a7e8907a.webp" alt="Generate a Personalized Retro Arcade Game" width="100%" /></a><br><strong>Generate a Personalized Retro Arcade Game</strong><br><sub><a href="prompts/2110039866788507709.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039866788507709/">Watch preview</a> · <a href="https://x.com/GoogleAI/status/2110039866788507709">@GoogleAI ↗</a></sub></td>
 </tr>
 </table>
 
-[Browse all 17 ui & web animation →](data/categories/ui-web.md)
+[Browse all 84 →](data/categories/interactive.md)
 
-## Explainers & Education — homepage picks
+## Model comparisons — homepage picks
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2103688362960019567.md"><img src="data/gifs/2103688362960019567.gif" alt="Recursion Explanation Video Prompt" width="100%" /></a><br>
-<strong>Recursion Explanation Video</strong><br>
-
-<sub><a href="https://x.com/emollick/status/2103688362960019567">Original post ↗</a> · <a href="prompts/2103688362960019567.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103678647777230877.md"><img src="data/gifs/2103678647777230877.gif" alt="Japan Summer Weather Visualization" width="100%" /></a><br>
-<strong>Japan Summer Weather Visualization</strong><br>
-
-<sub><a href="https://x.com/GroundControl/status/2103678647777230877">Original post ↗</a> · <a href="prompts/2103678647777230877.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103629247751618782.md"><img src="data/gifs/2103629247751618782.gif" alt="Photon Journey Explainer Animation" width="100%" /></a><br>
-<strong>Photon Journey Explainer Animation</strong><br>
-
-<sub><a href="https://x.com/AstroTheWizard/status/2103629247751618782">Original post ↗</a> · <a href="prompts/2103629247751618782.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2102853258582880547.md"><img src="data/gifs/2102853258582880547.gif" alt="Negroni Cocktail Explainer Motion Graphic in HTML" width="100%" /></a><br>
-<strong>Negroni Cocktail Explainer Motion Graphic in HTML</strong><br>
-
-<sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="prompts/2102853258582880547.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2104542961081983435.md"><img src="data/gifs/2104542961081983435.gif" alt="Educational Motion-Graphics on Recursive AI Agent Limitations" width="100%" /></a><br>
-<strong>Educational Motion-Graphics on Recursive AI Agent Limitations</strong><br>
-
-<sub><a href="https://x.com/M_Adrian2/status/2104542961081983435">Original post ↗</a> · <a href="prompts/2104542961081983435.md">Prompt ↗</a></sub>
-</td><td></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110041194457899054/"><img src="https://media.skillry.dev/gemini-4-argon/2110041194457899054/preview.03414e27734d.webp" alt="Real-Time 3D Game — Argon vs Opus" width="100%" /></a><br><strong>Real-Time 3D Game — Argon vs Opus</strong><br><sub><a href="prompts/2110041194457899054.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110041194457899054/">Watch preview</a> · <a href="https://x.com/HIX_AI_/status/2110041194457899054">@HIX_AI_ ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110041939978694766/"><img src="https://media.skillry.dev/gemini-4-argon/2110041939978694766/preview.a947bc314388.webp" alt="Playable 3D Spaceship — Argon vs Opus" width="100%" /></a><br><strong>Playable 3D Spaceship — Argon vs Opus</strong><br><sub><a href="prompts/2110041939978694766.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110041939978694766/">Watch preview</a> · <a href="https://x.com/itsPolloAI/status/2110041939978694766">@itsPolloAI ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110042531425812846/"><img src="https://media.skillry.dev/gemini-4-argon/2110042531425812846/preview.ab1f93192883.webp" alt="Motion Graphics Ad — Argon vs Opus" width="100%" /></a><br><strong>Motion Graphics Ad — Argon vs Opus</strong><br><sub><a href="prompts/2110042531425812846.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110042531425812846/">Watch preview</a> · <a href="https://x.com/itsPolloAI/status/2110042531425812846">@itsPolloAI ↗</a></sub></td>
 </tr>
 </table>
 
-[Browse all 83 explainers & education →](data/categories/explainers.md)
+[Browse all 43 →](data/categories/comparison.md)
 
-## Music & Storytelling — homepage picks
+## Build walkthroughs & workflow demos — homepage picks
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="prompts/2103697580421181894.md"><img src="data/gifs/2103697580421181894.gif" alt="Animated Music Video Prompt for Claude Opus" width="100%" /></a><br>
-<strong>Animated Music Video Prompt for Claude Opus</strong><br>
-
-<sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="prompts/2103697580421181894.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038980058141140/"><img src="https://media.skillry.dev/gemini-4-argon/2110038980058141140/preview.e5e7d4fd6c66.webp" alt="From a 2D Map to a 3D Android World" width="100%" /></a><br><strong>From a 2D Map to a 3D Android World</strong><br><sub><a href="prompts/2110038980058141140.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110038980058141140/">Watch preview</a> · <a href="https://x.com/AndroidDev/status/2110038980058141140">@AndroidDev ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039192365637985/"><img src="https://media.skillry.dev/gemini-4-argon/2110039192365637985/preview.04a5e49fd9d7.webp" alt="AI Power Bottleneck — Interactive Research Deck" width="100%" /></a><br><strong>AI Power Bottleneck — Interactive Research Deck</strong><br><sub><a href="prompts/2110039192365637985.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039192365637985/">Watch preview</a> · <a href="https://x.com/venturetwins/status/2110039192365637985">@venturetwins ↗</a></sub></td>
+<td width="33%" valign="top"><a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039863039008840/"><img src="https://media.skillry.dev/gemini-4-argon/2110039863039008840/preview.5a7bc78f9c26.webp" alt="Custom Hardware from a 2D Sketch" width="100%" /></a><br><strong>Custom Hardware from a 2D Sketch</strong><br><sub><a href="prompts/2110039863039008840.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/prompts/2110039863039008840/">Watch preview</a> · <a href="https://x.com/GoogleAI/status/2110039863039008840">@GoogleAI ↗</a></sub></td>
 </tr>
 </table>
 
-[Browse all 31 music & storytelling →](data/categories/music-storytelling.md)
-
-## 3D Worlds & Simulations — homepage picks
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2103194052850241739.md"><img src="data/gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="100%" /></a><br>
-<strong>Cinematic Browser-Based 3D World</strong><br>
-
-<sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="prompts/2103194052850241739.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103119648271290566.md"><img src="data/gifs/2103119648271290566.gif" alt="Pelican Riding a Bicycle Animation" width="100%" /></a><br>
-<strong>Pelican Riding a Bicycle Animation</strong><br>
-
-<sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="prompts/2103119648271290566.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2104514806443303238.md"><img src="data/gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="100%" /></a><br>
-<strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
-
-<sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
-</td>
-</tr>
-</table>
-
-[Browse all 93 3d worlds & simulations →](data/categories/3d-scenes.md)
-
-## Games & Interactive Experiences — homepage picks
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2103804606794879327.md"><img src="data/gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="100%" /></a><br>
-<strong>3D Star Wars Multiplayer Game</strong><br>
-
-<sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="prompts/2103804606794879327.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103789415323562325.md"><img src="data/gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="100%" /></a><br>
-<strong>Police Chase Arcade Game PRD</strong><br>
-
-<sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="prompts/2103789415323562325.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103763192971461057.md"><img src="data/gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="100%" /></a><br>
-<strong>Pixel Art Hearthstone-Style Card Game</strong><br>
-
-<sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="prompts/2103763192971461057.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2104520072014508316.md"><img src="data/gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="100%" /></a><br>
-<strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
-
-<sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2104189915693269112.md"><img src="data/gifs/2104189915693269112.gif" alt="Interactive Rain Window Calming App" width="100%" /></a><br>
-<strong>Interactive Rain Window Calming App</strong><br>
-
-<sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="prompts/2104189915693269112.md">Prompt ↗</a></sub>
-</td><td></td>
-</tr>
-</table>
-
-[Browse all 84 games & interactive experiences →](data/categories/games-interactive.md)
-
-<details>
-<summary>Browse by tool</summary>
-
-- [canvas-interactive](data/categories/canvas-interactive.md) — 84
-- [manim](data/categories/manim.md) — 2
-- [remotion](data/categories/remotion.md) — 14
-- [blender](data/categories/blender.md) — 8
-- [external-video-model](data/categories/external-video-model.md) — 11
-- [other-animation](data/categories/other-animation.md) — 501
-
-</details>
+[Browse all 26 →](data/categories/workflow.md)
 
 ## How to use
 
-1. Pick a result and copy its public prompt from the card or detail page.
-2. Supply any inputs listed by the creator, then use the prompt with your Opus agent.
-3. Follow the creator’s renderer/tool setup. A shared fragment may need additional instructions.
+1. Open a creation, watch the video and read the original post.
+2. Copy a public prompt and replace the subject, reference images or template placeholders.
+3. Prepare the tools and inputs described by the creator, then preview and refine.
 
-<details>
-<summary>About this collection &amp; source checks</summary>
+## Creators & rights
 
-Opus directs or writes the code for these videos, animations and interactive recordings. The detail page distinguishes prompt-required tools, author-confirmed tools and unconfirmed inferences. Author claims and media consistency checks do not establish repository reproduction. Reference cases may have unverified model version or production details; they are not counted as fully verified cases. We do not reconstruct missing author prompts.
+Videos, prompts and quoted posts belong to their original creators. See [media rights](MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.
 
-[Review queue](data/docs/REVIEW-QUEUE.md) · [Contribute](data/docs/CONTRIBUTING.md) · [Attribution & corrections](data/docs/RIGHTS.md)
-
-</details>
-
-## Credits
-
-Maintained by [LeaddeOpenLab](https://github.com/LeaddeOpenLab) · [Leadde.ai](https://Leadde.ai). All works and prompts belong to their linked creators. Independent collection.
+[Catalog](data/videos.json) · [Selection notes](data/featured.json) · [Engagement snapshot](data/engagement.json)
