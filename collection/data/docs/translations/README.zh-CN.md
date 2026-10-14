@@ -2,9 +2,9 @@
 
 **More from Leadde Open Lab: [Awesome Opus 5.5 Video Prompts →](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts)**
 
-[English](../../../../README.md) · 简体中文 · [更多语言](../../../data/docs/translations)
+[English](../../../../README.md) · 简体中文 · [更多语言](.)
 
-[![1000 prompts · Gemini 4 Argon · Leadde Open Lab](../../../data/banner.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
+[![1000 prompts · Gemini 4 Argon · Leadde Open Lab](../../banner.svg)](https://leaddeopenlab.github.io/awesome-gemini4-video-prompts/)
 
 **由 Leadde Open Lab 整理的 Gemini 4 Argon 创作、视频预览与公开提示词。**
 
@@ -62,11 +62,11 @@
 <a id="browse-the-full-library"></a>
 ## 浏览完整资料库
 
-- [动画与科普](../../../data/categories/motion.md) (65)
-- [3D 场景与物理](../../../data/categories/3d.md) (76)
-- [游戏与交互](../../../data/categories/interactive.md) (84)
-- [模型对比](../../../data/categories/comparison.md) (43)
-- [制作过程与工作流演示](../../../data/categories/workflow.md) (26)
+- [动画与科普](../../categories/motion.md) (65)
+- [3D 场景与物理](../../categories/3d.md) (76)
+- [游戏与交互](../../categories/interactive.md) (84)
+- [模型对比](../../categories/comparison.md) (43)
+- [制作过程与工作流演示](../../categories/workflow.md) (26)
 
 ## 动画与科普 — 首页选摘
 
@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-[浏览全部 65 →](../../../data/categories/motion.md)
+[浏览全部 65 →](../../categories/motion.md)
 
 ## 3D 场景与物理 — 首页选摘
 
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
-[浏览全部 76 →](../../../data/categories/3d.md)
+[浏览全部 76 →](../../categories/3d.md)
 
 ## 游戏与交互 — 首页选摘
 
@@ -102,7 +102,7 @@
 </tr>
 </table>
 
-[浏览全部 84 →](../../../data/categories/interactive.md)
+[浏览全部 84 →](../../categories/interactive.md)
 
 ## 模型对比 — 首页选摘
 
@@ -114,7 +114,7 @@
 </tr>
 </table>
 
-[浏览全部 43 →](../../../data/categories/comparison.md)
+[浏览全部 43 →](../../categories/comparison.md)
 
 ## 制作过程与工作流演示 — 首页选摘
 
@@ -126,7 +126,7 @@
 </tr>
 </table>
 
-[浏览全部 26 →](../../../data/categories/workflow.md)
+[浏览全部 26 →](../../categories/workflow.md)
 
 ## 使用方法
 
@@ -136,6 +136,6 @@
 
 ## 作者与权利
 
-Videos, prompts and quoted posts belong to their original creators. See [media rights](../../../data/docs/MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.
+Videos, prompts and quoted posts belong to their original creators. See [media rights](../MEDIA-RIGHTS.md). Every entry retains creator credits and original source links.
 
-[Catalog](../../../data/videos.json) · [Selection notes](../../../data/featured.json) · [Engagement snapshot](../../../data/engagement.json)
+[Catalog](../../videos.json) · [Selection notes](../../featured.json) · [Engagement snapshot](../../engagement.json)

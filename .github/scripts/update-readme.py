@@ -49,7 +49,7 @@ for zh in [False,True]:
   value=m.group(2)
   if value.startswith(('http:', 'https:', '#')): return m.group(0)
   if value=='README.md': value='../README.md'
-  return m.group(1)+posixpath.normpath(('../../../' if zh else 'collection/')+value)
+  return m.group(1)+posixpath.relpath(posixpath.normpath('collection/'+value), 'collection/data/docs/translations' if zh else '.')
  text=re.sub(r'(\]\(|(?:href|src)=")([^"\s\)]+)', readme_link, text)
  target=ROOT/'data/docs/translations/README.zh-CN.md' if zh else ROOT.parent/'README.md'
  target.write_text(text)
