@@ -1,5 +1,7 @@
 # canvas-interactive
 
+- [Mumbai: The Living City 3D Urban Simulation](../prompts/2110240752517193761.md)
+- [Interactive Pelican Cycling SVG Animation](../prompts/2110226280855830863.md)
 - [Steampunk Observatory 3D Scene Comparison](../prompts/2110187095868547354.md)
 - [Gemini 4 Argon Interactive SVG Bicycle & Creature Rigging Blind Test](../prompts/2110168263623938143.md)
 - [Gakken Denshi Block 3D Simulator with Gemini 4](../prompts/2110156716524601762.md)
@@ -10,8 +12,14 @@
 - [Interactive 3D Particle Galaxy in WebGL](../prompts/2110075281746854164.md)
 - [London Pigeon 3D Game Generation with Gemini 4 Argon](../prompts/2110070885428187441.md)
 - [Voxel Pelican Wheelie on Fighter Jet](../prompts/2110061616070803851.md)
+- [Gemini 4 Three.js 3D Lighthouse Scene](../prompts/2110054195734982817.md)
 - [Interactive 3D Butterfly Museum Atlas](../prompts/2110041557021950348.md)
+- [Interactive New York Skyline Drawing in JavaScript HTML](../prompts/2109896242704912818.md)
+- [Interactive Three.js Mechanical Butterfly](../prompts/2102096018036707356.md)
+- [3D Apache Helicopter in Three.js Comparison](../prompts/2101577774066434232.md)
 - [Gemini 4 Pro 3D Dragon in Three.js](../prompts/2101439985136136239.md)
 - [Interactive Mechanical Butterfly in Three.js](../prompts/2101304547876700627.md)
+- [Interactive 3D AK-47 in Three.js](../prompts/2101244512106397850.md)
+- [Interactive 3D Commercial Airliner Model Viewer](../prompts/2100948208595984781.md)
 
 [All tasks](../README.md)

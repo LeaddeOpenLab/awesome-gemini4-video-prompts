@@ -27,7 +27,7 @@
   ],
   "source": "https://ai.google.dev/gemini-api/docs/models",
   "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts",
-  "verifiedCases": 1,
-  "referenceCases": 22,
+  "verifiedCases": 3,
+  "referenceCases": 35,
   "pendingCases": 0
 }

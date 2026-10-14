@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T06:45:22.160Z",
+  "model": "gemini4",
+  "prompt": "make a beautiful mechanical butterfly",
+  "promptTranslations": {
+    "en": "make a beautiful mechanical butterfly"
+  },
+  "summary": "Interactive 3D brass butterfly with exploded parts view, flight controls, and spec sheet generated in Three.js.",
+  "summaryEn": "Interactive Three.js Mechanical Butterfly",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102096018036707356",
+    "canonicalUrl": "https://x.com/Zyvex_0x/status/2102096018036707356",
+    "author": {
+      "username": "Zyvex_0x",
+      "displayName": "Zyvex",
+      "profileUrl": "https://x.com/Zyvex_0x"
+    },
+    "publishedAt": "2026-09-21T18:02:00.000Z",
+    "collectedAt": "2026-10-14T05:41:21.121Z",
+    "language": "en",
+    "originalText": "One prompt built this: a brass butterfly that takes itself apart, gear by gear.\n\nA hidden Google model, reportedly Gemini 4 Pro, one-shotted it in three.js.\n\nThen the model disappeared.\n\nThe request was simple: make a beautiful mechanical butterfly. No follow-ups. The arena only allows one message per matchup, so this is a single try.\n\nWhat came back wasn't just a 3D model. It was a full interactive page.\n\n→ a slider that explodes the butterfly into its parts\n→ every part labeled, from the wing actuator to the nine-ring abdomen\n→ two themes, gold with azure glass or black steel\n→ a \"take flight\" button, orbit camera, four views\n\nWatch it come apart at 0:08.\n\nIt also wrote itself a spec sheet. 6.2 m wingspan, 2.4 kg, wings beating 2.3 times a second.\n\nNobody asked for a spec sheet. It wrote one anyway.\n\nHere's the catch. It was running under a fake name, \"gemini-3.7-flash.\" By the next morning it was gone from the arena, and more than 60 retries got nothing back.\n\nTo be clear: Google hasn't confirmed which model this is. It's one output, not a benchmark, and Gemini has always been strong at 3D front-end work.\n\nBut if one prompt gets you this, a lot of paid landing-page work just got a lot harder to sell.\n\nUnreleased Gemini 4 Pro, or a Flash model hiding under a fake name?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zyvex_0x/status/2102096018036707356",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102076247664742400/img/7HNdAoBQNHqMRWLR.jpg",
+        "analysisUrl": "https://x.com/Zyvex_0x/status/2102096018036707356"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 612
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Zyvex_0x/status/2102096018036707356",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102076247664742400/img/7HNdAoBQNHqMRWLR.jpg",
+  "coverPath": "covers/2102096018036707356.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102076247664742400",
+    "x-post:2102096018036707356"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive Three.js Mechanical Butterfly",
+      "summary": "Interactive 3D brass butterfly with exploded parts view, flight controls, and spec sheet generated in Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4 Pro",
+        "platform": "LMSYS Chatbot Arena",
+        "authorUseConfirmed": false,
+        "evidence": "A hidden Google model, reportedly Gemini 4 Pro, one-shotted it in three.js... running under a fake name, 'gemini-3.7-flash.'"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a beautiful mechanical butterfly",
+        "englishText": "make a beautiful mechanical butterfly",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full system prompt",
+          "exact prompt phrasing",
+          "frontend framework setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording confirms the interactive 3D model, explode slider, labeled parts, and flight mode.",
+        "textualResultQuote": "Papilio Mechanica ... Mechanical Lepidoptera"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D web graphics rendering and interactive scene controls",
+          "evidence": "one-shotted it in three.js",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Mechanical Butterfly Interactive 3D Model",
+        "topic": "games-interactive",
+        "tags": [
+          "three.js",
+          "interactive-3d",
+          "creative-coding",
+          "exploded-view"
+        ]
+      },
+      "targetModelRole": "Code generation for full interactive Three.js webpage",
+      "outputSource": "Web browser rendering Three.js code generated by Gemini",
+      "divisionEvidence": "What came back wasn't just a 3D model. It was a full interactive page.",
+      "video": {
+        "shots": "1",
+        "duration": "0:27",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic screen recording of an interactive 3D application generated via LLM code output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Zyvex_0x/status/2102096018036707356",
+        "start": 211,
+        "end": 248
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Zyvex_0x/status/2102096018036707356",
+        "author": "Zyvex_0x",
+        "postId": "2102096018036707356",
+        "publishedAt": "2026-09-21T18:02:00.000Z"
+      },
+      "checkedAt": "2026-10-14T06:18:41.490Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Interactive 3D brass butterfly with exploded parts view, flight controls, and spec sheet generated in Three.js.",
+    "summaryEn": "Interactive Three.js Mechanical Butterfly",
+    "originalPrompt": "make a beautiful mechanical butterfly",
+    "sourceRange": {
+      "start": 211,
+      "end": 248
+    },
+    "translations": {
+      "zh": "make a beautiful mechanical butterfly",
+      "en": "make a beautiful mechanical butterfly"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Mechanical Butterfly Interactive 3D Model",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full system prompt",
+        "exact prompt phrasing",
+        "frontend framework setup"
+      ],
+      "evidence": "Screen recording confirms the interactive 3D model, explode slider, labeled parts, and flight mode."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

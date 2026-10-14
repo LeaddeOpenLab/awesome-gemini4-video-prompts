@@ -2,51 +2,51 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**1 source-verified real cases** · 22 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**3 source-verified real cases** · 35 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Gemini 4 Cyberpunk Vehicle Scene](prompts/2110206524270555576.md)
+### [Mumbai: The Living City 3D Urban Simulation](prompts/2110240752517193761.md)
 
-![Preview by @7ai_Life](<covers/2110206524270555576.jpg>)
+![Preview by @CurieuxExplorer](<covers/2110240752517193761.jpg>)
 
-By @7ai_Life · [source](<https://x.com/7ai_Life/status/2110206524270555576>)
+By @CurieuxExplorer · [source](<https://x.com/CurieuxExplorer/status/2110240752517193761>)
 
-### [Sun Wukong Havoc in Heaven Video](prompts/2110200910970253507.md)
+### [Tesla-Style Electric Motor 3D Explainer Comparison](prompts/2110240496073462021.md)
 
-![Preview by @vincent_ddup](<covers/2110200910970253507.jpg>)
+![Preview by @WojakTheDev](<covers/2110240496073462021.jpg>)
 
-By @vincent_ddup · [source](<https://x.com/vincent_ddup/status/2110200910970253507>)
+By @WojakTheDev · [source](<https://x.com/WojakTheDev/status/2110240496073462021>)
 
-### [Steampunk Observatory 3D Scene Comparison](prompts/2110187095868547354.md)
+### [Interactive Pelican Cycling SVG Animation](prompts/2110226280855830863.md)
 
-![Preview by @akokoi1](<covers/2110187095868547354.jpg>)
+![Preview by @sciencedegens](<covers/2110226280855830863.jpg>)
 
-By @akokoi1 · [source](<https://x.com/akokoi1/status/2110187095868547354>)
+By @sciencedegens · [source](<https://x.com/sciencedegens/status/2110226280855830863>)
 
 ## Find a task
 
-- [canvas-interactive](categories/canvas-interactive.md) — 13
+- [canvas-interactive](categories/canvas-interactive.md) — 21
 - [manim](categories/manim.md) — 0
 - [remotion](categories/remotion.md) — 1
-- [blender](categories/blender.md) — 2
+- [blender](categories/blender.md) — 3
 - [external-video-model](categories/external-video-model.md) — 4
-- [other-animation](categories/other-animation.md) — 1
+- [other-animation](categories/other-animation.md) — 5
 
 ## Recently added
 
+- 2026-10-14 · [Mumbai: The Living City 3D Urban Simulation](prompts/2110240752517193761.md)
+- 2026-10-14 · [Tesla-Style Electric Motor 3D Explainer Comparison](prompts/2110240496073462021.md)
+- 2026-10-14 · [Interactive Pelican Cycling SVG Animation](prompts/2110226280855830863.md)
+- 2026-10-14 · [Pro-Dahi Protein Curd Launch Commercial](prompts/2110221562108584381.md)
+- 2026-10-14 · [Gemini 4 Pelican Riding Bicycle SVG Animation](prompts/2110216771508805847.md)
 - 2026-10-14 · [Gemini 4 Cyberpunk Vehicle Scene](prompts/2110206524270555576.md)
 - 2026-10-14 · [Sun Wukong Havoc in Heaven Video](prompts/2110200910970253507.md)
 - 2026-10-14 · [Steampunk Observatory 3D Scene Comparison](prompts/2110187095868547354.md)
 - 2026-10-14 · [Gemini 4 Argon Introduction Video via Google Omni](prompts/2110181989185736765.md)
 - 2026-10-14 · [Gemini 4 Argon Agent Mode Self-Introduction Video](prompts/2110180315830620323.md)
-- 2026-10-14 · [Blender Procedural Fushimi Inari Shrine Generation](prompts/2110178222524731701.md)
-- 2026-10-14 · [Gemini 4 Argon Interactive SVG Bicycle & Creature Rigging Blind Test](prompts/2110168263623938143.md)
-- 2026-10-14 · [Gakken Denshi Block 3D Simulator with Gemini 4](prompts/2110156716524601762.md)
-- 2026-10-14 · [Gemini 4 Argon Generative 3D Sphere Visualizer](prompts/2110147876559216712.md)
-- 2026-10-14 · [Interactive Squishable Jellyfish Simulation](prompts/2110121892442943710.md)
 
 ## Review policy
 
