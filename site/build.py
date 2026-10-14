@@ -93,7 +93,8 @@ OUT.mkdir(exist_ok=True)
 for folder in ['assets', 'prompts', 'collections']:
     if (OUT / folder).exists(): shutil.rmtree(OUT / folder)
 shutil.copytree(SITE / 'assets', OUT / 'assets')
-shutil.copytree(SITE / 'public', OUT, dirs_exist_ok=True)
+if (SITE / 'public').is_dir():
+    shutil.copytree(SITE / 'public', OUT, dirs_exist_ok=True)
 
 locale = json.loads((SITE / 'zh-CN.json').read_text())
 translations = dict(locale['ui'])
