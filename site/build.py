@@ -33,7 +33,7 @@ def preview(item, prefix):
 def pro_tip(item):
     tip = TIPS[item['id']]
     label = 'Prompt technique' if tip['basis'] == 'public_prompt' else 'Suggested approach · prompt not public'
-    return '<aside class="pro-tip"><strong>💡 Pro Tip / 核心咒语</strong><span class="pro-tip-label">'+E(label)+'</span><p>'+E(tip['en'])+'</p></aside>'
+    return '<aside class="pro-tip" lang="en" translate="no"><strong>💡 Pro Tip</strong><span class="pro-tip-label">'+E(label)+'</span><p>'+E(tip['en'])+'</p></aside>'
 
 def card(item, prefix, filterable=False):
     cat = CATEGORIES[item['category']]['name']

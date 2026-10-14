@@ -10,7 +10,7 @@
     const node = walker.currentNode;
     if (
       node.textContent.trim() &&
-      !node.parentElement.closest("script, style, pre, code, select")
+      !node.parentElement.closest("script, style, pre, code, select, [translate=\"no\"]")
     ) {
       nodes.push({ node, original: node.textContent });
     }

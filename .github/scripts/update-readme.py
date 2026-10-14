@@ -16,8 +16,8 @@ def cards(items,columns=3,prefix='',featured=False,zh=False):
    f=next((f for f in FEATURED if f['id']==v['id']),{})
    title=f.get('titleZh',v['title']) if zh else v['title']
    tip=TIPS[v['id']]
-   label=('提示词解析' if zh else 'Prompt technique') if tip['basis']=='public_prompt' else ('复用建议 · 未公开 Prompt' if zh else 'Suggested approach · prompt not public')
-   tip_box='<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><sub>'+label+'</sub><br>'+E(tip['zh' if zh else 'en'])+'</blockquote>'
+   label='Prompt technique' if tip['basis']=='public_prompt' else 'Suggested approach · prompt not public'
+   tip_box='<blockquote><strong>💡 Pro Tip</strong><br><sub>'+label+'</sub><br>'+E(tip['en'])+'</blockquote>'
    note=''
    if featured:
     m=metrics[v['id']]
@@ -53,8 +53,8 @@ print(f'Built two README pages and {len(CATEGORY_NAMES)} category indexes.')
 # Keep each original prompt intact and refresh only the editorial callout.
 for video in videos:
  tip=TIPS[video['id']]
- label='Prompt technique / 提示词解析' if tip['basis']=='public_prompt' else 'Suggested approach · prompt not public / 复用建议 · 未公开 Prompt'
- block='<!-- pro-tip -->\n> [!TIP]\n> **💡 Pro Tip / 核心咒语** · '+label+'\n>\n> '+tip['en']+'\n>\n> '+tip['zh']+'\n<!-- /pro-tip -->\n'
+ label='Prompt technique' if tip['basis']=='public_prompt' else 'Suggested approach · prompt not public'
+ block='<!-- pro-tip -->\n> [!TIP]\n> **💡 Pro Tip** · '+label+'\n>\n> '+tip['en']+'\n<!-- /pro-tip -->\n'
  path=ROOT/'prompts'/(video['id']+'.md')
  text=path.read_text()
  if '<!-- pro-tip -->' in text:
