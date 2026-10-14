@@ -2,24 +2,28 @@
   "model": "gemini4",
   "name": "Gemini 4 Argon",
   "slug": "awesome-gemini4-video-prompts",
-  "description": "High-quality Gemini 4 video prompts & hundreds of creative examples. Handpicked. Updated daily.",
+  "description": "Gemini 4 (Argon / Veo / Omni) video prompts & animation workflows. High-quality picks, hundreds of creative examples. Updated daily.",
   "topics": [
     "gemini",
     "gemini4",
-    "awesome-list",
+    "gemini-4",
+    "gemini-argon",
+    "gemini-omni",
+    "argon",
+    "omni",
+    "veo",
     "ai-video",
-    "creative-coding",
     "video-prompts",
-    "motion",
-    "motion-graphics",
-    "explainers",
-    "threejs",
-    "webgl",
-    "ai-agents",
     "remotion",
     "manim",
     "animation",
-    "prompts"
+    "motion-graphics",
+    "threejs",
+    "webgl",
+    "creative-coding",
+    "awesome-list",
+    "prompts",
+    "ai-agents"
   ],
   "categories": [
     "motion",
@@ -40,5 +44,6 @@
   "verifiedCases": 0,
   "referenceCases": 294,
   "pendingCases": 0,
-  "publicPromptCount": 47
+  "publicPromptCount": 47,
+  "title": "Awesome Gemini 4 (Argon / Veo / Omni) Video Prompts & Animation Workflows"
 }

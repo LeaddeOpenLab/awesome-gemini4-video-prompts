@@ -15,7 +15,7 @@ BASE = os.environ.get('SITE_URL', CONFIG['url']).rstrip('/') + '/'
 REPO = CONFIG['repository']
 GA_ID = os.environ.get('GA_MEASUREMENT_ID') or CONFIG.get('ga_measurement_id', '')
 VERIFY = os.environ.get('GOOGLE_SITE_VERIFICATION') or CONFIG['google_site_verification']
-from catalog import SELECTION, CATEGORIES, FEATURED
+from catalog import SELECTION, CATEGORIES, FEATURED, TIPS, REPOSITORY
 E = lambda value: html.escape(str(value), quote=True)
 BY_ID = {item['id']: item for item in SELECTION}
 PLAY = '<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 3l12 7-12 7z" fill="currentColor"/></svg>'
@@ -30,6 +30,11 @@ def link(prefix, path=''):
 def preview(item, prefix):
     return f'<button class="play" data-prompt-id="{item["id"]}" aria-label="Preview {E(item["title"])}" data-preview="{E(item["videoUrl"])}" data-poster="{E(item["posterUrl"])}" data-title="{E(item["title"])}" data-link="{prefix}{case_url(item)}">{PLAY}<span>Play preview</span></button>'
 
+def pro_tip(item):
+    tip = TIPS[item['id']]
+    label = 'Prompt technique' if tip['basis'] == 'public_prompt' else 'Suggested approach · prompt not public'
+    return '<aside class="pro-tip"><strong>💡 Pro Tip / 核心咒语</strong><span class="pro-tip-label">'+E(label)+'</span><p>'+E(tip['en'])+'</p></aside>'
+
 def card(item, prefix, filterable=False):
     cat = CATEGORIES[item['category']]['name']
     search = ' '.join([item['title'], item['description'], item['tool'], cat, item['author']]).lower()
@@ -42,7 +47,7 @@ def card(item, prefix, filterable=False):
     return f'''<article class="card{style}"{data}>
 <div class="card-media"><a href="{prefix}{case_url(item)}" tabindex="-1" aria-hidden="true"><img src="{E(item['posterUrl'])}" alt="" width="800" height="500" loading="lazy"></a><video class="card-video" data-card-video="{motion}" data-prompt-id="{item['id']}" data-src="{E(item['videoUrl'])}" muted playsinline loop preload="none" aria-hidden="true"></video>{pause}{preview(item,prefix)}</div>
 <div class="card-info">{badge}<div class="card-top"><span>{E(cat)}</span><span class="tool">{E(item['tool'])}</span></div>
-<h3><a href="{prefix}{case_url(item)}">{E(item['title'])}</a></h3><p>{E(item['description'])}</p>
+<h3><a href="{prefix}{case_url(item)}">{E(item['title'])}</a></h3><p>{E(item['description'])}</p>{pro_tip(item)}
 <div class="card-bottom"><a href="{E(item['source'])}">@{E(item['author'])} ↗</a><a href="{prefix}{case_url(item)}">View creation →</a></div></div></article>'''
 
 def star_hint(target):
@@ -75,6 +80,7 @@ def prompt_section(item):
     else:
         content = '</div><p>The creator did not publish an exact prompt in the reviewed sources. The original post is a description, not a reconstructed prompt.</p>'
     content = '<section class="prompt-block" id="prompt"><div class="prompt-header"><h2>'+E(item['status'])+'</h2>'+content+f'<div class="prompt-foot"><a href="{REPO}/blob/main/prompts/{item["id"]}.md">View source record ↗</a></div></section>'
+    content += pro_tip(item)
     content += '<section class="customize"><h2>Original post</h2><p style="white-space:pre-wrap">'+E(item['originalPost'])+'</p>'
     for post in item.get('additionalPosts', []):
         content += '<h3><a href="'+E(post['url'])+'">Additional creator post ↗</a></h3><p style="white-space:pre-wrap">'+E(post['text'])+'</p>'
@@ -98,6 +104,8 @@ if (SITE / 'public').is_dir():
 
 locale = json.loads((SITE / 'zh-CN.json').read_text())
 translations = dict(locale['ui'])
+translations.update({tip['en']: tip['zh'] for tip in TIPS.values()})
+translations.update({'Prompt technique': '提示词解析', 'Suggested approach · prompt not public': '复用建议 · 未公开 Prompt'})
 for key, translated in locale['categories'].items():
     for field, value in translated.items():
         translations[CATEGORIES[key][field]] = value
@@ -127,7 +135,7 @@ body = f'''<div class="wrap"><section class="hero"><div class="hero-copy"><div c
 <section class="collection" id="collection"><nav class="collection-nav" aria-label="Browse prompts"><a href="#collection" aria-current="page">Selected examples</a><a href="{REPO}#browse-the-full-library">Full prompt library ↗</a></nav><div class="section-heading"><div><div class="kicker">Selected work</div><h2>Standout work. Ideas worth exploring.</h2><p>Start with our editor’s picks, then explore more creative directions.</p></div><label class="search">{SEARCH}<span class="sr-only">Search selected examples</span><input data-search type="search" placeholder="Search prompts, tools, creators…"></label></div><div class="filters"><div class="filter-options" role="group" aria-label="Filter by collection">{filters}</div><span class="result-count" data-count aria-live="polite">{len(SELECTION)} examples</span></div><div class="grid showcase-grid">{''.join(card(x,'./',True) for x in ordered)}</div><p class="no-results" data-empty hidden>No matching examples. Try a different search or choose All work.</p><div class="collection-bottom"><p>Explore every creation in our open collection.</p><a class="text-link" href="{REPO}#browse-the-full-library">Browse the full library on GitHub ↗</a></div></section></div>
 <section class="topics"><div class="wrap"><div class="kicker">A closer look</div><h2>Find your next creative direction.</h2><div class="topic-grid">{topics}</div></div></section>
 <div class="wrap"><section class="how" id="how-to-use"><div class="how-intro"><div class="kicker">From prompt to project</div><h2>Make something<br>of your own.</h2><p>These are creative starting points. Your tools, inputs and follow-up instructions shape the final result.</p></div><div class="steps"><div><div class="step-number">01</div><h3>Choose a direction</h3><p>Open an example. Watch the video and read the original post.</p></div><div><div class="step-number">02</div><h3>Make it specific</h3><p>Use a public prompt when available. Add your subject, audience and visual direction.</p></div><div><div class="step-number">03</div><h3>Preview, then refine</h3><p>Run the result, review the details and iterate before the final export.</p></div></div></section><section class="closing"><div><h2>Keep a few good ideas close.</h2><p>Star the GitHub collection to find it again when your next project comes along.</p></div><a class="button light" href="{REPO}">☆ Star on GitHub <span>↗</span></a></section></div>'''
-write('index.html', document('Gemini 4 video prompts & animation examples', 'Browse selected Gemini 4 video prompts for motion graphics, explainers and 3D worlds. Creator previews, copyable prompts and practical setup notes by Leadde Open Lab.', body))
+write('index.html', document(REPOSITORY['title'], REPOSITORY['description'], body))
 pages = [('', None)]
 for key, cat in CATEGORIES.items():
     path = 'collections/' + key + '/'

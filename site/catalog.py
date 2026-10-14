@@ -4,6 +4,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VIDEOS = json.loads((ROOT / 'data/videos.json').read_text())
+TIPS = json.loads((ROOT / 'data/pro-tips.json').read_text())
+REPOSITORY = json.loads((ROOT / 'data/repository.json').read_text())
 CATEGORY_NAMES = {
     'motion': ('Motion graphics & explainers', '动画与科普'),
     '3d': ('3D scenes & physics', '3D 场景与物理'),

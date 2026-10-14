@@ -1,0 +1,1472 @@
+{
+  "2110037855452180633": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110037856588845536": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110037859294159072": {
+    "en": "Pairs a personal-site brief with a clean visual direction and animation; add concrete typography and motion timing when reusing it.",
+    "zh": "用个人网站主题配合简洁视觉与动画方向；复用时补充字体和动效时长。",
+    "basis": "public_prompt"
+  },
+  "2110037859969491186": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110037860623794266": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110038198877552800": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110038238572515441": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110038787795689573": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110038980058141140": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039176662122771": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039192365637985": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039863039008840": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039865119113597": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039866788507709": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110039909851685300": {
+    "en": "Names Blender, one specific film interior and the original trilogy as the visual reference; swap the location while keeping that level of specificity.",
+    "zh": "同时指定 Blender、具体电影场景和原版三部曲作为参考；替换场景时保留这种具体程度。",
+    "basis": "public_prompt"
+  },
+  "2110040063656812976": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040065800097793": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040068027199925": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040109789708543": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040526510534907": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040726457491845": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040740315410940": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040758996672602": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040875355230718": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040909194621240": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110040948638126557": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041008100843835": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041044989751325": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041055286448560": {
+    "en": "Specify the target outline, reveal order and drawing duration before adding a soundtrack.",
+    "zh": "先规定目标轮廓、显现顺序与绘制时长，再加入配乐。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041194457899054": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041557021950348": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041607777206296-2": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041607777206296-4": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041611455353197": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041613179527253": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041614685282336": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041849767383472": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110041939978694766": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110042012095508794": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110042135127109754": {
+    "en": "Names JavaScript and an Argon theme, but leaves the composition open; add a subject, palette and duration for a more directed result.",
+    "zh": "原文只指定 JavaScript 与 Argon 主题；复用时补充主体、配色和时长，让创作方向更明确。",
+    "basis": "public_prompt"
+  },
+  "2110042334272561260": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110042531425812846": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110042549037810109": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110042577735237775": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110043023954284889": {
+    "en": "Specify the target outline, reveal order and drawing duration before adding a soundtrack.",
+    "zh": "先规定目标轮廓、显现顺序与绘制时长，再加入配乐。",
+    "basis": "editorial_suggestion"
+  },
+  "2110043060134703594": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110043093466743194": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110043597051658263": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110043897812668840": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110044715618116000": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110045114718375948": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110045173723881608": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110045402544341180": {
+    "en": "Combines style, subject, action and setting in one line: voxel art + dragon + flying + temple.",
+    "zh": "一句话组合风格、主体、动作与环境：体素艺术＋巨龙＋飞行＋神庙。",
+    "basis": "public_prompt"
+  },
+  "2110045777016095060": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110045947275411588": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110045963951956250": {
+    "en": "Uses [thing] as a replaceable subject while retaining the slow Fourier reveal, reference-image style and synchronized Lyria 3.5 soundtrack.",
+    "zh": "用 [thing] 替换主题，同时保留傅里叶渐显、参考图风格和 Lyria 3.5 音乐同步要求。",
+    "basis": "public_prompt"
+  },
+  "2110046609631478274": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110046871838437730": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110047064470224969": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110047286118203443": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110047624359194720": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110047768085762080": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110047989280670072": {
+    "en": "Specifies one index.html and Three.js r165, then separates water, materials, character and physics into explicit requirements; adapt one subsystem at a time.",
+    "zh": "先锁定单个 index.html 与 Three.js r165，再拆分水体、材质、角色和物理要求；复用时逐项替换。",
+    "basis": "public_prompt"
+  },
+  "2110048102321365205": {
+    "en": "Pairs a named vehicle with voxel art; replace the vehicle while keeping the visual style fixed.",
+    "zh": "把具体车型与体素风格绑定；复用时替换车型，保留视觉风格。",
+    "basis": "public_prompt"
+  },
+  "2110048324325896220": {
+    "en": "Anchors the UI to Windows 98 rather than an undefined retro look; add the interactions you need when adapting it.",
+    "zh": "用 Windows 98 锚定界面年代，而不是泛泛要求复古；复用时补充所需交互。",
+    "basis": "public_prompt"
+  },
+  "2110048343841702129": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110048380412199047": {
+    "en": "States the delivery format, drawing method and action together: HTML + SVG + a pelican cycling in 2D.",
+    "zh": "同时指定交付格式、绘制方式与动作：HTML＋SVG＋鹈鹕骑车的二维动画。",
+    "basis": "public_prompt"
+  },
+  "2110048661505966117": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110048822944727184": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110049836204687857": {
+    "en": "Defines an 8-second, 60 fps loop and renderAt(t), with the final frame matching the first; keep these timing constraints when swapping the mascot.",
+    "zh": "规定 8 秒、60 fps 与 renderAt(t)，并要求首尾帧一致；替换角色时保留这些时序约束。",
+    "basis": "public_prompt"
+  },
+  "2110049914193416368": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050272806601189": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050276128559172": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050277831459182": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050308969627723": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050421184360718": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050580886651250": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050746700116479": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110050773963002134": {
+    "en": "Adds an explicit action to a named voxel vehicle: a BMW M4 CS flying in the air.",
+    "zh": "在具体体素车型上追加明确动作：BMW M4 CS 在空中飞行。",
+    "basis": "public_prompt"
+  },
+  "2110051123881283795": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110051133695889549": {
+    "en": "Define voxel size, a compact palette and a readable silhouette before adding motion.",
+    "zh": "先明确体素尺寸、精简配色和清晰轮廓，再增加运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110051476253102492": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110051610953171343": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110052096481366287": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110052226844791094": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110052365424365953": {
+    "en": "Define voxel size, a compact palette and a readable silhouette before adding motion.",
+    "zh": "先明确体素尺寸、精简配色和清晰轮廓，再增加运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110052365558829094": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110053269162864842": {
+    "en": "Keeps the brief focused on a personal website, clean presentation and animation; specify sections before extending it.",
+    "zh": "把任务集中到个人网站、简洁呈现与动画；扩展前先明确页面栏目。",
+    "basis": "public_prompt"
+  },
+  "2110053371071832448": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110053382043873389": {
+    "en": "Specifies Premiere Pro, a 20-second duration and vertical 1080×1920 delivery at 30 fps before describing the motion design.",
+    "zh": "先明确 Premiere Pro、20 秒时长与 1080×1920、30 fps 竖屏交付，再描述动态设计。",
+    "basis": "public_prompt"
+  },
+  "2110053565704421534": {
+    "en": "Pairs Three.js with a recognizable real-world sea; add camera motion and water-lighting requirements when reusing the short brief.",
+    "zh": "用 Three.js 配合具体的宫古岛海域；复用这个短提示词时补充镜头运动与水面光照要求。",
+    "basis": "public_prompt"
+  },
+  "2110053893476593963": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110054004650852659": {
+    "en": "Defines an ordered camera journey from room to laptop, chip, atom and quark; preserve the sequence when replacing the objects.",
+    "zh": "按房间、电脑、芯片、原子、夸克规定镜头推进顺序；替换对象时保留层级关系。",
+    "basis": "public_prompt"
+  },
+  "2110054176382206379": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110054195734982817": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110054737546736084": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110054843012493424": {
+    "en": "Combines a defined historical scope with line-art animation, a light tone and music; verify the timeline before rendering.",
+    "zh": "将明确历史范围与线稿、轻松风格和音乐组合；渲染前先核对历史时间线。",
+    "basis": "public_prompt"
+  },
+  "2110055018191565201": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110055021446648013": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110055983141753190": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110055997456748653": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110056144475763072": {
+    "en": "Names Three.js and WebGL and asks for a fully interactive prehistoric island; use the detailed scene brief as separate implementation tasks.",
+    "zh": "指定 Three.js、WebGL 和可交互史前岛屿；把详细场景要求拆成独立实现任务。",
+    "basis": "public_prompt"
+  },
+  "2110056629756674190": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057589279162811": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057849653002459": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057926799073462": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057930020303246": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057932658254195": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057934516342918": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057936579973350": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110057940527018259": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110058031342067817": {
+    "en": "Ties the destruction mechanic to capturing a chess piece, giving the animation a clear gameplay trigger.",
+    "zh": "把破坏效果绑定到吃子行为，为动画提供明确的游戏触发条件。",
+    "basis": "public_prompt"
+  },
+  "2110058376118092277": {
+    "en": "Keeps SVG, H5 delivery and the cycling action fixed while changing only the animal; useful for controlled prompt comparisons.",
+    "zh": "固定 SVG、H5 展示和骑车动作，只替换动物，适合做受控提示词对比。",
+    "basis": "public_prompt"
+  },
+  "2110058437556232635": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110058567239888984": {
+    "en": "Defines a beginner audience and an interactive explanation while referencing specific attachments; supply your own lesson text and style images before reuse.",
+    "zh": "明确零基础受众与交互式讲解，并依赖指定附件；复用前准备自己的教学文本和风格参考图。",
+    "basis": "public_prompt"
+  },
+  "2110059132569215117": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110059198230970782": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110059840957768027": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110059842664825132": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110059844187406428": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110059981290733608": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110060302557749338": {
+    "en": "Names a character but leaves the action and output format unspecified; add those details before using it as a production brief.",
+    "zh": "只点明角色，未指定动作和输出格式；作为制作任务复用前应补齐这些信息。",
+    "basis": "public_prompt"
+  },
+  "2110061616070803851": {
+    "en": "Combines an unusual subject-action pairing with voxel styling and single-HTML delivery.",
+    "zh": "将特殊主体动作组合与体素风格、单 HTML 交付同时限定。",
+    "basis": "public_prompt"
+  },
+  "2110061890093404605": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110061930719416433": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110063026598818213": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110063571031978425": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110064538569560107": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110064590809883092": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110065587279798719": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110067362603110790": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110067675074535792": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110067746402881599": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110068132836692354": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110068872846197107": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110069699597971828": {
+    "en": "Requires a fully playable 3D game in a single HTML file; preserve playability and packaging when changing the game theme.",
+    "zh": "要求单个 HTML 文件中的完整可玩 3D 游戏；换主题时保留可玩性与交付形式。",
+    "basis": "public_prompt"
+  },
+  "2110069786415968754": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110069857626534238": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110070311886406072": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110071147832262850": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110071798629036542": {
+    "en": "Adds navigation and a single-HTML deliverable to the forest scene, distinguishing an explorable environment from a still image.",
+    "zh": "在森林场景上加入可漫游和单 HTML 交付要求，明确目标是可探索环境。",
+    "basis": "public_prompt"
+  },
+  "2110071875040665672": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110072638966206611": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110073596592660488": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110073735948419179": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110073872477454713": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110074338846331065": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110074371545223273": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110075281746854164": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110075686946054258": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110076828543254732": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110077572583403539": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110078691204374833": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110078889859203253": {
+    "en": "Asks for an animated solar-system scene with a camera requirement; establish scale and a readable camera path before adding detail.",
+    "zh": "要求太阳系动画并提出镜头要求；复用时先明确尺度和可读的镜头路径，再增加细节。",
+    "basis": "public_prompt"
+  },
+  "2110079828531794317": {
+    "en": "Separates water simulation into its own hook, exposes material controls and specifies desktop/mobile performance targets.",
+    "zh": "把水体模拟独立成 hook，提供材质控制，并明确桌面与移动端性能目标。",
+    "basis": "public_prompt"
+  },
+  "2110081826899329472": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110082266055741764": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110083146767335450": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110083304083112201": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110083964736278978": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110084040133062689": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110085641371283528": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110086917455057028": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110087087097626876": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110087305163854042": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110087609712296071": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110089915656728723": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110090052537913673": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110090701715513687": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110091334707286214": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110091920533823869": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110092862339875054": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110093657680593013": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110093720398045433": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110094984837742931": {
+    "en": "Explicitly requests simulation speed and sandbox controls, so the ant colony is an adjustable system rather than a fixed animation.",
+    "zh": "明确要求调速和沙盒控制，让蚁群成为可调节系统，而不是固定播放动画。",
+    "basis": "public_prompt"
+  },
+  "2110095700985864265": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110096619526140062": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110097633922662752": {
+    "en": "Pairs a component-level space-station brief with ten cinematic cameras and a 50-second 4K deliverable.",
+    "zh": "把空间站部件清单与十个电影感机位、50 秒 4K 输出绑定。",
+    "basis": "public_prompt"
+  },
+  "2110097921014378606": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110098369276477862": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110099064310358329": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110100294319087779": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110100441992478737": {
+    "en": "Connects a practical layout task to mobile use and a rotatable 3D view; retain these interaction goals when changing the room type.",
+    "zh": "把实用布局任务与移动端、可旋转 3D 视图结合；更换房间类型时保留这些交互目标。",
+    "basis": "public_prompt"
+  },
+  "2110100567515398534": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110100604911792550": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110100853910642816": {
+    "en": "Names Remotion and asks for click effects and transitions in a SaaS introduction; supply a real product and brand before adapting it.",
+    "zh": "指定 Remotion、点击效果与 SaaS 介绍转场；复用时提供实际产品和品牌信息。",
+    "basis": "public_prompt"
+  },
+  "2110101353955533095": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110101446272188680": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110101488345248250": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110102415877751161": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110104441760403923": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110104999124439181": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110105796071535057": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110105831601811818": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110106246800183731": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110106474659942452": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110107094603206727": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110107437113987264": {
+    "en": "Requests a plan first, then a continuous camera shot that transforms 2D into 3D; the creator followed up with “create it”.",
+    "zh": "先要求规划，再规定从二维变三维的连续镜头；作者随后用“create it”启动实现。",
+    "basis": "public_prompt"
+  },
+  "2110109640419926325": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110110627091882059": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110111502422122840": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110112013070586131": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110112965970235673": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110113650430083221": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110114781734821995": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110115367029006523": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110115515331129364": {
+    "en": "Specifies Blender 5.x, standard APIs, procedural object creation and GLB export, making the delivery requirements concrete.",
+    "zh": "明确 Blender 5.x、标准 API、程序化生成物体与 GLB 导出，让交付要求具体可执行。",
+    "basis": "public_prompt"
+  },
+  "2110115647921471812": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110115992194212327": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110116583016419760": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110116676922650636": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110116795516661832": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110117120839148016": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110117470472450087": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110118088482095364": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110118616637259968": {
+    "en": "Fixes a 30-second introduction format while leaving tools and creative direction open; useful for broad exploration rather than exact replication.",
+    "zh": "固定 30 秒自我介绍格式，同时放开工具与创意方向，适合探索而非精确复现。",
+    "basis": "public_prompt"
+  },
+  "2110119069278232997": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110119573244789189": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110119580207337739": {
+    "en": "Defines a single HTML file and a roughly one-minute progression from warp intro to enemies and final boss.",
+    "zh": "限定单 HTML 文件与约一分钟流程，按跃迁开场、敌人、最终 Boss 递进。",
+    "basis": "public_prompt"
+  },
+  "2110120127320797606": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110120804650459493": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110121002332295599": {
+    "en": "Connects a clicked historical sketch to an interactive Three.js/WebGL model that demonstrates how the invention works.",
+    "zh": "把点击历史草图与可交互的 Three.js/WebGL 模型连接，并要求展示发明的工作原理。",
+    "basis": "public_prompt"
+  },
+  "2110121131071938982": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110121892442943710": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110123543740510444": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110124253924475073": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110124500637667607": {
+    "en": "Defines repeatable data fields for each language, an era-changing UI and an executable Hello World interaction.",
+    "zh": "为每种语言定义统一信息字段，配合随年代变化的界面和 Hello World 运行交互。",
+    "basis": "public_prompt"
+  },
+  "2110124903047512437": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110125129053200430": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110125258351030429": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110125417298632837": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110125535934443863": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110126675682033909": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110127714682257459": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110127783837835334": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110128337037213928": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110128795026145609": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110128927549292684": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110129890364367359": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110131248727298412": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110131306491478459": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110131790136401989": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110132033586340338": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110132280614064300": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110132555643245028": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110132736635884016": {
+    "en": "Uses four inventions and a sketch-to-interactive-model transition to structure the experience; reuse that interaction for another topic.",
+    "zh": "用四项发明和草图转交互模型来组织体验；可将这套交互替换到其他主题。",
+    "basis": "public_prompt"
+  },
+  "2110132988142895594": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110133407351017847": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110135264782025044": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110135703007035486": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110136719827747181": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110137408968695911": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110138436200088013": {
+    "en": "Fixes a ten-second game-promo duration but leaves the game context implicit; provide the game assets and key selling point when reusing it.",
+    "zh": "固定十秒游戏宣传片时长，但依赖未写明的游戏上下文；复用时补充游戏素材与核心卖点。",
+    "basis": "public_prompt"
+  },
+  "2110138628227887393": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110138824584245343": {
+    "en": "Uses “not a typo” to preserve the deliberately reversed subject-action relationship: a bike riding a pelican.",
+    "zh": "用“not a typo”保留刻意反转的主体动作关系：自行车骑鹈鹕。",
+    "basis": "public_prompt"
+  },
+  "2110139470813225167": {
+    "en": "Specifies one HTML file with no external dependencies and enumerates commands, filesystem behavior and boot interactions.",
+    "zh": "限定单 HTML、无外部依赖，并逐项列出命令、文件系统行为和启动交互。",
+    "basis": "public_prompt"
+  },
+  "2110139482091741428": {
+    "en": "Assigns different tasks to individual tentacles and ties body and meter movement to the beat, giving concurrent motion clear roles.",
+    "zh": "给不同触手分配独立任务，并将身体与仪表动作绑定节拍，让并行动画各司其职。",
+    "basis": "public_prompt"
+  },
+  "2110140198130425917": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110141531030176019": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110142258792263713": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110144211349856583": {
+    "en": "Define forces, collision rules and the controls the viewer can change before polishing the render.",
+    "zh": "先定义受力、碰撞规则和观众可调参数，再打磨渲染。",
+    "basis": "editorial_suggestion"
+  },
+  "2110144886016229692": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110146683849904512": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110147571532628423": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110147876559216712": {
+    "en": "An open-ended surprise request leaves the output unconstrained; add format, duration and audience when turning it into a repeatable workflow.",
+    "zh": "开放式惊喜请求没有限定输出；要变成可重复工作流，应补充格式、时长与受众。",
+    "basis": "public_prompt"
+  },
+  "2110148938636611865": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110149368628338968": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110151326470648057": {
+    "en": "Define voxel size, a compact palette and a readable silhouette before adding motion.",
+    "zh": "先明确体素尺寸、精简配色和清晰轮廓，再增加运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110152387604500593": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110152688168271916": {
+    "en": "Define user inputs, visible feedback and reset behavior before styling the experience.",
+    "zh": "先定义用户输入、可见反馈和重置行为，再设计视觉样式。",
+    "basis": "editorial_suggestion"
+  },
+  "2110153221453103187": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110154189213184210": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110155062664188395": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110156279742124329": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110156716524601762": {
+    "en": "Asks for both a circuit-block simulator and explanations of each block, combining interaction with teaching.",
+    "zh": "同时要求电子积木模拟器和每个模块的说明，把交互与教学结合。",
+    "basis": "public_prompt"
+  },
+  "2110158209738833985": {
+    "en": "Define controls, collision behavior and win/loss conditions before adding visual effects.",
+    "zh": "先定义操作、碰撞行为和胜负条件，再添加视觉效果。",
+    "basis": "editorial_suggestion"
+  },
+  "2110159585248178578": {
+    "en": "Choose one learning goal, divide it into scenes and specify what the viewer can inspect or change.",
+    "zh": "先确定一个学习目标，再拆分场景并明确观众能查看或调整什么。",
+    "basis": "editorial_suggestion"
+  },
+  "2110160290088382522": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110160362041655750": {
+    "en": "Specifies a web-based 3D scene and manual modeling; add an object list and camera plan to make the broad brief actionable.",
+    "zh": "指定网页 3D 场景与手工建模；复用时补充物体清单和镜头规划，让宽泛任务更可执行。",
+    "basis": "public_prompt"
+  },
+  "2110160814178988413": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110161014167941388": {
+    "en": "Names Three.js and an immersive animation goal; keep the artwork-generation step separate from the creator’s later promotional-video assembly.",
+    "zh": "指定 Three.js 与沉浸式动画目标；将作品生成与作者后续的宣传片剪辑步骤区分开。",
+    "basis": "public_prompt"
+  },
+  "2110165280370647159": {
+    "en": "Uses one design-data source for ship parts and assembly timing, then specifies frame-by-frame export and FFmpeg packaging.",
+    "zh": "用一份设计数据统一船体部件与组装时序，再明确逐帧导出和 FFmpeg 封装。",
+    "basis": "public_prompt"
+  },
+  "2110165927916613916": {
+    "en": "Set a particle budget, a small color palette and a deterministic time input for repeatable frames.",
+    "zh": "设定粒子数量、精简配色与确定性时间输入，便于重复生成画面。",
+    "basis": "editorial_suggestion"
+  },
+  "2110166300622471434": {
+    "en": "List scene components, materials and camera shots before asking for the Blender script and export.",
+    "zh": "先列场景部件、材质与机位，再要求 Blender 脚本和导出。",
+    "basis": "editorial_suggestion"
+  },
+  "2110166432151400762": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110168595812519947": {
+    "en": "Break the character into named parts and specify each joint’s motion and loop duration.",
+    "zh": "把角色拆成命名部件，并规定关节运动与循环时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110169622565769561": {
+    "en": "Separate surface appearance from wave simulation; tune reflections, damping and camera motion independently.",
+    "zh": "把表面观感与波浪模拟分开，分别调整反射、阻尼和镜头运动。",
+    "basis": "editorial_suggestion"
+  },
+  "2110170267947298979": {
+    "en": "Define the opening, key transition and ending on a timed shot list.",
+    "zh": "用带时长的镜头清单规定开场、关键转场与结尾。",
+    "basis": "editorial_suggestion"
+  },
+  "2110170471165505765": {
+    "en": "Separate asset creation, animation and final export into explicit steps with a deliverable for each.",
+    "zh": "将素材生成、动画和最终导出拆成明确步骤，为每步指定交付物。",
+    "basis": "editorial_suggestion"
+  },
+  "2110170866495733811": {
+    "en": "List interface states and their transition triggers before choosing animation easing and duration.",
+    "zh": "先列界面状态及切换条件，再指定动画缓动与时长。",
+    "basis": "editorial_suggestion"
+  },
+  "2110176450926227521": {
+    "en": "List the main objects, material properties and camera path before increasing scene detail.",
+    "zh": "先列主体物体、材质属性和镜头路径，再增加场景细节。",
+    "basis": "editorial_suggestion"
+  },
+  "2110177575825821842": {
+    "en": "Use the same prompt, assets and output settings for each model, and retain visible model labels.",
+    "zh": "为各模型使用相同提示词、素材和输出设置，并保留可见模型标签。",
+    "basis": "editorial_suggestion"
+  },
+  "2110177611058196956": {
+    "en": "Specify tempo, beat markers and visual cues on a shared timeline before syncing audio.",
+    "zh": "先在统一时间线上明确速度、节拍标记与视觉节点，再同步音频。",
+    "basis": "editorial_suggestion"
+  },
+  "2110178222524731701": {
+    "en": "Names a specific shrine and Blender; add landmark geometry, materials and export requirements to make the short brief reusable.",
+    "zh": "点名伏见稻荷大社与 Blender；复用时补充地标结构、材质和导出要求。",
+    "basis": "public_prompt"
+  }
+}

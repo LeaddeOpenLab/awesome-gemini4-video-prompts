@@ -1319,3 +1319,9 @@ html[lang="zh-CN"] .hero h1 {
 .star-hint span { color: var(--muted); }
 .star-hint a { color: var(--purple-dark); font-weight: 550; }
 .star-hint a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Editorial prompt takeaways shared by cards and detail pages. */
+.pro-tip { margin: 16px 0; padding: 14px 16px; border-left: 3px solid var(--accent, #6e4dfc); border-radius: 0 9px 9px 0; background: #f3efff; color: #32264a; }
+.pro-tip strong { display: block; font-size: 13px; line-height: 1.5; }
+.pro-tip-label { display: block; margin-top: 3px; font-size: 11px; color: #70617e; }
+.pro-tip p, .card .pro-tip p, .showcase-grid .card .pro-tip p { margin: 7px 0 0; font-size: 13px; line-height: 1.65; color: #514164; overflow-wrap: anywhere; }
