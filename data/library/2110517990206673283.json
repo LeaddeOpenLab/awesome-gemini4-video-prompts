@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T04:48:03.182Z",
+  "model": "gemini4",
+  "prompt": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.",
+  "promptTranslations": {
+    "en": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy."
+  },
+  "summary": "Screen recording of an interactive 3D WebGL Earth history application created with Gemini 4 Argon, covering 4.54 billion years of continental and planetary evolution.",
+  "summaryEn": "Interactive 3D Earth Deep-Time History Visualization",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110517990206673283",
+    "canonicalUrl": "https://x.com/misat0x/status/2110517990206673283",
+    "author": {
+      "username": "misat0x",
+      "displayName": "Misato",
+      "profileUrl": "https://x.com/misat0x"
+    },
+    "publishedAt": "2026-10-14T23:47:55.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "en",
+    "originalText": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.\n\nThen I asked it to break down what the visualization is actually based on:\n\n>Present day - GSHHG coastlines and NOAA ETOPO 2022 elevation on a 60-arc-second grid (~1.85 km between grid points at the equator). NASA Blue Marble surface imagery is from 2004.\n\n>The last 80,000 years - ice-sheet data from the PaleoMIST 1.0 reconstruction, at 2,500-year intervals. The steps between those snapshots are interpolated.\n\n>540 million years ago to today - PALEOMAP / Scotese & Wright paleogeography, interpolated between map snapshots.\n\n>1.8 billion to 540 million years ago - CAO2024 continental-block reconstruction. Ancient positions are uncertain; coastlines and relief are illustrative.\n\n>Earlier Earth and the Moon-forming impact - visual reconstructions, not a literal geophysical simulation.\n\nThe further back in time you go, the more the visualization relies on reconstruction rather than direct geographic data. \n\nhttps://t.co/geeKA5a4iQ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/misat0x/status/2110517990206673283",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110517207864102912/img/zlHVaUnbSLN_87eb.jpg",
+        "analysisUrl": "https://x.com/misat0x/status/2110517990206673283"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 311
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/misat0x/status/2110520785362202712",
+        "text": "@knowixbuilds Probably, but I’m sure Opus would’ve done a better job. It took a couple of hours, there were too many collision issues, and I still don’t like how it turned out",
+        "author": "misat0x"
+      },
+      {
+        "url": "https://misatodevx.github.io/earth-deep-time/",
+        "text": "\n\n\n\nEarth / Deep Time\n\n\n\n\n\n\n\nEARTHPreparing the globe\n\nEARTH / DEEP TIME\nStudio light\ni\n\n\n\n\nEarth today\n\n\nLoading era…\n\n▶↶1× · 3:30History in 60s4,540,000,000YEARS AGODrag to explore\n\n\n4.54 billion1.8 billion540 million2.58 million26,000Today\n\n\n\n\n×ABOUT THE RECONSTRUCTIONA planet across deep time.\n\nModern surface: NASA Blue Marble, GSHHG coastlines and NOAA ETOPO 2022 relief.\nLast 80,000 years: PaleoMIST 1.0.\nLast 540 million years: PALEOMAP PaleoDEM.\nBack to 1.8 billion years ago: CAO2024 continental blocks.\n\nEarly Earth, ancient clouds, fine surface detail, colours and Cryogenian ice fronts are illustrative. Theia represents the giant-impact hypothesis for lunar formation. The approach follows two-body gravity; melt flow, ejecta and lunar assembly are visual reconstructions. Later impacts are representative examples. Ancient maps are interpolated; this is not a physical tectonics simulator.\n\nSpace Play / pauseH Clean viewC CloudsF Full screenL LightingR Reset camera\n\nDrag to orbit. Scroll or pinch to zoom. Studio light keeps the visible globe readable; sunlight preserves day and night.\nThe timeline is nonlinear. The 60-second journey uses ten paced chapters. Land imagery dates to August 2004; cloud imagery to July 2001. This is not live weather.\n\nShow controls\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "misat0x"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/misat0x/status/2110517990206673283",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110517207864102912/img/zlHVaUnbSLN_87eb.jpg",
+  "coverPath": "covers/2110517990206673283.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110517207864102912",
+    "x-post:2110517990206673283"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Earth Deep-Time History Visualization",
+      "summary": "Screen recording of an interactive 3D WebGL Earth history application created with Gemini 4 Argon, covering 4.54 billion years of continental and planetary evolution.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.",
+        "englishText": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt",
+          "Full code generation prompts",
+          "WebGL application implementation code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D Earth globe scrubbed through 4.54 billion years with accurate geological era captions, continental drift, and day/night toggles.",
+        "textualResultQuote": ">Present day - GSHHG coastlines and NOAA ETOPO 2022 elevation on a 60-arc-second grid (~1.85 km between grid points at the equator). NASA Blue Marble surface imagery is from 2004.\n\n>The last 80,000 years - ice-sheet data from the PaleoMIST 1.0 reconstruction, at 2,500-year intervals. The steps between those snapshots are interpolated.\n\n>540 million years ago to today - PALEOMAP / Scotese & Wright paleogeography, interpolated between map snapshots.\n\n>1.8 billion to 540 million years ago - CAO2024 continental-block reconstruction. Ancient positions are uncertain; coastlines and relief are illustrative.\n\n>Earlier Earth and the Moon-forming impact - visual reconstructions, not a literal geophysical simulation."
+      },
+      "inputs": [
+        {
+          "kind": "dataset",
+          "description": "Scientific paleogeography, ice-sheet, and elevation datasets (NASA Blue Marble, GSHHG, NOAA ETOPO 2022, PaleoMIST 1.0, PALEOMAP, CAO2024).",
+          "available": true,
+          "evidence": "Modern surface: NASA Blue Marble, GSHHG coastlines and NOAA ETOPO 2022 relief. Last 80,000 years: PaleoMIST 1.0. Last 540 million years: PALEOMAP PaleoDEM. Back to 1.8 billion years ago: CAO2024 continental blocks.",
+          "sourceUrl": "https://misatodevx.github.io/earth-deep-time/",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / Canvas",
+          "role": "Interactive renderer running the generated 3D globe application",
+          "evidence": "Interactive web app hosted at https://misatodevx.github.io/earth-deep-time/ with timeline controls and canvas display.",
+          "sourceUrl": "https://misatodevx.github.io/earth-deep-time/",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Earth History Globe",
+        "topic": "3d-scenes",
+        "tags": [
+          "earth-history",
+          "paleogeography",
+          "interactive-globe",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Wrote the interactive 3D visualization code and determined historical reconstruction datasets.",
+      "outputSource": "Web browser screen recording of the running GitHub Pages deployment.",
+      "divisionEvidence": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history... It took a couple of hours, there were too many collision issues, and I still don’t like how it turned out",
+      "video": {
+        "shots": "Single continuous screen capture",
+        "duration": "01:10",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production case demonstrating an interactive 3D planetary history visualization.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/misat0x/status/2110517990206673283",
+        "start": 0,
+        "end": 118
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/misat0x/status/2110517990206673283",
+        "author": "misat0x",
+        "postId": "2110517990206673283",
+        "publishedAt": "2026-10-14T23:47:55.000Z"
+      },
+      "checkedAt": "2026-10-15T04:15:55.149Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Screen recording of an interactive 3D WebGL Earth history application created with Gemini 4 Argon, covering 4.54 billion years of continental and planetary evolution.",
+    "summaryEn": "Interactive 3D Earth Deep-Time History Visualization",
+    "originalPrompt": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.",
+    "sourceRange": {
+      "start": 0,
+      "end": 118
+    },
+    "translations": {
+      "zh": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy.",
+      "en": "Asked Gemini 4 Argon to visualize Earth’s entire 4.54-billion-year history.\n\nMy main requirement: scientific accuracy."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Earth History Globe",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt",
+        "Full code generation prompts",
+        "WebGL application implementation code"
+      ],
+      "evidence": "The video shows a 3D Earth globe scrubbed through 4.54 billion years with accurate geological era captions, continental drift, and day/night toggles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

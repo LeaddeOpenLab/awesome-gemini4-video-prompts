@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T04:48:03.380Z",
+  "model": "gemini4",
+  "prompt": "pixel-art druid ➜ bear loop, vanilla JS + Canvas.",
+  "promptTranslations": {
+    "en": "pixel-art druid ➜ bear loop, vanilla JS + Canvas."
+  },
+  "summary": "Comparison of pixel-art druid-to-bear animations coded in vanilla JS and Canvas across Gemini 4 Argon and other models.",
+  "summaryEn": "Pixel-Art Druid to Bear Canvas Loop",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110448050502246856",
+    "canonicalUrl": "https://x.com/FatalExit/status/2110448050502246856",
+    "author": {
+      "username": "FatalExit",
+      "displayName": "Fatal Exit",
+      "profileUrl": "https://x.com/FatalExit"
+    },
+    "publishedAt": "2026-10-14T19:10:00.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "en",
+    "originalText": "Grok 4.7 was the dark horse here.\n\nSame prompt, one shot: pixel-art druid ➜ bear loop, vanilla JS + Canvas.\n\nGemini 4 Argon: quick, my fav druid, IMO my fav\nOpus 5.5: best bear, but 10+ min\nGrok 4.7: quickest, under 2 min, surprisingly good\n\nWhich do you like most? https://t.co/SSBWrzGIuK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/FatalExit/status/2110448050502246856",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110447159837437953/img/vo8IxTPSY4YdkGgQ.jpg",
+        "analysisUrl": "https://x.com/FatalExit/status/2110448050502246856"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 336
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/FatalExit/status/2110448050502246856",
+        "text": "Fatal Exit on X: \"Grok 4.7 was the dark horse here.\n\nSame prompt, one shot: pixel-art druid ➜ bear loop, vanilla JS + Canvas.\n\nGemini 4 Argon: quick, my fav druid, IMO my fav\nOpus 5.5: best bear, but 10+ min\nGrok 4.7: quickest, under 2 min, surprisingly good\n\nWhich do you like most?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nFatal Exit on X: \"Grok 4.7 was the dark horse here.\n\nSame prompt, one shot: pixel-art druid ➜ bear loop, vanilla JS + Canvas.\n\nGemini 4 Argon: quick, my fav druid, IMO my fav\nOpus 5.5: best bear, but 10+ min\nGrok 4.7: quickest, under 2 min, surprisingly good\n\nWhich do you like most?\"\n\n\n\nFatal Exit\n\n@FatalExit\n\n\n\n\nGrok 4.7 was the dark horse here.\n\nSame prompt, one shot: pixel-art druid ➜ bear loop, vanilla JS + Canvas.\n\nGemini 4 Argon: quick, my fav druid, IMO my fav\nOpus 5.5: best bear, but 10+ min\nGrok 4.7: quickest, under 2 min, surprisingly good\n\nWhich do you like most?\n\n\n00:00\n\n\n\n\n\n\n\n\n7:10 PM · Oct 14, 2026·336\nViews\n\n\n\n1\n\n8\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nFatal Exit@FatalExitFollow\nlvl 30 Gamedev + musician · 10 yrs, 50+ jams · I ship browser games fast with AI + Defold · play free 👇 wavedash.com/FatalExit\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFatal Exit\n\n@FatalExit\n\n\n\n\nGrok 4.7 was the dark horse here.\n\nSame prompt, one shot: pixel-art druid ➜ bear loop, vanilla JS + Canvas.\n\nGemini 4 Argon: quick, my fav druid, IMO my fav\nOpus 5.5: best bear, but 10+ min\nGrok 4.7: quickest, under 2 min, surprisingly good\n\nWhich do you like most?\n\n\n00:00\n\n\n\n\n\n\n\n\n7:10 PM · Oct 14, 2026·336\nViews\n\n\n\n1\n\n8\n1\n\n\n\n\n\n\n\n\n\nTony Rick\n\n@TonyyRickk\n7h\n\n\ngrok under 2 min is unfair 🔥\n\n\n\n\n1\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "FatalExit"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/FatalExit/status/2110448050502246856",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110447159837437953/img/vo8IxTPSY4YdkGgQ.jpg",
+  "coverPath": "covers/2110448050502246856.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110447159837437953",
+    "x-post:2110448050502246856"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Pixel-Art Druid to Bear Canvas Loop",
+      "summary": "Comparison of pixel-art druid-to-bear animations coded in vanilla JS and Canvas across Gemini 4 Argon and other models.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon: quick, my fav druid, IMO my fav"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "pixel-art druid ➜ bear loop, vanilla JS + Canvas.",
+        "englishText": "pixel-art druid ➜ bear loop, vanilla JS + Canvas.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full prompt instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows animated pixel-art druid morphing into a bear in a forest scene.",
+        "textualResultQuote": "Gemini 4 Argon: quick, my fav druid, IMO my fav"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas",
+          "role": "Rendering engine",
+          "evidence": "vanilla JS + Canvas",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Execution logic",
+          "evidence": "vanilla JS + Canvas",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Pixel Art Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "pixel-art",
+          "canvas",
+          "transformation-loop"
+        ]
+      },
+      "targetModelRole": "Code generation for Canvas animation",
+      "outputSource": "HTML5 Canvas / browser runtime",
+      "divisionEvidence": "vanilla JS + Canvas",
+      "video": {
+        "shots": "Single shot loop",
+        "duration": "24s",
+        "aspectRatio": "1280:1056",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author demonstrates Gemini 4 Argon generating a Canvas video animation with side-by-side results.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/FatalExit/status/2110448050502246856",
+        "start": 58,
+        "end": 107
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/FatalExit/status/2110448050502246856",
+        "author": "FatalExit",
+        "postId": "2110448050502246856",
+        "publishedAt": "2026-10-14T19:10:00.000Z"
+      },
+      "checkedAt": "2026-10-15T04:13:47.146Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Comparison of pixel-art druid-to-bear animations coded in vanilla JS and Canvas across Gemini 4 Argon and other models.",
+    "summaryEn": "Pixel-Art Druid to Bear Canvas Loop",
+    "originalPrompt": "pixel-art druid ➜ bear loop, vanilla JS + Canvas.",
+    "sourceRange": {
+      "start": 58,
+      "end": 107
+    },
+    "translations": {
+      "zh": "pixel-art druid ➜ bear loop, vanilla JS + Canvas.",
+      "en": "pixel-art druid ➜ bear loop, vanilla JS + Canvas."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Pixel Art Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full prompt instructions"
+      ],
+      "evidence": "Video shows animated pixel-art druid morphing into a bear in a forest scene."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

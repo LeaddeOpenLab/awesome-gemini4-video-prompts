@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T04:48:03.585Z",
+  "model": "gemini4",
+  "prompt": "build a realistic 3D cat petting simulator",
+  "promptTranslations": {
+    "en": "build a realistic 3D cat petting simulator"
+  },
+  "summary": "Comparison of a 3D cat petting simulator built with Gemini 4 Argon versus GPT 6 Astra.",
+  "summaryEn": "3D Cat Petting Simulator",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110532511067771187",
+    "canonicalUrl": "https://x.com/gmi_cloud/status/2110532511067771187",
+    "author": {
+      "username": "gmi_cloud",
+      "displayName": "GMI Cloud",
+      "profileUrl": "https://x.com/gmi_cloud"
+    },
+    "publishedAt": "2026-10-15T00:45:37.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon is better at petting a cat than most AI \n\nwe asked Gemini and GPT 6 Astra to build a realistic 3D cat petting simulator. \n\nGemini 4 Argon: 3h 22m · $30.50\nGPT 6 Astra: 1h 10m · $29\n\nGPT-6 Astra finished almost 3× faster, but Gemini seems to understand what petting really means",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/gmi_cloud/status/2110532511067771187",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110531558918791168/img/_rQgOKnkKlmpolbW.jpg",
+        "analysisUrl": "https://x.com/gmi_cloud/status/2110532511067771187"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 2,
+      "viewCount": 655
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/gmi_cloud/status/2110532511067771187",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110531558918791168/img/_rQgOKnkKlmpolbW.jpg",
+  "coverPath": "covers/2110532511067771187.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110531558918791168",
+    "x-post:2110532511067771187"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "3D Cat Petting Simulator",
+      "summary": "Comparison of a 3D cat petting simulator built with Gemini 4 Argon versus GPT 6 Astra.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon is better at petting a cat than most AI \n\nwe asked Gemini and GPT 6 Astra to build a realistic 3D cat petting simulator."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a realistic 3D cat petting simulator",
+        "englishText": "build a realistic 3D cat petting simulator",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete prompt instructions",
+          "implementation code",
+          "model parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Split-screen video demonstrates the interactive 3D simulation running.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Cat Petting Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "3d",
+          "simulation",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Code generation for 3D interactive simulator",
+      "outputSource": "Screen recording of rendered 3D scene",
+      "divisionEvidence": "we asked Gemini and GPT 6 Astra to build a realistic 3D cat petting simulator.",
+      "video": {
+        "shots": "Single split-screen view",
+        "duration": "34s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 generating code for a playable 3D animation simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/gmi_cloud/status/2110532511067771187",
+        "start": 92,
+        "end": 134
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/gmi_cloud/status/2110532511067771187",
+        "author": "gmi_cloud",
+        "postId": "2110532511067771187",
+        "publishedAt": "2026-10-15T00:45:37.000Z"
+      },
+      "checkedAt": "2026-10-15T04:19:30.304Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison of a 3D cat petting simulator built with Gemini 4 Argon versus GPT 6 Astra.",
+    "summaryEn": "3D Cat Petting Simulator",
+    "originalPrompt": "build a realistic 3D cat petting simulator",
+    "sourceRange": {
+      "start": 92,
+      "end": 134
+    },
+    "translations": {
+      "zh": "build a realistic 3D cat petting simulator",
+      "en": "build a realistic 3D cat petting simulator"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Cat Petting Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete prompt instructions",
+        "implementation code",
+        "model parameters"
+      ],
+      "evidence": "Split-screen video demonstrates the interactive 3D simulation running."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

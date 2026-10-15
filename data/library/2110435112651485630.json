@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T04:48:04.279Z",
+  "model": "gemini4",
+  "prompt": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+  "promptTranslations": {
+    "en": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9."
+  },
+  "summary": "Comparison test using Gemini 4 Argon across two harnesses to generate a fast-paced 15-second stickman battle animation between a Sith and a Jedi.",
+  "summaryEn": "Gemini 4 Stickman Lightsaber Battle Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110435112651485630",
+    "canonicalUrl": "https://x.com/DanielZambrini/status/2110435112651485630",
+    "author": {
+      "username": "DanielZambrini",
+      "displayName": "Daniel Zambrini",
+      "profileUrl": "https://x.com/DanielZambrini"
+    },
+    "publishedAt": "2026-10-14T18:18:35.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation.\n\nAbove one was made through Gemini and below one used Argon through OpenCode\n\nWhich one do you prefer? https://t.co/ynXY2WYUyw",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DanielZambrini/status/2110435112651485630",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110433183229476864/img/iZydQc5IyDleSitJ.jpg",
+        "analysisUrl": "https://x.com/DanielZambrini/status/2110435112651485630"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 12230
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110518879684526393",
+        "text": "@yurais I am with you on that one!!",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110483099947589935",
+        "text": "@OmarKreidieh1 Yes true! I will remake the test once Cursor stops having issues with Argon!",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110469726338269558",
+        "text": "@vanyadog2 Ohh that sucks!! In the meanwhile Anthropic have Opus 5.5 with huge limits on the 20$ plan, and Opus is still better....Google need to pick its shit together",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110467598462664775",
+        "text": "@vanyadog2 Yes true, Gemini does not allow to pick the effort level! But I will test it again when they release it for Pro on Antigravity",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110440819782267309",
+        "text": "@rubenssoto_ai Most probably part of their training I think",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110438614316236941",
+        "text": "@rubenssoto_ai As generic as it can be:\n\nCreate me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110438236963192838",
+        "text": "@rubenssoto_ai It is kind of strange that they used the same colors and delivered something really close to each other isn it?",
+        "author": "DanielZambrini"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DanielZambrini/status/2110438007337578744",
+        "text": "@IndependentEco I am still deciding as well! but inclined to go with the one in the botton!",
+        "author": "DanielZambrini"
+      },
+      {
+        "url": "https://x.com/DanielZambrini/status/2110435112651485630",
+        "text": "Daniel Zambrini on X: \"Gemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation.\n\nAbove one was made through Gemini and below one used Argon through OpenCode\n\nWhich one do you prefer?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nDaniel Zambrini on X: \"Gemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation.\n\nAbove one was made through Gemini and below one used Argon through OpenCode\n\nWhich one do you prefer?\"\n\n\n\nDaniel Zambrini\n\n@DanielZambrini\n\n\n\n\nGemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation.\n\nAbove one was made through Gemini and below one used Argon through OpenCode\n\nWhich one do you prefer?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:18 PM · Oct 14, 2026·12.2K\nViews\n\n\n\n5\n\n28\n19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDaniel Zambrini@DanielZambriniFollow\nMy mission is to add value to the people around me\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Zambrini\n\n@DanielZambrini\n\n\n\n\nGemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation.\n\nAbove one was made through Gemini and below one used Argon through OpenCode\n\nWhich one do you prefer?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:18 PM · Oct 14, 2026·12.2K\nViews\n\n\n\n5\n\n28\n19\n\n\n\n\n\n\n\n\n\nOmar Kreidieh\n@OmarKreidieh1\n7h\n\n\nOne is medium and the other is high so you did not isolate the harness impact.\n\n\n1\n\n3\n430\n\n\n\n\n\n\n\n\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n9h\n\n\nBoth are so good but I think I prefer the cheaper one because the result is pretty similar\n\n\n1\n\n1\n329\n\n\n\n\n\n\n\n\n\n\n\nVanydog\n@vanyadog2\n7h\n\n\nReflections at a high level at the bottom, and at a medium level at the top—an unfair comparison.\n\n\n1\n\n1\n463\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "DanielZambrini"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DanielZambrini/status/2110435112651485630",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110433183229476864/img/iZydQc5IyDleSitJ.jpg",
+  "coverPath": "covers/2110435112651485630.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110433183229476864",
+    "x-post:2110435112651485630"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Stickman Lightsaber Battle Animation",
+      "summary": "Comparison test using Gemini 4 Argon across two harnesses to generate a fast-paced 15-second stickman battle animation between a Sith and a Jedi.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "OpenCode / Gemini Web",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon vs Gemini 4 Argon! ... Above one was made through Gemini and below one used Argon through OpenCode"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+        "englishText": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video exhibits two synchronized 15-second stick figure duel animations (red vs cyan lightsabers) matching the prompt instructions.",
+        "textualResultQuote": "Gemini 4 Argon vs Gemini 4 Argon!\n\nSame prompt and same task but a different harness: to build a 15 second stickman fighting animation."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "OpenCode",
+          "role": "Execution harness / code runtime environment",
+          "evidence": "below one used Argon through OpenCode",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Stickman Combat Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "stickman",
+          "animation",
+          "gemini-4",
+          "canvas"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive stickman animation",
+      "outputSource": "Web canvas/code runtime",
+      "divisionEvidence": "Gemini generates the animation code while OpenCode / web runtime executes the canvas rendering.",
+      "video": {
+        "shots": "Single split-screen shot comparing two outputs",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author shared the complete prompt, verified Gemini 4 usage, and supplied the matching generated 15-second animation video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DanielZambrini/status/2110438614316236941",
+        "start": 41,
+        "end": 213
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DanielZambrini/status/2110435112651485630",
+        "author": "DanielZambrini",
+        "postId": "2110435112651485630",
+        "publishedAt": "2026-10-14T18:18:35.000Z"
+      },
+      "checkedAt": "2026-10-15T04:22:05.225Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison test using Gemini 4 Argon across two harnesses to generate a fast-paced 15-second stickman battle animation between a Sith and a Jedi.",
+    "summaryEn": "Gemini 4 Stickman Lightsaber Battle Animation",
+    "originalPrompt": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+    "sourceRange": {
+      "start": 41,
+      "end": 213
+    },
+    "translations": {
+      "zh": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9.",
+      "en": "Create me a 15 second Stickman animation based on a fight of a Sith vs a Jedi\nIt should be super fast paced and engaging.\nIt does not need sound effects.\nIt should be 16-9."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Stickman Combat Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video exhibits two synchronized 15-second stick figure duel animations (red vs cyan lightsabers) matching the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
