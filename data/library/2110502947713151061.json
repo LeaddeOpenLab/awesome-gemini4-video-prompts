@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T12:09:16.685Z",
+  "model": "gemini4",
+  "prompt": "白魔導士が猪苗代湖で水龍と戦う場面を動画で作って",
+  "promptTranslations": {
+    "en": "Create a video of a scene where a white mage fights a water dragon at Lake Inawashiro."
+  },
+  "summary": "Gemini 4 video generation showing a white mage fighting a water dragon at Lake Inawashiro.",
+  "summaryEn": "White Mage vs Water Dragon at Lake Inawashiro",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110502947713151061",
+    "canonicalUrl": "https://x.com/sanpo_master_00/status/2110502947713151061",
+    "author": {
+      "username": "sanpo_master_00",
+      "displayName": "サンポマスター",
+      "profileUrl": "https://x.com/sanpo_master_00"
+    },
+    "publishedAt": "2026-10-14T22:48:08.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "ja",
+    "originalText": "Gemini4の動画生成能力すごいな!\n「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。もっとちゃんと作れそう。 https://t.co/5HeSmt87f5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sanpo_master_00/status/2110502947713151061",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110501172339683328/img/zlFb8x8EnpAkaGqZ.jpg",
+        "analysisUrl": "https://x.com/sanpo_master_00/status/2110502947713151061"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/sanpo_master_00/status/2110502947713151061",
+        "text": "サンポマスター on X: \"Gemini4の動画生成能力すごいな!\n「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。もっとちゃんと作れそう。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nサンポマスター on X: \"Gemini4の動画生成能力すごいな!\n「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。もっとちゃんと作れそう。\"\n\n\n\nサンポマスター\n@sanpo_master_00\n\n\n\n\nShow translation\nGemini4の動画生成能力すごいな!\n「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。もっとちゃんと作れそう。\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n10:48 PM · Oct 14, 2026·11\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nサンポマスター@sanpo_master_00Follow\n福島県を散歩中。時々はみ出します。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nサンポマスター\n@sanpo_master_00\n\n\n\n\nShow translation\nGemini4の動画生成能力すごいな!\n「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。もっとちゃんと作れそう。\n\n\n00:00\n\n\n\n\n\n\n\n\nMade with AI\n\n10:48 PM · Oct 14, 2026·11\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "sanpo_master_00"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/sanpo_master_00/status/2110502947713151061",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110501172339683328/img/zlFb8x8EnpAkaGqZ.jpg",
+  "coverPath": "covers/2110502947713151061.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110501172339683328",
+    "x-post:2110502947713151061"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "White Mage vs Water Dragon at Lake Inawashiro",
+      "summary": "Gemini 4 video generation showing a white mage fighting a water dragon at Lake Inawashiro.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini4の動画生成能力すごいな!"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "白魔導士が猪苗代湖で水龍と戦う場面を動画で作って",
+        "englishText": "Create a video of a scene where a white mage fights a water dragon at Lake Inawashiro.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a white mage casting spells against an emerging water dragon at a lakefront with a mountain backdrop.",
+        "textualResultQuote": "「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Fantasy battle cinematic",
+        "topic": "3d-scenes",
+        "tags": [
+          "gemini4",
+          "fantasy",
+          "cinematic",
+          "video-generation"
+        ]
+      },
+      "targetModelRole": "End-to-end video generator",
+      "outputSource": "Gemini 4 native video generation",
+      "divisionEvidence": "Gemini4の動画生成能力すごいな! 「白魔導士が猪苗代湖で水龍と戦う場面を動画で作って」のプロンプトだけでこの出来。",
+      "video": {
+        "shots": "Multiple cinematic cuts showing battle encounters and spell-casting.",
+        "duration": "9s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Author specifies Gemini 4, provides the exact prompt, and includes the generated video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/sanpo_master_00/status/2110502947713151061",
+        "start": 21,
+        "end": 45
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/sanpo_master_00/status/2110502947713151061",
+        "author": "sanpo_master_00",
+        "postId": "2110502947713151061",
+        "publishedAt": "2026-10-14T22:48:08.000Z"
+      },
+      "checkedAt": "2026-10-15T05:19:13.320Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 video generation showing a white mage fighting a water dragon at Lake Inawashiro.",
+    "summaryEn": "White Mage vs Water Dragon at Lake Inawashiro",
+    "originalPrompt": "白魔導士が猪苗代湖で水龍と戦う場面を動画で作って",
+    "sourceRange": {
+      "start": 21,
+      "end": 45
+    },
+    "translations": {
+      "zh": "白魔導士が猪苗代湖で水龍と戦う場面を動画で作って",
+      "en": "Create a video of a scene where a white mage fights a water dragon at Lake Inawashiro."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "external-video-model",
+    "useCase": "Fantasy battle cinematic",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a white mage casting spells against an emerging water dragon at a lakefront with a mountain backdrop."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T12:09:16.460Z",
+  "model": "gemini4",
+  "prompt": "Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。",
+  "promptTranslations": {
+    "en": "Create a playable 3D crane game for the web. Make it one that actually has physics simulations."
+  },
+  "summary": "Interactive 3D physics-based crane game generated with Gemini 4.",
+  "summaryEn": "Web 3D Physics Crane Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110516245502284192",
+    "canonicalUrl": "https://x.com/miyayu_jp/status/2110516245502284192",
+    "author": {
+      "username": "miyayu_jp",
+      "displayName": "Miyayu",
+      "profileUrl": "https://x.com/miyayu_jp"
+    },
+    "publishedAt": "2026-10-14T23:40:59.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argon High、意外とすごいかもしれないな！？\n\nプロンプトはこれだけ（Web版のGemini）👇\n「Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。」 https://t.co/gC6zpGAqaK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/miyayu_jp/status/2110516245502284192",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110516210253377536/img/-aXTl5mhH8IbQEu8.jpg",
+        "analysisUrl": "https://x.com/miyayu_jp/status/2110516245502284192"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 628
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/gC6zpGAqaK"
+    ]
+  },
+  "xUrl": "https://x.com/miyayu_jp/status/2110516245502284192",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110516210253377536/img/-aXTl5mhH8IbQEu8.jpg",
+  "coverPath": "covers/2110516245502284192.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110516210253377536",
+    "x-post:2110516245502284192"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Web 3D Physics Crane Game",
+      "summary": "Interactive 3D physics-based crane game generated with Gemini 4.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Web",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon High、意外とすごいかもしれないな！？ プロンプトはこれだけ（Web版のGemini）"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。",
+        "englishText": "Create a playable 3D crane game for the web. Make it one that actually has physics simulations.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video displays full gameplay of a 3D claw machine with working physics and scoring.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser Canvas",
+          "role": "Runtime execution of 3D game",
+          "evidence": "UI shows preview environment with interactive canvas and controls",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Crane Game",
+        "topic": "games-interactive",
+        "tags": [
+          "3d",
+          "crane-game",
+          "physics",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation for 3D web game application",
+      "outputSource": "Web browser sandbox preview",
+      "divisionEvidence": "プロンプトはこれだけ（Web版のGemini）👇「Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。」",
+      "video": {
+        "shots": "1 screen recording",
+        "duration": "25s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Valid Gemini 4 case with full verbatim prompt and matching interactive screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/miyayu_jp/status/2110516245502284192",
+        "start": 64,
+        "end": 100
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/miyayu_jp/status/2110516245502284192",
+        "author": "miyayu_jp",
+        "postId": "2110516245502284192",
+        "publishedAt": "2026-10-14T23:40:59.000Z"
+      },
+      "checkedAt": "2026-10-15T05:20:04.032Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Interactive 3D physics-based crane game generated with Gemini 4.",
+    "summaryEn": "Web 3D Physics Crane Game",
+    "originalPrompt": "Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。",
+    "sourceRange": {
+      "start": 64,
+      "end": 100
+    },
+    "translations": {
+      "zh": "Webで遊べる3Dのクレーンゲームを作って。実際に物理演算があるやつで。",
+      "en": "Create a playable 3D crane game for the web. Make it one that actually has physics simulations."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Crane Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video displays full gameplay of a 3D claw machine with working physics and scoring."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

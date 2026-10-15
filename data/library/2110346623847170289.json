@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T12:09:15.996Z",
+  "model": "gemini4",
+  "prompt": "做个鹈鹕骑单车的动画",
+  "promptTranslations": {
+    "en": "Make an animation of a pelican riding a bicycle"
+  },
+  "summary": "Gemini 4 routed a short animation prompt to its native image and video generation pipeline instead of writing code.",
+  "summaryEn": "Pelican Riding Bicycle Animation via Gemini 4",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110346623847170289",
+    "canonicalUrl": "https://x.com/GKev1n/status/2110346623847170289",
+    "author": {
+      "username": "GKev1n",
+      "displayName": "gKev1n",
+      "profileUrl": "https://x.com/GKev1n"
+    },
+    "publishedAt": "2026-10-14T12:26:58.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "zh",
+    "originalText": "震惊！Σ(¯□¯||)（其实也没那么震惊！哈哈哈）\n\n今天拿鹈鹕测试测了一下Gemini 4 Argon 的模型能力，结果有一个令我意想不到的结果：\n我的提示词只说了“做个鹈鹕骑单车的动画”，忘了限定 SVG。\n结果它直接绕过代码，调自家的生图+图生视频管线生成了这个动画……这操作是真的骚啊🤣\n\n但这个“偷懒”的闭环仔细想想还挺有意思的：\n\n现在牌桌上的御三家+Grok，真正在底层把全模态生成管线自研打通的，除了 Grok 也就 Google 独一档了。这波反而让我对谷厂未来的牌面多了几分期待。\n\n这其实也代表了目前的两种技术审美：\n🔹 Claude 路线：万物皆可 Code，靠极致的逻辑手搓代码渲染画面\n🔹 Google 路线：原生多模态全家桶，遇到视觉需求直接调生成模型大力出奇迹\n\n兄弟们觉得哪种更牛逼，或者说更代表未来？\n所以说当年 OpenAI 放弃视频生成方向的决策是对的吗？",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GKev1n/status/2110346623847170289",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110346591068725248/img/v4hfZ-Vr_cEg3qaG.jpg",
+        "analysisUrl": "https://x.com/GKev1n/status/2110346623847170289"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 1,
+      "replyCount": 12,
+      "quoteCount": 2,
+      "viewCount": 13829
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ]
+  },
+  "xUrl": "https://x.com/GKev1n/status/2110346623847170289",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110346591068725248/img/v4hfZ-Vr_cEg3qaG.jpg",
+  "coverPath": "covers/2110346623847170289.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110346591068725248",
+    "x-post:2110346623847170289"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Pelican Riding Bicycle Animation via Gemini 4",
+      "summary": "Gemini 4 routed a short animation prompt to its native image and video generation pipeline instead of writing code.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": "Google",
+        "authorUseConfirmed": true,
+        "evidence": "今天拿鹈鹕测试测了一下Gemini 4 Argon 的模型能力"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "做个鹈鹕骑单车的动画",
+        "englishText": "Make an animation of a pelican riding a bicycle",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A cartoon pelican wearing a helmet rides a red bicycle along a coastal path with a fish in its beak.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Google Generative Video Pipeline",
+          "role": "Generated the animation frames and video based on prompt",
+          "evidence": "调自家的生图+图生视频管线生成了这个动画",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Pelican Riding Bicycle",
+        "topic": "motion-graphics",
+        "tags": [
+          "animation",
+          "cartoon",
+          "pelican",
+          "gemini4"
+        ]
+      },
+      "targetModelRole": "Orchestrator routing prompt to internal image and video generation pipeline",
+      "outputSource": "Google Generative Video Pipeline",
+      "divisionEvidence": "它直接绕过代码，调自家的生图+图生视频管线生成了这个动画",
+      "video": {
+        "shots": "Single tracking shot",
+        "duration": "PT9S",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Author demonstrated Gemini 4 orchestrating video generation pipeline from an animation prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/GKev1n/status/2110346623847170289",
+        "start": 84,
+        "end": 94
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/GKev1n/status/2110346623847170289",
+        "author": "GKev1n",
+        "postId": "2110346623847170289",
+        "publishedAt": "2026-10-14T12:26:58.000Z"
+      },
+      "checkedAt": "2026-10-15T04:23:39.602Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Gemini 4 routed a short animation prompt to its native image and video generation pipeline instead of writing code.",
+    "summaryEn": "Pelican Riding Bicycle Animation via Gemini 4",
+    "originalPrompt": "做个鹈鹕骑单车的动画",
+    "sourceRange": {
+      "start": 84,
+      "end": 94
+    },
+    "translations": {
+      "zh": "做个鹈鹕骑单车的动画",
+      "en": "Make an animation of a pelican riding a bicycle"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "external-video-model",
+    "useCase": "Pelican Riding Bicycle",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "A cartoon pelican wearing a helmet rides a red bicycle along a coastal path with a fish in its beak."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
