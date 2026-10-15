@@ -2,27 +2,33 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**1 source-verified real cases** · 1 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**0 source-verified real cases** · 13 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Pelican Bicycle 2D SVG Animation](../../../prompts/2110578166003843075.md)
+### [Interactive 3D Heart Attack Simulation](../../../prompts/2110591236323017154.md)
 
-![Preview by @SlyPaws1984](<../../covers/2110578166003843075.jpg>)
+![Preview by @DrNassiriAfshar](<../../covers/2110591236323017154.jpg>)
 
-By @SlyPaws1984 · [source](<https://x.com/SlyPaws1984/status/2110578166003843075>)
+By @DrNassiriAfshar · [source](<https://x.com/DrNassiriAfshar/status/2110591236323017154>)
 
-### [Pelican Lakeside Bike Ride Interactive SVG Animation](../../../prompts/2110545793694466401.md)
+### [3D Anatomical Heart Comparison via Devin and Droid](../../../prompts/2110435052676952069.md)
 
-![Preview by @Kedashu](<../../covers/2110545793694466401.jpg>)
+![Preview by @Laz01L](<../../covers/2110435052676952069.jpg>)
 
-By @Kedashu · [source](<https://x.com/Kedashu/status/2110545793694466401>)
+By @Laz01L · [source](<https://x.com/Laz01L/status/2110435052676952069>)
+
+### [Agentline Explainer Motion Graphics with Gemini 4 Argon](../../../prompts/2110423195497193963.md)
+
+![Preview by @SamAgentline](<../../covers/2110423195497193963.jpg>)
+
+By @SamAgentline · [source](<https://x.com/SamAgentline/status/2110423195497193963>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 2
+- [canvas-interactive](../../categories/canvas-interactive.md) — 9
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
 - [blender](../../categories/blender.md) — 0
@@ -31,8 +37,16 @@ By @Kedashu · [source](<https://x.com/Kedashu/status/2110545793694466401>)
 
 ## Recently added
 
-- 2026-10-15 · [Pelican Bicycle 2D SVG Animation](../../../prompts/2110578166003843075.md)
-- 2026-10-15 · [Pelican Lakeside Bike Ride Interactive SVG Animation](../../../prompts/2110545793694466401.md)
+- 2026-10-15 · [Interactive 3D Heart Attack Simulation](../../../prompts/2110591236323017154.md)
+- 2026-10-15 · [3D Anatomical Heart Comparison via Devin and Droid](../../../prompts/2110435052676952069.md)
+- 2026-10-15 · [Agentline Explainer Motion Graphics with Gemini 4 Argon](../../../prompts/2110423195497193963.md)
+- 2026-10-15 · [Three.js 3D Eiffel Tower Comparison with Gemini 4 Argon](../../../prompts/2110417051680694613.md)
+- 2026-10-15 · [Interactive Formula Car Teardown Comparison](../../../prompts/2110415126964896155.md)
+- 2026-10-15 · [Interactive 3D Voxel Diorama of the Battle of Waterloo](../../../prompts/2110413532089008510.md)
+- 2026-10-15 · [Benchmark comparison of Gemini 4 Argon generating an animated 3D night train scene](../../../prompts/2110408289007604165.md)
+- 2026-10-15 · [Gemini 4 Argon Train Scene Generation](../../../prompts/2110399527240818770.md)
+- 2026-10-15 · [Interactive 3D Firefly Jar WebApp Comparison](../../../prompts/2110382089476407630.md)
+- 2026-10-15 · [Voxel Art Pelican Wheelie on Flying Fighter Jet](../../../prompts/2110377592394031397.md)
 
 ## Review policy
 

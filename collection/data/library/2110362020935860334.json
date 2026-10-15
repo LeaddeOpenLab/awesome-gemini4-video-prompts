@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T05:55:08.368Z",
+  "model": "gemini4",
+  "prompt": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+  "promptTranslations": {
+    "en": "Build a 3D version of Terraria as a Flutter app using flutter_scene package"
+  },
+  "summary": "Demonstration of a 3D Terraria-style game built as a Flutter app using Gemini 4 Argon and the flutter_scene package from a single prompt.",
+  "summaryEn": "3D Terraria in Flutter with flutter_scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110362020935860334",
+    "canonicalUrl": "https://x.com/jaichangpark/status/2110362020935860334",
+    "author": {
+      "username": "jaichangpark",
+      "displayName": "Dreamwalker",
+      "profileUrl": "https://x.com/jaichangpark"
+    },
+    "publishedAt": "2026-10-14T13:28:09.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "en",
+    "originalText": "Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene https://t.co/FmjP0x0yz9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jaichangpark/status/2110362020935860334",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110361823841320960/img/DWx_7HJfiuInRgwH.jpg",
+        "analysisUrl": "https://x.com/jaichangpark/status/2110362020935860334"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 807
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jaichangpark/status/2110362373924208770",
+        "text": "Prompt \n\"Build a 3D version of Terraria as a Flutter app using flutter_scene package\"",
+        "author": "jaichangpark"
+      },
+      {
+        "url": "https://x.com/jaichangpark/status/2110362020935860334",
+        "text": "Dreamwalker on X: \"Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nDreamwalker on X: \"Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene\"\n\n\n\nDreamwalker\n@jaichangpark\n\n\n\n\nSingle prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene\n\n\n00:00\n\n\n\n\n\n\n\n\n1:28 PM · Oct 14, 2026·807\nViews\n\n\n\n2\n1\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDreamwalker@jaichangparkFollow\nGDE Dart-Flutter | Organizer Flutter Seoul @FlutterSeoul & GDG Golang Korea @GolangKorea |  Flutter Alliance @flutter_apac | Flutter, Android, Go, Rust, AI |\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDreamwalker\n@jaichangpark\n\n\n\n\nSingle prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene\n\n\n00:00\n\n\n\n\n\n\n\n\n1:28 PM · Oct 14, 2026·807\nViews\n\n\n\n2\n1\n4\n\n\n\n\n\n\n\n\n\n\nDreamwalker\n@jaichangpark\n16h\n\n\nPrompt \n\"Build a 3D version of Terraria as a Flutter app using flutter_scene package\"\n\n\n\n\n1\n35\n\n\n\n\n\n\n\n\n\n\n\nE_genius\n\n@yevloop\n16h\n\n\nsingle prompt flutter scene is clean. argon + antigravity looking strong for mobile too\n\n\n\n\n1\n17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlutter@FlutterDevFollow\nGoogle’s UI toolkit to build apps for mobile, web, & desktop from a single codebase\n\n\n\n\nGoogle Antigravity@antigravityFollow\nAn agent-first software development platform @GoogleDeepMind\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jaichangpark"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jaichangpark/status/2110362020935860334",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110361823841320960/img/DWx_7HJfiuInRgwH.jpg",
+  "coverPath": "collection/data/covers/2110362020935860334.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110361823841320960",
+    "x-post:2110362020935860334"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "3D Terraria in Flutter with flutter_scene",
+      "summary": "Demonstration of a 3D Terraria-style game built as a Flutter app using Gemini 4 Argon and the flutter_scene package from a single prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4",
+        "platform": "Google Antigravity",
+        "authorUseConfirmed": true,
+        "evidence": "Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+        "englishText": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording shows a working Terraria 3D Flutter application with 3D dioramas, block mining, lighting, and HUD.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Flutter",
+          "role": "Application framework and UI runtime",
+          "evidence": "@FlutterDev",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "flutter_scene",
+          "role": "3D rendering package for Flutter",
+          "evidence": "using flutter_scene package",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Google Antigravity",
+          "role": "Agent development platform executing Gemini 4",
+          "evidence": "@antigravity",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Terraria Game Prototype",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini4",
+          "flutter",
+          "flutter_scene",
+          "game-dev",
+          "3d"
+        ]
+      },
+      "targetModelRole": "Gemini 4 Argon generated the Flutter and flutter_scene codebase for the 3D game from the prompt.",
+      "outputSource": "Flutter desktop runtime",
+      "divisionEvidence": "Gemini 4 generated the application code executed by the Flutter engine.",
+      "video": {
+        "shots": "1",
+        "duration": "0:52",
+        "aspectRatio": "4:3",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear Gemini 4 video production workflow showing an interactive 3D game screen recording with full original prompt and confirmed model details.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jaichangpark/status/2110362373924208770",
+        "start": 9,
+        "end": 84
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jaichangpark/status/2110362020935860334",
+        "author": "jaichangpark",
+        "postId": "2110362020935860334",
+        "publishedAt": "2026-10-14T13:28:09.000Z"
+      },
+      "checkedAt": "2026-10-15T05:44:30.655Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Demonstration of a 3D Terraria-style game built as a Flutter app using Gemini 4 Argon and the flutter_scene package from a single prompt.",
+    "summaryEn": "3D Terraria in Flutter with flutter_scene",
+    "originalPrompt": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+    "sourceRange": {
+      "start": 9,
+      "end": 84
+    },
+    "translations": {
+      "zh": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+      "en": "Build a 3D version of Terraria as a Flutter app using flutter_scene package"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Terraria Game Prototype",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording shows a working Terraria 3D Flutter application with 3D dioramas, block mining, lighting, and HUD."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

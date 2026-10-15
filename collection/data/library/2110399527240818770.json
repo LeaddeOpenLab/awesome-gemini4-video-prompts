@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T05:55:08.999Z",
+  "model": "gemini4",
+  "prompt": "a train pulling out of a station on some alien planet",
+  "promptTranslations": {
+    "en": "a train pulling out of a station on some alien planet"
+  },
+  "summary": "Comparison of Gemini 4 Argon generating a 3D animated scene of a space train departing an alien planetary station against Opus 5.5.",
+  "summaryEn": "Gemini 4 Argon Train Scene Generation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110399527240818770",
+    "canonicalUrl": "https://x.com/explosss1ve/status/2110399527240818770",
+    "author": {
+      "username": "explosss1ve",
+      "displayName": "explos1ve",
+      "profileUrl": "https://x.com/explosss1ve"
+    },
+    "publishedAt": "2026-10-14T15:57:11.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "en",
+    "originalText": "gemini 4 argon is f*cking insane\n\nsame prompt, one scene: a train pulling out of a station on some alien planet\n\nopus 5.5: 1h 53m, $23.46\ngemini 4 argon: 4m 20s, $3.40\n\n26x faster. 7x cheaper. shorter than making a coffee\n\nand it still landed the whole shot, the station, the planets, the lightning off in the distance, the train actually leaving\n\nthis is the part that breaks my brain. a model this fast and this cheap has no business looking this good\n\nwatch it and tell me argon isn't the most slept-on model right now",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/explosss1ve/status/2110399527240818770",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110399420231512064/img/xpAulxOpntai5poR.jpg",
+        "analysisUrl": "https://x.com/explosss1ve/status/2110399527240818770"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 215
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/explosss1ve/status/2110399527240818770",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110399420231512064/img/xpAulxOpntai5poR.jpg",
+  "coverPath": "collection/data/covers/2110399527240818770.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110399420231512064",
+    "x-post:2110399527240818770"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Train Scene Generation",
+      "summary": "Comparison of Gemini 4 Argon generating a 3D animated scene of a space train departing an alien planetary station against Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "gemini 4 argon is f*cking insane\n\nsame prompt, one scene: a train pulling out of a station on some alien planet\n\ngemini 4 argon: 4m 20s, $3.40"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a train pulling out of a station on some alien planet",
+        "englishText": "a train pulling out of a station on some alien planet",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact rendering framework / tool specification",
+          "Camera movement instructions",
+          "Lighting and environment parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side comparison including the Gemini 4 generation with a train departing a station on an alien planet with distant lightning and planets.",
+        "textualResultQuote": "and it still landed the whole shot, the station, the planets, the lightning off in the distance, the train actually leaving"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Alien Train Station 3D Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "sci-fi",
+          "space",
+          "animation",
+          "benchmark"
+        ]
+      },
+      "targetModelRole": "Generates the code or scene logic for the animated sequence.",
+      "outputSource": "Video comparison render output.",
+      "divisionEvidence": "The post highlights generation time and cost comparison between Gemini 4 Argon and Opus 5.5 executing the same scene prompt.",
+      "video": {
+        "shots": "Single orbiting shot",
+        "duration": "0:25",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 video/scene generation benchmarked against Opus 5.5 with an accompanying video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/explosss1ve/status/2110399527240818770",
+        "start": 58,
+        "end": 111
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/explosss1ve/status/2110399527240818770",
+        "author": "explosss1ve",
+        "postId": "2110399527240818770",
+        "publishedAt": "2026-10-14T15:57:11.000Z"
+      },
+      "checkedAt": "2026-10-15T05:50:44.864Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison of Gemini 4 Argon generating a 3D animated scene of a space train departing an alien planetary station against Opus 5.5.",
+    "summaryEn": "Gemini 4 Argon Train Scene Generation",
+    "originalPrompt": "a train pulling out of a station on some alien planet",
+    "sourceRange": {
+      "start": 58,
+      "end": 111
+    },
+    "translations": {
+      "zh": "a train pulling out of a station on some alien planet",
+      "en": "a train pulling out of a station on some alien planet"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Alien Train Station 3D Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact rendering framework / tool specification",
+        "Camera movement instructions",
+        "Lighting and environment parameters"
+      ],
+      "evidence": "The video shows a side-by-side comparison including the Gemini 4 generation with a train departing a station on an alien planet with distant lightning and planets."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
