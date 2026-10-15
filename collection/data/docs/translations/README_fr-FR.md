@@ -2,46 +2,47 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**0 source-verified real cases** · 5 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**0 source-verified real cases** · 6 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Realistic Earth Simulation with Moon, ISS, and Landmarks](../../../prompts/2110329492740657211.md)
+### [3D Cat Petting Simulator](../../../prompts/2110532511067771187.md)
 
-![Preview by @badboyfoxy](<../../covers/2110329492740657211.jpg>)
+![Preview by @gmi_cloud](<../../covers/2110532511067771187.jpg>)
 
-By @badboyfoxy · [source](<https://x.com/badboyfoxy/status/2110329492740657211>)
+By @gmi_cloud · [source](<https://x.com/gmi_cloud/status/2110532511067771187>)
 
-### [Gemini 4 Single-HTML Ecosystem Simulator](../../../prompts/2110276716870647921.md)
+### [Chrono Analogue // System 1974 Modular Synth Studio](../../../prompts/2110519826091495925.md)
 
-![Preview by @sakashiiiii](<../../covers/2110276716870647921.jpg>)
+![Preview by @IamEmily2050](<../../covers/2110519826091495925.jpg>)
 
-By @sakashiiiii · [source](<https://x.com/sakashiiiii/status/2110276716870647921>)
+By @IamEmily2050 · [source](<https://x.com/IamEmily2050/status/2110519826091495925>)
 
-### [Browser Mario Game via Gemini 4 Argon](../../../prompts/2110268248411541904.md)
+### [Interactive 3D Earth Deep-Time History Visualization](../../../prompts/2110517990206673283.md)
 
-![Preview by @komorin_ai](<../../covers/2110268248411541904.jpg>)
+![Preview by @misat0x](<../../covers/2110517990206673283.jpg>)
 
-By @komorin_ai · [source](<https://x.com/komorin_ai/status/2110268248411541904>)
+By @misat0x · [source](<https://x.com/misat0x/status/2110517990206673283>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 3
+- [canvas-interactive](../../categories/canvas-interactive.md) — 6
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
-- [blender](../../categories/blender.md) — 1
+- [blender](../../categories/blender.md) — 0
 - [external-video-model](../../categories/external-video-model.md) — 0
-- [other-animation](../../categories/other-animation.md) — 1
+- [other-animation](../../categories/other-animation.md) — 0
 
 ## Recently added
 
-- 2026-10-14 · [Realistic Earth Simulation with Moon, ISS, and Landmarks](../../../prompts/2110329492740657211.md)
-- 2026-10-14 · [Gemini 4 Single-HTML Ecosystem Simulator](../../../prompts/2110276716870647921.md)
-- 2026-10-14 · [Browser Mario Game via Gemini 4 Argon](../../../prompts/2110268248411541904.md)
-- 2026-10-14 · [Trezio App Motion Video](../../../prompts/2110261415915213121.md)
-- 2026-10-14 · [Interactive 3D Jelly Island Diorama in Three.js](../../../prompts/2110047989280670072.md)
+- 2026-10-15 · [3D Cat Petting Simulator](../../../prompts/2110532511067771187.md)
+- 2026-10-15 · [Chrono Analogue // System 1974 Modular Synth Studio](../../../prompts/2110519826091495925.md)
+- 2026-10-15 · [Interactive 3D Earth Deep-Time History Visualization](../../../prompts/2110517990206673283.md)
+- 2026-10-15 · [Pixel-Art Druid to Bear Canvas Loop](../../../prompts/2110448050502246856.md)
+- 2026-10-15 · [Gemini 4 Stickman Lightsaber Battle Animation](../../../prompts/2110435112651485630.md)
+- 2026-10-15 · [Gemini 4 Argon Antigravity Game Demos](../../../prompts/2110411805256511951.md)
 
 ## Review policy
 
