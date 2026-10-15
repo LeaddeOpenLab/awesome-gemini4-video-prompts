@@ -2,33 +2,27 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**0 source-verified real cases** · 6 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**1 source-verified real cases** · 1 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [3D Cat Petting Simulator](../../../prompts/2110532511067771187.md)
+### [Pelican Bicycle 2D SVG Animation](../../../prompts/2110578166003843075.md)
 
-![Preview by @gmi_cloud](<../../covers/2110532511067771187.jpg>)
+![Preview by @SlyPaws1984](<../../covers/2110578166003843075.jpg>)
 
-By @gmi_cloud · [source](<https://x.com/gmi_cloud/status/2110532511067771187>)
+By @SlyPaws1984 · [source](<https://x.com/SlyPaws1984/status/2110578166003843075>)
 
-### [Chrono Analogue // System 1974 Modular Synth Studio](../../../prompts/2110519826091495925.md)
+### [Pelican Lakeside Bike Ride Interactive SVG Animation](../../../prompts/2110545793694466401.md)
 
-![Preview by @IamEmily2050](<../../covers/2110519826091495925.jpg>)
+![Preview by @Kedashu](<../../covers/2110545793694466401.jpg>)
 
-By @IamEmily2050 · [source](<https://x.com/IamEmily2050/status/2110519826091495925>)
-
-### [Interactive 3D Earth Deep-Time History Visualization](../../../prompts/2110517990206673283.md)
-
-![Preview by @misat0x](<../../covers/2110517990206673283.jpg>)
-
-By @misat0x · [source](<https://x.com/misat0x/status/2110517990206673283>)
+By @Kedashu · [source](<https://x.com/Kedashu/status/2110545793694466401>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 6
+- [canvas-interactive](../../categories/canvas-interactive.md) — 2
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
 - [blender](../../categories/blender.md) — 0
@@ -37,12 +31,8 @@ By @misat0x · [source](<https://x.com/misat0x/status/2110517990206673283>)
 
 ## Recently added
 
-- 2026-10-15 · [3D Cat Petting Simulator](../../../prompts/2110532511067771187.md)
-- 2026-10-15 · [Chrono Analogue // System 1974 Modular Synth Studio](../../../prompts/2110519826091495925.md)
-- 2026-10-15 · [Interactive 3D Earth Deep-Time History Visualization](../../../prompts/2110517990206673283.md)
-- 2026-10-15 · [Pixel-Art Druid to Bear Canvas Loop](../../../prompts/2110448050502246856.md)
-- 2026-10-15 · [Gemini 4 Stickman Lightsaber Battle Animation](../../../prompts/2110435112651485630.md)
-- 2026-10-15 · [Gemini 4 Argon Antigravity Game Demos](../../../prompts/2110411805256511951.md)
+- 2026-10-15 · [Pelican Bicycle 2D SVG Animation](../../../prompts/2110578166003843075.md)
+- 2026-10-15 · [Pelican Lakeside Bike Ride Interactive SVG Animation](../../../prompts/2110545793694466401.md)
 
 ## Review policy
 
