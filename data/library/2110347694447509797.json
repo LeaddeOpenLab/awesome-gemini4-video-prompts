@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T05:55:07.670Z",
+  "model": "gemini4",
+  "prompt": "build a 3D Japanese house surrounded by cherry blossom trees",
+  "promptTranslations": {
+    "en": "build a 3D Japanese house surrounded by cherry blossom trees"
+  },
+  "summary": "Demonstration comparing Gemini 4 Argon and GPT-6.1 Sol generating a 3D Japanese house surrounded by cherry blossom trees.",
+  "summaryEn": "Gemini 4 Argon 3D Japanese House Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110347694447509797",
+    "canonicalUrl": "https://x.com/dpratyush02/status/2110347694447509797",
+    "author": {
+      "username": "dpratyush02",
+      "displayName": "Pratyush",
+      "profileUrl": "https://x.com/dpratyush02"
+    },
+    "publishedAt": "2026-10-14T12:31:13.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon vs GPT-6.1 Sol\n\nI gave all three the exact same prompt to build a 3D Japanese house surrounded by cherry blossom trees 🌸\n\nGemini absolutely nailed it. The visuals were stunning, the atmosphere was beautiful, and the attention to detail was impressive.\n\nGemini 4 Argon vs GPT-6.1 Sol \n\nGoogle is cooking again!! 🔥",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/dpratyush02/status/2110347694447509797",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110347650067529728/img/ielLlTBY_uhWuHkm.jpg",
+        "analysisUrl": "https://x.com/dpratyush02/status/2110347694447509797"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 1,
+      "replyCount": 16,
+      "quoteCount": 1,
+      "viewCount": 629
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/dpratyush02/status/2110347694447509797",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110347650067529728/img/ielLlTBY_uhWuHkm.jpg",
+  "coverPath": "covers/2110347694447509797.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110347650067529728",
+    "x-post:2110347694447509797"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon 3D Japanese House Comparison",
+      "summary": "Demonstration comparing Gemini 4 Argon and GPT-6.1 Sol generating a 3D Japanese house surrounded by cherry blossom trees.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon vs GPT-6.1 Sol"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a 3D Japanese house surrounded by cherry blossom trees",
+        "englishText": "build a 3D Japanese house surrounded by cherry blossom trees",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full generation prompt",
+          "target framework specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a rendered 3D Japanese house with cherry blossoms and falling petals.",
+        "textualResultQuote": "Gemini absolutely nailed it. The visuals were stunning, the atmosphere was beautiful, and the attention to detail was impressive."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "3D Japanese House Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "cherry-blossom",
+          "japanese-house"
+        ]
+      },
+      "targetModelRole": "Generates 3D code for the scene",
+      "outputSource": "Browser runtime rendering generated 3D scene",
+      "divisionEvidence": "I gave all three the exact same prompt to build a 3D Japanese house surrounded by cherry blossom trees",
+      "video": {
+        "shots": "Single forward zoom shot",
+        "duration": "PT28S",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production demonstration rendering a 3D scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/dpratyush02/status/2110347694447509797",
+        "start": 73,
+        "end": 133
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/dpratyush02/status/2110347694447509797",
+        "author": "dpratyush02",
+        "postId": "2110347694447509797",
+        "publishedAt": "2026-10-14T12:31:13.000Z"
+      },
+      "checkedAt": "2026-10-15T05:34:02.139Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Demonstration comparing Gemini 4 Argon and GPT-6.1 Sol generating a 3D Japanese house surrounded by cherry blossom trees.",
+    "summaryEn": "Gemini 4 Argon 3D Japanese House Comparison",
+    "originalPrompt": "build a 3D Japanese house surrounded by cherry blossom trees",
+    "sourceRange": {
+      "start": 73,
+      "end": 133
+    },
+    "translations": {
+      "zh": "build a 3D Japanese house surrounded by cherry blossom trees",
+      "en": "build a 3D Japanese house surrounded by cherry blossom trees"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Japanese House Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full generation prompt",
+        "target framework specifications"
+      ],
+      "evidence": "The video shows a rendered 3D Japanese house with cherry blossoms and falling petals."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

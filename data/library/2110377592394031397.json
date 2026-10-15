@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T05:55:07.419Z",
+  "model": "gemini4",
+  "prompt": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.",
+  "promptTranslations": {
+    "en": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML."
+  },
+  "summary": "Gemini 4 Argon generates a single HTML 3D voxel art scene featuring a pelican performing a wheelie on top of a flying fighter jet, compared alongside Claude Opus 5.5.",
+  "summaryEn": "Voxel Art Pelican Wheelie on Flying Fighter Jet",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110377592394031397",
+    "canonicalUrl": "https://x.com/EvoLinkAi/status/2110377592394031397",
+    "author": {
+      "username": "EvoLinkAi",
+      "displayName": "EvoLink.ai",
+      "profileUrl": "https://x.com/EvoLinkAi"
+    },
+    "publishedAt": "2026-10-14T14:30:01.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "en",
+    "originalText": "🔥Two models. One voxel art challenge.\n\nOpus 5.5 does a better job of restoring the voxel art world, while Gemini 4 Argon didn't perform as well.\n\nDo you agree with this ranking? Full prompt below 👇 https://t.co/xuLr8qFsK5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/EvoLinkAi/status/2110377592394031397",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110351878194073600/img/UZ7DB7O6m0xqxaLe.jpg",
+        "analysisUrl": "https://x.com/EvoLinkAi/status/2110377592394031397"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 239
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/EvoLinkAi/status/2110377592805097966",
+        "text": "Prompt:\nCreate a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.\n\nTry the top-ranked model on EvoLink: https://t.co/9Rhm0sFTHJ",
+        "author": "EvoLinkAi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/xuLr8qFsK5",
+      "public_material_unavailable:https://t.co/9Rhm0sFTHJ"
+    ]
+  },
+  "xUrl": "https://x.com/EvoLinkAi/status/2110377592394031397",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110351878194073600/img/UZ7DB7O6m0xqxaLe.jpg",
+  "coverPath": "covers/2110377592394031397.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110351878194073600",
+    "x-post:2110377592394031397"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Voxel Art Pelican Wheelie on Flying Fighter Jet",
+      "summary": "Gemini 4 Argon generates a single HTML 3D voxel art scene featuring a pelican performing a wheelie on top of a flying fighter jet, compared alongside Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": "EvoLink",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 does a better job of restoring the voxel art world, while Gemini 4 Argon didn't perform as well."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.",
+        "englishText": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The top half of the screen recording demonstrates the Gemini 4 Argon rendered voxel scene with a voxel pelican riding a bike in a wheelie pose atop a voxel fighter jet flying through voxel clouds.",
+        "textualResultQuote": "Opus 5.5 does a better job of restoring the voxel art world, while Gemini 4 Argon didn't perform as well."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / WebGL Canvas",
+          "role": "Renders and executes the generated single HTML voxel art animation",
+          "evidence": "Single HTML",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "3D Voxel Scene Generation",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel-art",
+          "single-html",
+          "webgl",
+          "animation",
+          "3d-scene"
+        ]
+      },
+      "targetModelRole": "Generates the complete single HTML file containing 3D voxel animation code.",
+      "outputSource": "Web browser canvas rendering of the generated single HTML document.",
+      "divisionEvidence": "The prompt instructs 'Single HTML' and the author screen-records the rendered 3D scene output in the browser.",
+      "video": {
+        "shots": "Single continuous screen capture displaying split comparative viewports",
+        "duration": "30s",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides the full original prompt, explicitly names Gemini 4 Argon, and supplies a corresponding video demonstrating the rendered 3D voxel art code output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/EvoLinkAi/status/2110377592805097966",
+        "start": 8,
+        "end": 102
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/EvoLinkAi/status/2110377592394031397",
+        "author": "EvoLinkAi",
+        "postId": "2110377592394031397",
+        "publishedAt": "2026-10-14T14:30:01.000Z"
+      },
+      "checkedAt": "2026-10-15T05:26:36.421Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generates a single HTML 3D voxel art scene featuring a pelican performing a wheelie on top of a flying fighter jet, compared alongside Claude Opus 5.5.",
+    "summaryEn": "Voxel Art Pelican Wheelie on Flying Fighter Jet",
+    "originalPrompt": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.",
+    "sourceRange": {
+      "start": 8,
+      "end": 102
+    },
+    "translations": {
+      "zh": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML.",
+      "en": "Create a pelican doing a wheelie on top of a flying fighter jet. Voxel art style. Single HTML."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Voxel Scene Generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The top half of the screen recording demonstrates the Gemini 4 Argon rendered voxel scene with a voxel pelican riding a bike in a wheelie pose atop a voxel fighter jet flying through voxel clouds."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

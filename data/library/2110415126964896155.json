@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T05:55:05.908Z",
+  "model": "gemini4",
+  "prompt": "make interactive formula car concept and break it into pieces",
+  "promptTranslations": {
+    "en": "make interactive formula car concept and break it into pieces"
+  },
+  "summary": "Comparison demonstration showing Gemini 4 Argon generating an interactive 3D formula car concept with component breakdown.",
+  "summaryEn": "Interactive Formula Car Teardown Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110415126964896155",
+    "canonicalUrl": "https://x.com/higgsfield_ai/status/2110415126964896155",
+    "author": {
+      "username": "higgsfield_ai",
+      "displayName": "Higgsfield AI 🧩",
+      "profileUrl": "https://x.com/higgsfield_ai"
+    },
+    "publishedAt": "2026-10-14T16:59:10.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon vs Claude Opus 5.5:\n\nPrompt: \"make interactive formula car concept and break it into pieces\" https://t.co/kUxRh6W3dn",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/higgsfield_ai/status/2110415126964896155",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110414744138170368/img/D4as_KLiuf9hyr5f.jpg",
+        "analysisUrl": "https://x.com/higgsfield_ai/status/2110415126964896155"
+      }
+    ],
+    "metrics": {
+      "likeCount": 130,
+      "repostCount": 18,
+      "replyCount": 17,
+      "quoteCount": 3,
+      "viewCount": 10436
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/higgsfield_ai/status/2110415126964896155",
+        "text": "Higgsfield AI 🧩 on X: \"Gemini 4 Argon vs Claude Opus 5.5:\n\nPrompt: \"make interactive formula car concept and break it into pieces\"\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nHiggsfield AI 🧩 on X: \"Gemini 4 Argon vs Claude Opus 5.5:\n\nPrompt: \"make interactive formula car concept and break it into pieces\"\"\n\n\n\nHiggsfield AI 🧩\n\n@higgsfield_ai\n\n\n\n\nGemini 4 Argon vs Claude Opus 5.5:\n\nPrompt: \"make interactive formula car concept and break it into pieces\"\n\n\n00:00\n\n\n\n\n\n\n\n\n4:59 PM · Oct 14, 2026·10.5K\nViews\n\n\n\n17\n18\n131\n22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nHiggsfield AI 🧩@higgsfield_aiFollow\nThe AI-native creative suite\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHiggsfield AI 🧩\n\n@higgsfield_ai\n\n\n\n\nGemini 4 Argon vs Claude Opus 5.5:\n\nPrompt: \"make interactive formula car concept and break it into pieces\"\n\n\n00:00\n\n\n\n\n\n\n\n\n4:59 PM · Oct 14, 2026·10.5K\nViews\n\n\n\n17\n18\n131\n22\n\n\n\n\n\n\n\n\n\nerdi\n\n@erdyai\n11h\n\n\nGemini dor the teardown, Opus for the launch trailer\n\n\n\n\n2\n111\n\n\n\n\n\n\n\n\n\n\n\nDaniel.O.Ayo\n\n@DanielOAyo\n10h\n\n\nThey are both very good , depends on the angle you view it from \n\nI love this ..Google cooked\n\n\n\n\n1\n73\n\n\n\n\n\n\n\n\n\n\n\nnan ma\n\n@nanma90441733\n11h\n\n\nStill Opus is better.\n\n\n\n\n1\n136\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "higgsfield_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/higgsfield_ai/status/2110415126964896155",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110414744138170368/img/D4as_KLiuf9hyr5f.jpg",
+  "coverPath": "covers/2110415126964896155.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110414744138170368",
+    "x-post:2110415126964896155"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive Formula Car Teardown Comparison",
+      "summary": "Comparison demonstration showing Gemini 4 Argon generating an interactive 3D formula car concept with component breakdown.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Gemini 4 Argon vs Claude Opus 5.5:\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make interactive formula car concept and break it into pieces",
+        "englishText": "make interactive formula car concept and break it into pieces",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Split screen video displays interactive 3D model of a formula car exploding into pieces and reassembling.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web 3D Engine / Canvas",
+          "role": "Rendering interactive 3D car scene and controls",
+          "evidence": "Interactive 3D UI, camera orbit, and timeline controls shown on screen",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Formula Car",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive",
+          "3d",
+          "formula-car",
+          "teardown"
+        ]
+      },
+      "targetModelRole": "Code generation or interactive scene generation",
+      "outputSource": "Screen recording of rendered interactive 3D scene",
+      "divisionEvidence": "Gemini generates code/logic; external 3D runtime renders interactive canvas visuals.",
+      "video": {
+        "shots": "Multi-view interactive camera orbits and exploded view animations",
+        "duration": "15s",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author shares prompt and screen recording demonstrating Gemini 4 Argon interactive 3D generation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/higgsfield_ai/status/2110415126964896155",
+        "start": 45,
+        "end": 106
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/higgsfield_ai/status/2110415126964896155",
+        "author": "higgsfield_ai",
+        "postId": "2110415126964896155",
+        "publishedAt": "2026-10-14T16:59:10.000Z"
+      },
+      "checkedAt": "2026-10-15T04:55:55.536Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison demonstration showing Gemini 4 Argon generating an interactive 3D formula car concept with component breakdown.",
+    "summaryEn": "Interactive Formula Car Teardown Comparison",
+    "originalPrompt": "make interactive formula car concept and break it into pieces",
+    "sourceRange": {
+      "start": 45,
+      "end": 106
+    },
+    "translations": {
+      "zh": "make interactive formula car concept and break it into pieces",
+      "en": "make interactive formula car concept and break it into pieces"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Formula Car",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Split screen video displays interactive 3D model of a formula car exploding into pieces and reassembling."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
