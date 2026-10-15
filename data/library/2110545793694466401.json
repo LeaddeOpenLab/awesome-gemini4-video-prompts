@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T04:48:20.802Z",
+  "model": "gemini4",
+  "prompt": "做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水",
+  "promptTranslations": {
+    "en": "Make an SVG animation of a pelican riding a bicycle on a road, with lake water beside the road."
+  },
+  "summary": "Gemini 4 generated a self-contained interactive SVG/HTML web animation depicting a pelican cycling beside a lake with time and speed controls.",
+  "summaryEn": "Pelican Lakeside Bike Ride Interactive SVG Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110545793694466401",
+    "canonicalUrl": "https://x.com/Kedashu/status/2110545793694466401",
+    "author": {
+      "username": "Kedashu",
+      "displayName": "UnclK",
+      "profileUrl": "https://x.com/Kedashu"
+    },
+    "publishedAt": "2026-10-15T01:38:23.000Z",
+    "collectedAt": "2026-10-15T04:12:48.742Z",
+    "language": "zh",
+    "originalText": "Gemini 4 Argon，Gemini 网页端一次生成。\n湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。\n\nPrompt：做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\n录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。\n原码：https://t.co/zaVumcMKaZ https://t.co/2kzktaByCk",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Kedashu/status/2110545793694466401",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110545385131253760/img/yKr4_5wp0MuakJPp.jpg",
+        "analysisUrl": "https://x.com/Kedashu/status/2110545793694466401"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 61
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Kedashu/status/2110546649533800719",
+        "text": "感觉这个是这段时间来直出质量最高的案例之一了呢！",
+        "author": "Kedashu"
+      },
+      {
+        "url": "https://gist.githubusercontent.com/UncleK/4f090cc0633e44d3b4d5d63d9ae04ec9/raw",
+        "text": "# Pelican Lakeside Bike Ride\n\nCreator and submitter: [UnclK (@Kedashu)](https://x.com/Kedashu), maintainer of [Pelican Map](https://pelicanmap.aveniqa.com/).\n\nModel: Gemini 4 Argon, using the Gemini web app. The creator reports that the supplied HTML was produced in a single generation. This is a creator-reported workflow, not an independently reproduced benchmark.\n\nOriginal prompt (verbatim):\n\n> 做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\nThe complete supplied HTML is preserved as `index.html`. It includes its original SVG, CSS, JavaScript, Tailwind CDN reference and Google Fonts reference. The MP4 is a browser recording of this code running, not text-to-video generation.\n\nOriginal HTML SHA-256: `3fe564b5d0aa6bae12d9d72a89027a5ccef14a3b7606ae6861add1ea5952a488`.\n\nInteractive actions include catching fish, honking, changing riding speed, and switching between day, sunset and night. No open-source license is asserted by this publication. Third-party dependencies retain their own terms.",
+        "kind": "linked_public_material",
+        "author": "Kedashu"
+      },
+      {
+        "url": "https://x.com/Kedashu/status/2110545793694466401",
+        "text": "UnclK on X: \"Gemini 4 Argon，Gemini 网页端一次生成。\n湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。\n\nPrompt：做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\n录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。\n原码：https://t.co/zaVumcMKaZ\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nUnclK on X: \"Gemini 4 Argon，Gemini 网页端一次生成。\n湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。\n\nPrompt：做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\n录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。\n原码：https://t.co/zaVumcMKaZ\"\n\n\n\nUnclK\n\n@Kedashu\n\n\n\n\nShow translation\nGemini 4 Argon，Gemini 网页端一次生成。\n湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。\n\nPrompt：做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\n录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。\n原码：gist.github.com/UncleK/4f090cc…\n\n\n00:00\n\n\n\n\n\n\n\n\n1:38 AM · Oct 15, 2026·62\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nUnclK@KedashuFollow\nENGINEERING · DESIGN · BUSINESS · AI\n把 Agents、Codex、DeepSeek、量化与自动化放进真实项目和生意。\n两个项目（Projects）：\nFor agents：agentschat.app\nFor human：aveniqa.com\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnclK\n\n@Kedashu\n\n\n\n\nShow translation\nGemini 4 Argon，Gemini 网页端一次生成。\n湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。\n\nPrompt：做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水\n\n录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。\n原码：gist.github.com/UncleK/4f090cc…\n\n\n00:00\n\n\n\n\n\n\n\n\n1:38 AM · Oct 15, 2026·62\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nUnclK\n\n@Kedashu\n2h\n\n\n感觉这个是这段时间来直出质量最高的案例之一了呢！\n\n\n\n\n\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Kedashu"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Kedashu/status/2110545793694466401",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110545385131253760/img/yKr4_5wp0MuakJPp.jpg",
+  "coverPath": "covers/2110545793694466401.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110545385131253760",
+    "x-post:2110545793694466401"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Pelican Lakeside Bike Ride Interactive SVG Animation",
+      "summary": "Gemini 4 generated a self-contained interactive SVG/HTML web animation depicting a pelican cycling beside a lake with time and speed controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Gemini Web",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon，Gemini 网页端一次生成。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水",
+        "englishText": "Make an SVG animation of a pelican riding a bicycle on a road, with lake water beside the road.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the rendered SVG animation matching the prompt, showing the pelican cycling along a lakeside road with interactive options.",
+        "textualResultQuote": "湖畔骑车，还能捕鱼、鸣笛、调速、切换昼夜。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser",
+          "role": "Renders the generated SVG, HTML, CSS, and JavaScript code.",
+          "evidence": "录屏来自原 HTML。",
+          "sourceUrl": "https://x.com/Kedashu/status/2110545793694466401",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Pelican SVG Ride",
+        "topic": "games-interactive",
+        "tags": [
+          "svg",
+          "interactive",
+          "animation",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Code generation of a complete single-file interactive SVG animation.",
+      "outputSource": "Web browser executing the Gemini-generated HTML/SVG code.",
+      "divisionEvidence": "录屏来自原 HTML。交互版会收录到我维护的 Pelican Map。",
+      "video": {
+        "shots": "Single interactive viewport shot",
+        "duration": "39s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides explicit Gemini 4 attribution, full original prompt, source code link, and a verifying screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Kedashu/status/2110545793694466401",
+        "start": 61,
+        "end": 90
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Kedashu/status/2110545793694466401",
+        "author": "Kedashu",
+        "postId": "2110545793694466401",
+        "publishedAt": "2026-10-15T01:38:23.000Z"
+      },
+      "checkedAt": "2026-10-15T04:25:39.422Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      }
+    },
+    "summary": "Gemini 4 generated a self-contained interactive SVG/HTML web animation depicting a pelican cycling beside a lake with time and speed controls.",
+    "summaryEn": "Pelican Lakeside Bike Ride Interactive SVG Animation",
+    "originalPrompt": "做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水",
+    "sourceRange": {
+      "start": 61,
+      "end": 90
+    },
+    "translations": {
+      "zh": "做一个SVG的鹈鹕骑自行车在公路骑行的，动画。公路边是湖水",
+      "en": "Make an SVG animation of a pelican riding a bicycle on a road, with lake water beside the road."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Pelican SVG Ride",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the rendered SVG animation matching the prompt, showing the pelican cycling along a lakeside road with interactive options."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
