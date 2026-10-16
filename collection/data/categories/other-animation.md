@@ -1,5 +1,5 @@
 # other-animation
 
-- [Gemini 4 Hardcoded Frame-by-Frame Motion Graphics Animation](../../prompts/2110584772951241008.md)
+- [UGC Video Editing](../../prompts/2110258619120078920.md)
 
 [All tasks](../../../README.md)
