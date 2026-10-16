@@ -2,17 +2,13 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**0 source-verified real cases** · 1 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**0 source-verified real cases** · 0 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [UGC Video Editing](../../../prompts/2110258619120078920.md)
-
-![Preview by @ndhabarde11](<../../covers/2110258619120078920.jpg>)
-
-By @ndhabarde11 · [source](<https://x.com/ndhabarde11/status/2110258619120078920>)
+No cases have passed the current source-and-fit policy yet. We do not relabel legacy examples to inflate the count.
 
 ## Find a task
 
@@ -21,11 +17,11 @@ By @ndhabarde11 · [source](<https://x.com/ndhabarde11/status/211025861912007892
 - [remotion](../../categories/remotion.md) — 0
 - [blender](../../categories/blender.md) — 0
 - [external-video-model](../../categories/external-video-model.md) — 0
-- [other-animation](../../categories/other-animation.md) — 1
+- [other-animation](../../categories/other-animation.md) — 0
 
 ## Recently added
 
-- 2026-10-15 · [UGC Video Editing](../../../prompts/2110258619120078920.md)
+Awaiting verified cases.
 
 ## Review policy
 

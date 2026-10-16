@@ -1,5 +1,5 @@
 # other-animation
 
-- [UGC Video Editing](../../prompts/2110258619120078920.md)
+No verified cases yet.
 
 [All tasks](../../../README.md)
