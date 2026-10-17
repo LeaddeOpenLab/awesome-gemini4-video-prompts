@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:12.882Z",
+  "model": "gemini4",
+  "prompt": "Ask me before any step that cannot be undone.",
+  "promptTranslations": {
+    "en": "Ask me before any step that cannot be undone."
+  },
+  "summary": "Gemini 4 Argon generated a 3D chess replay of Légal's Mate featuring modal confirmation dialogs for piece captures.",
+  "summaryEn": "Interactive 3D Chess with Capture Confirmation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111145253491388837",
+    "canonicalUrl": "https://x.com/SidraMiconi/status/2111145253491388837",
+    "author": {
+      "username": "SidraMiconi",
+      "displayName": "Sidra Miconi",
+      "profileUrl": "https://x.com/SidraMiconi"
+    },
+    "publishedAt": "2026-10-16T17:20:26.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "I asked Gemini 4 Argon for a chess game where nothing gets captured without a Confirm.\n\nEvery capture pauses on a card, \"Confirm capture? This cannot be undone.\", until a tiny hand taps Confirm and the piece goes to a tray beside the board.\n\nIn my pre-registered test this week, Argon asked before permanent steps 35 of 60 times by default, and 60 of 60 once my system prompt said \"Ask me before any step that cannot be undone.\"\n\nI wanted that rule somewhere @demishassabis would feel at home, and he reached master standard at 13 with a 2300 rating, so chess it was.\n\nThe game is Légal's Mate, the old queen-sacrifice trap.\n\nThree captures, three taps, and the biggest one, Black taking the queen, is the move that walks into checkmate two moves later.\n\nAsking first makes the move yours; it does not make it a good one.\n\nIt ends on checkmate and four words, \"Every capture asked first\", which is the first thing I want from everything I build at @AgentGlassInc",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SidraMiconi/status/2111145253491388837",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2111145227092439040/pu/img/z1E2EVgQKcwJb0JW.jpg",
+        "analysisUrl": "https://x.com/SidraMiconi/status/2111145253491388837"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 122
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidraMiconi/status/2111145318775668937",
+        "text": "Receipt: move list from me, whole game from Argon. 2 tries; try 2 added one sentence asking for a visible checkerboard and neat rows of captured pieces. $0.49 total. Every move legal per python-chess, 0 console errors.",
+        "author": "SidraMiconi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SidraMiconi/status/2111145253491388837",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2111145227092439040/pu/img/z1E2EVgQKcwJb0JW.jpg",
+  "coverPath": "collection/data/covers/2111145253491388837.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111145227092439040",
+    "x-post:2111145253491388837"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Chess with Capture Confirmation",
+      "summary": "Gemini 4 Argon generated a 3D chess replay of Légal's Mate featuring modal confirmation dialogs for piece captures.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Gemini 4 Argon for a chess game where nothing gets captured without a Confirm."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Ask me before any step that cannot be undone.",
+        "englishText": "Ask me before any step that cannot be undone.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial full prompt for the 3D chess game",
+          "Full move list input",
+          "Second prompt modification requesting visible checkerboard and neat captured piece rows"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows Légal's Mate animated on a 3D board, pausing at each capture with a 'Confirm capture? This cannot be undone.' modal before moving pieces to side trays.",
+        "textualResultQuote": "Every capture paused on a card, 'Confirm capture? This cannot be undone.', until a tiny hand taps Confirm and the piece goes to a tray beside the board."
+      },
+      "inputs": [
+        {
+          "kind": "move list",
+          "description": "Move list for Légal's Mate chess trap.",
+          "available": false,
+          "evidence": "Receipt: move list from me, whole game from Argon.",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "python-chess",
+          "role": "Validation of move legality",
+          "evidence": "Every move legal per python-chess, 0 console errors.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Chess Game with Capture Confirmations",
+        "topic": "games-interactive",
+        "tags": [
+          "chess",
+          "3d",
+          "interactive",
+          "ui-ux"
+        ]
+      },
+      "targetModelRole": "Generates the complete interactive 3D chess game application and logic from user move list and constraints.",
+      "outputSource": "WebGL or 3D canvas web application running the generated script.",
+      "divisionEvidence": "move list from me, whole game from Argon",
+      "video": {
+        "shots": "Single continuous isometric camera view",
+        "duration": "22s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 producing an interactive 3D animation application with custom modal interaction rules, supported by video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SidraMiconi/status/2111145253491388837",
+        "start": 382,
+        "end": 427
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SidraMiconi/status/2111145253491388837",
+        "author": "SidraMiconi",
+        "postId": "2111145253491388837",
+        "publishedAt": "2026-10-16T17:20:26.000Z"
+      },
+      "checkedAt": "2026-10-17T04:59:17.113Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a 3D chess replay of Légal's Mate featuring modal confirmation dialogs for piece captures.",
+    "summaryEn": "Interactive 3D Chess with Capture Confirmation",
+    "originalPrompt": "Ask me before any step that cannot be undone.",
+    "sourceRange": {
+      "start": 382,
+      "end": 427
+    },
+    "translations": {
+      "zh": "Ask me before any step that cannot be undone.",
+      "en": "Ask me before any step that cannot be undone."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Chess Game with Capture Confirmations",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial full prompt for the 3D chess game",
+        "Full move list input",
+        "Second prompt modification requesting visible checkerboard and neat captured piece rows"
+      ],
+      "evidence": "The video shows Légal's Mate animated on a 3D board, pausing at each capture with a 'Confirm capture? This cannot be undone.' modal before moving pieces to side trays."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

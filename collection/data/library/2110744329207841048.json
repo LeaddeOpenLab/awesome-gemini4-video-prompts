@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:14.913Z",
+  "model": "gemini4",
+  "prompt": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+  "promptTranslations": {
+    "en": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase."
+  },
+  "summary": "Gemini 4 prompt generating a 3-stage interactive puzzle climbing a wall of mechanical drawers to reach a rooftop garden.",
+  "summaryEn": "Railway Hall Drawer Climbing Puzzle",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110744329207841048",
+    "canonicalUrl": "https://x.com/IamEmily2050/status/2110744329207841048",
+    "author": {
+      "username": "IamEmily2050",
+      "displayName": "Emily",
+      "profileUrl": "https://x.com/IamEmily2050"
+    },
+    "publishedAt": "2026-10-15T14:47:18.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon /Antigravity.\n\nThis time I just tried simple prompt without even using /grill me.\nThe best thing about these project is I can improve them over time, how long it will take until I take this game concept to AAA quality? Maybe in six months or 18 months but the journey will be worth it.\n\nI also put it on my Github.\n\nPrompt:\n\nBuild a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/IamEmily2050/status/2110744329207841048",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110743846456066048/img/KnFnVv3GX9bxRWe2.jpg",
+        "analysisUrl": "https://x.com/IamEmily2050/status/2110744329207841048"
+      }
+    ],
+    "metrics": {
+      "likeCount": 95,
+      "repostCount": 4,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 3860
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IamEmily2050/status/2110870701922308575",
+        "text": "@VahnAeris When you try Gemini 4 Argon, you will understand the gap in creativity between these models.",
+        "author": "IamEmily2050"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IamEmily2050/status/2110792604451495975",
+        "text": "@LinAiDreams Cool ✨",
+        "author": "IamEmily2050"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IamEmily2050/status/2110756071191318616",
+        "text": "@ivanka_humeniuk Looking forward to see what you will build in the future.",
+        "author": "IamEmily2050"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IamEmily2050/status/2110746575291154764",
+        "text": "@HarshithLucky3 Yes I used very simple prompt without skill, just wanted to test what is possible.",
+        "author": "IamEmily2050"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/IamEmily2050/status/2110744329207841048",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110743846456066048/img/KnFnVv3GX9bxRWe2.jpg",
+  "coverPath": "collection/data/covers/2110744329207841048.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110743846456066048",
+    "x-post:2110744329207841048"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Railway Hall Drawer Climbing Puzzle",
+      "summary": "Gemini 4 prompt generating a 3-stage interactive puzzle climbing a wall of mechanical drawers to reach a rooftop garden.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": "Antigravity",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon /Antigravity."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+        "englishText": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The one-minute video demonstrates the full three-stage climbing puzzle, load transfers, and final exit into the rooftop garden.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D asset modeling for rails, rollers, chutes, and cables",
+          "evidence": "Model rails, rollers, exposed cables and transfer chutes in Blender.",
+          "sourceUrl": "https://x.com/IamEmily2050/status/2110744329207841048",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Nano Banana",
+          "role": "Texturing and material synthesis for luggage, canvas, and lacquer",
+          "evidence": "Use Nano Banana for handled lacquer, luggage canvas and worn lining.",
+          "sourceUrl": "https://x.com/IamEmily2050/status/2110744329207841048",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Mechanical Drawer Climbing Puzzle",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini-4",
+          "puzzle-platformer",
+          "blender",
+          "game-design"
+        ]
+      },
+      "targetModelRole": "Puzzle scenario design, mechanics generation, and production orchestration",
+      "outputSource": "Real-time 3D interactive application",
+      "divisionEvidence": "Gemini orchestrates logic and progression; Blender and Nano Banana handle structural modeling and surface textures.",
+      "video": {
+        "shots": "Third-person gameplay camera following player progression",
+        "duration": "01:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video-production demonstration featuring full instructions and corresponding screen capture.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/IamEmily2050/status/2110744329207841048",
+        "start": 340,
+        "end": 1643
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/IamEmily2050/status/2110744329207841048",
+        "author": "IamEmily2050",
+        "postId": "2110744329207841048",
+        "publishedAt": "2026-10-15T14:47:18.000Z"
+      },
+      "checkedAt": "2026-10-17T05:20:41.236Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 prompt generating a 3-stage interactive puzzle climbing a wall of mechanical drawers to reach a rooftop garden.",
+    "summaryEn": "Railway Hall Drawer Climbing Puzzle",
+    "originalPrompt": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+    "sourceRange": {
+      "start": 340,
+      "end": 1643
+    },
+    "translations": {
+      "zh": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase.",
+      "en": "Build a climbing puzzle across a monumental wall of drawers inside an abandoned railway hall.\n\nBegin with a drawer bursting open beneath me. Its contents roll into a receiving tray, pulling a counterweight that opens the next drawer just in time for my jump.\n\nLet me climb the mechanism while changing its loads. Pull drawers along rails, latch them at visible notches and transfer substantial objects between connected trays. A drawer can become a step, lift or counterweight depending on how I use it.\n\nFill the wall with recognisable belongings: trunks, rolled carpets, boxed instruments and ceramic parcels. Model rails, rollers, exposed cables and transfer chutes in Blender. Use Nano Banana for handled lacquer, luggage canvas and worn lining.\n\nStage one builds a staircase from three drawers. Stage two moves one heavy case between linked drawers to raise a lift while preserving a return route. Stage three requires an ascending sequence of load transfers, moving platforms and timed jumps.\n\nPreserve object identity and mass. My weight must affect an unlocked platform, and latches must engage real notches.\n\nFinish by opening the final drawer from inside. Daylight reveals a rooftop garden beyond the colossal storage wall. Capture the complete progression in an energetic one-minute showcase."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "games-interactive",
+    "useCase": "Mechanical Drawer Climbing Puzzle",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The one-minute video demonstrates the full three-stage climbing puzzle, load transfers, and final exit into the rooftop garden."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

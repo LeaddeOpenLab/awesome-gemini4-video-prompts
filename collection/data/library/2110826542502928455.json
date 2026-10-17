@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:13.657Z",
+  "model": "gemini4",
+  "prompt": "build an interactive jelly macropad",
+  "promptTranslations": {
+    "en": "build an interactive jelly macropad"
+  },
+  "summary": "Demonstration and screen recording comparison of an interactive jelly macropad coded by Gemini 4 Argon inside the Pi agent harness.",
+  "summaryEn": "Gemini 4 Argon Interactive Jelly Macropad",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110826542502928455",
+    "canonicalUrl": "https://x.com/uid127/status/2110826542502928455",
+    "author": {
+      "username": "uid127",
+      "displayName": "vladkens",
+      "profileUrl": "https://x.com/uid127"
+    },
+    "publishedAt": "2026-10-15T20:13:59.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "I've been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇 https://t.co/4M6BLg9yEx",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/uid127/status/2110826542502928455",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110825911343886336/img/MAWOs0dINbeWYnTY.jpg",
+        "analysisUrl": "https://x.com/uid127/status/2110826542502928455"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 318
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/uid127/status/2110826790092763167",
+        "text": "vladkens on X: \"@pidotdev And here&#x27;s how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.\n\nMusic in both videos: Kevin MacLeod — “Fluffing a Duck” / “Cipher” (https://t.co/LocFAL5I2V).\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nvladkens on X: \"@pidotdev And here&#x27;s how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.\n\nMusic in both videos: Kevin MacLeod — “Fluffing a Duck” / “Cipher” (https://t.co/LocFAL5I2V).\"\n\n\n\nvladkens\n\n@uid127\n\n\n\n\nAnd here&#x27;s how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.\n\nMusic in both videos: Kevin MacLeod — “Fluffing a Duck” / “Cipher” (incompetech.com).\n\n\n00:00\n\n\n\n\n\n\n\n\n8:14 PM · Oct 15, 2026·27\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nvladkens@uid127Follow\nOpen-source dev. Airdrop farmer.\nBuilding with my LLM bros. Rustifying things.\n\n@doubletop_io\nFarming notes (RU) → t.me/eazyrekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvladkens\n\n@uid127\nOct 15\n\n\nI&#x27;ve been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n3\n\n5\n318\n\n\n\n\n\n\n\n\n\n\nvladkens\n\n@uid127\n\n\n\n\nAnd here&#x27;s how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.\n\nMusic in both videos: Kevin MacLeod — “Fluffing a Duck” / “Cipher” (incompetech.com).\n\n\n00:00\n\n\n\n\n\n\n\n\n8:14 PM · Oct 15, 2026·27\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPi@pidotdevFollow\nThere are many agent harnesses, but this one is yours\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "uid127"
+      },
+      {
+        "url": "https://x.com/uid127/status/2110826542502928455",
+        "text": "vladkens on X: \"I&#x27;ve been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nvladkens on X: \"I&#x27;ve been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇\"\n\n\n\nvladkens\n\n@uid127\n\n\n\n\nI&#x27;ve been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n8:13 PM · Oct 15, 2026·318\nViews\n\n\n\n3\n\n5\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nvladkens@uid127Follow\nOpen-source dev. Airdrop farmer.\nBuilding with my LLM bros. Rustifying things.\n\n@doubletop_io\nFarming notes (RU) → t.me/eazyrekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPi@pidotdevFollow\nThere are many agent harnesses, but this one is yours\n\n\n\n\n\n\n\n\nvladkens\n\n@uid127\n\n\n\n\nI&#x27;ve been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High.\n\nAstra: $4.10\nArgon: $1.17\n\nWhich one do you prefer? Coding timelapse below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n8:13 PM · Oct 15, 2026·318\nViews\n\n\n\n3\n\n5\n2\n\n\n\n\n\n\n\n\n\nvladkens\n\n@uid127\nOct 15\n\n\nAnd here&#x27;s how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.\n\nMusic in both videos: Kevin MacLeod — “Fluffing a Duck” / “Cipher” (incompetech.com).\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n1\n27\n\n\n\n\n\n\n\n\n\n\n\nskchrko\n@skchrko\nOct 16\n\n\nHate to say that but Astra looks jellier there. Try deepseek-v4.1-flash.\n\n\n\n\n\n28\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "uid127"
+      },
+      {
+        "url": "https://incompetech.com/",
+        "text": "\n\n\n\n  \n  \n  incompetech by Kevin MacLeod\n  \n  \n  \n\n  \n  \n\n  \n  \n  \n  \n  \n\n\n\n  \n\n  INC\n  \n    \n\n  \n  \n  \n  \n\n  \n  MPETECH\n\n\n    \n    \n\n    \n    🌙\n  \n\n\n\n\n\n\n\n\n\nIncompetech 🎉🥳🎊(＾▽＾)😱ℵ🪎 Emoji Finder!\n\nAugust 30, 2026 🌖\n\n\n\nIncompetech Emoji. \n\n\n\nWe've all been there - you just need an emoji for some stupid reason. (I needed this one: ⭐) There are sites out there that will let you find emoji, and BOY are they TERRIBLE! So many ads, and over a dozen tracking things - none of which need to happen.\n\n\nSo I made the best possible version of an Emoji Finder.\n\n\n\nIt includes all the current Emoji PLUS the yet-unreleased Unicode 18 spec Emoji. That means the new emoji, including Monarch butterfly, Pickle, Lighthouse, and Meteor will show up as soon as your browser can see them.\n\n\n\nHere's the Meteor:  🪋 (which you should be able to see in 2028)\n\n\n💛💛💛 AND THERE'S MORE!!! 💛💛💛\n\n\nOver 300 special characters, including such hits as ⇧, Δ, ₿, ⁂, ⊄, ♣, ♬, ⅚, and ┌(・。・)┘♪. \n👀∨🔎 - Browse the list, or get instant search.\n⇔1️⃣🖱️ - One click copy.\n🚫🍪 - No Cookies (or ads, or tracking, or really anything). Settings are saved in your browser.\n😵‍💫 - Public Domain self-contained web app. Download the page, and it works offline. (for the developers)\n👩🏽‍💻 - 4 Different Copy Formats: Character, Codepoint, HTML entity, CSS escape (also for the developers)\n⭐ - Favorites, and Recents with batch copy.\n\n\nIf this looks like a square of tofu to you 🫈 - whatever system this is doesn't have the n\"Emoji 17.0\" set yet. You probably didn't need a Sasquatch anyway. 🧌 Find out your emoji level with this Emoji Tester Tool!\n\n\n\n\n\n\n\n\nCalendars; Version 2!!!\n\nAugust 20, 2026\n\n\n\nCalendars v2. This is a local html/javascript rework of my... [checks notes] 26 YEAR OLD PERL SCRIPTS???\nI skipped over ColdFusion, PHP, Java, Python, Drupal, React, and whatever else people were doing. \nThe calendars have evolved into their final form in a single step; A locally usable and sharable Public Domain App that makes Public Domain documents. \nNo ads or tracking. Zero money-dollars.\n\n\n\n\nThis runs in your browser now. Download a local copy. Put it on your desktop or intranet. No dependencies. No network needed. Just pure goodness.\n\n\n\nThe calendars also have live previews now, which was on the \"to do\" list for 25 years. Done! :-)\n\n\n\n\n\n\nGraph Paper v2!!\n\nAugust 4, 2026\n\n\nAt long last; Graph Paper v2.\n\n\tNew Download Formats: PNG and SVG\n\n\tServerless: Download a local copy. Put it on your intranet. \n\n\tPublic Domain License: Creative Commons 0\n\n\t16 New Generators: \n\t\t(Numbered Axes,\n\t\tEngineering Pad,\n\t\tTernary Plot,\n\t\tCross-Stitch,\n\t\tNumbered Hex Map,\n\t\tGo Board,\n\t\tTwo-Point Perspective,\n\t\tHabit Tracker,\n\t\tSplit Page,\n\t\tBead Paper,\n\t\tDots & Boxes,\n\t\tBattle Mat,\n\t\tAlpha-Numeric Grid,\n\t\tArchimedean Spiral,\n\t\tGolden Spiral,\n\t\tCopperplate)\n\t\n\n\tNo Dependencies: 100% Self-contained. No cookies.\n\n\tLive Previews: See exactly what you're going to get before you download.\n\n\n\n\nThe old interface will be available at incompetech.com/legacy-graphpaper/ for a time.\n\n\n\nIt's Mazes! Offline!!\n\nJuly 21, 2026\n\n\n\nHere's the local free maze generator you can use anywhere.\nThis is just in a beta test right now. So, go grab it and use it. Let me know if you find any issues.\n\nThe Offline graph paper has also been updated. New index, better controls, bug and layout fixes for Accounting and Cornell.\n\n\n\n\nGraph Paper for Everyone!\n\nJuly 6, 2026\n\n\nHere's the newest, coolest, free-est graph paper generator.\nThis is just in a beta test right now. So, go grab it and use it. Let me know if you find any issues.\n\n\n\n\n\n\nMajor updates:\n  Live Previews\n  Local Generation (no server required)\n  Expanded size limits\n  PNG and SVG file formats.\n  New kinds of generators; Numbered Axes, Engineering, Ternary Plot, Numbered hex map, 2-point perspective, battle mat, spirals, and more\n\n\n\n\n\n\n\n\nSpotify Progress!\n\nMay 25, 2026\n\n\nThe process hath begun! Almost 400 of my tracks are now on the Spotify whitelist for podcasts! At the current rate, all the tracks could be available by mid-July.\n\n\n\nPinball???\n\nMay 25, 2026\n\n\nRecently got myself a pinball machine, and I'm enjoying it quite a lot. This is a neat project to enhance the playing experience using external lighting.\nThe video explains all the tools and workflow if you'd like to set this up for your pinball machine, or any similar item that has music and talks. \n\n\n\nThis system will work with any hardware, because all you really need is a microphone.\n\n\n\n\n\n\n\n\n\nUnscheduled Downtime\n\nMay 7, 2026\n\n\nThe incompetech web server was down today for a few hours. Python's unattended-upgrade wedged the entire system. So... yeah. In theory, upgrades are good... but I only have one server, so if that goes down everything is down.\n\n\nWhile I'm here, we are still progressing on getting my music cleared on Spotify Podcast platforms and on YouTube.\n\n\nIf you'd had a stressful day, check out a calming video like this one from my channel Virtual Horizons. All atmosphere, all the time!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYouTube Content ID\n\nApril 2, 2026\n\n\nIf you've ever gotten hit with a copyright claim on your video before, you know how much of a pain it is to get that resolved and how long it took. It was even worse for me.  We are changing that, and (in theory) no one will get an illegal claim ever again!\n\n\nmore...\n\n\n\n\n\n\n\n\n\nSpotify Podcasts and Music\n\nApril 2, 2026\n\n\nSomewhere, somehow, podcasts on Spotify are being pulled due to my music. I did NOT start any of this, and we are working to try and get everything reinstated.\nWe moved distributors to Frequency Digital. You may have received a notification from them:\nKelvin Ruijters t/as Frequency\n\n\n\n\nOn Spotify, you can dispute this fairly easily. When contesting the claim, under \"I have a license\", select \"Kelvin Ruijters t/as Frequency\" as the licensor. Frequency will then \"allow-list\" any tracks that Spotify is flagging.\nMy tracks are royalty-free, and you have permission to use them in your podcast.\nWe don't know why this started happening about 18 months ago. Spotify has a section devoted to podcasting and their rules here:\n\n\n\nhttps://creators.spotify.com/resources/create/copyright-creator-education\n\n\n\n\nIf, after you dispute these claims, you're still having an issue with your podcast or episodes, please reach out to Frequency Digital at support@frequencydigital.com.\n\nWe are still working to allow-list all my music by default, but that is not currently the case.\n\n\n\n\nPlease be sure to include:\n\nyour podcast URL\nANY screenshots of the problems you are facing on the Spotify platform\n\n\nPermanent Link to this article\n\n\n\n\n\n\nSpotify Podcast Problem?\n\nMarch 25, 2026\n\n\nIf you recently saw a change in your Spotify distributions (or have older Spotify issues) that involve my music - please let me know!\nEmail me at kevin@incompetech.com and let me know what Spotify is communicating to you so I can contact the appropriate music distributors, and try to get this all sorted... \n\n\nUpdate! We have contacted the distributors dealing with these, and they are currently working with Spotify! Thanks to everyone who sent in all your data. I'm expecting some sort of resolution in a few days. I will keep you all informed of the situation.\n\n\n\n\n\n\n\nNew Music Tool: Hurdy Gurdy tuner\n\nMarch 8, 2026\n\n\n\nQ: What happens when you try to tune your hurdy gurdy with standard online tuners?\n\nA: Pain\n\n\nSo I made this thing that actually works. \n\n\nA hurdy-gurdy is a stringed instrument that produces sound when a hand-cranked wheel rubs against strings... like a wheeled violin combined with a keyboard... which is really like pushing a fret against strings in an inverse guitar mirror universe sort of way. It is a musical platypus.\nGurdy Tuner\n\n\n\n\n\n\n\n\n\n\n\n\nNews Archive\n\n\n\n\n\n\n  \n    &copy; 1997–2026 Incompetech Inc.\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "uid127"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/uid127/status/2110826542502928455",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110825911343886336/img/MAWOs0dINbeWYnTY.jpg",
+  "coverPath": "collection/data/covers/2110826542502928455.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110825911343886336",
+    "x-post:2110826542502928455"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Interactive Jelly Macropad",
+      "summary": "Demonstration and screen recording comparison of an interactive jelly macropad coded by Gemini 4 Argon inside the Pi agent harness.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Pi",
+        "authorUseConfirmed": true,
+        "evidence": "I've been seeing Gemini 4 Argon comparisons all over X, so I wanted to try it myself.\n\nSame prompt: build an interactive jelly macropad. Both ran in @pidotdev on High."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build an interactive jelly macropad",
+        "englishText": "build an interactive jelly macropad",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "harness system prompts",
+          "scaffolding/boilerplate instructions",
+          "iterative tweaking turns during the 22-minute coding session"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side screen recording testing the Gemini 4 Argon macropad on the right, displaying squishy and draggable colorful jelly keycaps reacting to mouse interactions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Pi",
+          "role": "Agent harness used to execute, test, and tweak the interactive application code",
+          "evidence": "Both ran in @pidotdev on High.",
+          "sourceUrl": "https://x.com/pidotdev",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jelly Macropad Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini-4",
+          "canvas-interactive",
+          "creative-coding",
+          "macropad",
+          "physics-interaction"
+        ]
+      },
+      "targetModelRole": "Code generation and agentic editing for the interactive jelly macropad web application.",
+      "outputSource": "Browser viewport rendered and recorded from the code generated through the Pi harness.",
+      "divisionEvidence": "Both ran in @pidotdev on High... And here's how they built it: 22 minutes of coding, testing, and tweaking at 32× speed.",
+      "video": {
+        "shots": "1",
+        "duration": "0:18",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The post provides verified Gemini 4 usage, a verbatim task prompt fragment, and a screen recording showing the resulting interactive canvas application in operation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/uid127/status/2110826542502928455",
+        "start": 100,
+        "end": 135
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/uid127/status/2110826542502928455",
+        "author": "uid127",
+        "postId": "2110826542502928455",
+        "publishedAt": "2026-10-15T20:13:59.000Z"
+      },
+      "checkedAt": "2026-10-17T05:19:55.734Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Demonstration and screen recording comparison of an interactive jelly macropad coded by Gemini 4 Argon inside the Pi agent harness.",
+    "summaryEn": "Gemini 4 Argon Interactive Jelly Macropad",
+    "originalPrompt": "build an interactive jelly macropad",
+    "sourceRange": {
+      "start": 100,
+      "end": 135
+    },
+    "translations": {
+      "zh": "build an interactive jelly macropad",
+      "en": "build an interactive jelly macropad"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jelly Macropad Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "harness system prompts",
+        "scaffolding/boilerplate instructions",
+        "iterative tweaking turns during the 22-minute coding session"
+      ],
+      "evidence": "The video shows a side-by-side screen recording testing the Gemini 4 Argon macropad on the right, displaying squishy and draggable colorful jelly keycaps reacting to mouse interactions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:12.380Z",
+  "model": "gemini4",
+  "prompt": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.",
+  "promptTranslations": {
+    "en": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm."
+  },
+  "summary": "Sidra Miconi used Gemini 4 Argon over the API to remix Google's open-source WebGL2 Argon library demo into a sunlit optics laboratory featuring optical tables, equipment racks, a slow drifting camera, and a cyan laser beam reflecting off mirrors into a target.",
+  "summaryEn": "Sunlit Optics Lab WebGL2 3D Scene Remix",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111164230124638443",
+    "canonicalUrl": "https://x.com/SidraMiconi/status/2111164230124638443",
+    "author": {
+      "username": "SidraMiconi",
+      "displayName": "Sidra Miconi",
+      "profileUrl": "https://x.com/SidraMiconi"
+    },
+    "publishedAt": "2026-10-16T18:35:50.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "Google's open-source Argon demo is a sunlit concrete-and-walnut library: one HTML file, vanilla JavaScript and WebGL2, rendered from first principles.\n\nI gave that whole file back to Gemini 4 Argon over the API, high thinking, with one paragraph asking for a sunlit optics lab with an argon-blue laser.\n\nTry 1 came back as a library with no beam in sight.\n\nTry 2 added one sentence: show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.\n\nNow the shelves are racks with little scope readouts, the chair and coffee table are two optical tables, golden-hour light pours in, and a cyan beam zigzags off three mirrors into a glowing target while the camera slowly drifts, which the original never does.\n\nIt kept Google's engine, materials, mountain windows and license header, and added its own Modified notes.\n\nA remix, not from scratch: try 2 cost $1.39, both tries $2.85, zero console errors.\n\n@AgentGlassInc",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SidraMiconi/status/2111164230124638443",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2111164209354420224/pu/img/rDGH4eSaRuRKl7cF.jpg",
+        "analysisUrl": "https://x.com/SidraMiconi/status/2111164230124638443"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 152
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/SidraMiconi/status/2111164313058599038",
+        "text": "Sidra Miconi on X: \"Google&#x27;s original library on the left, the remix on the right. Same engine, same mountain windows, same license header; the racks, the two optical tables and the beam are new.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nSidra Miconi on X: \"Google&#x27;s original library on the left, the remix on the right. Same engine, same mountain windows, same license header; the racks, the two optical tables and the beam are new.\"\n\n\n\nSidra Miconi\n\n@SidraMiconi\n\n\n\n\nGoogle&#x27;s original library on the left, the remix on the right. Same engine, same mountain windows, same license header; the racks, the two optical tables and the beam are new.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:36 PM · Oct 16, 2026·28\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSidra Miconi@SidraMiconiFollow\nFounder: Building secure and reliable agents at @AgentGlassInc | \n@AnthropicAI Startup Speedrun and @Meta RL : Solo Winner | fully funded PhD at 22\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSidra Miconi\n\n@SidraMiconi\n10h\n\n\nGoogle&#x27;s open-source Argon demo is a sunlit concrete-and-walnut library: one HTML file, vanilla JavaScript and WebGL2, rendered from first principles.\n\nI gave that whole file back to Gemini 4 Argon over the API, high thinking, with one paragraph asking for a sunlit optics lab Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n152\n\n\n\n\n\n\n\n\n\n\nSidra Miconi\n\n@SidraMiconi\n\n\n\n\nGoogle&#x27;s original library on the left, the remix on the right. Same engine, same mountain windows, same license header; the racks, the two optical tables and the beam are new.\n\n\n00:00\n\n\n\n\n\n\n\n\n6:36 PM · Oct 16, 2026·28\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "SidraMiconi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SidraMiconi/status/2111164230124638443",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2111164209354420224/pu/img/rDGH4eSaRuRKl7cF.jpg",
+  "coverPath": "collection/data/covers/2111164230124638443.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111164209354420224",
+    "x-post:2111164230124638443"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Sunlit Optics Lab WebGL2 3D Scene Remix",
+      "summary": "Sidra Miconi used Gemini 4 Argon over the API to remix Google's open-source WebGL2 Argon library demo into a sunlit optics laboratory featuring optical tables, equipment racks, a slow drifting camera, and a cyan laser beam reflecting off mirrors into a target.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": "API",
+        "authorUseConfirmed": true,
+        "evidence": "I gave that whole file back to Gemini 4 Argon over the API, high thinking, with one paragraph asking for a sunlit optics lab with an argon-blue laser."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.",
+        "englishText": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial paragraph prompt asking for a sunlit optics lab with an argon-blue laser",
+          "Exact system prompt or API configuration details",
+          "Original Argon HTML/WebGL2 source code file"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 3D animated WebGL scene with equipment racks, two optical tables, warm sunlight pouring through mountain windows, a cyan laser zigzagging across mirrors to a glowing target, and a drifting camera.",
+        "textualResultQuote": "Now the shelves are racks with little scope readouts, the chair and coffee table are two optical tables, golden-hour light pours in, and a cyan beam zigzags off three mirrors into a glowing target while the camera slowly drifts, which the original never does."
+      },
+      "inputs": [
+        {
+          "kind": "code",
+          "description": "Google's open-source Argon demo single HTML file containing vanilla JavaScript and WebGL2",
+          "available": false,
+          "evidence": "Google's open-source Argon demo is a sunlit concrete-and-walnut library: one HTML file, vanilla JavaScript and WebGL2, rendered from first principles. I gave that whole file back to Gemini 4 Argon over the API",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "WebGL2 / Vanilla JavaScript Browser Engine",
+          "role": "Renders the 3D scene from first principles and handles real-time camera drifting and animation",
+          "evidence": "one HTML file, vanilla JavaScript and WebGL2, rendered from first principles.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "WebGL2 3D Optics Lab Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgl2",
+          "creative-coding",
+          "3d-scenes",
+          "optics-lab",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Gemini 4 edited and refactored the monolithic WebGL2/JavaScript source code file to transform objects, lighting, and camera paths according to natural language prompts.",
+      "outputSource": "Browser execution of the Gemini-edited WebGL2 HTML file",
+      "divisionEvidence": "I gave that whole file back to Gemini 4 Argon over the API, high thinking... It kept Google's engine, materials, mountain windows and license header, and added its own Modified notes.",
+      "video": {
+        "shots": "1 shot",
+        "duration": "15s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video-production case demonstrating code-based 3D animation generation/remixing in WebGL2 with direct author confirmation and accompanying video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SidraMiconi/status/2111164230124638443",
+        "start": 383,
+        "end": 487
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SidraMiconi/status/2111164230124638443",
+        "author": "SidraMiconi",
+        "postId": "2111164230124638443",
+        "publishedAt": "2026-10-16T18:35:50.000Z"
+      },
+      "checkedAt": "2026-10-17T04:59:51.012Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Sidra Miconi used Gemini 4 Argon over the API to remix Google's open-source WebGL2 Argon library demo into a sunlit optics laboratory featuring optical tables, equipment racks, a slow drifting camera, and a cyan laser beam reflecting off mirrors into a target.",
+    "summaryEn": "Sunlit Optics Lab WebGL2 3D Scene Remix",
+    "originalPrompt": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.",
+    "sourceRange": {
+      "start": 383,
+      "end": 487
+    },
+    "translations": {
+      "zh": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm.",
+      "en": "show the beam along its whole path, turn the bookshelves into equipment racks, set the sun low and warm."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "WebGL2 3D Optics Lab Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial paragraph prompt asking for a sunlit optics lab with an argon-blue laser",
+        "Exact system prompt or API configuration details",
+        "Original Argon HTML/WebGL2 source code file"
+      ],
+      "evidence": "The video shows a 3D animated WebGL scene with equipment racks, two optical tables, warm sunlight pouring through mountain windows, a cyan laser zigzagging across mirrors to a glowing target, and a drifting camera."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
