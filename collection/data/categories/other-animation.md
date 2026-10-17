@@ -1,5 +1,5 @@
 # other-animation
 
-- [Animated SVG Nintendo Switch](../../prompts/2110442265500176445.md)
+- [Gemini 4 Single-Prompt Video Generation Test](../../prompts/2111073023054995895.md)
 
 [All tasks](../../../README.md)

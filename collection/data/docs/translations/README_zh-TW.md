@@ -2,51 +2,45 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**0 source-verified real cases** · 15 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**1 source-verified real cases** · 3 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Gemini 4 Argon Life Simulation Benchmark](../../../prompts/2111202804723560571.md)
+### [Gemini 4 Single-Prompt Video Generation Test](../../../prompts/2111073023054995895.md)
 
-![Preview by @melvynx](<../../covers/2111202804723560571.jpg>)
+![Preview by @quiet_sea](<../../covers/2111073023054995895.jpg>)
 
-By @melvynx · [source](<https://x.com/melvynx/status/2111202804723560571>)
+By @quiet_sea · [source](<https://x.com/quiet_sea/status/2111073023054995895>)
 
-### [Night Tokyo Railroad Crossing Three.js Scene](../../../prompts/2111194985223823581.md)
+### [Three.js 3D Mechanical Falcon Simulation](../../../prompts/2111031676730245466.md)
 
-![Preview by @sprinntt](<../../covers/2111194985223823581.jpg>)
+![Preview by @eiichi292929](<../../covers/2111031676730245466.jpg>)
 
-By @sprinntt · [source](<https://x.com/sprinntt/status/2111194985223823581>)
+By @eiichi292929 · [source](<https://x.com/eiichi292929/status/2111031676730245466>)
 
-### [Sunlit Optics Lab WebGL2 3D Scene Remix](../../../prompts/2111164230124638443.md)
+### [Blender 3D Shrine Model from Reference Image](../../../prompts/2110987470737485952.md)
 
-![Preview by @SidraMiconi](<../../covers/2111164230124638443.jpg>)
+![Preview by @npaka123](<../../covers/2110987470737485952.jpg>)
 
-By @SidraMiconi · [source](<https://x.com/SidraMiconi/status/2111164230124638443>)
+By @npaka123 · [source](<https://x.com/npaka123/status/2110987470737485952>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 9
+- [canvas-interactive](../../categories/canvas-interactive.md) — 2
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
-- [blender](../../categories/blender.md) — 2
+- [blender](../../categories/blender.md) — 1
 - [external-video-model](../../categories/external-video-model.md) — 0
 - [other-animation](../../categories/other-animation.md) — 1
 
 ## Recently added
 
-- 2026-10-17 · [Gemini 4 Argon Life Simulation Benchmark](../../../prompts/2111202804723560571.md)
-- 2026-10-17 · [Night Tokyo Railroad Crossing Three.js Scene](../../../prompts/2111194985223823581.md)
-- 2026-10-17 · [Sunlit Optics Lab WebGL2 3D Scene Remix](../../../prompts/2111164230124638443.md)
-- 2026-10-17 · [Interactive 3D Racing Car in Three.js via Gemini 4](../../../prompts/2111145884776116711.md)
-- 2026-10-17 · [Interactive 3D Chess with Capture Confirmation](../../../prompts/2111145253491388837.md)
-- 2026-10-17 · [Impossible Marble Machine in Blender](../../../prompts/2110991312363352087.md)
-- 2026-10-17 · [Interactive 3D Jelly Pumpkin Web Demo with Three.js](../../../prompts/2110891747442118846.md)
-- 2026-10-17 · [Gemini 4 Argon Interactive Jelly Macropad](../../../prompts/2110826542502928455.md)
-- 2026-10-17 · [3D Luxury Watch Exploded View Animation](../../../prompts/2110823240281038956.md)
-- 2026-10-17 · [Astral Chrono-Orrery Vane-IX Interactive 3D World](../../../prompts/2110780282009784509.md)
+- 2026-10-17 · [Gemini 4 Single-Prompt Video Generation Test](../../../prompts/2111073023054995895.md)
+- 2026-10-17 · [Three.js 3D Mechanical Falcon Simulation](../../../prompts/2111031676730245466.md)
+- 2026-10-17 · [Blender 3D Shrine Model from Reference Image](../../../prompts/2110987470737485952.md)
+- 2026-10-17 · [3D Helical Solar System Simulation in HTML](../../../prompts/2110380365269639613.md)
 
 ## Review policy
 
