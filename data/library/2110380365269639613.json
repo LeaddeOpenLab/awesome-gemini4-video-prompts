@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:39.760Z",
+  "model": "gemini4",
+  "prompt": "プロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。\n\n【視覚化・物理モデルの要件】\n1. 太陽の移動と黄道面の傾き（重要）\n   - 太陽は銀河系内の進行方向ベクトル（黄金色の矢印つき軸）に沿って前進し続ける。\n   - 惑星の公転面（黄道面）は、太陽の進行方向に対して「約60°傾いた同一平面」を保ったまま太陽と一緒に前進する（惑星が太陽の後ろに円錐状に遅れて引っ張られるのではなく、常に太陽と同じ傾いた平面上を公転しながら進むため、3次元空間でコルク抜きのようならせん軌跡を描く）。\n   - 太陽の現在位置には、約60°傾いた黄道面のガイドリング（各惑星の公転軌道円）と十字軸を半透明で表示する。\n\n2. 8惑星と3Dらせん軌跡（スクリュー軌道）\n   - 水星・金星・地球（＋月）・火星・木星・土星（＋環）・天王星・海王星の8惑星を描画する。\n   - ケプラーの法則に基づき、内惑星ほど公転周期が短く細かいピッチのらせんを描き、外惑星ほどゆったりした大きなピッチのらせんを描くように周期バランスを設定する。\n   - 各惑星の過去の位置を繋いだ鮮やかな3Dらせんトレイル（末尾に向かってフェードアウトするリボンまたはライン）を空間に残す。\n   - 各惑星の横に日本語ラベル（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）を表示する。\n   - 背景には銀河空間の移動感が伝わるよう、流れる星々（スターフィールド）と円筒状の奥行きガイドリングを配置する。\n\n3. 画面レイアウトとUIパネル（ダークテーマ・16:9構成）\n   - 左〜中央エリア（メイン3Dビュー）：\n     - 左上にタイトル「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」とサブタイトル「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」を表示。\n     - 左下に解説バッジ「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」を表示。\n   - 右側エリア（HUD情報パネル）：\n     - 上部：「横から見たスクリュー波形（側面投影）」のサブモニター枠を設け、太陽の進行軸（水平線）に対して各惑星が上下に描くサイン波状の波形をリアルタイム描画する。\n     - 中部：「太陽の銀河系公転速度: 約 220 km/s」および「銀河空間の移動距離（百万km単位・地球換算年数）」のリアルタイムカウンターを表示。\n     - 下部：8惑星それぞれの色ドット、名前（日英）、実際の平均公転速度（水星 47.4 km/s〜海王星 5.4 km/s）、累計周回数（〇〇周）、および現在の1周の進捗バーを表示。\n\n4. インタラクティブ操作\n   - マウスドラッグで3Dカメラのアングルを自由に回転、ホイールでズームできるようにする（カメラは常に前進する太陽を追従する）。\n   - 再生/一時停止ボタン、シミュレーション速度スライダー、カメラ視点リセットボタンを設ける。",
+  "promptTranslations": {
+    "en": "Prompt\n\nPlease create a 3D animation of the Sun traveling through the Milky Way at approximately 220 km/s and the eight solar system planets revolving around it in a 3D screw (helical) pattern, as a single-file HTML (HTML5 Canvas or Three.js) that can be previewed in Artifacts.\n\n[Visualization and Physics Model Requirements]\n1. Sun's Motion and Ecliptic Plane Tilt (Important)\n   - The Sun continues moving forward along its galactic direction vector (axis with a golden arrow).\n   - The planets' orbital plane (ecliptic plane) advances together with the Sun while maintaining an identical plane tilted at approximately 60° relative to the Sun's forward direction (planets are not trailing behind in a cone shape, but orbit on the same tilted plane moving with the Sun, drawing corkscrew-like helical paths in 3D space).\n   - Display semi-transparent guide rings (orbital circles for each planet) and crosshair axes on the ~60° tilted ecliptic plane at the Sun's current position.\n\n2. 8 Planets and 3D Helical Trajectories (Screw Orbits)\n   - Render the 8 planets: Mercury, Venus, Earth (+ Moon), Mars, Jupiter, Saturn (+ rings), Uranus, and Neptune.\n   - Based on Kepler's laws, balance the orbital periods so inner planets have shorter periods and tighter-pitched helices, while outer planets have longer periods and wider-pitched helices.\n   - Leave vivid 3D helical trails (ribbons or lines fading toward the end) connecting each planet's past positions in space.\n   - Display Japanese labels next to each planet (太陽, 水星, 金星, 地球, 火星, 木星, 土星, 天王星, 海王星).\n   - Place streaming stars (starfield) and cylindrical depth guide rings in the background to convey motion through galactic space.\n\n3. Screen Layout and UI Panels (Dark Theme, 16:9 Aspect Ratio)\n   - Left to Center Area (Main 3D View):\n     - Top left: Display title \"銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション\" and subtitle \"秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます\".\n     - Bottom left: Display explanatory badge \"ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。\"\n   - Right Area (HUD Information Panel):\n     - Top: Sub-monitor frame titled \"横から見たスクリュー波形（側面投影）\" showing real-time sinusoidal waveforms drawn by each planet above/below the Sun's trajectory axis (horizontal line).\n     - Middle: Real-time counters showing \"太陽の銀河系公転速度: 約 220 km/s\" and galactic distance traveled (in million km / Earth years).\n     - Bottom: Color dots, names (JA/EN), actual average orbital speeds (Mercury 47.4 km/s to Neptune 5.4 km/s), total orbits completed, and current lap progress bar for each of the 8 planets.\n\n4. Interactive Controls\n   - Allow free 3D camera rotation via mouse drag and zoom via wheel (camera continuously tracks the advancing Sun).\n   - Provide play/pause button, simulation speed slider, and camera reset button."
+  },
+  "summary": "The author prompted Gemini 4 to generate a standalone HTML/JavaScript 3D simulation showing the solar system orbiting and travelling through the galaxy in a helical screw trajectory at 220 km/s, accompanied by full UI metrics and interactive camera views.",
+  "summaryEn": "3D Helical Solar System Simulation in HTML",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110380365269639613",
+    "canonicalUrl": "https://x.com/ecsamuraigold/status/2110380365269639613",
+    "author": {
+      "username": "ecsamuraigold",
+      "displayName": "AI TANUKI（AIたぬき）",
+      "profileUrl": "https://x.com/ecsamuraigold"
+    },
+    "publishedAt": "2026-10-14T14:41:02.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "ja",
+    "originalText": "Gemini 4、Claude Opus5.5，GPT 6 Astraで、銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら（らせん状）に公転する太陽系8惑星の3DアニメーションをHTMLで作ってもらいました。\n\nOpus5.5 と Gemini 4 Argon 　どちらも良いです。\n\nイマイチがGPT 6 Astraと 6.1 sol\n\nGemini 4のほうが良いかも知れない。でもOpus5.5が良かった点もある。土星のリングをしっかり再現し、土星自身の自転も再現しているがの明確。操作性も超スムーズ。\n\nGemini4は、自動で視点かえてくるボタンまであった。\nGemini Argonのつくった太陽系3Dです。\n\nプロンプトは最期に貼っておきます。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ecsamuraigold/status/2110380365269639613",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110379782785654784/img/CvZneMGDOH9fzEwU.jpg",
+        "analysisUrl": "https://x.com/ecsamuraigold/status/2110380365269639613"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 474
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ecsamuraigold/status/2110381109494354145",
+        "text": "プロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。\n\n【視覚化・物理モデルの要件】\n1. 太陽の移動と黄道面の傾き（重要）\n   - 太陽は銀河系内の進行方向ベクトル（黄金色の矢印つき軸）に沿って前進し続ける。\n   - 惑星の公転面（黄道面）は、太陽の進行方向に対して「約60°傾いた同一平面」を保ったまま太陽と一緒に前進する（惑星が太陽の後ろに円錐状に遅れて引っ張られるのではなく、常に太陽と同じ傾いた平面上を公転しながら進むため、3次元空間でコルク抜きのようならせん軌跡を描く）。\n   - 太陽の現在位置には、約60°傾いた黄道面のガイドリング（各惑星の公転軌道円）と十字軸を半透明で表示する。\n\n2. 8惑星と3Dらせん軌跡（スクリュー軌道）\n   - 水星・金星・地球（＋月）・火星・木星・土星（＋環）・天王星・海王星の8惑星を描画する。\n   - ケプラーの法則に基づき、内惑星ほど公転周期が短く細かいピッチのらせんを描き、外惑星ほどゆったりした大きなピッチのらせんを描くように周期バランスを設定する。\n   - 各惑星の過去の位置を繋いだ鮮やかな3Dらせんトレイル（末尾に向かってフェードアウトするリボンまたはライン）を空間に残す。\n   - 各惑星の横に日本語ラベル（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）を表示する。\n   - 背景には銀河空間の移動感が伝わるよう、流れる星々（スターフィールド）と円筒状の奥行きガイドリングを配置する。\n\n3. 画面レイアウトとUIパネル（ダークテーマ・16:9構成）\n   - 左〜中央エリア（メイン3Dビュー）：\n     - 左上にタイトル「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」とサブタイトル「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」を表示。\n     - 左下に解説バッジ「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」を表示。\n   - 右側エリア（HUD情報パネル）：\n     - 上部：「横から見たスクリュー波形（側面投影）」のサブモニター枠を設け、太陽の進行軸（水平線）に対して各惑星が上下に描くサイン波状の波形をリアルタイム描画する。\n     - 中部：「太陽の銀河系公転速度: 約 220 km/s」および「銀河空間の移動距離（百万km単位・地球換算年数）」のリアルタイムカウンターを表示。\n     - 下部：8惑星それぞれの色ドット、名前（日英）、実際の平均公転速度（水星 47.4 km/s〜海王星 5.4 km/s）、累計周回数（〇〇周）、および現在の1周の進捗バーを表示。\n\n4. インタラクティブ操作\n   - マウスドラッグで3Dカメラのアングルを自由に回転、ホイールでズームできるようにする（カメラは常に前進する太陽を追従する）。\n   - 再生/一時停止ボタン、シミュレーション速度スライダー、カメラ視点リセットボタンを設ける。",
+        "author": "ecsamuraigold"
+      },
+      {
+        "url": "https://x.com/ecsamuraigold/status/2110380370462195927",
+        "text": "AI TANUKI（AIたぬき） on X: \"ちゃぴのAstraも6.1もすごいんだけど、ことこの図解とか動画形はだめかも。　静止画はすごーく良いんだけど。跡未だに画像に書いてある図を読み取るのが間違える。地味に1箇所間違える。\nGemini 3.5 flashですら間違えないのに。このあたりがこうしたところに出てるのかな。\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAI TANUKI（AIたぬき） on X: \"ちゃぴのAstraも6.1もすごいんだけど、ことこの図解とか動画形はだめかも。　静止画はすごーく良いんだけど。跡未だに画像に書いてある図を読み取るのが間違える。地味に1箇所間違える。\nGemini 3.5 flashですら間違えないのに。このあたりがこうしたところに出てるのかな。\"\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n\n\n\n\nShow translation\nちゃぴのAstraも6.1もすごいんだけど、ことこの図解とか動画形はだめかも。　静止画はすごーく良いんだけど。跡未だに画像に書いてある図を読み取るのが間違える。地味に1箇所間違える。\nGemini 3.5 flashですら間違えないのに。このあたりがこうしたところに出てるのかな。\n\n\n00:00\n\n\n\n\n\n\n\n\n2:41 PM · Oct 14, 2026·43\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAI TANUKI（AIたぬき）@ecsamuraigoldFollow\nAIで外貨獲得。AI×日本文化×POD×越境ECを、Shopify・WordPress・Etsyで実験中。成功も失敗も全部公開。北米向けブランド運営／自社EC20年以上／AI Builder-Operator（作って、運営する人）Podcast：x.gd/FK3nI\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n14h\n\n\nGemini 4、Claude Opus5.5，GPT 6 Astraで、銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら（らせん状）に公転する太陽系8惑星の3DアニメーションをHTMLで作ってもらいました。\n\nOpus5.5 と Gemini 4 Argon 　どちらも良いです。\n\nイマイチがGPT 6 Astraと 6.1 sol\n\nGemini Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n1\n2\n475\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n14h\n\n\nClaude Opus 5.5\n一番ぼーっと見ていられる\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n\n49\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n\n\n\n\nShow translation\nちゃぴのAstraも6.1もすごいんだけど、ことこの図解とか動画形はだめかも。　静止画はすごーく良いんだけど。跡未だに画像に書いてある図を読み取るのが間違える。地味に1箇所間違える。\nGemini 3.5 flashですら間違えないのに。このあたりがこうしたところに出てるのかな。\n\n\n00:00\n\n\n\n\n\n\n\n\n2:41 PM · Oct 14, 2026·43\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ecsamuraigold"
+      },
+      {
+        "url": "https://x.com/ecsamuraigold/status/2110380367685530023",
+        "text": "AI TANUKI（AIたぬき） on X: \"Claude Opus 5.5\n一番ぼーっと見ていられる\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAI TANUKI（AIたぬき） on X: \"Claude Opus 5.5\n一番ぼーっと見ていられる\"\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n\n\n\n\nShow translation\nClaude Opus 5.5\n一番ぼーっと見ていられる\n\n\n00:00\n\n\n\n\n\n\n\n\n2:41 PM · Oct 14, 2026·49\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAI TANUKI（AIたぬき）@ecsamuraigoldFollow\nAIで外貨獲得。AI×日本文化×POD×越境ECを、Shopify・WordPress・Etsyで実験中。成功も失敗も全部公開。北米向けブランド運営／自社EC20年以上／AI Builder-Operator（作って、運営する人）Podcast：x.gd/FK3nI\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n14h\n\n\nGemini 4、Claude Opus5.5，GPT 6 Astraで、銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら（らせん状）に公転する太陽系8惑星の3DアニメーションをHTMLで作ってもらいました。\n\nOpus5.5 と Gemini 4 Argon 　どちらも良いです。\n\nイマイチがGPT 6 Astraと 6.1 sol\n\nGemini Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n1\n2\n475\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n\n\n\n\nShow translation\nClaude Opus 5.5\n一番ぼーっと見ていられる\n\n\n00:00\n\n\n\n\n\n\n\n\n2:41 PM · Oct 14, 2026·49\nViews\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n14h\n\n\nプロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。 Show more\n\n\n\n\n\n202\n\n\n\n\n\n\n\n\n\n\n\nAI TANUKI（AIたぬき）\n@ecsamuraigold\n14h\n\n\nちゃぴのAstraも6.1もすごいんだけど、ことこの図解とか動画形はだめかも。　静止画はすごーく良いんだけど。跡未だに画像に書いてある図を読み取るのが間違える。地味に1箇所間違える。\nGemini 3.5 flashですら間違えないのに。このあたりがこうしたところに出てるのかな。\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n43\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ecsamuraigold"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ecsamuraigold/status/2110380365269639613",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110379782785654784/img/CvZneMGDOH9fzEwU.jpg",
+  "coverPath": "covers/2110380365269639613.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110379782785654784",
+    "x-post:2110380365269639613"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "3D Helical Solar System Simulation in HTML",
+      "summary": "The author prompted Gemini 4 to generate a standalone HTML/JavaScript 3D simulation showing the solar system orbiting and travelling through the galaxy in a helical screw trajectory at 220 km/s, accompanied by full UI metrics and interactive camera views.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4、Claude Opus5.5，GPT 6 Astraで、銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら（らせん状）に公転する太陽系8惑星の3DアニメーションをHTMLで作ってもらいました。... Gemini Argonのつくった太陽系3Dです。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "プロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。\n\n【視覚化・物理モデルの要件】\n1. 太陽の移動と黄道面の傾き（重要）\n   - 太陽は銀河系内の進行方向ベクトル（黄金色の矢印つき軸）に沿って前進し続ける。\n   - 惑星の公転面（黄道面）は、太陽の進行方向に対して「約60°傾いた同一平面」を保ったまま太陽と一緒に前進する（惑星が太陽の後ろに円錐状に遅れて引っ張られるのではなく、常に太陽と同じ傾いた平面上を公転しながら進むため、3次元空間でコルク抜きのようならせん軌跡を描く）。\n   - 太陽の現在位置には、約60°傾いた黄道面のガイドリング（各惑星の公転軌道円）と十字軸を半透明で表示する。\n\n2. 8惑星と3Dらせん軌跡（スクリュー軌道）\n   - 水星・金星・地球（＋月）・火星・木星・土星（＋環）・天王星・海王星の8惑星を描画する。\n   - ケプラーの法則に基づき、内惑星ほど公転周期が短く細かいピッチのらせんを描き、外惑星ほどゆったりした大きなピッチのらせんを描くように周期バランスを設定する。\n   - 各惑星の過去の位置を繋いだ鮮やかな3Dらせんトレイル（末尾に向かってフェードアウトするリボンまたはライン）を空間に残す。\n   - 各惑星の横に日本語ラベル（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）を表示する。\n   - 背景には銀河空間の移動感が伝わるよう、流れる星々（スターフィールド）と円筒状の奥行きガイドリングを配置する。\n\n3. 画面レイアウトとUIパネル（ダークテーマ・16:9構成）\n   - 左〜中央エリア（メイン3Dビュー）：\n     - 左上にタイトル「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」とサブタイトル「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」を表示。\n     - 左下に解説バッジ「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」を表示。\n   - 右側エリア（HUD情報パネル）：\n     - 上部：「横から見たスクリュー波形（側面投影）」のサブモニター枠を設け、太陽の進行軸（水平線）に対して各惑星が上下に描くサイン波状の波形をリアルタイム描画する。\n     - 中部：「太陽の銀河系公転速度: 約 220 km/s」および「銀河空間の移動距離（百万km単位・地球換算年数）」のリアルタイムカウンターを表示。\n     - 下部：8惑星それぞれの色ドット、名前（日英）、実際の平均公転速度（水星 47.4 km/s〜海王星 5.4 km/s）、累計周回数（〇〇周）、および現在の1周の進捗バーを表示。\n\n4. インタラクティブ操作\n   - マウスドラッグで3Dカメラのアングルを自由に回転、ホイールでズームできるようにする（カメラは常に前進する太陽を追従する）。\n   - 再生/一時停止ボタン、シミュレーション速度スライダー、カメラ視点リセットボタンを設ける。",
+        "englishText": "Prompt\n\nPlease create a 3D animation of the Sun traveling through the Milky Way at approximately 220 km/s and the eight solar system planets revolving around it in a 3D screw (helical) pattern, as a single-file HTML (HTML5 Canvas or Three.js) that can be previewed in Artifacts.\n\n[Visualization and Physics Model Requirements]\n1. Sun's Motion and Ecliptic Plane Tilt (Important)\n   - The Sun continues moving forward along its galactic direction vector (axis with a golden arrow).\n   - The planets' orbital plane (ecliptic plane) advances together with the Sun while maintaining an identical plane tilted at approximately 60° relative to the Sun's forward direction (planets are not trailing behind in a cone shape, but orbit on the same tilted plane moving with the Sun, drawing corkscrew-like helical paths in 3D space).\n   - Display semi-transparent guide rings (orbital circles for each planet) and crosshair axes on the ~60° tilted ecliptic plane at the Sun's current position.\n\n2. 8 Planets and 3D Helical Trajectories (Screw Orbits)\n   - Render the 8 planets: Mercury, Venus, Earth (+ Moon), Mars, Jupiter, Saturn (+ rings), Uranus, and Neptune.\n   - Based on Kepler's laws, balance the orbital periods so inner planets have shorter periods and tighter-pitched helices, while outer planets have longer periods and wider-pitched helices.\n   - Leave vivid 3D helical trails (ribbons or lines fading toward the end) connecting each planet's past positions in space.\n   - Display Japanese labels next to each planet (太陽, 水星, 金星, 地球, 火星, 木星, 土星, 天王星, 海王星).\n   - Place streaming stars (starfield) and cylindrical depth guide rings in the background to convey motion through galactic space.\n\n3. Screen Layout and UI Panels (Dark Theme, 16:9 Aspect Ratio)\n   - Left to Center Area (Main 3D View):\n     - Top left: Display title \"銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション\" and subtitle \"秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます\".\n     - Bottom left: Display explanatory badge \"ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。\"\n   - Right Area (HUD Information Panel):\n     - Top: Sub-monitor frame titled \"横から見たスクリュー波形（側面投影）\" showing real-time sinusoidal waveforms drawn by each planet above/below the Sun's trajectory axis (horizontal line).\n     - Middle: Real-time counters showing \"太陽の銀河系公転速度: 約 220 km/s\" and galactic distance traveled (in million km / Earth years).\n     - Bottom: Color dots, names (JA/EN), actual average orbital speeds (Mercury 47.4 km/s to Neptune 5.4 km/s), total orbits completed, and current lap progress bar for each of the 8 planets.\n\n4. Interactive Controls\n   - Allow free 3D camera rotation via mouse drag and zoom via wheel (camera continuously tracks the advancing Sun).\n   - Provide play/pause button, simulation speed slider, and camera reset button.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the complete running HTML simulation matching all prompt details: the Sun advancing with the gold trajectory arrow, 8 labeled planets tracing corkscrew trails on a tilted ecliptic, real-time side-view wave HUD on the right, planet speed/progress bars, top title, bottom explanation badge, and working interactive viewpoint controls.",
+        "textualResultQuote": "Gemini Argonのつくった太陽系3Dです。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js / HTML5 Canvas",
+          "role": "3D graphics rendering in browser",
+          "evidence": "単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し",
+          "sourceUrl": "https://x.com/ecsamuraigold/status/2110381109494354145",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D simulation of solar system moving helically through the galaxy",
+        "topic": "3d-scenes",
+        "tags": [
+          "solar-system",
+          "astronomy",
+          "three.js",
+          "html5-canvas",
+          "interactive-simulation"
+        ]
+      },
+      "targetModelRole": "Gemini 4 generated the single-file HTML, CSS, and Three.js/Canvas script that simulates the physics and renders the interactive 3D scene and HUD.",
+      "outputSource": "Web browser rendering of Gemini 4 generated HTML code",
+      "divisionEvidence": "銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら（らせん状）に公転する太陽系8惑星の3DアニメーションをHTMLで作ってもらいました。... Gemini Argonのつくった太陽系3Dです。",
+      "video": {
+        "shots": "Single continuous screen capture showing real-time interactive 3D simulation with camera angles changing",
+        "duration": "01:05",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The author provides the complete original generation prompt in the thread, specifies Gemini 4 as the code author, and provides a 65-second screen recording demonstrating the consistent execution of the interactive 3D animation simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ecsamuraigold/status/2110381109494354145",
+        "start": 0,
+        "end": 1481
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ecsamuraigold/status/2110380365269639613",
+        "author": "ecsamuraigold",
+        "postId": "2110380365269639613",
+        "publishedAt": "2026-10-14T14:41:02.000Z"
+      },
+      "checkedAt": "2026-10-15T05:17:44.766Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "The author prompted Gemini 4 to generate a standalone HTML/JavaScript 3D simulation showing the solar system orbiting and travelling through the galaxy in a helical screw trajectory at 220 km/s, accompanied by full UI metrics and interactive camera views.",
+    "summaryEn": "3D Helical Solar System Simulation in HTML",
+    "originalPrompt": "プロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。\n\n【視覚化・物理モデルの要件】\n1. 太陽の移動と黄道面の傾き（重要）\n   - 太陽は銀河系内の進行方向ベクトル（黄金色の矢印つき軸）に沿って前進し続ける。\n   - 惑星の公転面（黄道面）は、太陽の進行方向に対して「約60°傾いた同一平面」を保ったまま太陽と一緒に前進する（惑星が太陽の後ろに円錐状に遅れて引っ張られるのではなく、常に太陽と同じ傾いた平面上を公転しながら進むため、3次元空間でコルク抜きのようならせん軌跡を描く）。\n   - 太陽の現在位置には、約60°傾いた黄道面のガイドリング（各惑星の公転軌道円）と十字軸を半透明で表示する。\n\n2. 8惑星と3Dらせん軌跡（スクリュー軌道）\n   - 水星・金星・地球（＋月）・火星・木星・土星（＋環）・天王星・海王星の8惑星を描画する。\n   - ケプラーの法則に基づき、内惑星ほど公転周期が短く細かいピッチのらせんを描き、外惑星ほどゆったりした大きなピッチのらせんを描くように周期バランスを設定する。\n   - 各惑星の過去の位置を繋いだ鮮やかな3Dらせんトレイル（末尾に向かってフェードアウトするリボンまたはライン）を空間に残す。\n   - 各惑星の横に日本語ラベル（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）を表示する。\n   - 背景には銀河空間の移動感が伝わるよう、流れる星々（スターフィールド）と円筒状の奥行きガイドリングを配置する。\n\n3. 画面レイアウトとUIパネル（ダークテーマ・16:9構成）\n   - 左〜中央エリア（メイン3Dビュー）：\n     - 左上にタイトル「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」とサブタイトル「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」を表示。\n     - 左下に解説バッジ「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」を表示。\n   - 右側エリア（HUD情報パネル）：\n     - 上部：「横から見たスクリュー波形（側面投影）」のサブモニター枠を設け、太陽の進行軸（水平線）に対して各惑星が上下に描くサイン波状の波形をリアルタイム描画する。\n     - 中部：「太陽の銀河系公転速度: 約 220 km/s」および「銀河空間の移動距離（百万km単位・地球換算年数）」のリアルタイムカウンターを表示。\n     - 下部：8惑星それぞれの色ドット、名前（日英）、実際の平均公転速度（水星 47.4 km/s〜海王星 5.4 km/s）、累計周回数（〇〇周）、および現在の1周の進捗バーを表示。\n\n4. インタラクティブ操作\n   - マウスドラッグで3Dカメラのアングルを自由に回転、ホイールでズームできるようにする（カメラは常に前進する太陽を追従する）。\n   - 再生/一時停止ボタン、シミュレーション速度スライダー、カメラ視点リセットボタンを設ける。",
+    "sourceRange": {
+      "start": 0,
+      "end": 1481
+    },
+    "translations": {
+      "zh": "プロンプト\n\n銀河系の中を秒速約220kmで進む太陽と、それを追いかけながら3次元空間をスクリュー（らせん）状に公転する太陽系8惑星の3Dアニメーションを、単一ファイルのHTML（HTML5 Canvas または Three.js）で作成し、Artifactsでプレビューできるようにしてください。\n\n【視覚化・物理モデルの要件】\n1. 太陽の移動と黄道面の傾き（重要）\n   - 太陽は銀河系内の進行方向ベクトル（黄金色の矢印つき軸）に沿って前進し続ける。\n   - 惑星の公転面（黄道面）は、太陽の進行方向に対して「約60°傾いた同一平面」を保ったまま太陽と一緒に前進する（惑星が太陽の後ろに円錐状に遅れて引っ張られるのではなく、常に太陽と同じ傾いた平面上を公転しながら進むため、3次元空間でコルク抜きのようならせん軌跡を描く）。\n   - 太陽の現在位置には、約60°傾いた黄道面のガイドリング（各惑星の公転軌道円）と十字軸を半透明で表示する。\n\n2. 8惑星と3Dらせん軌跡（スクリュー軌道）\n   - 水星・金星・地球（＋月）・火星・木星・土星（＋環）・天王星・海王星の8惑星を描画する。\n   - ケプラーの法則に基づき、内惑星ほど公転周期が短く細かいピッチのらせんを描き、外惑星ほどゆったりした大きなピッチのらせんを描くように周期バランスを設定する。\n   - 各惑星の過去の位置を繋いだ鮮やかな3Dらせんトレイル（末尾に向かってフェードアウトするリボンまたはライン）を空間に残す。\n   - 各惑星の横に日本語ラベル（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）を表示する。\n   - 背景には銀河空間の移動感が伝わるよう、流れる星々（スターフィールド）と円筒状の奥行きガイドリングを配置する。\n\n3. 画面レイアウトとUIパネル（ダークテーマ・16:9構成）\n   - 左〜中央エリア（メイン3Dビュー）：\n     - 左上にタイトル「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」とサブタイトル「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」を表示。\n     - 左下に解説バッジ「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」を表示。\n   - 右側エリア（HUD情報パネル）：\n     - 上部：「横から見たスクリュー波形（側面投影）」のサブモニター枠を設け、太陽の進行軸（水平線）に対して各惑星が上下に描くサイン波状の波形をリアルタイム描画する。\n     - 中部：「太陽の銀河系公転速度: 約 220 km/s」および「銀河空間の移動距離（百万km単位・地球換算年数）」のリアルタイムカウンターを表示。\n     - 下部：8惑星それぞれの色ドット、名前（日英）、実際の平均公転速度（水星 47.4 km/s〜海王星 5.4 km/s）、累計周回数（〇〇周）、および現在の1周の進捗バーを表示。\n\n4. インタラクティブ操作\n   - マウスドラッグで3Dカメラのアングルを自由に回転、ホイールでズームできるようにする（カメラは常に前進する太陽を追従する）。\n   - 再生/一時停止ボタン、シミュレーション速度スライダー、カメラ視点リセットボタンを設ける。",
+      "en": "Prompt\n\nPlease create a 3D animation of the Sun traveling through the Milky Way at approximately 220 km/s and the eight solar system planets revolving around it in a 3D screw (helical) pattern, as a single-file HTML (HTML5 Canvas or Three.js) that can be previewed in Artifacts.\n\n[Visualization and Physics Model Requirements]\n1. Sun's Motion and Ecliptic Plane Tilt (Important)\n   - The Sun continues moving forward along its galactic direction vector (axis with a golden arrow).\n   - The planets' orbital plane (ecliptic plane) advances together with the Sun while maintaining an identical plane tilted at approximately 60° relative to the Sun's forward direction (planets are not trailing behind in a cone shape, but orbit on the same tilted plane moving with the Sun, drawing corkscrew-like helical paths in 3D space).\n   - Display semi-transparent guide rings (orbital circles for each planet) and crosshair axes on the ~60° tilted ecliptic plane at the Sun's current position.\n\n2. 8 Planets and 3D Helical Trajectories (Screw Orbits)\n   - Render the 8 planets: Mercury, Venus, Earth (+ Moon), Mars, Jupiter, Saturn (+ rings), Uranus, and Neptune.\n   - Based on Kepler's laws, balance the orbital periods so inner planets have shorter periods and tighter-pitched helices, while outer planets have longer periods and wider-pitched helices.\n   - Leave vivid 3D helical trails (ribbons or lines fading toward the end) connecting each planet's past positions in space.\n   - Display Japanese labels next to each planet (太陽, 水星, 金星, 地球, 火星, 木星, 土星, 天王星, 海王星).\n   - Place streaming stars (starfield) and cylindrical depth guide rings in the background to convey motion through galactic space.\n\n3. Screen Layout and UI Panels (Dark Theme, 16:9 Aspect Ratio)\n   - Left to Center Area (Main 3D View):\n     - Top left: Display title \"銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション\" and subtitle \"秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます\".\n     - Bottom left: Display explanatory badge \"ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。\"\n   - Right Area (HUD Information Panel):\n     - Top: Sub-monitor frame titled \"横から見たスクリュー波形（側面投影）\" showing real-time sinusoidal waveforms drawn by each planet above/below the Sun's trajectory axis (horizontal line).\n     - Middle: Real-time counters showing \"太陽の銀河系公転速度: 約 220 km/s\" and galactic distance traveled (in million km / Earth years).\n     - Bottom: Color dots, names (JA/EN), actual average orbital speeds (Mercury 47.4 km/s to Neptune 5.4 km/s), total orbits completed, and current lap progress bar for each of the 8 planets.\n\n4. Interactive Controls\n   - Allow free 3D camera rotation via mouse drag and zoom via wheel (camera continuously tracks the advancing Sun).\n   - Provide play/pause button, simulation speed slider, and camera reset button."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D simulation of solar system moving helically through the galaxy",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates the complete running HTML simulation matching all prompt details: the Sun advancing with the gold trajectory arrow, 8 labeled planets tracing corkscrew trails on a tilted ecliptic, real-time side-view wave HUD on the right, planet speed/progress bars, top title, bottom explanation badge, and working interactive viewpoint controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

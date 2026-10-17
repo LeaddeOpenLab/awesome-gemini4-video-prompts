@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:39.453Z",
+  "model": "gemini4",
+  "prompt": "機械の鷹 3D を Three.js で 作って",
+  "promptTranslations": {
+    "en": "Make a 3D mechanical hawk in Three.js"
+  },
+  "summary": "Gemini 4 generated a 3D interactive mechanical hawk application rendered via Three.js with full tactical UI controls.",
+  "summaryEn": "Three.js 3D Mechanical Falcon Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111031676730245466",
+    "canonicalUrl": "https://x.com/eiichi292929/status/2111031676730245466",
+    "author": {
+      "username": "eiichi292929",
+      "displayName": "H | Arikawa",
+      "profileUrl": "https://x.com/eiichi292929"
+    },
+    "publishedAt": "2026-10-16T09:49:07.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ https://t.co/tC2mG1mpqp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/eiichi292929/status/2111031676730245466",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111030961257500672/img/okan9e8YYtCG88WV.jpg",
+        "analysisUrl": "https://x.com/eiichi292929/status/2111031676730245466"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 70
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/eiichi292929/status/2111031676730245466",
+        "text": "H | Arikawa on X: \"Gemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nH | Arikawa on X: \"Gemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ\"\n\n\n\nH | Arikawa\n\n@eiichi292929\n\n\n\n\nShow translation\nGemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ\n\n\n00:00\n\n\n\n\n\n\n\n\n9:49 AM · Oct 16, 2026·70\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nH | Arikawa@eiichi292929Follow\nフルスタックエンジニア25年目|FE: Angular / Next.js|BE: Spring / Python|DB: PostgreSQL / MySQL|IaC: CDK / Terraform|AI:Claude/OpenAI\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nH | Arikawa\n\n@eiichi292929\n\n\n\n\nShow translation\nGemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ\n\n\n00:00\n\n\n\n\n\n\n\n\n9:49 AM · Oct 16, 2026·70\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "eiichi292929"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/eiichi292929/status/2111031676730245466",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111030961257500672/img/okan9e8YYtCG88WV.jpg",
+  "coverPath": "covers/2111031676730245466.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111030961257500672",
+    "x-post:2111031676730245466"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Three.js 3D Mechanical Falcon Simulation",
+      "summary": "Gemini 4 generated a 3D interactive mechanical hawk application rendered via Three.js with full tactical UI controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "機械の鷹 3D を Three.js で 作って",
+        "englishText": "Make a 3D mechanical hawk in Three.js",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt",
+          "detailed styling instructions",
+          "interactive UI controls implementation parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive 3D mechanical hawk named AERO-RAPTOR MK.IV with animated wings, camera views, and color preset toggles.",
+        "textualResultQuote": "AERO-RAPTOR MK.IV"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D scene rendering and animation",
+          "evidence": "機械の鷹 3D を Three.js で 作って",
+          "sourceUrl": "https://x.com/eiichi292929/status/2111031676730245466",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D mechanical hawk visualization",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "gemini-4",
+          "webgl",
+          "interactive-3d",
+          "robotics"
+        ]
+      },
+      "targetModelRole": "Interactive 3D application code generation",
+      "outputSource": "Three.js canvas execution in browser",
+      "divisionEvidence": "Author requested Gemini 4 to create the 3D mechanical hawk using Three.js, executing the code as an interactive web demo.",
+      "video": {
+        "shots": "Single interactive capture",
+        "duration": "21s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Gemini 4 generating interactive Three.js 3D mechanical animation code with screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/eiichi292929/status/2111031676730245466",
+        "start": 23,
+        "end": 47
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/eiichi292929/status/2111031676730245466",
+        "author": "eiichi292929",
+        "postId": "2111031676730245466",
+        "publishedAt": "2026-10-16T09:49:07.000Z"
+      },
+      "checkedAt": "2026-10-17T05:13:53.815Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 generated a 3D interactive mechanical hawk application rendered via Three.js with full tactical UI controls.",
+    "summaryEn": "Three.js 3D Mechanical Falcon Simulation",
+    "originalPrompt": "機械の鷹 3D を Three.js で 作って",
+    "sourceRange": {
+      "start": 23,
+      "end": 47
+    },
+    "translations": {
+      "zh": "機械の鷹 3D を Three.js で 作って",
+      "en": "Make a 3D mechanical hawk in Three.js"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D mechanical hawk visualization",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt",
+        "detailed styling instructions",
+        "interactive UI controls implementation parameters"
+      ],
+      "evidence": "Screen recording demonstrates an interactive 3D mechanical hawk named AERO-RAPTOR MK.IV with animated wings, camera views, and color preset toggles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
