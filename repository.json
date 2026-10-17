@@ -1,0 +1,33 @@
+{
+  "model": "gemini4",
+  "name": "Gemini 4",
+  "slug": "awesome-gemini4-video-prompts",
+  "oldSlug": "awesome-prompts-gemini4",
+  "description": "Gemini 4 video production prompts with original sources, video previews and required tools.",
+  "topics": [
+    "gemini",
+    "gemini4",
+    "video-prompts",
+    "animation",
+    "creative-coding"
+  ],
+  "categories": [
+    "canvas-interactive",
+    "manim",
+    "remotion",
+    "blender",
+    "external-video-model",
+    "other-animation"
+  ],
+  "searches": [
+    "gemini 4 video prompts",
+    "gemini 4 animation",
+    "gemini 4 remotion",
+    "gemini 4 motion graphics"
+  ],
+  "source": "https://ai.google.dev/gemini-api/docs/models",
+  "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts",
+  "verifiedCases": 0,
+  "referenceCases": 15,
+  "pendingCases": 0
+}

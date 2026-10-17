@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:11.614Z",
+  "model": "gemini4",
+  "prompt": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen",
+  "promptTranslations": {
+    "en": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen"
+  },
+  "summary": "Gemini 4 Argon generated a pure SVG animation depicting Joy-Cons sliding onto a Nintendo Switch and displaying the boot screen.",
+  "summaryEn": "Animated SVG Nintendo Switch",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110442265500176445",
+    "canonicalUrl": "https://x.com/essjaykay755/status/2110442265500176445",
+    "author": {
+      "username": "essjaykay755",
+      "displayName": "Subhojit Karmakar",
+      "profileUrl": "https://x.com/essjaykay755"
+    },
+    "publishedAt": "2026-10-14T18:47:00.000Z",
+    "collectedAt": "2026-10-15T04:54:37.844Z",
+    "language": "en",
+    "originalText": "asked gemini 4 argon to make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen https://t.co/LD7UBeB3Ix",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/essjaykay755/status/2110442265500176445",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110442200681381888/img/eAkA59kHde-dV8ZF.jpg",
+        "analysisUrl": "https://x.com/essjaykay755/status/2110442265500176445"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 167
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/essjaykay755/status/2110442265500176445",
+        "text": "Subhojit Karmakar on X: \"asked gemini 4 argon to make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nSubhojit Karmakar on X: \"asked gemini 4 argon to make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen\"\n\n\n\nSubhojit Karmakar\n\n@essjaykay755\n\n\n\n\nasked gemini 4 argon to make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen\n\n\n00:00\n\n\n\n\n\n\n\n\n6:47 PM · Oct 14, 2026·423\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSubhojit Karmakar@essjaykay755Follow\nTurning questionable ideas into clickable objects\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSubhojit Karmakar\n\n@essjaykay755\n\n\n\n\nasked gemini 4 argon to make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen\n\n\n00:00\n\n\n\n\n\n\n\n\n6:47 PM · Oct 14, 2026·423\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "essjaykay755"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/essjaykay755/status/2110442265500176445",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110442200681381888/img/eAkA59kHde-dV8ZF.jpg",
+  "coverPath": "covers/2110442265500176445.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110442200681381888",
+    "x-post:2110442265500176445"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Animated SVG Nintendo Switch",
+      "summary": "Gemini 4 Argon generated a pure SVG animation depicting Joy-Cons sliding onto a Nintendo Switch and displaying the boot screen.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "asked gemini 4 argon to make an animated nintendo switch in pure svg"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen",
+        "englishText": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt instructions",
+          "exact styling and animation parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows Joy-Cons animating into position on the Switch screen followed by the red Nintendo Switch boot logo appearing.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "SVG",
+          "role": "Vector rendering and animation format",
+          "evidence": "make an animated nintendo switch in pure svg",
+          "sourceUrl": "https://x.com/essjaykay755/status/2110442265500176445",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Animated SVG Nintendo Switch",
+        "topic": "motion-graphics",
+        "tags": [
+          "svg",
+          "animation",
+          "motion-graphics",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates the complete standalone animated SVG markup and styling.",
+      "outputSource": "SVG rendered directly in a web browser or viewer.",
+      "divisionEvidence": "Gemini 4 wrote the SVG code while standard SVG engines handled rendering and animation playback.",
+      "video": {
+        "shots": "Single shot",
+        "duration": "7s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Author provides a clear fragment and demonstration video using Gemini 4 for SVG animation production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/essjaykay755/status/2110442265500176445",
+        "start": 24,
+        "end": 135
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/essjaykay755/status/2110442265500176445",
+        "author": "essjaykay755",
+        "postId": "2110442265500176445",
+        "publishedAt": "2026-10-14T18:47:00.000Z"
+      },
+      "checkedAt": "2026-10-17T04:57:04.560Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated a pure SVG animation depicting Joy-Cons sliding onto a Nintendo Switch and displaying the boot screen.",
+    "summaryEn": "Animated SVG Nintendo Switch",
+    "originalPrompt": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen",
+    "sourceRange": {
+      "start": 24,
+      "end": 135
+    },
+    "translations": {
+      "zh": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen",
+      "en": "make an animated nintendo switch in pure svg, with the joy cons sliding into place and the nintendo boot screen"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "other-animation",
+    "useCase": "Animated SVG Nintendo Switch",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt instructions",
+        "exact styling and animation parameters"
+      ],
+      "evidence": "The video shows Joy-Cons animating into position on the Switch screen followed by the red Nintendo Switch boot logo appearing."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

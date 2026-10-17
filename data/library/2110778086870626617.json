@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:14.421Z",
+  "model": "gemini4",
+  "prompt": "build a delorean dmc-12 in three.js, all in code",
+  "promptTranslations": {
+    "en": "build a delorean dmc-12 in three.js, all in code"
+  },
+  "summary": "Gemini 4 Argon created pure Three.js code to build and animate a 3D DeLorean DMC-12.",
+  "summaryEn": "Three.js DeLorean DMC-12 3D Model",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110778086870626617",
+    "canonicalUrl": "https://x.com/anduraio/status/2110778086870626617",
+    "author": {
+      "username": "anduraio",
+      "displayName": "Andura",
+      "profileUrl": "https://x.com/anduraio"
+    },
+    "publishedAt": "2026-10-15T17:01:26.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "not bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code. https://t.co/J1bkaiJG2C",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/anduraio/status/2110778086870626617",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110777882524233728/img/4Iuv7YthIIAtBIW1.jpg",
+        "analysisUrl": "https://x.com/anduraio/status/2110778086870626617"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 80
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/anduraio/status/2110861387300020265",
+        "text": "@TonyyRickk haha only if argon can handle the time travel physics",
+        "author": "anduraio"
+      },
+      {
+        "url": "https://x.com/anduraio/status/2110778086870626617",
+        "text": "Andura on X: \"not bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAndura on X: \"not bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code.\"\n\n\n\nAndura\n\n@anduraio\n\n\n\n\nnot bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code.\n\n\n00:00\n\n\n\n\n\n\n\n\n5:01 PM · Oct 15, 2026·80\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAndura@anduraioFollow\nBuilding a one-person business. Experimenting with apps and games with my little intern.\nmy tools 👉 bonsaiterminal.com\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndura\n\n@anduraio\n\n\n\n\nnot bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code.\n\n\n00:00\n\n\n\n\n\n\n\n\n5:01 PM · Oct 15, 2026·80\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\nTony Rick\n\n@TonyyRickk\nOct 15\n\n\ndelorean in pure three.js code? flux capacitor next 😂\n\n\n1\n\n1\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "anduraio"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/anduraio/status/2110778086870626617",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110777882524233728/img/4Iuv7YthIIAtBIW1.jpg",
+  "coverPath": "covers/2110778086870626617.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110777882524233728",
+    "x-post:2110778086870626617"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Three.js DeLorean DMC-12 3D Model",
+      "summary": "Gemini 4 Argon created pure Three.js code to build and animate a 3D DeLorean DMC-12.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "not bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a delorean dmc-12 in three.js, all in code",
+        "englishText": "build a delorean dmc-12 in three.js, all in code",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete prompt text",
+          "generation parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows an orbiting 3D DeLorean DMC-12 rendered in code with animated opening gull-wing doors.",
+        "textualResultQuote": "not bad for gemini 4 argon.\ni asked it to build a delorean dmc-12 in three.js, all in code."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering engine",
+          "evidence": "build a delorean dmc-12 in three.js, all in code.",
+          "sourceUrl": "https://x.com/anduraio/status/2110778086870626617",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "DeLorean DMC-12 3D Model",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "delorean",
+          "3d-modeling",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates Three.js 3D model geometry and animation code.",
+      "outputSource": "three.js",
+      "divisionEvidence": "i asked it to build a delorean dmc-12 in three.js, all in code.",
+      "video": {
+        "shots": "Single orbiting camera shot",
+        "duration": "30s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Valid showcase of Gemini 4 generating procedural 3D animation code in Three.js.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/anduraio/status/2110778086870626617",
+        "start": 42,
+        "end": 90
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/anduraio/status/2110778086870626617",
+        "author": "anduraio",
+        "postId": "2110778086870626617",
+        "publishedAt": "2026-10-15T17:01:26.000Z"
+      },
+      "checkedAt": "2026-10-17T05:17:48.086Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon created pure Three.js code to build and animate a 3D DeLorean DMC-12.",
+    "summaryEn": "Three.js DeLorean DMC-12 3D Model",
+    "originalPrompt": "build a delorean dmc-12 in three.js, all in code",
+    "sourceRange": {
+      "start": 42,
+      "end": 90
+    },
+    "translations": {
+      "zh": "build a delorean dmc-12 in three.js, all in code",
+      "en": "build a delorean dmc-12 in three.js, all in code"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "DeLorean DMC-12 3D Model",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete prompt text",
+        "generation parameters"
+      ],
+      "evidence": "Video shows an orbiting 3D DeLorean DMC-12 rendered in code with animated opening gull-wing doors."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

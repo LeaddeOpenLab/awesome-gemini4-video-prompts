@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:13.150Z",
+  "model": "gemini4",
+  "prompt": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+  "promptTranslations": {
+    "en": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works."
+  },
+  "summary": "Side-by-side screen recording comparison of Opus 5.5 and Gemini 4 Argon generating Galerie Nocturne, an interactive walk-through virtual museum corridor built with CSS 3D and procedural HTML5 canvas artworks.",
+  "summaryEn": "Galerie Nocturne Walk-through Virtual Museum in CSS 3D",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110385278246654052",
+    "canonicalUrl": "https://x.com/MiaAI_lab/status/2110385278246654052",
+    "author": {
+      "username": "MiaAI_lab",
+      "displayName": "Mia",
+      "profileUrl": "https://x.com/MiaAI_lab"
+    },
+    "publishedAt": "2026-10-14T15:00:34.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Gemini 4 Argon\n\nfull prompt below https://t.co/79X6IXkbdf",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MiaAI_lab/status/2110385278246654052",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110384917833994240/img/XnoXoDtMopEAeEdE.jpg",
+        "analysisUrl": "https://x.com/MiaAI_lab/status/2110385278246654052"
+      }
+    ],
+    "metrics": {
+      "likeCount": 217,
+      "repostCount": 5,
+      "replyCount": 20,
+      "quoteCount": 1,
+      "viewCount": 24793
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MiaAI_lab/status/2110639301415641209",
+        "text": "@melvindvivas They same reason you use everything else other than Opus 5.5",
+        "author": "MiaAI_lab"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MiaAI_lab/status/2110639049627308314",
+        "text": "@melvindvivas Argon is not a bad model, at all.\n\nIt's just Opus 5.5 is currently destroying everything else.",
+        "author": "MiaAI_lab"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MiaAI_lab/status/2110415810900680758",
+        "text": "@knowixbuilds I hope others beat it, and soon.",
+        "author": "MiaAI_lab"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MiaAI_lab/status/2110402464050467245",
+        "text": "@notjazii Yep",
+        "author": "MiaAI_lab"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MiaAI_lab/status/2110385281073369361",
+        "text": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+        "author": "MiaAI_lab"
+      },
+      {
+        "url": "https://x.com/MiaAI_lab/status/2110385278246654052",
+        "text": "Mia on X: \"Opus 5.5 vs Gemini 4 Argon\n\nfull prompt below\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMia on X: \"Opus 5.5 vs Gemini 4 Argon\n\nfull prompt below\"\n\n\n\nMia\n\n@MiaAI_lab\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon\n\nfull prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n3:00 PM · Oct 14, 2026·24.7K\nViews\n\n\n\n20\n5\n217\n70\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMia@MiaAI_labFollow\nBuilding with AI & LLMs // Running frontier open models locally\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMia\n\n@MiaAI_lab\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon\n\nfull prompt below\n\n\n00:00\n\n\n\n\n\n\n\n\n3:00 PM · Oct 14, 2026·24.7K\nViews\n\n\n\n20\n5\n217\n70\n\n\n\n\n\n\n\n\n\nMia\n\n@MiaAI_lab\nOct 14\n\n\nBuild \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting Show more\n\n\n\n\n18\n2.4K\n\n\n\n\n\n\n\n\n\n\n\nKnowix\n\n@knowixbuilds\nOct 14\n\n\nOpus 5.5 clearly the best model to be released this year, hopefully it doesn’t get nerfed\n\n\n1\n\n4\n641\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "MiaAI_lab"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/MiaAI_lab/status/2110385278246654052",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110384917833994240/img/XnoXoDtMopEAeEdE.jpg",
+  "coverPath": "covers/2110385278246654052.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110384917833994240",
+    "x-post:2110385278246654052"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Galerie Nocturne Walk-through Virtual Museum in CSS 3D",
+      "summary": "Side-by-side screen recording comparison of Opus 5.5 and Gemini 4 Argon generating Galerie Nocturne, an interactive walk-through virtual museum corridor built with CSS 3D and procedural HTML5 canvas artworks.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 vs Gemini 4 Argon"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+        "englishText": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays a browser screen recording testing the generated code from Gemini 4 (Argon) side-by-side with Opus 5.5, showing 3D corridor navigation, lighting, floor reflections, clicking on paintings to zoom in, and viewing placard details.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / CSS 3D / HTML5 Canvas",
+          "role": "Execution runtime and graphics renderer for the CSS 3D scene and procedural canvas paintings",
+          "evidence": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D... Each painting is an original generative artwork rendered on canvas",
+          "sourceUrl": "https://x.com/MiaAI_lab/status/2110385281073369361",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive CSS 3D Virtual Art Gallery",
+        "topic": "3d-scenes",
+        "tags": [
+          "css-3d",
+          "interactive",
+          "virtual-museum",
+          "html5-canvas",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Code generator producing the single-page HTML, CSS 3D styles, camera navigation logic, and generative canvas rendering code.",
+      "outputSource": "Web browser rendering engine executing model-generated code in real time.",
+      "divisionEvidence": "Gemini 4 Argon was prompted to write the complete CSS 3D museum code, which was subsequently opened and operated in a browser window during the screen recording.",
+      "video": {
+        "shots": "Single continuous screen recording comparing Opus 5.5 and Gemini 4 Argon side-by-side in real-time navigation",
+        "duration": "0:42",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides explicit Gemini 4 model confirmation, the full original prompt, and a screen recording showing interactive execution of the resulting CSS 3D scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/MiaAI_lab/status/2110385281073369361",
+        "start": 0,
+        "end": 1005
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/MiaAI_lab/status/2110385278246654052",
+        "author": "MiaAI_lab",
+        "postId": "2110385278246654052",
+        "publishedAt": "2026-10-14T15:00:34.000Z"
+      },
+      "checkedAt": "2026-10-17T05:03:22.470Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Side-by-side screen recording comparison of Opus 5.5 and Gemini 4 Argon generating Galerie Nocturne, an interactive walk-through virtual museum corridor built with CSS 3D and procedural HTML5 canvas artworks.",
+    "summaryEn": "Galerie Nocturne Walk-through Virtual Museum in CSS 3D",
+    "originalPrompt": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+    "sourceRange": {
+      "start": 0,
+      "end": 1005
+    },
+    "translations": {
+      "zh": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works.",
+      "en": "Build \"Galerie Nocturne\", a walk-through virtual museum room in CSS 3D. A corridor with a polished marble floor (CSS gradients plus reflection), warm walls (#e9e2d6), soft ceiling spotlights casting pools of light, and eight framed paintings hung on the side walls. Each painting is an original generative artwork rendered on canvas and seeded so it is stable: a colour-field piece, a primary-colour grid, a geometric abstraction, a pointillist sunset, a flow field, an op-art piece, an ink landscape and a gold mosaic. Gilded or slim black frames with museum placards (title, fictional artist, year, medium). Navigation: arrow keys/WASD or on-screen buttons move the camera along the corridor with smooth easing; clicking a painting walks up to it and shows it frontally with a detail card; Escape steps back. A small floor-plan minimap shows your position. Typography: a museum-grade sans for placards and a classic serif for the title. On phones, fall back to a swipeable wall of the same framed works."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive CSS 3D Virtual Art Gallery",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays a browser screen recording testing the generated code from Gemini 4 (Argon) side-by-side with Opus 5.5, showing 3D corridor navigation, lighting, floor reflections, clicking on paintings to zoom in, and viewing placard details."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

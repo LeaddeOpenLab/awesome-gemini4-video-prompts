@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:22:14.666Z",
+  "model": "gemini4",
+  "prompt": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.",
+  "promptTranslations": {
+    "en": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me."
+  },
+  "summary": "Comparison render of an animated antique brass mechanical orrery generated using Blender Python API.",
+  "summaryEn": "Antique Brass Orrery via Blender Python API",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110766789504471127",
+    "canonicalUrl": "https://x.com/notjazii/status/2110766789504471127",
+    "author": {
+      "username": "notjazii",
+      "displayName": "J A Z I I",
+      "profileUrl": "https://x.com/notjazii"
+    },
+    "publishedAt": "2026-10-15T16:16:33.000Z",
+    "collectedAt": "2026-10-17T04:56:41.837Z",
+    "language": "en",
+    "originalText": "Muse Wonder Full vs Gemini 4 Argon\n\nran same prompt on both models at highest reasoning available but results came out totally different\n\n> muse too about 40 mins and cost ~$30\n> agron took about 30 mins and cost ~$10\n\nmuse really surprised me as it's not that great at 3d but still did pretty well but i think argon is kinda better\n\nwhich one do you think did better here?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/notjazii/status/2110766789504471127",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110766761557807105/img/D7gPsKMF6sSKlP72.jpg",
+        "analysisUrl": "https://x.com/notjazii/status/2110766789504471127"
+      }
+    ],
+    "metrics": {
+      "likeCount": 93,
+      "repostCount": 3,
+      "replyCount": 18,
+      "quoteCount": 1,
+      "viewCount": 4446
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2111001307633070343",
+        "text": "@GreatAlexs23 \"Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.\"\n\nwasn't one shot for both",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110808803579228418",
+        "text": "@onchainjesse yup they said it;s gonna good at 3d but it's doing better",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110780717798219821",
+        "text": "@badboyfoxy last few days for sure as it's way better now",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110780066443731099",
+        "text": "@ziwenxu_ yeah they updated bro. it's really good",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110777222072287625",
+        "text": "@zhodonx kinda but it did surprised me alot\n\nlooks like @alexandr_wang cooked",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110776979821854877",
+        "text": "@sergeo_n yup but muse kinda cooked too",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110774020161589464",
+        "text": "@yohakujpn you cooked man. so flipping good",
+        "author": "notjazii"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/notjazii/status/2110772196520177666",
+        "text": "@xikhar agreed tho, was impressed how good muse did",
+        "author": "notjazii"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/notjazii/status/2110766789504471127",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110766761557807105/img/D7gPsKMF6sSKlP72.jpg",
+  "coverPath": "covers/2110766789504471127.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110766761557807105",
+    "x-post:2110766789504471127"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Antique Brass Orrery via Blender Python API",
+      "summary": "Comparison render of an animated antique brass mechanical orrery generated using Blender Python API.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Muse Wonder Full vs Gemini 4 Argon\n\nran same prompt on both models at highest reasoning available"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.",
+        "englishText": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Iterative follow-up instructions (author noted: 'wasn't one shot for both')"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Split-screen video shows turntable rendering of an animated brass mechanical orrery on a reflective base.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene construction and turntable rendering",
+          "evidence": "Using Blender's Python API, build me an antique brass mechanical orrery",
+          "sourceUrl": "https://x.com/notjazii/status/2111001307633070343",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Mechanical Orrery Turntable",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "python-api",
+          "orrery",
+          "3d-modeling"
+        ]
+      },
+      "targetModelRole": "Generates Python code controlling Blender's API to construct, animate, and render the scene.",
+      "outputSource": "Rendered via Blender Python execution.",
+      "divisionEvidence": "Gemini generates the script; Blender compiles geometry and executes turntable rendering.",
+      "video": {
+        "shots": "Single turntable rotation",
+        "duration": "10s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production case leveraging Blender Python code for procedural 3D animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/notjazii/status/2111001307633070343",
+        "start": 15,
+        "end": 402
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/notjazii/status/2110766789504471127",
+        "author": "notjazii",
+        "postId": "2110766789504471127",
+        "publishedAt": "2026-10-15T16:16:33.000Z"
+      },
+      "checkedAt": "2026-10-17T05:16:50.288Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison render of an animated antique brass mechanical orrery generated using Blender Python API.",
+    "summaryEn": "Antique Brass Orrery via Blender Python API",
+    "originalPrompt": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.",
+    "sourceRange": {
+      "start": 15,
+      "end": 402
+    },
+    "translations": {
+      "zh": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me.",
+      "en": "Using Blender's Python API, build me an antique brass mechanical orrery: a glowing sun surrounded by armillary rings, six planets on brass arms, a visible gear train and a roman-numeral dial on a wooden pedestal, presented like a museum photograph on a dark reflective floor. Make it animated, save the .blend, and render me some beautiful stills and a short turntable video. Impress me."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "blender",
+    "useCase": "Mechanical Orrery Turntable",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Iterative follow-up instructions (author noted: 'wasn't one shot for both')"
+      ],
+      "evidence": "Split-screen video shows turntable rendering of an animated brass mechanical orrery on a reflective base."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
