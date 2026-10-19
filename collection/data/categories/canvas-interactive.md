@@ -1,6 +1,6 @@
 # canvas-interactive
 
-- [Three.js 3D Mechanical Falcon Simulation](../../prompts/2111031676730245466.md)
-- [3D Helical Solar System Simulation in HTML](../../prompts/2110380365269639613.md)
+- [Gemini 4 Argon Self-Existence HTML Animation](../../prompts/2111525105000120784.md)
+- [Minimal Physics UI Toggles Library](../../prompts/2111499376137056291.md)
 
 [All tasks](../../../README.md)

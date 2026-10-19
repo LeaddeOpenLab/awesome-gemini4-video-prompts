@@ -8,39 +8,39 @@ Gemini 4 video production prompts with original sources, video previews and requ
 
 ## Featured cases
 
-### [Gemini 4 Single-Prompt Video Generation Test](../../../prompts/2111073023054995895.md)
+### [Gemini 4 Argon Self-Existence HTML Animation](../../../prompts/2111525105000120784.md)
 
-![Preview by @quiet_sea](<../../covers/2111073023054995895.jpg>)
+![Preview by @arshiiiiiaaa__](<../../covers/2111525105000120784.jpg>)
 
-By @quiet_sea · [source](<https://x.com/quiet_sea/status/2111073023054995895>)
+By @arshiiiiiaaa__ · [source](<https://x.com/arshiiiiiaaa__/status/2111525105000120784>)
 
-### [Three.js 3D Mechanical Falcon Simulation](../../../prompts/2111031676730245466.md)
+### [Gemini 4 Argon Motion Design Showreel](../../../prompts/2111504399314940233.md)
 
-![Preview by @eiichi292929](<../../covers/2111031676730245466.jpg>)
+![Preview by @genrikAI](<../../covers/2111504399314940233.jpg>)
 
-By @eiichi292929 · [source](<https://x.com/eiichi292929/status/2111031676730245466>)
+By @genrikAI · [source](<https://x.com/genrikAI/status/2111504399314940233>)
 
-### [Blender 3D Shrine Model from Reference Image](../../../prompts/2110987470737485952.md)
+### [Minimal Physics UI Toggles Library](../../../prompts/2111499376137056291.md)
 
-![Preview by @npaka123](<../../covers/2110987470737485952.jpg>)
+![Preview by @thtbee_](<../../covers/2111499376137056291.jpg>)
 
-By @npaka123 · [source](<https://x.com/npaka123/status/2110987470737485952>)
+By @thtbee_ · [source](<https://x.com/thtbee_/status/2111499376137056291>)
 
 ## Find a task
 
 - [canvas-interactive](../../categories/canvas-interactive.md) — 2
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
-- [blender](../../categories/blender.md) — 1
+- [blender](../../categories/blender.md) — 0
 - [external-video-model](../../categories/external-video-model.md) — 0
-- [other-animation](../../categories/other-animation.md) — 1
+- [other-animation](../../categories/other-animation.md) — 2
 
 ## Recently added
 
-- 2026-10-17 · [Gemini 4 Single-Prompt Video Generation Test](../../../prompts/2111073023054995895.md)
-- 2026-10-17 · [Three.js 3D Mechanical Falcon Simulation](../../../prompts/2111031676730245466.md)
-- 2026-10-17 · [Blender 3D Shrine Model from Reference Image](../../../prompts/2110987470737485952.md)
-- 2026-10-17 · [3D Helical Solar System Simulation in HTML](../../../prompts/2110380365269639613.md)
+- 2026-10-18 · [Gemini 4 Argon Self-Existence HTML Animation](../../../prompts/2111525105000120784.md)
+- 2026-10-18 · [Gemini 4 Argon Motion Design Showreel](../../../prompts/2111504399314940233.md)
+- 2026-10-18 · [Minimal Physics UI Toggles Library](../../../prompts/2111499376137056291.md)
+- 2026-10-18 · [Gemini 4 Argon Dynamic Motion Graphics Reel](../../../prompts/2111381391246320012.md)
 
 ## Review policy
 
