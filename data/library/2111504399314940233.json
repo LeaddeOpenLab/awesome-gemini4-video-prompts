@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-18T07:10:42.302Z",
+  "model": "gemini4",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out."
+  },
+  "summary": "Gemini 4 generated a 15-second motion graphics showreel featuring 3D shapes, kinetic typography, and UI dashboards from a single text prompt.",
+  "summaryEn": "Gemini 4 Argon Motion Design Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111504399314940233",
+    "canonicalUrl": "https://x.com/genrikAI/status/2111504399314940233",
+    "author": {
+      "username": "genrikAI",
+      "displayName": "Genrik",
+      "profileUrl": "https://x.com/genrikAI"
+    },
+    "publishedAt": "2026-10-17T17:07:33.000Z",
+    "collectedAt": "2026-10-18T04:19:00.734Z",
+    "language": "en",
+    "originalText": "Same Prompt, Two AIs: A Motion-Design Showreel Face-Off\n\nA 15-second vertical video puts Gemini 4 Argon and Claude Opus 5.5 side by side. Both got the same prompt: “make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.”\n\nThe setup. The video is split into two panels, one per model, and plays both results at once. No human edited the animations. Each model generated its own motion piece from that single sentence.\n\nWhat each one made. Both follow a similar arc: a minimal intro, bold kinetic typography, abstract shapes, a 3D moment, a UI-dashboard scene and a hypnotic finale of concentric rings.\n\nGemini 4 Argon: a wireframe intro, the words “Sculpt Vision Rhythm,” a cluster of red and white 3D blocks, a glowing spiral of particles, a colorful torus behind the word “Dimension,” and a dashboard with the tagline “Motion is architecture sculpted in time.”\nClaude Opus 5.5: a thin red line intro, a giant “MAKE,” a grid of colored dots that morphs and scatters, a particle ribbon, a glossy liquid-metal blob over the word “Depth,” and a dashboard reading “Keyframes are a language.”\n\nWhy it matters. This kind of test shows more than a chat answer does. The models have to plan timing, composition, typography and color, then write code that renders it all. That is a sharper test of creative and technical skill than text benchmarks.\n\nA caveat. I only saw sampled frames, not the full motion or audio, so I can’t judge smoothness or timing. “Better” here is partly taste, and one prompt is a single data point. If the result matters for your work, run your own prompt through both.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/genrikAI/status/2111504399314940233",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111503965456154624/img/2R0c_64Q29rAceaW.jpg",
+        "analysisUrl": "https://x.com/genrikAI/status/2111504399314940233"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 112
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/genrikAI/status/2111504399314940233",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111503965456154624/img/2R0c_64Q29rAceaW.jpg",
+  "coverPath": "covers/2111504399314940233.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111503965456154624",
+    "x-post:2111504399314940233"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Motion Design Showreel",
+      "summary": "Gemini 4 generated a 15-second motion graphics showreel featuring 3D shapes, kinetic typography, and UI dashboards from a single text prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "A 15-second vertical video puts Gemini 4 Argon and Claude Opus 5.5 side by side. Both got the same prompt"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows the Gemini 4 Argon side displaying kinetic typography ('Sculpt Vision Rhythm'), 3D blocks, particle spiral, torus, and dashboard scenes.",
+        "textualResultQuote": "Gemini 4 Argon: a wireframe intro, the words “Sculpt Vision Rhythm,” a cluster of red and white 3D blocks, a glowing spiral of particles, a colorful torus behind the word “Dimension,” and a dashboard with the tagline “Motion is architecture sculpted in time.”"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Code renderer",
+          "role": "Executes and renders model-generated animation code",
+          "evidence": "The models have to plan timing, composition, typography and color, then write code that renders it all.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Motion Graphics Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "showreel",
+          "motion-graphics",
+          "typography",
+          "code-generation"
+        ]
+      },
+      "targetModelRole": "Creative direction, timing planning, and code generation",
+      "outputSource": "Rendered code animation",
+      "divisionEvidence": "The models have to plan timing, composition, typography and color, then write code that renders it all.",
+      "video": {
+        "shots": "Multiple dynamic sequence cuts",
+        "duration": "15s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct demonstration of Gemini 4 generating motion graphics animation via code from a full verbatim prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/genrikAI/status/2111504399314940233",
+        "start": 165,
+        "end": 316
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/genrikAI/status/2111504399314940233",
+        "author": "genrikAI",
+        "postId": "2111504399314940233",
+        "publishedAt": "2026-10-17T17:07:33.000Z"
+      },
+      "checkedAt": "2026-10-18T04:21:32.715Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      }
+    },
+    "summary": "Gemini 4 generated a 15-second motion graphics showreel featuring 3D shapes, kinetic typography, and UI dashboards from a single text prompt.",
+    "summaryEn": "Gemini 4 Argon Motion Design Showreel",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 165,
+      "end": 316
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "other-animation",
+    "useCase": "Motion Graphics Showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the Gemini 4 Argon side displaying kinetic typography ('Sculpt Vision Rhythm'), 3D blocks, particle spiral, torus, and dashboard scenes."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

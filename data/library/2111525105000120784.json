@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-18T07:10:42.681Z",
+  "model": "gemini4",
+  "prompt": "visualize its own existence using animation in html",
+  "promptTranslations": {
+    "en": "visualize its own existence using animation in html"
+  },
+  "summary": "Gemini 4 Argon generated an interactive HTML animation visualizing its own consciousness matrix.",
+  "summaryEn": "Gemini 4 Argon Self-Existence HTML Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111525105000120784",
+    "canonicalUrl": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+    "author": {
+      "username": "arshiiiiiaaa__",
+      "displayName": "Hero_Senpai هیرو سنپای",
+      "profileUrl": "https://x.com/arshiiiiiaaa__"
+    },
+    "publishedAt": "2026-10-17T18:29:49.000Z",
+    "collectedAt": "2026-10-18T04:19:00.734Z",
+    "language": "en",
+    "originalText": "Asked Gemini 4 Argon to visualize its own existence using animation in html https://t.co/E0zgdXOFfQ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111525063467937792/img/ijKmAvU9O3xtjXfW.jpg",
+        "analysisUrl": "https://x.com/arshiiiiiaaa__/status/2111525105000120784"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 36
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+        "text": "Hero_Senpai هیرو سنپای on X: \"Asked Gemini 4 Argon to visualize its own existence using animation in html\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nHero_Senpai هیرو سنپای on X: \"Asked Gemini 4 Argon to visualize its own existence using animation in html\"\n\n\n\nHero_Senpai هیرو سنپای\n@arshiiiiiaaa__\n\n\n\n\nAsked Gemini 4 Argon to visualize its own existence using animation in html\n\n\n00:00\n\n\n\n\n\n\n\n\n6:29 PM · Oct 17, 2026·36\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nHero_Senpai هیرو سنپای@arshiiiiiaaa__Follow\nE.E. (digital hardware design)\nالکترونیک دیجیتال\n•فیزیک، زیست و بیولوژی رفتاری، نوروساینس، \nو نرم افزار\n ‌Physics, behavioral biology, neuroscience, IT\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHero_Senpai هیرو سنپای\n@arshiiiiiaaa__\n\n\n\n\nAsked Gemini 4 Argon to visualize its own existence using animation in html\n\n\n00:00\n\n\n\n\n\n\n\n\n6:29 PM · Oct 17, 2026·36\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "arshiiiiiaaa__"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111525063467937792/img/ijKmAvU9O3xtjXfW.jpg",
+  "coverPath": "covers/2111525105000120784.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111525063467937792",
+    "x-post:2111525105000120784"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Self-Existence HTML Animation",
+      "summary": "Gemini 4 Argon generated an interactive HTML animation visualizing its own consciousness matrix.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Asked Gemini 4 Argon to visualize its own existence using animation in html"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "visualize its own existence using animation in html",
+        "englishText": "visualize its own existence using animation in html",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact verbatim prompt instructions",
+          "Specific UI/HTML implementation requirements"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive nebula matrix canvas responding to slider input and cursor tracking.",
+        "textualResultQuote": "This standalone experience includes the pulsing consciousness core, orbiting synaptic loops, and custom interactive cursor tracking"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML/Canvas",
+          "role": "Renders interactive neural matrix animation",
+          "evidence": "using animation in html",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive AI Consciousness Animation",
+        "topic": "games-interactive",
+        "tags": [
+          "html-canvas",
+          "interactive",
+          "generative-art",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Generates HTML, CSS, and JavaScript interactive visualization code",
+      "outputSource": "Web browser rendering generated HTML/JS",
+      "divisionEvidence": "Gemini generated the standalone HTML/JS code; the browser rendered the interactive animation.",
+      "video": {
+        "shots": "Single continuous screen recording",
+        "duration": "14s",
+        "aspectRatio": "720:1048",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 generating interactive HTML/canvas animation code with screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+        "start": 24,
+        "end": 75
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arshiiiiiaaa__/status/2111525105000120784",
+        "author": "arshiiiiiaaa__",
+        "postId": "2111525105000120784",
+        "publishedAt": "2026-10-17T18:29:49.000Z"
+      },
+      "checkedAt": "2026-10-18T04:24:07.556Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Gemini 4 Argon generated an interactive HTML animation visualizing its own consciousness matrix.",
+    "summaryEn": "Gemini 4 Argon Self-Existence HTML Animation",
+    "originalPrompt": "visualize its own existence using animation in html",
+    "sourceRange": {
+      "start": 24,
+      "end": 75
+    },
+    "translations": {
+      "zh": "visualize its own existence using animation in html",
+      "en": "visualize its own existence using animation in html"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive AI Consciousness Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact verbatim prompt instructions",
+        "Specific UI/HTML implementation requirements"
+      ],
+      "evidence": "Screen recording demonstrates an interactive nebula matrix canvas responding to slider input and cursor tracking."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
