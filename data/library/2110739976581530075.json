@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:50.348Z",
+  "model": "gemini4",
+  "prompt": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.",
+  "promptTranslations": {
+    "en": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI."
+  },
+  "summary": "A playable 3D Gothic Wizard Chess web application created using Gemini 4 Argon to orchestrate headless Blender procedural sculpting, visual critique feedback, and Three.js WebGL rendering with Voronoi fracture physics.",
+  "summaryEn": "Gothic Wizard Chess 3D Web Game with Gemini 4",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110739976581530075",
+    "canonicalUrl": "https://x.com/Kisalay_/status/2110739976581530075",
+    "author": {
+      "username": "Kisalay_",
+      "displayName": "Kisalay",
+      "profileUrl": "https://x.com/Kisalay_"
+    },
+    "publishedAt": "2026-10-15T14:30:00.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "I just built a playable 3D Gothic Wizard Chess website using Gemini 4 Argon in Google Antigravity. \n\ncomplete with headless Blender (bpy) procedural sculpting, a multi-agent visual critique loop, custom Three.js GLSL shaders, Voronoi stone shatter physics, and a single-player Minimax AI. ♟️⚔️\n\nPrompt used: \n\"Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.\"\n\nWhat the website & pipeline include: \n• Sculpted 3D Alabaster & Obsidian stone pieces with articulated melee weapons \n• 3-iteration Vision Critic loop scoring silhouette clarity, rig clearance & 2K Cycles PBR maps \n• Real-time Three.js GLSL shaders with torchlight specular & arcane rune glow sliders \n• 42-shard 3D Voronoi stone fracture physics + Action-Cam zoom on every capture\n\nFull 4-minute 1080p showcase below 👇\n\n#Gemini4Argon #GoogleAntigravity #ThreeJS #Blender3D #WebGL #GameDev #AI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Kisalay_/status/2110739976581530075",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110660527731175424/img/BQB-4B0RhlkbSD78.jpg",
+        "analysisUrl": "https://x.com/Kisalay_/status/2110739976581530075"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 439
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Kisalay_/status/2110740708273647817",
+        "text": "Play the live 3D game and explore the full Gemini 4 Argon 3D workflow here:\n\n🎮 Live Deployed 3D Game (Google AI Studio): https://t.co/WJlAXKRH4t\n\n🚀 Gemini 4 Argon Builders Showcase: https://t.co/AstNXKzguq\n\n🛠️ Building 3D Games & Procedural Worlds Guide: https://t.co/5mmrBaf4Hx\n\n📖 Official Gemini 4 Argon Launch Post: https://t.co/IeKb6Xkcq8",
+        "author": "Kisalay_"
+      },
+      {
+        "url": "https://aistudio.google.com/learn/gemini-4-argon-showcase",
+        "text": "Google AI Studio",
+        "kind": "linked_public_material",
+        "author": "Kisalay_"
+      },
+      {
+        "url": "https://aistudio.google.com/learn/building-3d-games-and-worlds-with-gemini-4-argon",
+        "text": "Google AI Studio",
+        "kind": "linked_public_material",
+        "author": "Kisalay_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/WJlAXKRH4t",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Kisalay_/status/2110739976581530075",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110660527731175424/img/BQB-4B0RhlkbSD78.jpg",
+  "coverPath": "covers/2110739976581530075.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110660527731175424",
+    "x-post:2110739976581530075"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gothic Wizard Chess 3D Web Game with Gemini 4",
+      "summary": "A playable 3D Gothic Wizard Chess web application created using Gemini 4 Argon to orchestrate headless Blender procedural sculpting, visual critique feedback, and Three.js WebGL rendering with Voronoi fracture physics.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Google Antigravity",
+        "authorUseConfirmed": true,
+        "evidence": "I just built a playable 3D Gothic Wizard Chess website using Gemini 4 Argon in Google Antigravity."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.",
+        "englishText": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Agent orchestration harness and multi-agent critique execution environment setup"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an interactive 3D chessboard with alabaster and obsidian pieces, dynamic camera moves, Voronoi stone fracture animations upon melee piece capture, and in-app inspector modals showing the Blender bpy scripts and Three.js GLSL shaders.",
+        "textualResultQuote": "• Sculpted 3D Alabaster & Obsidian stone pieces with articulated melee weapons \n• 3-iteration Vision Critic loop scoring silhouette clarity, rig clearance & 2K Cycles PBR maps \n• Real-time Three.js GLSL shaders with torchlight specular & arcane rune glow sliders \n• 42-shard 3D Voronoi stone fracture physics + Action-Cam zoom on every capture"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "Headless procedural 3D sculpting, rigging, animation, and PBR baking via bpy scripts",
+          "evidence": "headless Blender (bpy) procedural sculpting, a multi-agent visual critique loop",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "Real-time WebGL rendering, custom GLSL stone and rune shaders, and Voronoi shatter physics in the browser",
+          "evidence": "custom Three.js GLSL shaders, Voronoi stone shatter physics, and a single-player Minimax AI.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Playable 3D Gothic Wizard Chess",
+        "topic": "games-interactive",
+        "tags": [
+          "gemini4",
+          "threejs",
+          "blender",
+          "webgl",
+          "procedural-generation",
+          "glsl-shaders"
+        ]
+      },
+      "targetModelRole": "Gemini 4 serves as the code-generation and multi-agent visual critique engine producing procedural Blender Python scripts, GLSL shaders, and WebGL game logic.",
+      "outputSource": "Headless Blender cycles baking and client-side Three.js WebGL canvas execution.",
+      "divisionEvidence": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders",
+      "video": {
+        "shots": "Single-take screen recording showing gameplay moves, Voronoi capture animations, and code modal review",
+        "duration": "04:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Original author post with explicit Gemini 4 Argon version confirmation, full generation prompt, screen recording verification, and clear separation between Gemini code generation and Blender/Three.js rendering.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Kisalay_/status/2110739976581530075",
+        "start": 310,
+        "end": 635
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Kisalay_/status/2110739976581530075",
+        "author": "Kisalay_",
+        "postId": "2110739976581530075",
+        "publishedAt": "2026-10-15T14:30:00.000Z"
+      },
+      "checkedAt": "2026-10-19T04:38:55.618Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt"
+        ]
+      }
+    },
+    "summary": "A playable 3D Gothic Wizard Chess web application created using Gemini 4 Argon to orchestrate headless Blender procedural sculpting, visual critique feedback, and Three.js WebGL rendering with Voronoi fracture physics.",
+    "summaryEn": "Gothic Wizard Chess 3D Web Game with Gemini 4",
+    "originalPrompt": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.",
+    "sourceRange": {
+      "start": 310,
+      "end": 635
+    },
+    "translations": {
+      "zh": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI.",
+      "en": "Write Python scripts to procedurally sculpt, rig, animate, and PBR-bake a complex 3D Gothic Wizard Chess game using multi-agent visual critique loops, then wire it for the web in Three.js with custom GLSL stone & arcane rune shaders, Voronoi stone shatter physics on melee captures, and a single-player Minimax/Alpha-Beta AI."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Playable 3D Gothic Wizard Chess",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Agent orchestration harness and multi-agent critique execution environment setup"
+      ],
+      "evidence": "The screen recording demonstrates an interactive 3D chessboard with alabaster and obsidian pieces, dynamic camera moves, Voronoi stone fracture animations upon melee piece capture, and in-app inspector modals showing the Blender bpy scripts and Three.js GLSL shaders."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

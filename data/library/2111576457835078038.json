@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:48.926Z",
+  "model": "gemini4",
+  "prompt": "a flying car doing a kickflip, broken down frame by frame",
+  "promptTranslations": {
+    "en": "a flying car doing a kickflip, broken down frame by frame"
+  },
+  "summary": "Comparison showcase of Gemini 4 Argon generating a technical telemetry breakdown of a flying car kickflip.",
+  "summaryEn": "Gemini 4 Argon Flying Car Kickflip Breakdown",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111576457835078038",
+    "canonicalUrl": "https://x.com/Kinzf2121/status/2111576457835078038",
+    "author": {
+      "username": "Kinzf2121",
+      "displayName": "Danylo Fedorenko",
+      "profileUrl": "https://x.com/Kinzf2121"
+    },
+    "publishedAt": "2026-10-17T21:53:53.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "same prompt: a flying car doing a kickflip, broken down frame by frame\n\ntop: DeepSeek V4.1 Flash\nbottom: Gemini 4 Argon\n\nDeepSeek went full car commercial. pink smoke, clean 360, even a tagline at the end\n\nGemini went full physics nerd. force arrows, flight phases, replays from 3 cameras\n\nwhich one are you picking? 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Kinzf2121/status/2111576457835078038",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111576377543516160/img/_funSHaS08xaOJwj.jpg",
+        "analysisUrl": "https://x.com/Kinzf2121/status/2111576457835078038"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 4298
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Kinzf2121/status/2111576457835078038",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111576377543516160/img/_funSHaS08xaOJwj.jpg",
+  "coverPath": "covers/2111576457835078038.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111576377543516160",
+    "x-post:2111576457835078038"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Gemini 4 Argon Flying Car Kickflip Breakdown",
+      "summary": "Comparison showcase of Gemini 4 Argon generating a technical telemetry breakdown of a flying car kickflip.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Higgsfield",
+        "authorUseConfirmed": true,
+        "evidence": "Author states 'bottom: Gemini 4 Argon' and video displays on-screen watermark 'HIGGSFIELD GEMINI 4 ARGON'."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a flying car doing a kickflip, broken down frame by frame",
+        "englishText": "a flying car doing a kickflip, broken down frame by frame",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The bottom split shows a futuristic vehicle executing a kickflip with telemetry indicators, flight phases, force vectors, and multi-cam angles.",
+        "textualResultQuote": "Gemini went full physics nerd. force arrows, flight phases, replays from 3 cameras"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Higgsfield",
+          "role": "Video generation platform and rendering environment",
+          "evidence": "On-screen overlay displays 'HIGGSFIELD GEMINI 4 ARGON'",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Flying car kickflip telemetry animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "gemini-4",
+          "higgsfield",
+          "telemetry",
+          "cgi",
+          "kickflip"
+        ]
+      },
+      "targetModelRole": "Generates the dynamic video scene, telemetry overlays, and camera sequences from prompt instructions.",
+      "outputSource": "Higgsfield",
+      "divisionEvidence": "Branding overlay explicitly ties generation to Higgsfield running Gemini 4 Argon.",
+      "video": {
+        "shots": "Multi-angle replay sequence covering Wide, Low, and Track cameras",
+        "duration": "00:15",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Direct demonstration of Gemini 4 generating technical animation and telemetry video using a complete verbatim prompt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Kinzf2121/status/2111576457835078038",
+        "start": 13,
+        "end": 70
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Kinzf2121/status/2111576457835078038",
+        "author": "Kinzf2121",
+        "postId": "2111576457835078038",
+        "publishedAt": "2026-10-17T21:53:53.000Z"
+      },
+      "checkedAt": "2026-10-19T04:19:52.064Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison showcase of Gemini 4 Argon generating a technical telemetry breakdown of a flying car kickflip.",
+    "summaryEn": "Gemini 4 Argon Flying Car Kickflip Breakdown",
+    "originalPrompt": "a flying car doing a kickflip, broken down frame by frame",
+    "sourceRange": {
+      "start": 13,
+      "end": 70
+    },
+    "translations": {
+      "zh": "a flying car doing a kickflip, broken down frame by frame",
+      "en": "a flying car doing a kickflip, broken down frame by frame"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "external-video-model",
+    "useCase": "Flying car kickflip telemetry animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The bottom split shows a futuristic vehicle executing a kickflip with telemetry indicators, flight phases, force vectors, and multi-cam angles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

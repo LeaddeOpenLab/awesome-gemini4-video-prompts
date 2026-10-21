@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:50.901Z",
+  "model": "gemini4",
+  "prompt": "build an Godzilla type titan world",
+  "promptTranslations": {
+    "en": "build an Godzilla type titan world"
+  },
+  "summary": "Screen recording of an interactive 3D 'Titan Isle' environment created from a prompt using Gemini 4 Argon.",
+  "summaryEn": "Interactive 3D Titan Isle World Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110106246800183731",
+    "canonicalUrl": "https://x.com/DrstaOne/status/2110106246800183731",
+    "author": {
+      "username": "DrstaOne",
+      "displayName": "DrstaOne",
+      "profileUrl": "https://x.com/DrstaOne"
+    },
+    "publishedAt": "2026-10-13T20:31:47.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "Google's Gemini 4 argon is pretty fabulous  at 3D world making \n\nGemini 4 Argon turned out this output really well ,everyone is now just typing for Gemini 4 argon ,So i told Gemini 4 Argon to build an Godzilla type titan world \n\nThis tuned out really well as i expected from Gemini 4 argon  ,Agron showing its true capacity of making insane models like this ,This.... output Is good but Gemini 4 argon can't beat Opus 5.5 with this type of outputs",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DrstaOne/status/2110106246800183731",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110104571049816064/img/5aMHVBn4DkGt8La-.jpg",
+        "analysisUrl": "https://x.com/DrstaOne/status/2110106246800183731"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 810
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DrstaOne/status/2110245043789525340",
+        "text": "@yevloop Yes",
+        "author": "DrstaOne"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DrstaOne/status/2110237131260252520",
+        "text": "@yevloop Yes, but what I expecting from argon that is not done yet",
+        "author": "DrstaOne"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/DrstaOne/status/2110191279196037532",
+        "text": "@ka1manov Nope",
+        "author": "DrstaOne"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/DrstaOne/status/2110106246800183731",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110104571049816064/img/5aMHVBn4DkGt8La-.jpg",
+  "coverPath": "covers/2110106246800183731.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110104571049816064",
+    "x-post:2110106246800183731"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Titan Isle World Simulation",
+      "summary": "Screen recording of an interactive 3D 'Titan Isle' environment created from a prompt using Gemini 4 Argon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Google's Gemini 4 argon is pretty fabulous at 3D world making... So i told Gemini 4 Argon to build an Godzilla type titan world"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build an Godzilla type titan world",
+        "englishText": "build an Godzilla type titan world",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt",
+          "Framework specifications",
+          "Complete code instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording displays the interactive 3D environment 'TITAN ISLE' featuring volcanic terrain, navigation controls, and island exploration.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / 3D Canvas Engine",
+          "role": "Renders interactive 3D scene and handles camera navigation.",
+          "evidence": "Screen controls display 'WASD / Arrows - move' and mouse-look navigation.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Island Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "gemini4",
+          "3d-world",
+          "interactive",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Generated code to render the 3D world simulation.",
+      "outputSource": "Interactive 3D WebGL / Canvas runtime.",
+      "divisionEvidence": "Gemini 4 generated the application code, executed and displayed in a real-time browser canvas.",
+      "video": {
+        "shots": "Continuous screen capture of interactive navigation",
+        "duration": "01:07",
+        "aspectRatio": "316:270",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Gemini 4 generating interactive 3D environment code verified via screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/DrstaOne/status/2110106246800183731",
+        "start": 192,
+        "end": 226
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/DrstaOne/status/2110106246800183731",
+        "author": "DrstaOne",
+        "postId": "2110106246800183731",
+        "publishedAt": "2026-10-13T20:31:47.000Z"
+      },
+      "checkedAt": "2026-10-19T04:54:47.348Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Screen recording of an interactive 3D 'Titan Isle' environment created from a prompt using Gemini 4 Argon.",
+    "summaryEn": "Interactive 3D Titan Isle World Simulation",
+    "originalPrompt": "build an Godzilla type titan world",
+    "sourceRange": {
+      "start": 192,
+      "end": 226
+    },
+    "translations": {
+      "zh": "build an Godzilla type titan world",
+      "en": "build an Godzilla type titan world"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Island Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt",
+        "Framework specifications",
+        "Complete code instructions"
+      ],
+      "evidence": "Screen recording displays the interactive 3D environment 'TITAN ISLE' featuring volcanic terrain, navigation controls, and island exploration."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

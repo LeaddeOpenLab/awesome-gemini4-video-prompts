@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:50.050Z",
+  "model": "gemini4",
+  "prompt": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+  "promptTranslations": {
+    "en": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes)."
+  },
+  "summary": "Playable Three.js recreation of the Harry Potter versus Voldemort beam clash duel generated with Web Audio API sound.",
+  "summaryEn": "Harry Potter Wand Duel Recreation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110643157436137822",
+    "canonicalUrl": "https://x.com/benjistacked/status/2110643157436137822",
+    "author": {
+      "username": "benjistacked",
+      "displayName": "benji 💵",
+      "profileUrl": "https://x.com/benjistacked"
+    },
+    "publishedAt": "2026-10-15T08:05:17.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "GEMINI 4 ARGON VS OPUS 5.5: HARRY POTTER FINAL DUEL 🚨\n\nsame prompt, sound on\n\n> Argon (High) took 15 mins and cost $3.43\n> Opus (Max) took 20 mins and cost $3.08\n\nwhich one did better here?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/benjistacked/status/2110643157436137822",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110642992679661568/img/MzErxqlIFUSsdGI4.jpg",
+        "analysisUrl": "https://x.com/benjistacked/status/2110643157436137822"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 97
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/benjistacked/status/2110647659283243401",
+        "text": "the prompt both got:\n\nBuild a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+        "author": "benjistacked"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/benjistacked/status/2110643157436137822",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110642992679661568/img/MzErxqlIFUSsdGI4.jpg",
+  "coverPath": "covers/2110643157436137822.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110642992679661568",
+    "x-post:2110643157436137822"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Harry Potter Wand Duel Recreation in Three.js",
+      "summary": "Playable Three.js recreation of the Harry Potter versus Voldemort beam clash duel generated with Web Audio API sound.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "GEMINI 4 ARGON VS OPUS 5.5: HARRY POTTER FINAL DUEL... Argon (High) took 15 mins"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+        "englishText": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording displays dynamic 3D beam clash, lighting effects, power bar, and final rebound matching prompt specifications.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library loaded from CDN",
+          "evidence": "three.js from a CDN is fine",
+          "sourceUrl": "https://x.com/benjistacked/status/2110647659283243401",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Web Audio API",
+          "role": "Synthesize dynamic sound effects directly in browser",
+          "evidence": "Sound synthesized live with the Web Audio API (no samples)",
+          "sourceUrl": "https://x.com/benjistacked/status/2110647659283243401",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Harry Potter 3D Wand Duel Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "three.js",
+          "interactive",
+          "webgl",
+          "gameplay",
+          "audio-synthesis"
+        ]
+      },
+      "targetModelRole": "Generates complete standalone HTML, Three.js 3D logic, shader/particle effects, and procedural audio code.",
+      "outputSource": "Web browser executing generated HTML and Three.js application",
+      "divisionEvidence": "Build a playable recreation... in a single HTML file. three.js from a CDN is fine; everything else must be generated in code",
+      "video": {
+        "shots": "Single cinematic side-view shot",
+        "duration": "29s",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit Gemini 4 version, complete reproducible prompt, screen recording evidence, and interactive 3D video reproduction.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/benjistacked/status/2110647659283243401",
+        "start": 22,
+        "end": 2563
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/benjistacked/status/2110643157436137822",
+        "author": "benjistacked",
+        "postId": "2110643157436137822",
+        "publishedAt": "2026-10-15T08:05:17.000Z"
+      },
+      "checkedAt": "2026-10-19T04:29:55.127Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Playable Three.js recreation of the Harry Potter versus Voldemort beam clash duel generated with Web Audio API sound.",
+    "summaryEn": "Harry Potter Wand Duel Recreation in Three.js",
+    "originalPrompt": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+    "sourceRange": {
+      "start": 22,
+      "end": 2563
+    },
+    "translations": {
+      "zh": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes).",
+      "en": "Build a playable recreation of the final wand duel between Harry Potter and Lord Voldemort (the beam clash at the end of Deathly Hallows Part 2) in a single HTML file. three.js from a CDN is fine; everything else must be generated in code: no images, no audio files, no web fonts, no film music or logos.\n\nThe scene:\n- The ruined Hogwarts courtyard at dawn after the battle: broken stone arches and pillars, rubble, scorched ground, drifting embers, dust and smoke, cold blue dawn light with a warm glow from the duel. A low cinematic side camera with both wizards in frame.\n- Harry on the left: a young wizard in a dark torn jacket, round glasses, wand arm extended. Voldemort on the right: tall, pale, bald, long flowing black robes. Build both from simple 3D shapes as stylized, instantly recognizable silhouettes; robes and jacket move in the wind.\n- Harry casts a red spell (Expelliarmus), Voldemort a green one (Avada Kedavra). The two beams meet in a blazing knot of light that crackles, pulses and throws sparks; thin lightning arcs, a shockwave ring every few seconds, camera shake, a bloom-like glow (additive blending).\n\nThe game:\n- No menu: the duel starts immediately with the beams already locked, so the very first frame is full of light and motion.\n- The player is Harry: mash SPACE (or click/tap) to push the clash point toward Voldemort. Voldemort pushes back with rising strength and sudden surges, so the knot slides back and forth.\n- Show the struggle: the knot grows brighter and bigger as it moves; the losing side's beam flickers and thins, the winning side's beam thickens. A slim power bar at the bottom and a short hint \"MASH SPACE\".\n- When the knot reaches Voldemort, his curse rebounds: a slow-motion moment, a huge red flash, his wand spins out of his hand and he breaks apart into black ash flakes that drift away in the wind. Big title: \"EXPELLIARMUS\". If the knot reaches Harry instead: a green flash and \"AVADA KEDAVRA\". Press R to duel again.\n- Sound synthesized live with the Web Audio API (no samples): a rising roar of the two beams whose pitch follows the struggle, crackles, shockwave thumps and the final boom; start audio on the first key press or click if the browser blocks autoplay.\n- Demo mode: if the URL contains ?demo, Harry is played by a scripted player that mashes like a human, so the whole duel plays out in about 25 seconds, swings back and forth at least twice and ends with Harry winning.\n- Runs smoothly at 60 fps in a laptop browser and fills the window (1920x1080 and other sizes)."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Harry Potter 3D Wand Duel Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording displays dynamic 3D beam clash, lighting effects, power bar, and final rebound matching prompt specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

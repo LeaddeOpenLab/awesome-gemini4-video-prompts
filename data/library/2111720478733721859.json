@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:49.210Z",
+  "model": "gemini4",
+  "prompt": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+  "promptTranslations": {
+    "en": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code."
+  },
+  "summary": "Comparison benchmark prompting Gemini 4 Argon and DeepSeek to generate a furry 3D watermelon scene using Three.js shell texturing.",
+  "summaryEn": "Furry 3D Watermelon in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111720478733721859",
+    "canonicalUrl": "https://x.com/CodeByNZ/status/2111720478733721859",
+    "author": {
+      "username": "CodeByNZ",
+      "displayName": "NZ ☄️",
+      "profileUrl": "https://x.com/CodeByNZ"
+    },
+    "publishedAt": "2026-10-18T07:26:10.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "DeepSeek V4 Flash just mogged Gemini 4 Argon in the watermelon test i did\n\nSame prompt, same fluffy 3D watermelon.\n\nDeepSeek V4 Flash: $0.35\nGemini 4 Argon: $2.00\n\nDeepSeek's fur is fuller and its stripes are sharper, and it cost about 6x less. 👀\n\nIs paying more for Gemini even worth it?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/CodeByNZ/status/2111720478733721859",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111720421082996736/img/81ZCWY3r5v4FHNmM.jpg",
+        "analysisUrl": "https://x.com/CodeByNZ/status/2111720478733721859"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1233
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/CodeByNZ/status/2111750104486908096",
+        "text": "@theaidesk_ it’s a fluffy watermelon",
+        "author": "CodeByNZ"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/CodeByNZ/status/2111723582900297842",
+        "text": "here’s the prompt i gave both models \n\nBuild a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+        "author": "CodeByNZ"
+      },
+      {
+        "url": "https://unpkg.com/three@0.186.1/build/three.cjs",
+        "text": "/**\n * @license\n * Copyright 2010-2026 Three.js Authors\n * SPDX-License-Identifier: MIT\n *\n * The CommonJS build of three is deprecated. three is ESM-only going forward;\n * this entry now re-exports the ES module via require(esm) and will be removed\n * in a future release.\n * \n * Replace `require('three')` with `import * as THREE from 'three'`.\n */\nprocess.emitWarning(\n\t'`require(\"three\")` is deprecated and will be removed.\\n' +\n\t'Replace `const THREE = require(\"three\")` with `import * as THREE from \"three\"`.',\n\t{ type: 'DeprecationWarning', code: 'THREE_CJS_DEPRECATED' }\n);\nmodule.exports = require( './three.module.js' );\n",
+        "kind": "linked_public_material",
+        "author": "CodeByNZ"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/CodeByNZ/status/2111720478733721859",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111720421082996736/img/81ZCWY3r5v4FHNmM.jpg",
+  "coverPath": "covers/2111720478733721859.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111720421082996736",
+    "x-post:2111720478733721859"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Furry 3D Watermelon in Three.js",
+      "summary": "Comparison benchmark prompting Gemini 4 Argon and DeepSeek to generate a furry 3D watermelon scene using Three.js shell texturing.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4 Argon",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "DeepSeek V4 Flash just mogged Gemini 4 Argon in the watermelon test i did"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+        "englishText": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows rotating furry 3D watermelons on a pink background generated by Gemini 4 Argon and DeepSeek V4 Flash.",
+        "textualResultQuote": "DeepSeek's fur is fuller and its stripes are sharper, and it cost about 6x less."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL graphics rendering library",
+          "evidence": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN",
+          "sourceUrl": "https://x.com/CodeByNZ/status/2111723582900297842",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Web Browser",
+          "role": "Runtime execution and display of the generated HTML/JS code",
+          "evidence": "Build a single-file index.html",
+          "sourceUrl": "https://x.com/CodeByNZ/status/2111723582900297842",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Furry 3D Watermelon Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "shell-texturing",
+          "creative-coding",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Code generator producing self-contained HTML/Three.js code",
+      "outputSource": "Web browser rendering Three.js code",
+      "divisionEvidence": "Gemini 4 produced the single-file index.html source code which was then rendered in a web browser using Three.js.",
+      "video": {
+        "shots": "Split screen comparing Gemini 4 and DeepSeek V4 side-by-side",
+        "duration": "11s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Includes Gemini 4 confirmation, verbatim code generation prompt, and video demonstrating the rendered 3D animation output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/CodeByNZ/status/2111723582900297842",
+        "start": 39,
+        "end": 697
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/CodeByNZ/status/2111720478733721859",
+        "author": "CodeByNZ",
+        "postId": "2111720478733721859",
+        "publishedAt": "2026-10-18T07:26:10.000Z"
+      },
+      "checkedAt": "2026-10-19T04:20:23.581Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Comparison benchmark prompting Gemini 4 Argon and DeepSeek to generate a furry 3D watermelon scene using Three.js shell texturing.",
+    "summaryEn": "Furry 3D Watermelon in Three.js",
+    "originalPrompt": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+    "sourceRange": {
+      "start": 39,
+      "end": 697
+    },
+    "translations": {
+      "zh": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code.",
+      "en": "Build a single-file index.html that shows a fluffy, furry 3D watermelon using Three.js loaded from a CDN (https://t.co/5A3fBgTy3A). Requirements:\n- A watermelon with dark green stripes on a lighter green base, covered in realistic fur made with shell texturing, around 40 to 60 layers.\n- Use a noise texture to control the fur strands, with fur getting thinner toward the tips.\n- Soft lighting with highlights on the fur, and a pink background.\n- OrbitControls so I can drag to rotate and scroll to zoom.\n- A slow gentle swaying of the fur as if there were wind.\n- Everything in one HTML file, with no build step and no external images. Output only the code."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Furry 3D Watermelon Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows rotating furry 3D watermelons on a pink background generated by Gemini 4 Argon and DeepSeek V4 Flash."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

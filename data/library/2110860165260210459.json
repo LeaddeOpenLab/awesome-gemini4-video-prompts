@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T05:07:49.487Z",
+  "model": "gemini4",
+  "prompt": "create me a motion video of a hyper-realistic blackhole explaining it's features",
+  "promptTranslations": {
+    "en": "create me a motion video of a hyper-realistic blackhole explaining it's features"
+  },
+  "summary": "Short documentary clip explaining black hole features with voiceover, callouts, and background music generated via Gemini.",
+  "summaryEn": "Hyper-Realistic Black Hole Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110860165260210459",
+    "canonicalUrl": "https://x.com/SidPatankar1/status/2110860165260210459",
+    "author": {
+      "username": "SidPatankar1",
+      "displayName": "Sid",
+      "profileUrl": "https://x.com/SidPatankar1"
+    },
+    "publishedAt": "2026-10-15T22:27:35.000Z",
+    "collectedAt": "2026-10-19T04:17:34.576Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon is insane, Youtubers are cooked🤯🤯🤯\n\ni asked @GeminiApp create a motion video of a hyper realistic black hole explaining it's features. And it gave me 10 secs clip with a voiceover and said it can go on creating a short documentary. \n\nSharing the full documentary soon. Stay tuned 👀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SidPatankar1/status/2110860165260210459",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110859792633958400/img/c8FQqauD5snPBR7d.jpg",
+        "analysisUrl": "https://x.com/SidPatankar1/status/2110860165260210459"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 669
+    },
+    "matchedRuleIds": [
+      "group:gemini:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2111104339569963335",
+        "text": "@JWPAX3051 @GeminiApp Yes voiceover was good",
+        "author": "SidPatankar1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2110870364079436114",
+        "text": "@harden_369741 @GeminiApp it is tempting me to buy Google AI Ultra plan lol",
+        "author": "SidPatankar1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2110866771888762973",
+        "text": "@Pinkyprincess76 @GeminiApp yeah I know right!",
+        "author": "SidPatankar1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2110865847434854712",
+        "text": "@Pinkyprincess76 @GeminiApp lol no prompt exactly, just literally \"create me a motion video of a hyper-realistic blackhole explaining it's features\". @GeminiApp came up with that spacey atomospheric music and voiceover.",
+        "author": "SidPatankar1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2110865388296937828",
+        "text": "@harden_369741 @GeminiApp Alright sure man 😅😂. I have Gemini Pro, the problem is it just give me 10 sec clip at a time and use up 35% of usage limit. I won't make it longer than 2 mins.",
+        "author": "SidPatankar1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SidPatankar1/status/2110861294744268883",
+        "text": "@harden_369741 @GeminiApp Not sure if you're being sarcastic, but this 10-sec clip seems almost perfect. I'll post the full documentary once its ready, maybe then we'll know for sure",
+        "author": "SidPatankar1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SidPatankar1/status/2110860165260210459",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110859792633958400/img/c8FQqauD5snPBR7d.jpg",
+  "coverPath": "covers/2110860165260210459.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110859792633958400",
+    "x-post:2110860165260210459"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Hyper-Realistic Black Hole Explainer",
+      "summary": "Short documentary clip explaining black hole features with voiceover, callouts, and background music generated via Gemini.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "Gemini App",
+        "authorUseConfirmed": true,
+        "evidence": "\"Gemini 4 Argon is insane... i asked @GeminiApp\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "create me a motion video of a hyper-realistic blackhole explaining it's features",
+        "englishText": "create me a motion video of a hyper-realistic blackhole explaining it's features",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "10-second video of an accretion disk and black hole with UI labels for Photon Ring and Event Horizon, synchronized with an explanatory voiceover.",
+        "textualResultQuote": "At the center lies the event horizon, where gravity is so strong light cannot escape. Surrounding it is the accretion disk, glowing from extreme friction and speed."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Gemini App Video Generation",
+          "role": "Native end-to-end video, audio, and voiceover rendering",
+          "evidence": "\"@GeminiApp came up with that spacey atomospheric music and voiceover.\"",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Black Hole Explainer",
+        "topic": "explainers",
+        "tags": [
+          "astronomy",
+          "black-hole",
+          "science",
+          "narration"
+        ]
+      },
+      "targetModelRole": "End-to-end multimodal video, narration, and audio generation",
+      "outputSource": "Gemini App",
+      "divisionEvidence": "\"i asked @GeminiApp create a motion video... And it gave me 10 secs clip with a voiceover\"",
+      "video": {
+        "shots": "Single camera zoom/flyby around accretion disk and event horizon with graphic overlay callouts",
+        "duration": "10s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production demonstration with confirmed prompt, model version, and matching video result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SidPatankar1/status/2110865847434854712",
+        "start": 67,
+        "end": 147
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SidPatankar1/status/2110860165260210459",
+        "author": "SidPatankar1",
+        "postId": "2110860165260210459",
+        "publishedAt": "2026-10-15T22:27:35.000Z"
+      },
+      "checkedAt": "2026-10-19T04:27:19.279Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Short documentary clip explaining black hole features with voiceover, callouts, and background music generated via Gemini.",
+    "summaryEn": "Hyper-Realistic Black Hole Explainer",
+    "originalPrompt": "create me a motion video of a hyper-realistic blackhole explaining it's features",
+    "sourceRange": {
+      "start": 67,
+      "end": 147
+    },
+    "translations": {
+      "zh": "create me a motion video of a hyper-realistic blackhole explaining it's features",
+      "en": "create me a motion video of a hyper-realistic blackhole explaining it's features"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "external-video-model",
+    "useCase": "Black Hole Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "10-second video of an accretion disk and black hole with UI labels for Photon Ring and Event Horizon, synchronized with an explanatory voiceover."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
