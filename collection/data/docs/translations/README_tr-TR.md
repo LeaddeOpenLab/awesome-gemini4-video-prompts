@@ -2,45 +2,50 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**1 source-verified real cases** · 3 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**1 source-verified real cases** · 8 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Gemini 4 Argon Self-Existence HTML Animation](../../../prompts/2111525105000120784.md)
+### [Furry 3D Watermelon in Three.js](../../../prompts/2111720478733721859.md)
 
-![Preview by @arshiiiiiaaa__](<../../covers/2111525105000120784.jpg>)
+![Preview by @CodeByNZ](<../../covers/2111720478733721859.jpg>)
 
-By @arshiiiiiaaa__ · [source](<https://x.com/arshiiiiiaaa__/status/2111525105000120784>)
+By @CodeByNZ · [source](<https://x.com/CodeByNZ/status/2111720478733721859>)
 
-### [Gemini 4 Argon Motion Design Showreel](../../../prompts/2111504399314940233.md)
+### [Gemini 4 Argon Flying Car Kickflip Breakdown](../../../prompts/2111576457835078038.md)
 
-![Preview by @genrikAI](<../../covers/2111504399314940233.jpg>)
+![Preview by @Kinzf2121](<../../covers/2111576457835078038.jpg>)
 
-By @genrikAI · [source](<https://x.com/genrikAI/status/2111504399314940233>)
+By @Kinzf2121 · [source](<https://x.com/Kinzf2121/status/2111576457835078038>)
 
-### [Minimal Physics UI Toggles Library](../../../prompts/2111499376137056291.md)
+### [Hyper-Realistic Black Hole Explainer](../../../prompts/2110860165260210459.md)
 
-![Preview by @thtbee_](<../../covers/2111499376137056291.jpg>)
+![Preview by @SidPatankar1](<../../covers/2110860165260210459.jpg>)
 
-By @thtbee_ · [source](<https://x.com/thtbee_/status/2111499376137056291>)
+By @SidPatankar1 · [source](<https://x.com/SidPatankar1/status/2110860165260210459>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 2
+- [canvas-interactive](../../categories/canvas-interactive.md) — 7
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
 - [blender](../../categories/blender.md) — 0
-- [external-video-model](../../categories/external-video-model.md) — 0
-- [other-animation](../../categories/other-animation.md) — 2
+- [external-video-model](../../categories/external-video-model.md) — 2
+- [other-animation](../../categories/other-animation.md) — 0
 
 ## Recently added
 
-- 2026-10-18 · [Gemini 4 Argon Self-Existence HTML Animation](../../../prompts/2111525105000120784.md)
-- 2026-10-18 · [Gemini 4 Argon Motion Design Showreel](../../../prompts/2111504399314940233.md)
-- 2026-10-18 · [Minimal Physics UI Toggles Library](../../../prompts/2111499376137056291.md)
-- 2026-10-18 · [Gemini 4 Argon Dynamic Motion Graphics Reel](../../../prompts/2111381391246320012.md)
+- 2026-10-19 · [Furry 3D Watermelon in Three.js](../../../prompts/2111720478733721859.md)
+- 2026-10-19 · [Gemini 4 Argon Flying Car Kickflip Breakdown](../../../prompts/2111576457835078038.md)
+- 2026-10-19 · [Hyper-Realistic Black Hole Explainer](../../../prompts/2110860165260210459.md)
+- 2026-10-19 · [3D Miniature City Destruction Sandbox](../../../prompts/2110775218952405183.md)
+- 2026-10-19 · [Gothic Wizard Chess 3D Web Game with Gemini 4](../../../prompts/2110739976581530075.md)
+- 2026-10-19 · [Harry Potter Wand Duel Recreation in Three.js](../../../prompts/2110643157436137822.md)
+- 2026-10-19 · [Gemini 4 Argon Laser Simulation Animation](../../../prompts/2110601742413172851.md)
+- 2026-10-19 · [Interactive 3D Titan Isle World Simulation](../../../prompts/2110106246800183731.md)
+- 2026-10-19 · [Gemini 4 Pro Three.js 3D Dragon Comparison](../../../prompts/2101172391024222282.md)
 
 ## Review policy
 
