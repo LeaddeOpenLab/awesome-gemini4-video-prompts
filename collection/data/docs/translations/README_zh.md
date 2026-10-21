@@ -2,50 +2,44 @@
 
 Gemini 4 video production prompts with original sources, video previews and required tools.
 
-**1 source-verified real cases** · 8 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
+**0 source-verified real cases** · 3 reference cases (not counted as verified complete prompts) · 0 unpublished pending records.
 
 
 
 ## Featured cases
 
-### [Furry 3D Watermelon in Three.js](../../../prompts/2111720478733721859.md)
+### [Tesla Roadster McGregor Flight Telemetry 3D Simulation](../../../prompts/2111441312323088473.md)
 
-![Preview by @CodeByNZ](<../../covers/2111720478733721859.jpg>)
+![Preview by @IFITALEX](<../../covers/2111441312323088473.jpg>)
 
-By @CodeByNZ · [source](<https://x.com/CodeByNZ/status/2111720478733721859>)
+By @IFITALEX · [source](<https://x.com/IFITALEX/status/2111441312323088473>)
 
-### [Gemini 4 Argon Flying Car Kickflip Breakdown](../../../prompts/2111576457835078038.md)
+### [3D Shimaenaga Reversi Game Prototype](../../../prompts/2111379269989585051.md)
 
-![Preview by @Kinzf2121](<../../covers/2111576457835078038.jpg>)
+![Preview by @shimaenaga_app](<../../covers/2111379269989585051.jpg>)
 
-By @Kinzf2121 · [source](<https://x.com/Kinzf2121/status/2111576457835078038>)
+By @shimaenaga_app · [source](<https://x.com/shimaenaga_app/status/2111379269989585051>)
 
-### [Hyper-Realistic Black Hole Explainer](../../../prompts/2110860165260210459.md)
+### [Interactive 3D Grand Complication Tourbillon in Three.js](../../../prompts/2111329085565911169.md)
 
-![Preview by @SidPatankar1](<../../covers/2110860165260210459.jpg>)
+![Preview by @eiichi292929](<../../covers/2111329085565911169.jpg>)
 
-By @SidPatankar1 · [source](<https://x.com/SidPatankar1/status/2110860165260210459>)
+By @eiichi292929 · [source](<https://x.com/eiichi292929/status/2111329085565911169>)
 
 ## Find a task
 
-- [canvas-interactive](../../categories/canvas-interactive.md) — 7
+- [canvas-interactive](../../categories/canvas-interactive.md) — 3
 - [manim](../../categories/manim.md) — 0
 - [remotion](../../categories/remotion.md) — 0
 - [blender](../../categories/blender.md) — 0
-- [external-video-model](../../categories/external-video-model.md) — 2
+- [external-video-model](../../categories/external-video-model.md) — 0
 - [other-animation](../../categories/other-animation.md) — 0
 
 ## Recently added
 
-- 2026-10-19 · [Furry 3D Watermelon in Three.js](../../../prompts/2111720478733721859.md)
-- 2026-10-19 · [Gemini 4 Argon Flying Car Kickflip Breakdown](../../../prompts/2111576457835078038.md)
-- 2026-10-19 · [Hyper-Realistic Black Hole Explainer](../../../prompts/2110860165260210459.md)
-- 2026-10-19 · [3D Miniature City Destruction Sandbox](../../../prompts/2110775218952405183.md)
-- 2026-10-19 · [Gothic Wizard Chess 3D Web Game with Gemini 4](../../../prompts/2110739976581530075.md)
-- 2026-10-19 · [Harry Potter Wand Duel Recreation in Three.js](../../../prompts/2110643157436137822.md)
-- 2026-10-19 · [Gemini 4 Argon Laser Simulation Animation](../../../prompts/2110601742413172851.md)
-- 2026-10-19 · [Interactive 3D Titan Isle World Simulation](../../../prompts/2110106246800183731.md)
-- 2026-10-19 · [Gemini 4 Pro Three.js 3D Dragon Comparison](../../../prompts/2101172391024222282.md)
+- 2026-10-21 · [Tesla Roadster McGregor Flight Telemetry 3D Simulation](../../../prompts/2111441312323088473.md)
+- 2026-10-21 · [3D Shimaenaga Reversi Game Prototype](../../../prompts/2111379269989585051.md)
+- 2026-10-21 · [Interactive 3D Grand Complication Tourbillon in Three.js](../../../prompts/2111329085565911169.md)
 
 ## Review policy
 
