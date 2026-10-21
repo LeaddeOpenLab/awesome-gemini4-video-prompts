@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-21T04:12:21.542Z",
+  "model": "gemini4",
+  "prompt": "３Ｄシマエナガリバーシ作って",
+  "promptTranslations": {
+    "en": "Make a 3D Shimaenaga Reversi"
+  },
+  "summary": "Interactive 3D Shimaenaga-themed Reversi web app generated using Gemini 4 Argon in AI Studio.",
+  "summaryEn": "3D Shimaenaga Reversi Game Prototype",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111379269989585051",
+    "canonicalUrl": "https://x.com/shimaenaga_app/status/2111379269989585051",
+    "author": {
+      "username": "shimaenaga_app",
+      "displayName": "エナガラボ🐤┃ Enaga Lab",
+      "profileUrl": "https://x.com/shimaenaga_app"
+    },
+    "publishedAt": "2026-10-17T08:50:20.000Z",
+    "collectedAt": "2026-10-18T04:19:00.734Z",
+    "language": "ja",
+    "originalText": "Gemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣\n\n開発楽しくなりそう（・▴・） https://t.co/GHENj06WCX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/shimaenaga_app/status/2111379269989585051",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111378930213212160/img/m0JpUmFv2vBInGuv.jpg",
+        "analysisUrl": "https://x.com/shimaenaga_app/status/2111379269989585051"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 2,
+      "viewCount": 720
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/shimaenaga_app/status/2111379269989585051",
+        "text": "エナガラボ🐤┃ Enaga Lab on X: \"Gemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣\n\n開発楽しくなりそう（・▴・）\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nエナガラボ🐤┃ Enaga Lab on X: \"Gemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣\n\n開発楽しくなりそう（・▴・）\"\n\n\n\nエナガラボ🐤┃ Enaga Lab\n\n@shimaenaga_app\n\n\n\n\nShow translation\nGemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣\n\n開発楽しくなりそう（・▴・）\n\n\n00:00\n\n\n\n\n\n\n\n\n8:50 AM · Oct 17, 2026·720\nViews\n\n\n\n\n2\n23\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nエナガラボ🐤┃ Enaga Lab@shimaenaga_appFollow\nAI×アプリ開発×マーケティング×シマエナガ🐤\nたまに株式投資も（高配当、優待）\nゲームやアプリを個人開発中\n新作、制作の裏側、かわいい失敗作を発信します\n遊べるシマエナガはこちら👇\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nエナガラボ🐤┃ Enaga Lab\n\n@shimaenaga_app\n\n\n\n\nShow translation\nGemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣\n\n開発楽しくなりそう（・▴・）\n\n\n00:00\n\n\n\n\n\n\n\n\n8:50 AM · Oct 17, 2026·720\nViews\n\n\n\n\n2\n23\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "shimaenaga_app"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/shimaenaga_app/status/2111379269989585051",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111378930213212160/img/m0JpUmFv2vBInGuv.jpg",
+  "coverPath": "covers/2111379269989585051.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111378930213212160",
+    "x-post:2111379269989585051"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "3D Shimaenaga Reversi Game Prototype",
+      "summary": "Interactive 3D Shimaenaga-themed Reversi web app generated using Gemini 4 Argon in AI Studio.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "AI Studio",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini4 Argonすごい\n\nAI Studioで３Ｄシマエナガリバーシ作ってでこれができた🐣"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "３Ｄシマエナガリバーシ作って",
+        "englishText": "Make a 3D Shimaenaga Reversi",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full system prompt",
+          "UI layout and rendering framework instructions",
+          "Game rules and AI opponent logic",
+          "3D model styling specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates a functional 3D Shimaenaga Reversi board game matching the fragment prompt.",
+        "textualResultQuote": "雪の妖精 シマエナガ3Dリバーシ"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Google AI Studio",
+          "role": "Execution platform and code generation environment",
+          "evidence": "AI Studioで３Ｄシマエナガリバーシ作って",
+          "sourceUrl": "https://x.com/shimaenaga_app/status/2111379269989585051",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Reversi Web Game",
+        "topic": "games-interactive",
+        "tags": [
+          "3d-scenes",
+          "reversi",
+          "game-dev",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D web game application",
+      "outputSource": "Web browser / preview runtime",
+      "divisionEvidence": "Gemini generated the game code in AI Studio, which renders in the preview UI.",
+      "video": {
+        "shots": "Single take screen recording of game UI and moves",
+        "duration": "13s",
+        "aspectRatio": "9:20",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 screen recording demonstrating an interactive 3D game prototype.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/shimaenaga_app/status/2111379269989585051",
+        "start": 28,
+        "end": 42
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/shimaenaga_app/status/2111379269989585051",
+        "author": "shimaenaga_app",
+        "postId": "2111379269989585051",
+        "publishedAt": "2026-10-17T08:50:20.000Z"
+      },
+      "checkedAt": "2026-10-18T04:38:29.324Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Interactive 3D Shimaenaga-themed Reversi web app generated using Gemini 4 Argon in AI Studio.",
+    "summaryEn": "3D Shimaenaga Reversi Game Prototype",
+    "originalPrompt": "３Ｄシマエナガリバーシ作って",
+    "sourceRange": {
+      "start": 28,
+      "end": 42
+    },
+    "translations": {
+      "zh": "３Ｄシマエナガリバーシ作って",
+      "en": "Make a 3D Shimaenaga Reversi"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Reversi Web Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full system prompt",
+        "UI layout and rendering framework instructions",
+        "Game rules and AI opponent logic",
+        "3D model styling specifications"
+      ],
+      "evidence": "Screen recording demonstrates a functional 3D Shimaenaga Reversi board game matching the fragment prompt."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-21T04:12:21.257Z",
+  "model": "gemini4",
+  "prompt": "# Tesla Roadster (SpaceX Package) 运动轨迹 3D 仿真网页制作方案\n\n## 一、 核心生成提示词（Master Prompt 归纳版）\n\n> **角色与任务**：构建一个基于 **Three.js** 的单文件交互式科学遥测网页（Single-File HTML），完整模拟并拆解 2026.10.15 Tesla × SpaceX Roadster 在 McGregor 基地实测的**“C 型半圆弧倒置跳台发射 → 坡顶水平倒挂射出 → 空中水平 180° 桶滚 → 离地 1m 水平喷气悬停 → 四轮平稳着陆”**全过程运动轨迹，帮助用户直观、简洁地学习整套运动学过程。\n>\n> **设计风格（Archival Telemetry × Risograph）**：\n> - **基底质感**：1970 年代 NASA 档案级特种米白图纸（`#F3EDE0`）叠加 SVG 纸张纤维噪点与正交工程坐标网格。\n> - **四色孔版油墨（Risograph Inks）**：联邦档案蓝（`#004E98`，车身主色与跳台结构）、荧光橙红（`#FF432E`，SpaceX 冷气推进羽流、主动尾翼与受力矢量）、孔雀青（`#00916E`，底盘 2G 真空吸附负压场）、档案赭黄（`#D99414`，楔形车头前照灯与质心轨迹线）、铅黑（`#1B1D21`，粗边框、实体轮胎与卡通描边）。\n>\n> **3D 实体汽车建模要求（拒绝简陋线框）**：\n> - 主体汽车必须采用 **Three.js 程序化 3D 实体超跑模型（Solid 3D Coupe Mesh）**，严禁使用空心透明线框（Wireframe）。\n> - 使用 `THREE.Shape` + `THREE.ExtrudeGeometry`（带斜切倒角 Bevel）构建低趴楔形车头、流线型深色玻璃座舱、宽体前后轮拱、车尾高翘主动尾翼与四个独立自转的 3D 实体车轮。\n> - **正反面高对比分色**：车身上表面采用**联邦蓝 + 深墨色座舱顶**，底盘下表面采用**孔雀青涡扇区 + 荧光红喷口底板**，外加 `BackSide` 铅黑轮廓描边（Ink Outline），确保在 3D 空间翻转时一眼分清车头/车尾、车顶/车底。\n\n---\n\n## 二、 极简页面布局架构（Single-Stage Minimalist Layout）\n\n彻底砍掉右侧多画布侧边栏与繁杂参数表，采用 **“全画幅 3D 舞台 + 轻量化浮层讲义 + 底部六阶段时间轴”** 的极简三段式单屏布局（`100vh` 无滚动）：\n\n1. **顶部极简档案栏（Header, 46px）**\n   - 左侧：档案标题 `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` 与机密印章标签。\n   - 右侧：3D 视角一键切换按钮（`[默认微倾 3D 轴测]` / `[自由鼠标环绕 Orbit]` / `[车尾第一人称跟拍]`）+ `[蓝图暗房模式]`。\n\n2. **中央全画幅 3D 轨迹仿真舞台（Main 3D Viewport, 占屏幕 82% 面积）**\n   - **单一主视觉**：左侧为带钢桁架支撑的 3D 立体 **C 型半圆弧悬挑跳台（`⊂` 形）**，右侧为平抛空翻区、1m 水平悬停反推区与着陆跑道。\n   - **3D 实体频闪重影（3D Solid Strobe Ghosts）**：在轨迹的 6 个关键节点上，定格摆放半透明（Opacity 0.30）的 3D 实体跑车重影，一图看穿全过程姿态变化（可一键开关）。\n   - **右上角轻量化悬浮讲义卡（Floating Stage Card）**：仅用 **1 个标题 + 2 句精炼白话解析 + 3 个核心状态标（车头朝向 / 俯仰角 Pitch / 横滚角 Roll）** 实时说明当前阶段的运动原理。\n\n3. **底部六阶段交互时间轴（Footer Scrubber, 74px）**\n   - 上排：`[▶ 播放/暂停]`、`[0.25x 慢动作]`、`[3D 频闪重影开关]`、`[3D 受力矢量箭头开关]` + 连续时间拖拽滑块（`0.00s – 3.40s`）。\n   - 下排：**6 个阶段速学书签按钮**，点击任意阶段直接跳转并定格相机。\n\n---\n\n## 三、 核心运动轨迹与六阶段 3D 实体汽车姿态规范（100% 物理还原）\n\n全程运动在同一条连续时间轴 $t \\in [0.00\\text{s}, 3.40\\text{s}]$ 内完成，严格遵循以下空间坐标与刚体欧拉角：\n\n| 阶段编号与名称 | 时间区间 | 车头切向朝向 (Heading) | 车身俯仰 (Pitch $\\theta$) | 车身横滚 (Roll $\\phi$) | 3D 实体姿态与物理特效表现 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 地面加速切入** | `0.00s – 0.55s` | **严格朝左 (`◀`, $-X$)** | $0^\\circ$ (水平) | $0^\\circ$ (四轮朝下) | 跑车从右侧助跑道向左高速冲入 `⊂` 型坡底；车尾喷射 3D 荧光红锥形冷气羽流。 |\n| **02 2G 吸附爬坡** | `0.55s – 1.35s` | **沿弧切线顺时针调头**<br>(`◀` → `▲ 朝上` → `↗`) | 随圆弧切线旋转<br>($0^\\circ \\rightarrow 180^\\circ$) | 车轮锁死弧面 | 底盘开启孔雀青色 3D 负压吸附光环（$\\vec{F}_{\\text{suction}} = 2.0G$ 垂直压向坡面），克服重力沿内壁爬上坡顶。 |\n| **03 坡顶倒挂射出** | `1.35s – 1.75s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (平行地面)** | **$180^\\circ$ (四轮朝天)** | 爬至坡顶悬挑段时车头已调头朝右（`▶`），**四轮朝上贴顶、深色车顶朝下**，平行于地面水平射出坡顶边缘！ |\n| **04 高空水平横滚** | `1.75s – 2.50s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (全程水平不低头)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | 离坡后风扇关闭；在下落抛物线上半段**车身保持水平（Pitch $\\equiv 0^\\circ$）**，两侧冷气喷嘴一上一下喷射产生力偶，使 3D 实体车身绕水平纵轴完成 $180^\\circ$ 桶滚回正。 |\n| **05 离地 1m 水平悬停** | `2.50s – 2.95s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮水平朝下)** | **高空早已回正**；在离地约 $1\\text{m}$ 处，以四轮水平朝下的正向姿态触发底盘垂直向下猛喷高压冷气（$\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$），在半空呈现**短暂水平悬停**，地面扩散 3D 气浪环。 |\n| **06 四轮水平触地** | `2.95s – 3.40s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮同时落轮)** | 底部反推气流平缓衰减，四个实体车轮保持水平同时轻柔触地，向右平稳滑行收尾。 |\n\n---\n\n## 四、 3D 空间受力矢量可视化（直接绑定在主车质心）\n\n无需额外的侧边图表，直接在 3D 跑车质心上实时渲染三根高对比度 **3D 实体圆锥箭头（`THREE.ArrowHelper` / 自定义立体箭头）**：\n1. **重力 $\\vec{F}_g$（铅黑色，恒定垂直向下 $-Y$）**：全阶段常驻，作为受力参考基准。\n2. **真空风扇吸附力 $\\vec{F}_{\\text{suction}}$（孔雀青色，垂直指向 C 型坡面法向）**：仅在 `STAGE 01–03` 激活，直观解释为什么车子能吸在倒置天花板上。\n3. **SpaceX 冷气推力 $\\vec{F}_{\\text{thruster}}$（荧光橙红色）**：\n   - `STAGE 01–03`：沿车头方向推动加速；\n   - `STAGE 04`：车身左右两侧一上一下反向喷射，形成环绕车体的旋转力偶箭头；\n   - `STAGE 05`：底盘向下猛喷，产生粗壮的**垂直向上反推升力箭头（$\\uparrow$）**，直观呈现空中水平刹停悬停。",
+  "promptTranslations": {
+    "en": "# Tesla Roadster (SpaceX Package) Trajectory 3D Simulation Webpage Production Specification\n\n## 1. Core Generation Prompt (Master Prompt Summary Edition)\n\n> **Role & Task**: Build a Three.js-based single-file interactive scientific telemetry web page (Single-File HTML) to fully simulate and break down the complete kinematics trajectory of the Tesla × SpaceX Roadster tested on 2026.10.15 at the McGregor facility: \"C-shaped inverted jump ramp launch → horizontal inverted ejection at top of slope → mid-air horizontal 180° barrel roll → horizontal jet hover 1m above ground → stable 4-wheel landing\", helping users understand the full kinematics process cleanly and intuitively.\n>\n> **Design Style (Archival Telemetry × Risograph)**:\n> - **Base Texture**: 1970s NASA archival grade specialty cream blueprint paper (`#F3EDE0`) layered with SVG paper fiber noise and orthogonal engineering coordinate grid.\n> - **Risograph Inks**: Federal Archival Blue (`#004E98`, main car body & ramp structure), Fluorescent Orange-Red (`#FF432E`, SpaceX cold gas thruster plume, active rear wing, force vectors), Peacock Cyan (`#00916E`, chassis 2G vacuum suction negative pressure field), Archival Ochre (`#D99414`, wedge nose headlights & center-of-mass trajectory line), Pencil Black (`#1B1D21`, thick borders, solid tires & cartoon outlines).\n>\n> **3D Solid Vehicle Modeling Requirements (Reject crude wireframes)**:\n> - Main car must use a Three.js procedural 3D solid supercar model (Solid 3D Coupe Mesh); hollow transparent wireframes are strictly prohibited.\n> - Use `THREE.Shape` + `THREE.ExtrudeGeometry` (with bevels) to construct the low-slung wedge front, aerodynamic tinted glass cockpit, widebody wheel arches, high kicktail active spoiler, and 4 independently spinning 3D solid wheels.\n> - **High-contrast front/back two-tone palette**: Upper body in Federal Blue + dark ink cockpit roof, chassis underside in Peacock Cyan fan zone + fluorescent red thruster plate, plus `BackSide` pencil black ink outline, ensuring car front/rear and top/bottom are immediately distinguishable during 3D rotation.\n\n---\n\n## 2. Minimalist Layout Architecture (Single-Stage Minimalist Layout)\n\nEliminate right-side multi-canvas sidebars and cumbersome parameter tables; adopt a single-screen three-stage layout with no scrolling (`100vh`):\n\n1. **Top Minimal Archival Header (46px)**\n   - Left: Archival title `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` and confidential stamp label.\n   - Right: 3D viewpoint switcher buttons (`[Default slight tilt isometric]` / `[Free mouse Orbit]` / `[Rear-view chase camera]`) + `[Blueprint Darkroom Mode]`.\n\n2. **Central Full-Viewport 3D Trajectory Simulation Stage (Main 3D Viewport, 82% screen area)**\n   - **Single Main Visual**: On the left, a 3D C-shaped cantilever jump ramp (`⊂`-shaped) supported by steel trusses; on the right, the free-flight flip zone, 1m horizontal hover deceleration zone, and landing runway.\n   - **3D Solid Strobe Ghosts**: At 6 key nodes along the trajectory, place static semi-transparent (opacity 0.30) 3D solid supercar ghost meshes to view the complete pose change at a glance (toggleable).\n   - **Top-right lightweight floating explainer card (Floating Stage Card)**: Only 1 title + 2 concise plain-language sentences + 3 core status indicators (heading / pitch / roll) to explain the kinematic principle of the current stage in real time.\n\n3. **Bottom 6-Stage Interactive Timeline Scrubber (74px)**\n   - Top row: `[▶ Play/Pause]`, `[0.25x Slow-mo]`, `[3D Strobe Ghost Toggle]`, `[3D Force Vector Toggle]` + continuous scrubber slider (`0.00s – 3.40s`).\n   - Bottom row: 6 stage bookmark buttons to jump and freeze camera directly.\n\n---\n\n## 3. Core Trajectory & 6-Stage 3D Solid Vehicle Pose Specification (100% Physical Replication)\n\nThe complete motion runs along a continuous timeline $t \\in [0.00\\text{s}, 3.40\\text{s}]$, strictly following the spatial coordinates and rigid-body Euler angles below:\n\n| Stage & Name | Time Interval | Heading | Pitch $\\theta$ | Roll $\\phi$ | 3D Solid Pose & Physical VFX |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 Ground Acceleration Entry** | `0.00s – 0.55s` | **Strictly Left (`◀`, $-X$)** | $0^\\circ$ (horizontal) | $0^\\circ$ (wheels down) | Supercar charges from the right runway into the bottom of the `⊂` ramp at high speed; rear shoots 3D fluorescent red conical cold gas plume. |\n| **02 2G Suction Climb** | `0.55s – 1.35s` | **Clockwise turn along curve tangent**<br>(`◀` → `▲ upward` → `↗`) | Rotates with curve tangent<br>($0^\\circ \\rightarrow 180^\\circ$) | Wheels lock to curve | Underside activates Peacock Cyan 3D negative pressure halo ($\\vec{F}_{\\text{suction}} = 2.0G$ normal to ramp), overcoming gravity to climb inner wall to the top. |\n| **03 Inverted Ejection at Apex** | `1.35s – 1.75s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (parallel to ground)** | **$180^\\circ$ (wheels pointing up)** | Upon reaching top cantilever, nose has turned right (`▶`), wheels stick to roof facing up, dark roof faces down, ejecting horizontally parallel to ground! |\n| **04 High-Altitude Horizontal Roll** | `1.75s – 2.50s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level throughout)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | Fans stop upon leaving ramp; during upper half of parabolic drop, body stays level (Pitch $\\equiv 0^\\circ$), side nozzles fire opposingly to generate a force couple, rotating the solid car 180° along the horizontal longitudinal axis to right itself. |\n| **05 1m Horizontal Hover** | `2.50s – 2.95s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (wheels level down)** | Already righted in midair; ~1m off ground, wheels-down pose fires high-pressure cold thrusters downward ($\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$), briefly hovering horizontally with expanding 3D shockwave rings on ground. |\n| **06 4-Wheel Level Touchdown** | `2.95s – 3.40s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (all 4 wheels touch down simultaneously)** | Bottom reverse thrust tapers off gently, 4 wheels touch down softly at the same time, rolling out smoothly to the right. |\n\n---\n\n## 4. 3D Force Vector Visualization (Directly bound to car center of mass)\n\nRender three high-contrast 3D solid cone arrows (`THREE.ArrowHelper` / custom meshes) directly on the vehicle's center of mass:\n1. **Gravity $\\vec{F}_g$ (Pencil black, constantly pointing $-Y$)**: Always present across all stages as reference.\n2. **Vacuum Suction Force $\\vec{F}_{\\text{suction}}$ (Peacock cyan, normal to C-ramp surface)**: Active only during STAGES 01–03.\n3. **SpaceX Cold Gas Thrust $\\vec{F}_{\\text{thruster}}$ (Fluorescent orange-red)**:\n   - `STAGE 01–03`: Pushes along nose heading to accelerate;\n   - `STAGE 04`: Fires oppositely on left and right sides to form rotational torque arrows;\n   - `STAGE 05`: Blasts straight down from chassis, producing a thick vertical reverse thrust vector ($\\uparrow$) to visualize mid-air braking and hover."
+  },
+  "summary": "The author prompted Gemini 4 Argon to generate a single-file Three.js interactive 3D scientific telemetry web application that reconstructs and simulates the Tesla and SpaceX Roadster trajectory at the McGregor facility.",
+  "summaryEn": "Tesla Roadster McGregor Flight Telemetry 3D Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111441312323088473",
+    "canonicalUrl": "https://x.com/IFITALEX/status/2111441312323088473",
+    "author": {
+      "username": "IFITALEX",
+      "displayName": "洞寓法师🦁",
+      "profileUrl": "https://x.com/IFITALEX"
+    },
+    "publishedAt": "2026-10-17T12:56:52.000Z",
+    "collectedAt": "2026-10-18T04:19:00.734Z",
+    "language": "zh",
+    "originalText": "Deepseek V4.1 1017实测完爆Gemini 4 Argon!\n\n我将Tesla  Roadster视频分别喂给Deepseek V4.1 1017和Gemini 4 Argon，构建一个基于 Three.js的单文件交互式科学遥测网页，完整模拟并拆解Tesla × SpaceX Roadster 在 McGregor 基地实测的全过程运动轨迹。\n\n在Deepseek Harness环境中，Deepseek V4.1耗时1h30s，总计花费¥4.04，除了运动轨迹以及汽车赛道没有完全模拟出来，3D建模这块真的完爆Gemini 4 Argon！\n\n反观Gemini 4 Argon，除了gemini网页端花费34min就制作出成品，汽车赛道比较完整外，汽车建模真的就很敷衍。\n\n以下是完整的提示词，想复刻的可以自己改改用！\n\n---------分割线---------\n\n# Tesla Roadster (SpaceX Package) 运动轨迹 3D 仿真网页制作方案\n\n## 一、 核心生成提示词（Master Prompt 归纳版）\n\n> **角色与任务**：构建一个基于 **Three.js** 的单文件交互式科学遥测网页（Single-File HTML），完整模拟并拆解 2026.10.15 Tesla × SpaceX Roadster 在 McGregor 基地实测的**“C 型半圆弧倒置跳台发射 → 坡顶水平倒挂射出 → 空中水平 180° 桶滚 → 离地 1m 水平喷气悬停 → 四轮平稳着陆”**全过程运动轨迹，帮助用户直观、简洁地学习整套运动学过程。\n>\n> **设计风格（Archival Telemetry × Risograph）**：\n> - **基底质感**：1970 年代 NASA 档案级特种米白图纸（`#F3EDE0`）叠加 SVG 纸张纤维噪点与正交工程坐标网格。\n> - **四色孔版油墨（Risograph Inks）**：联邦档案蓝（`#004E98`，车身主色与跳台结构）、荧光橙红（`#FF432E`，SpaceX 冷气推进羽流、主动尾翼与受力矢量）、孔雀青（`#00916E`，底盘 2G 真空吸附负压场）、档案赭黄（`#D99414`，楔形车头前照灯与质心轨迹线）、铅黑（`#1B1D21`，粗边框、实体轮胎与卡通描边）。\n>\n> **3D 实体汽车建模要求（拒绝简陋线框）**：\n> - 主体汽车必须采用 **Three.js 程序化 3D 实体超跑模型（Solid 3D Coupe Mesh）**，严禁使用空心透明线框（Wireframe）。\n> - 使用 `THREE.Shape` + `THREE.ExtrudeGeometry`（带斜切倒角 Bevel）构建低趴楔形车头、流线型深色玻璃座舱、宽体前后轮拱、车尾高翘主动尾翼与四个独立自转的 3D 实体车轮。\n> - **正反面高对比分色**：车身上表面采用**联邦蓝 + 深墨色座舱顶**，底盘下表面采用**孔雀青涡扇区 + 荧光红喷口底板**，外加 `BackSide` 铅黑轮廓描边（Ink Outline），确保在 3D 空间翻转时一眼分清车头/车尾、车顶/车底。\n\n---\n\n## 二、 极简页面布局架构（Single-Stage Minimalist Layout）\n\n彻底砍掉右侧多画布侧边栏与繁杂参数表，采用 **“全画幅 3D 舞台 + 轻量化浮层讲义 + 底部六阶段时间轴”** 的极简三段式单屏布局（`100vh` 无滚动）：\n\n1. **顶部极简档案栏（Header, 46px）**\n   - 左侧：档案标题 `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` 与机密印章标签。\n   - 右侧：3D 视角一键切换按钮（`[默认微倾 3D 轴测]` / `[自由鼠标环绕 Orbit]` / `[车尾第一人称跟拍]`）+ `[蓝图暗房模式]`。\n\n2. **中央全画幅 3D 轨迹仿真舞台（Main 3D Viewport, 占屏幕 82% 面积）**\n   - **单一主视觉**：左侧为带钢桁架支撑的 3D 立体 **C 型半圆弧悬挑跳台（`⊂` 形）**，右侧为平抛空翻区、1m 水平悬停反推区与着陆跑道。\n   - **3D 实体频闪重影（3D Solid Strobe Ghosts）**：在轨迹的 6 个关键节点上，定格摆放半透明（Opacity 0.30）的 3D 实体跑车重影，一图看穿全过程姿态变化（可一键开关）。\n   - **右上角轻量化悬浮讲义卡（Floating Stage Card）**：仅用 **1 个标题 + 2 句精炼白话解析 + 3 个核心状态标（车头朝向 / 俯仰角 Pitch / 横滚角 Roll）** 实时说明当前阶段的运动原理。\n\n3. **底部六阶段交互时间轴（Footer Scrubber, 74px）**\n   - 上排：`[▶ 播放/暂停]`、`[0.25x 慢动作]`、`[3D 频闪重影开关]`、`[3D 受力矢量箭头开关]` + 连续时间拖拽滑块（`0.00s – 3.40s`）。\n   - 下排：**6 个阶段速学书签按钮**，点击任意阶段直接跳转并定格相机。\n\n---\n\n## 三、 核心运动轨迹与六阶段 3D 实体汽车姿态规范（100% 物理还原）\n\n全程运动在同一条连续时间轴 $t \\in [0.00\\text{s}, 3.40\\text{s}]$ 内完成，严格遵循以下空间坐标与刚体欧拉角：\n\n| 阶段编号与名称 | 时间区间 | 车头切向朝向 (Heading) | 车身俯仰 (Pitch $\\theta$) | 车身横滚 (Roll $\\phi$) | 3D 实体姿态与物理特效表现 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 地面加速切入** | `0.00s – 0.55s` | **严格朝左 (`◀`, $-X$)** | $0^\\circ$ (水平) | $0^\\circ$ (四轮朝下) | 跑车从右侧助跑道向左高速冲入 `⊂` 型坡底；车尾喷射 3D 荧光红锥形冷气羽流。 |\n| **02 2G 吸附爬坡** | `0.55s – 1.35s` | **沿弧切线顺时针调头**<br>(`◀` → `▲ 朝上` → `↗`) | 随圆弧切线旋转<br>($0^\\circ \\rightarrow 180^\\circ$) | 车轮锁死弧面 | 底盘开启孔雀青色 3D 负压吸附光环（$\\vec{F}_{\\text{suction}} = 2.0G$ 垂直压向坡面），克服重力沿内壁爬上坡顶。 |\n| **03 坡顶倒挂射出** | `1.35s – 1.75s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (平行地面)** | **$180^\\circ$ (四轮朝天)** | 爬至坡顶悬挑段时车头已调头朝右（`▶`），**四轮朝上贴顶、深色车顶朝下**，平行于地面水平射出坡顶边缘！ |\n| **04 高空水平横滚** | `1.75s – 2.50s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (全程水平不低头)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | 离坡后风扇关闭；在下落抛物线上半段**车身保持水平（Pitch $\\equiv 0^\\circ$）**，两侧冷气喷嘴一上一下喷射产生力偶，使 3D 实体车身绕水平纵轴完成 $180^\\circ$ 桶滚回正。 |\n| **05 离地 1m 水平悬停** | `2.50s – 2.95s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮水平朝下)** | **高空早已回正**；在离地约 $1\\text{m}$ 处，以四轮水平朝下的正向姿态触发底盘垂直向下猛喷高压冷气（$\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$），在半空呈现**短暂水平悬停**，地面扩散 3D 气浪环。 |\n| **06 四轮水平触地** | `2.95s – 3.40s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮同时落轮)** | 底部反推气流平缓衰减，四个实体车轮保持水平同时轻柔触地，向右平稳滑行收尾。 |\n\n---\n\n## 四、 3D 空间受力矢量可视化（直接绑定在主车质心）\n\n无需额外的侧边图表，直接在 3D 跑车质心上实时渲染三根高对比度 **3D 实体圆锥箭头（`THREE.ArrowHelper` / 自定义立体箭头）**：\n1. **重力 $\\vec{F}_g$（铅黑色，恒定垂直向下 $-Y$）**：全阶段常驻，作为受力参考基准。\n2. **真空风扇吸附力 $\\vec{F}_{\\text{suction}}$（孔雀青色，垂直指向 C 型坡面法向）**：仅在 `STAGE 01–03` 激活，直观解释为什么车子能吸在倒置天花板上。\n3. **SpaceX 冷气推力 $\\vec{F}_{\\text{thruster}}$（荧光橙红色）**：\n   - `STAGE 01–03`：沿车头方向推动加速；\n   - `STAGE 04`：车身左右两侧一上一下反向喷射，形成环绕车体的旋转力偶箭头；\n   - `STAGE 05`：底盘向下猛喷，产生粗壮的**垂直向上反推升力箭头（$\\uparrow$）**，直观呈现空中水平刹停悬停。\n\n---------分割线---------",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/IFITALEX/status/2111441312323088473",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111438464122335233/img/3Pp7I3zXI7SOwQWR.jpg",
+        "analysisUrl": "https://x.com/IFITALEX/status/2111441312323088473"
+      }
+    ],
+    "metrics": {
+      "likeCount": 164,
+      "repostCount": 11,
+      "replyCount": 30,
+      "quoteCount": 4,
+      "viewCount": 29229
+    },
+    "matchedRuleIds": [
+      "group:gemini:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111649118548578475",
+        "text": "@MathAfta1433 确实不怎么对😂，主要是antigravity用不了",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111644719843569989",
+        "text": "@RealGesar 是的",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111624450236145687",
+        "text": "@Kate_K5699 试试！补充一下，提示词我中途调整过，让赛道、汽车、光影模拟真实视频，其余保持不变",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111624152918704500",
+        "text": "@Paulfruitful_ That‘s true 😂, Gemini 4 Argon on the web",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111623986518085668",
+        "text": "@tzzsoztf 🐱？",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111623904330658276",
+        "text": "@UPedrolli46470 这是我的锅，中途我让汽车、赛道和光影模拟真实视频，做了一次方向调整。昨晚太急着发没补充这个细节。因为中途发现原版效果并不是很好。",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111482433476636793",
+        "text": "@FincDre 厉害的！",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111467460000203172",
+        "text": "@cloudi66 是的",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111467412046729539",
+        "text": "@Adidotdev 🫡",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111467325639754029",
+        "text": "@GoodO62792 这个确实没注意到，感谢补充！",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111463483242107085",
+        "text": "@cxs1994 看来还是人的问题😂",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111463388555739370",
+        "text": "@cxs1994 看了，这个确实要更牛！",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111461823929262583",
+        "text": "@xiang13812 😂那确实有点，对argon还是期待有点高了",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111460700426236352",
+        "text": "@chuan_si20815 文科这块不错的，和中国豆包一致！",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111447756879585447",
+        "text": "@youngxun666 🫡",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111445677012316417",
+        "text": "@vildanden_ai 我去AI Studio试试",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111445502747369966",
+        "text": "@vildanden_ai Angravity里暂时用不了，买的低价咸鱼Pro😂",
+        "author": "IFITALEX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/IFITALEX/status/2111445118666563989",
+        "text": "@vildanden_ai 😯弄完之后感觉网页Gemini似乎非常影响Argon的表现🤦",
+        "author": "IFITALEX"
+      },
+      {
+        "url": "https://x.com/IFITALEX/status/2111443989379653881",
+        "text": "洞寓法师🦁 on X: \"Gemini 4 Argon完整视频\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\n洞寓法师🦁 on X: \"Gemini 4 Argon完整视频\"\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n\n\n\n\nShow translation\nGemini 4 Argon完整视频\n\n\n00:00\n\n\n\n\n\n\n\n\n1:07 PM · Oct 17, 2026·987\nViews\n\n\n\n1\n1\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n洞寓法师🦁@IFITALEXFollow\n🤖每日分享AI Agent评测& Vibe Coding实践 \n🧐 律师、法学硕士｜探索文科生转型FDE之路 \n🛟 AI定义效率，法眼框定事实，拒绝 FOMO！\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n15h\n\n\nDeepseek V4.1 1017实测完爆Gemini 4 Argon!\n\n我将Tesla  Roadster视频分别喂给Deepseek V4.1 1017和Gemini 4 Argon，构建一个基于 Three.js的单文件交互式科学遥测网页，完整模拟并拆解Tesla × SpaceX Roadster 在 McGregor 基地实测的全过程运动轨迹。\n\n在Deepseek Harness环境中，Deepseek Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n30\n11\n164\n29K\n\n\n\n\n\n\n\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n\n\n\n\nShow translation\nGemini 4 Argon完整视频\n\n\n00:00\n\n\n\n\n\n\n\n\n1:07 PM · Oct 17, 2026·987\nViews\n\n\n\n1\n1\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "IFITALEX"
+      },
+      {
+        "url": "https://x.com/IFITALEX/status/2111443668477628541",
+        "text": "洞寓法师🦁 on X: \"Deepseek V 4.1 flash完整视频：\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\n洞寓法师🦁 on X: \"Deepseek V 4.1 flash完整视频：\"\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n\n\n\n\nShow translation\nDeepseek V 4.1 flash完整视频：\n\n\n00:00\n\n\n\n\n\n\n\n\n1:06 PM · Oct 17, 2026·1,047\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n洞寓法师🦁@IFITALEXFollow\n🤖每日分享AI Agent评测& Vibe Coding实践 \n🧐 律师、法学硕士｜探索文科生转型FDE之路 \n🛟 AI定义效率，法眼框定事实，拒绝 FOMO！\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n15h\n\n\nDeepseek V4.1 1017实测完爆Gemini 4 Argon!\n\n我将Tesla  Roadster视频分别喂给Deepseek V4.1 1017和Gemini 4 Argon，构建一个基于 Three.js的单文件交互式科学遥测网页，完整模拟并拆解Tesla × SpaceX Roadster 在 McGregor 基地实测的全过程运动轨迹。\n\n在Deepseek Harness环境中，Deepseek Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n30\n11\n164\n29K\n\n\n\n\n\n\n\n\n\n\n洞寓法师🦁\n\n@IFITALEX\n\n\n\n\nShow translation\nDeepseek V 4.1 flash完整视频：\n\n\n00:00\n\n\n\n\n\n\n\n\n1:06 PM · Oct 17, 2026·1,047\nViews\n\n\n\n\n\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "IFITALEX"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/IFITALEX/status/2111441312323088473",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111438464122335233/img/3Pp7I3zXI7SOwQWR.jpg",
+  "coverPath": "covers/2111441312323088473.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111438464122335233",
+    "x-post:2111441312323088473"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Tesla Roadster McGregor Flight Telemetry 3D Simulation",
+      "summary": "The author prompted Gemini 4 Argon to generate a single-file Three.js interactive 3D scientific telemetry web application that reconstructs and simulates the Tesla and SpaceX Roadster trajectory at the McGregor facility.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini",
+        "version": "4",
+        "platform": "gemini.google.com",
+        "authorUseConfirmed": true,
+        "evidence": "我将Tesla Roadster视频分别喂给Deepseek V4.1 1017和Gemini 4 Argon，构建一个基于 Three.js的单文件交互式科学遥测网页... 反观Gemini 4 Argon，除了gemini网页端花费34min就制作出成品"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "# Tesla Roadster (SpaceX Package) 运动轨迹 3D 仿真网页制作方案\n\n## 一、 核心生成提示词（Master Prompt 归纳版）\n\n> **角色与任务**：构建一个基于 **Three.js** 的单文件交互式科学遥测网页（Single-File HTML），完整模拟并拆解 2026.10.15 Tesla × SpaceX Roadster 在 McGregor 基地实测的**“C 型半圆弧倒置跳台发射 → 坡顶水平倒挂射出 → 空中水平 180° 桶滚 → 离地 1m 水平喷气悬停 → 四轮平稳着陆”**全过程运动轨迹，帮助用户直观、简洁地学习整套运动学过程。\n>\n> **设计风格（Archival Telemetry × Risograph）**：\n> - **基底质感**：1970 年代 NASA 档案级特种米白图纸（`#F3EDE0`）叠加 SVG 纸张纤维噪点与正交工程坐标网格。\n> - **四色孔版油墨（Risograph Inks）**：联邦档案蓝（`#004E98`，车身主色与跳台结构）、荧光橙红（`#FF432E`，SpaceX 冷气推进羽流、主动尾翼与受力矢量）、孔雀青（`#00916E`，底盘 2G 真空吸附负压场）、档案赭黄（`#D99414`，楔形车头前照灯与质心轨迹线）、铅黑（`#1B1D21`，粗边框、实体轮胎与卡通描边）。\n>\n> **3D 实体汽车建模要求（拒绝简陋线框）**：\n> - 主体汽车必须采用 **Three.js 程序化 3D 实体超跑模型（Solid 3D Coupe Mesh）**，严禁使用空心透明线框（Wireframe）。\n> - 使用 `THREE.Shape` + `THREE.ExtrudeGeometry`（带斜切倒角 Bevel）构建低趴楔形车头、流线型深色玻璃座舱、宽体前后轮拱、车尾高翘主动尾翼与四个独立自转的 3D 实体车轮。\n> - **正反面高对比分色**：车身上表面采用**联邦蓝 + 深墨色座舱顶**，底盘下表面采用**孔雀青涡扇区 + 荧光红喷口底板**，外加 `BackSide` 铅黑轮廓描边（Ink Outline），确保在 3D 空间翻转时一眼分清车头/车尾、车顶/车底。\n\n---\n\n## 二、 极简页面布局架构（Single-Stage Minimalist Layout）\n\n彻底砍掉右侧多画布侧边栏与繁杂参数表，采用 **“全画幅 3D 舞台 + 轻量化浮层讲义 + 底部六阶段时间轴”** 的极简三段式单屏布局（`100vh` 无滚动）：\n\n1. **顶部极简档案栏（Header, 46px）**\n   - 左侧：档案标题 `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` 与机密印章标签。\n   - 右侧：3D 视角一键切换按钮（`[默认微倾 3D 轴测]` / `[自由鼠标环绕 Orbit]` / `[车尾第一人称跟拍]`）+ `[蓝图暗房模式]`。\n\n2. **中央全画幅 3D 轨迹仿真舞台（Main 3D Viewport, 占屏幕 82% 面积）**\n   - **单一主视觉**：左侧为带钢桁架支撑的 3D 立体 **C 型半圆弧悬挑跳台（`⊂` 形）**，右侧为平抛空翻区、1m 水平悬停反推区与着陆跑道。\n   - **3D 实体频闪重影（3D Solid Strobe Ghosts）**：在轨迹的 6 个关键节点上，定格摆放半透明（Opacity 0.30）的 3D 实体跑车重影，一图看穿全过程姿态变化（可一键开关）。\n   - **右上角轻量化悬浮讲义卡（Floating Stage Card）**：仅用 **1 个标题 + 2 句精炼白话解析 + 3 个核心状态标（车头朝向 / 俯仰角 Pitch / 横滚角 Roll）** 实时说明当前阶段的运动原理。\n\n3. **底部六阶段交互时间轴（Footer Scrubber, 74px）**\n   - 上排：`[▶ 播放/暂停]`、`[0.25x 慢动作]`、`[3D 频闪重影开关]`、`[3D 受力矢量箭头开关]` + 连续时间拖拽滑块（`0.00s – 3.40s`）。\n   - 下排：**6 个阶段速学书签按钮**，点击任意阶段直接跳转并定格相机。\n\n---\n\n## 三、 核心运动轨迹与六阶段 3D 实体汽车姿态规范（100% 物理还原）\n\n全程运动在同一条连续时间轴 $t \\in [0.00\\text{s}, 3.40\\text{s}]$ 内完成，严格遵循以下空间坐标与刚体欧拉角：\n\n| 阶段编号与名称 | 时间区间 | 车头切向朝向 (Heading) | 车身俯仰 (Pitch $\\theta$) | 车身横滚 (Roll $\\phi$) | 3D 实体姿态与物理特效表现 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 地面加速切入** | `0.00s – 0.55s` | **严格朝左 (`◀`, $-X$)** | $0^\\circ$ (水平) | $0^\\circ$ (四轮朝下) | 跑车从右侧助跑道向左高速冲入 `⊂` 型坡底；车尾喷射 3D 荧光红锥形冷气羽流。 |\n| **02 2G 吸附爬坡** | `0.55s – 1.35s` | **沿弧切线顺时针调头**<br>(`◀` → `▲ 朝上` → `↗`) | 随圆弧切线旋转<br>($0^\\circ \\rightarrow 180^\\circ$) | 车轮锁死弧面 | 底盘开启孔雀青色 3D 负压吸附光环（$\\vec{F}_{\\text{suction}} = 2.0G$ 垂直压向坡面），克服重力沿内壁爬上坡顶。 |\n| **03 坡顶倒挂射出** | `1.35s – 1.75s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (平行地面)** | **$180^\\circ$ (四轮朝天)** | 爬至坡顶悬挑段时车头已调头朝右（`▶`），**四轮朝上贴顶、深色车顶朝下**，平行于地面水平射出坡顶边缘！ |\n| **04 高空水平横滚** | `1.75s – 2.50s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (全程水平不低头)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | 离坡后风扇关闭；在下落抛物线上半段**车身保持水平（Pitch $\\equiv 0^\\circ$）**，两侧冷气喷嘴一上一下喷射产生力偶，使 3D 实体车身绕水平纵轴完成 $180^\\circ$ 桶滚回正。 |\n| **05 离地 1m 水平悬停** | `2.50s – 2.95s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮水平朝下)** | **高空早已回正**；在离地约 $1\\text{m}$ 处，以四轮水平朝下的正向姿态触发底盘垂直向下猛喷高压冷气（$\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$），在半空呈现**短暂水平悬停**，地面扩散 3D 气浪环。 |\n| **06 四轮水平触地** | `2.95s – 3.40s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮同时落轮)** | 底部反推气流平缓衰减，四个实体车轮保持水平同时轻柔触地，向右平稳滑行收尾。 |\n\n---\n\n## 四、 3D 空间受力矢量可视化（直接绑定在主车质心）\n\n无需额外的侧边图表，直接在 3D 跑车质心上实时渲染三根高对比度 **3D 实体圆锥箭头（`THREE.ArrowHelper` / 自定义立体箭头）**：\n1. **重力 $\\vec{F}_g$（铅黑色，恒定垂直向下 $-Y$）**：全阶段常驻，作为受力参考基准。\n2. **真空风扇吸附力 $\\vec{F}_{\\text{suction}}$（孔雀青色，垂直指向 C 型坡面法向）**：仅在 `STAGE 01–03` 激活，直观解释为什么车子能吸在倒置天花板上。\n3. **SpaceX 冷气推力 $\\vec{F}_{\\text{thruster}}$（荧光橙红色）**：\n   - `STAGE 01–03`：沿车头方向推动加速；\n   - `STAGE 04`：车身左右两侧一上一下反向喷射，形成环绕车体的旋转力偶箭头；\n   - `STAGE 05`：底盘向下猛喷，产生粗壮的**垂直向上反推升力箭头（$\\uparrow$）**，直观呈现空中水平刹停悬停。",
+        "englishText": "# Tesla Roadster (SpaceX Package) Trajectory 3D Simulation Webpage Production Specification\n\n## 1. Core Generation Prompt (Master Prompt Summary Edition)\n\n> **Role & Task**: Build a Three.js-based single-file interactive scientific telemetry web page (Single-File HTML) to fully simulate and break down the complete kinematics trajectory of the Tesla × SpaceX Roadster tested on 2026.10.15 at the McGregor facility: \"C-shaped inverted jump ramp launch → horizontal inverted ejection at top of slope → mid-air horizontal 180° barrel roll → horizontal jet hover 1m above ground → stable 4-wheel landing\", helping users understand the full kinematics process cleanly and intuitively.\n>\n> **Design Style (Archival Telemetry × Risograph)**:\n> - **Base Texture**: 1970s NASA archival grade specialty cream blueprint paper (`#F3EDE0`) layered with SVG paper fiber noise and orthogonal engineering coordinate grid.\n> - **Risograph Inks**: Federal Archival Blue (`#004E98`, main car body & ramp structure), Fluorescent Orange-Red (`#FF432E`, SpaceX cold gas thruster plume, active rear wing, force vectors), Peacock Cyan (`#00916E`, chassis 2G vacuum suction negative pressure field), Archival Ochre (`#D99414`, wedge nose headlights & center-of-mass trajectory line), Pencil Black (`#1B1D21`, thick borders, solid tires & cartoon outlines).\n>\n> **3D Solid Vehicle Modeling Requirements (Reject crude wireframes)**:\n> - Main car must use a Three.js procedural 3D solid supercar model (Solid 3D Coupe Mesh); hollow transparent wireframes are strictly prohibited.\n> - Use `THREE.Shape` + `THREE.ExtrudeGeometry` (with bevels) to construct the low-slung wedge front, aerodynamic tinted glass cockpit, widebody wheel arches, high kicktail active spoiler, and 4 independently spinning 3D solid wheels.\n> - **High-contrast front/back two-tone palette**: Upper body in Federal Blue + dark ink cockpit roof, chassis underside in Peacock Cyan fan zone + fluorescent red thruster plate, plus `BackSide` pencil black ink outline, ensuring car front/rear and top/bottom are immediately distinguishable during 3D rotation.\n\n---\n\n## 2. Minimalist Layout Architecture (Single-Stage Minimalist Layout)\n\nEliminate right-side multi-canvas sidebars and cumbersome parameter tables; adopt a single-screen three-stage layout with no scrolling (`100vh`):\n\n1. **Top Minimal Archival Header (46px)**\n   - Left: Archival title `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` and confidential stamp label.\n   - Right: 3D viewpoint switcher buttons (`[Default slight tilt isometric]` / `[Free mouse Orbit]` / `[Rear-view chase camera]`) + `[Blueprint Darkroom Mode]`.\n\n2. **Central Full-Viewport 3D Trajectory Simulation Stage (Main 3D Viewport, 82% screen area)**\n   - **Single Main Visual**: On the left, a 3D C-shaped cantilever jump ramp (`⊂`-shaped) supported by steel trusses; on the right, the free-flight flip zone, 1m horizontal hover deceleration zone, and landing runway.\n   - **3D Solid Strobe Ghosts**: At 6 key nodes along the trajectory, place static semi-transparent (opacity 0.30) 3D solid supercar ghost meshes to view the complete pose change at a glance (toggleable).\n   - **Top-right lightweight floating explainer card (Floating Stage Card)**: Only 1 title + 2 concise plain-language sentences + 3 core status indicators (heading / pitch / roll) to explain the kinematic principle of the current stage in real time.\n\n3. **Bottom 6-Stage Interactive Timeline Scrubber (74px)**\n   - Top row: `[▶ Play/Pause]`, `[0.25x Slow-mo]`, `[3D Strobe Ghost Toggle]`, `[3D Force Vector Toggle]` + continuous scrubber slider (`0.00s – 3.40s`).\n   - Bottom row: 6 stage bookmark buttons to jump and freeze camera directly.\n\n---\n\n## 3. Core Trajectory & 6-Stage 3D Solid Vehicle Pose Specification (100% Physical Replication)\n\nThe complete motion runs along a continuous timeline $t \\in [0.00\\text{s}, 3.40\\text{s}]$, strictly following the spatial coordinates and rigid-body Euler angles below:\n\n| Stage & Name | Time Interval | Heading | Pitch $\\theta$ | Roll $\\phi$ | 3D Solid Pose & Physical VFX |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 Ground Acceleration Entry** | `0.00s – 0.55s` | **Strictly Left (`◀`, $-X$)** | $0^\\circ$ (horizontal) | $0^\\circ$ (wheels down) | Supercar charges from the right runway into the bottom of the `⊂` ramp at high speed; rear shoots 3D fluorescent red conical cold gas plume. |\n| **02 2G Suction Climb** | `0.55s – 1.35s` | **Clockwise turn along curve tangent**<br>(`◀` → `▲ upward` → `↗`) | Rotates with curve tangent<br>($0^\\circ \\rightarrow 180^\\circ$) | Wheels lock to curve | Underside activates Peacock Cyan 3D negative pressure halo ($\\vec{F}_{\\text{suction}} = 2.0G$ normal to ramp), overcoming gravity to climb inner wall to the top. |\n| **03 Inverted Ejection at Apex** | `1.35s – 1.75s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (parallel to ground)** | **$180^\\circ$ (wheels pointing up)** | Upon reaching top cantilever, nose has turned right (`▶`), wheels stick to roof facing up, dark roof faces down, ejecting horizontally parallel to ground! |\n| **04 High-Altitude Horizontal Roll** | `1.75s – 2.50s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level throughout)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | Fans stop upon leaving ramp; during upper half of parabolic drop, body stays level (Pitch $\\equiv 0^\\circ$), side nozzles fire opposingly to generate a force couple, rotating the solid car 180° along the horizontal longitudinal axis to right itself. |\n| **05 1m Horizontal Hover** | `2.50s – 2.95s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (wheels level down)** | Already righted in midair; ~1m off ground, wheels-down pose fires high-pressure cold thrusters downward ($\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$), briefly hovering horizontally with expanding 3D shockwave rings on ground. |\n| **06 4-Wheel Level Touchdown** | `2.95s – 3.40s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (all 4 wheels touch down simultaneously)** | Bottom reverse thrust tapers off gently, 4 wheels touch down softly at the same time, rolling out smoothly to the right. |\n\n---\n\n## 4. 3D Force Vector Visualization (Directly bound to car center of mass)\n\nRender three high-contrast 3D solid cone arrows (`THREE.ArrowHelper` / custom meshes) directly on the vehicle's center of mass:\n1. **Gravity $\\vec{F}_g$ (Pencil black, constantly pointing $-Y$)**: Always present across all stages as reference.\n2. **Vacuum Suction Force $\\vec{F}_{\\text{suction}}$ (Peacock cyan, normal to C-ramp surface)**: Active only during STAGES 01–03.\n3. **SpaceX Cold Gas Thrust $\\vec{F}_{\\text{thruster}}$ (Fluorescent orange-red)**:\n   - `STAGE 01–03`: Pushes along nose heading to accelerate;\n   - `STAGE 04`: Fires oppositely on left and right sides to form rotational torque arrows;\n   - `STAGE 05`: Blasts straight down from chassis, producing a thick vertical reverse thrust vector ($\\uparrow$) to visualize mid-air braking and hover.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Mid-session conversational adjustment prompt: author confirmed adjusting prompts during the run to make the track, car, and lighting resemble the reference video"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The attached video displays a side-by-side screen recording of the generated Three.js telemetry application. The bottom panel explicitly presents the output generated by Gemini 4 Argon, depicting the C-curve jump ramp, car trajectory stages, scrubber, and 3D simulation.",
+        "textualResultQuote": "反观Gemini 4 Argon，除了gemini网页端花费34min就制作出成品，汽车赛道比较完整外，汽车建模真的就很敷衍。"
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Video of the Tesla Roadster tested at the McGregor facility used as multimodal input for the models.",
+          "available": false,
+          "evidence": "我将Tesla Roadster视频分别喂给Deepseek V4.1 1017和Gemini 4 Argon",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering library executing procedural meshes, camera staging, and kinematic animations in a single HTML file.",
+          "evidence": "构建一个基于 Three.js的单文件交互式科学遥测网页",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Tesla Roadster Kinematics Telemetry 3D Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "Three.js",
+          "telemetry",
+          "3D simulation",
+          "Gemini 4",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Gemini 4 acts as an agentic code generator that analyzes the input video and writes the complete single-file Three.js interactive telemetry simulation HTML/JavaScript code.",
+      "outputSource": "Web browser executing the Three.js code synthesized by Gemini 4 Argon.",
+      "divisionEvidence": "Gemini generates the code while the browser and Three.js engine render the real-time 3D simulation: '构建一个基于 Three.js的单文件交互式科学遥测网页... 反观Gemini 4 Argon，除了gemini网页端花费34min就制作出成品'",
+      "video": {
+        "shots": null,
+        "duration": "19s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Gemini 4 video production case demonstrating an agentic generation of a Three.js interactive 3D physics and telemetry visualization with accompanying video proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/IFITALEX/status/2111441312323088473",
+        "start": 394,
+        "end": 4106
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/IFITALEX/status/2111441312323088473",
+        "author": "IFITALEX",
+        "postId": "2111441312323088473",
+        "publishedAt": "2026-10-17T12:56:52.000Z"
+      },
+      "checkedAt": "2026-10-18T04:31:48.190Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "The author prompted Gemini 4 Argon to generate a single-file Three.js interactive 3D scientific telemetry web application that reconstructs and simulates the Tesla and SpaceX Roadster trajectory at the McGregor facility.",
+    "summaryEn": "Tesla Roadster McGregor Flight Telemetry 3D Simulation",
+    "originalPrompt": "# Tesla Roadster (SpaceX Package) 运动轨迹 3D 仿真网页制作方案\n\n## 一、 核心生成提示词（Master Prompt 归纳版）\n\n> **角色与任务**：构建一个基于 **Three.js** 的单文件交互式科学遥测网页（Single-File HTML），完整模拟并拆解 2026.10.15 Tesla × SpaceX Roadster 在 McGregor 基地实测的**“C 型半圆弧倒置跳台发射 → 坡顶水平倒挂射出 → 空中水平 180° 桶滚 → 离地 1m 水平喷气悬停 → 四轮平稳着陆”**全过程运动轨迹，帮助用户直观、简洁地学习整套运动学过程。\n>\n> **设计风格（Archival Telemetry × Risograph）**：\n> - **基底质感**：1970 年代 NASA 档案级特种米白图纸（`#F3EDE0`）叠加 SVG 纸张纤维噪点与正交工程坐标网格。\n> - **四色孔版油墨（Risograph Inks）**：联邦档案蓝（`#004E98`，车身主色与跳台结构）、荧光橙红（`#FF432E`，SpaceX 冷气推进羽流、主动尾翼与受力矢量）、孔雀青（`#00916E`，底盘 2G 真空吸附负压场）、档案赭黄（`#D99414`，楔形车头前照灯与质心轨迹线）、铅黑（`#1B1D21`，粗边框、实体轮胎与卡通描边）。\n>\n> **3D 实体汽车建模要求（拒绝简陋线框）**：\n> - 主体汽车必须采用 **Three.js 程序化 3D 实体超跑模型（Solid 3D Coupe Mesh）**，严禁使用空心透明线框（Wireframe）。\n> - 使用 `THREE.Shape` + `THREE.ExtrudeGeometry`（带斜切倒角 Bevel）构建低趴楔形车头、流线型深色玻璃座舱、宽体前后轮拱、车尾高翘主动尾翼与四个独立自转的 3D 实体车轮。\n> - **正反面高对比分色**：车身上表面采用**联邦蓝 + 深墨色座舱顶**，底盘下表面采用**孔雀青涡扇区 + 荧光红喷口底板**，外加 `BackSide` 铅黑轮廓描边（Ink Outline），确保在 3D 空间翻转时一眼分清车头/车尾、车顶/车底。\n\n---\n\n## 二、 极简页面布局架构（Single-Stage Minimalist Layout）\n\n彻底砍掉右侧多画布侧边栏与繁杂参数表，采用 **“全画幅 3D 舞台 + 轻量化浮层讲义 + 底部六阶段时间轴”** 的极简三段式单屏布局（`100vh` 无滚动）：\n\n1. **顶部极简档案栏（Header, 46px）**\n   - 左侧：档案标题 `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` 与机密印章标签。\n   - 右侧：3D 视角一键切换按钮（`[默认微倾 3D 轴测]` / `[自由鼠标环绕 Orbit]` / `[车尾第一人称跟拍]`）+ `[蓝图暗房模式]`。\n\n2. **中央全画幅 3D 轨迹仿真舞台（Main 3D Viewport, 占屏幕 82% 面积）**\n   - **单一主视觉**：左侧为带钢桁架支撑的 3D 立体 **C 型半圆弧悬挑跳台（`⊂` 形）**，右侧为平抛空翻区、1m 水平悬停反推区与着陆跑道。\n   - **3D 实体频闪重影（3D Solid Strobe Ghosts）**：在轨迹的 6 个关键节点上，定格摆放半透明（Opacity 0.30）的 3D 实体跑车重影，一图看穿全过程姿态变化（可一键开关）。\n   - **右上角轻量化悬浮讲义卡（Floating Stage Card）**：仅用 **1 个标题 + 2 句精炼白话解析 + 3 个核心状态标（车头朝向 / 俯仰角 Pitch / 横滚角 Roll）** 实时说明当前阶段的运动原理。\n\n3. **底部六阶段交互时间轴（Footer Scrubber, 74px）**\n   - 上排：`[▶ 播放/暂停]`、`[0.25x 慢动作]`、`[3D 频闪重影开关]`、`[3D 受力矢量箭头开关]` + 连续时间拖拽滑块（`0.00s – 3.40s`）。\n   - 下排：**6 个阶段速学书签按钮**，点击任意阶段直接跳转并定格相机。\n\n---\n\n## 三、 核心运动轨迹与六阶段 3D 实体汽车姿态规范（100% 物理还原）\n\n全程运动在同一条连续时间轴 $t \\in [0.00\\text{s}, 3.40\\text{s}]$ 内完成，严格遵循以下空间坐标与刚体欧拉角：\n\n| 阶段编号与名称 | 时间区间 | 车头切向朝向 (Heading) | 车身俯仰 (Pitch $\\theta$) | 车身横滚 (Roll $\\phi$) | 3D 实体姿态与物理特效表现 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 地面加速切入** | `0.00s – 0.55s` | **严格朝左 (`◀`, $-X$)** | $0^\\circ$ (水平) | $0^\\circ$ (四轮朝下) | 跑车从右侧助跑道向左高速冲入 `⊂` 型坡底；车尾喷射 3D 荧光红锥形冷气羽流。 |\n| **02 2G 吸附爬坡** | `0.55s – 1.35s` | **沿弧切线顺时针调头**<br>(`◀` → `▲ 朝上` → `↗`) | 随圆弧切线旋转<br>($0^\\circ \\rightarrow 180^\\circ$) | 车轮锁死弧面 | 底盘开启孔雀青色 3D 负压吸附光环（$\\vec{F}_{\\text{suction}} = 2.0G$ 垂直压向坡面），克服重力沿内壁爬上坡顶。 |\n| **03 坡顶倒挂射出** | `1.35s – 1.75s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (平行地面)** | **$180^\\circ$ (四轮朝天)** | 爬至坡顶悬挑段时车头已调头朝右（`▶`），**四轮朝上贴顶、深色车顶朝下**，平行于地面水平射出坡顶边缘！ |\n| **04 高空水平横滚** | `1.75s – 2.50s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (全程水平不低头)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | 离坡后风扇关闭；在下落抛物线上半段**车身保持水平（Pitch $\\equiv 0^\\circ$）**，两侧冷气喷嘴一上一下喷射产生力偶，使 3D 实体车身绕水平纵轴完成 $180^\\circ$ 桶滚回正。 |\n| **05 离地 1m 水平悬停** | `2.50s – 2.95s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮水平朝下)** | **高空早已回正**；在离地约 $1\\text{m}$ 处，以四轮水平朝下的正向姿态触发底盘垂直向下猛喷高压冷气（$\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$），在半空呈现**短暂水平悬停**，地面扩散 3D 气浪环。 |\n| **06 四轮水平触地** | `2.95s – 3.40s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮同时落轮)** | 底部反推气流平缓衰减，四个实体车轮保持水平同时轻柔触地，向右平稳滑行收尾。 |\n\n---\n\n## 四、 3D 空间受力矢量可视化（直接绑定在主车质心）\n\n无需额外的侧边图表，直接在 3D 跑车质心上实时渲染三根高对比度 **3D 实体圆锥箭头（`THREE.ArrowHelper` / 自定义立体箭头）**：\n1. **重力 $\\vec{F}_g$（铅黑色，恒定垂直向下 $-Y$）**：全阶段常驻，作为受力参考基准。\n2. **真空风扇吸附力 $\\vec{F}_{\\text{suction}}$（孔雀青色，垂直指向 C 型坡面法向）**：仅在 `STAGE 01–03` 激活，直观解释为什么车子能吸在倒置天花板上。\n3. **SpaceX 冷气推力 $\\vec{F}_{\\text{thruster}}$（荧光橙红色）**：\n   - `STAGE 01–03`：沿车头方向推动加速；\n   - `STAGE 04`：车身左右两侧一上一下反向喷射，形成环绕车体的旋转力偶箭头；\n   - `STAGE 05`：底盘向下猛喷，产生粗壮的**垂直向上反推升力箭头（$\\uparrow$）**，直观呈现空中水平刹停悬停。",
+    "sourceRange": {
+      "start": 394,
+      "end": 4106
+    },
+    "translations": {
+      "zh": "# Tesla Roadster (SpaceX Package) 运动轨迹 3D 仿真网页制作方案\n\n## 一、 核心生成提示词（Master Prompt 归纳版）\n\n> **角色与任务**：构建一个基于 **Three.js** 的单文件交互式科学遥测网页（Single-File HTML），完整模拟并拆解 2026.10.15 Tesla × SpaceX Roadster 在 McGregor 基地实测的**“C 型半圆弧倒置跳台发射 → 坡顶水平倒挂射出 → 空中水平 180° 桶滚 → 离地 1m 水平喷气悬停 → 四轮平稳着陆”**全过程运动轨迹，帮助用户直观、简洁地学习整套运动学过程。\n>\n> **设计风格（Archival Telemetry × Risograph）**：\n> - **基底质感**：1970 年代 NASA 档案级特种米白图纸（`#F3EDE0`）叠加 SVG 纸张纤维噪点与正交工程坐标网格。\n> - **四色孔版油墨（Risograph Inks）**：联邦档案蓝（`#004E98`，车身主色与跳台结构）、荧光橙红（`#FF432E`，SpaceX 冷气推进羽流、主动尾翼与受力矢量）、孔雀青（`#00916E`，底盘 2G 真空吸附负压场）、档案赭黄（`#D99414`，楔形车头前照灯与质心轨迹线）、铅黑（`#1B1D21`，粗边框、实体轮胎与卡通描边）。\n>\n> **3D 实体汽车建模要求（拒绝简陋线框）**：\n> - 主体汽车必须采用 **Three.js 程序化 3D 实体超跑模型（Solid 3D Coupe Mesh）**，严禁使用空心透明线框（Wireframe）。\n> - 使用 `THREE.Shape` + `THREE.ExtrudeGeometry`（带斜切倒角 Bevel）构建低趴楔形车头、流线型深色玻璃座舱、宽体前后轮拱、车尾高翘主动尾翼与四个独立自转的 3D 实体车轮。\n> - **正反面高对比分色**：车身上表面采用**联邦蓝 + 深墨色座舱顶**，底盘下表面采用**孔雀青涡扇区 + 荧光红喷口底板**，外加 `BackSide` 铅黑轮廓描边（Ink Outline），确保在 3D 空间翻转时一眼分清车头/车尾、车顶/车底。\n\n---\n\n## 二、 极简页面布局架构（Single-Stage Minimalist Layout）\n\n彻底砍掉右侧多画布侧边栏与繁杂参数表，采用 **“全画幅 3D 舞台 + 轻量化浮层讲义 + 底部六阶段时间轴”** 的极简三段式单屏布局（`100vh` 无滚动）：\n\n1. **顶部极简档案栏（Header, 46px）**\n   - 左侧：档案标题 `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` 与机密印章标签。\n   - 右侧：3D 视角一键切换按钮（`[默认微倾 3D 轴测]` / `[自由鼠标环绕 Orbit]` / `[车尾第一人称跟拍]`）+ `[蓝图暗房模式]`。\n\n2. **中央全画幅 3D 轨迹仿真舞台（Main 3D Viewport, 占屏幕 82% 面积）**\n   - **单一主视觉**：左侧为带钢桁架支撑的 3D 立体 **C 型半圆弧悬挑跳台（`⊂` 形）**，右侧为平抛空翻区、1m 水平悬停反推区与着陆跑道。\n   - **3D 实体频闪重影（3D Solid Strobe Ghosts）**：在轨迹的 6 个关键节点上，定格摆放半透明（Opacity 0.30）的 3D 实体跑车重影，一图看穿全过程姿态变化（可一键开关）。\n   - **右上角轻量化悬浮讲义卡（Floating Stage Card）**：仅用 **1 个标题 + 2 句精炼白话解析 + 3 个核心状态标（车头朝向 / 俯仰角 Pitch / 横滚角 Roll）** 实时说明当前阶段的运动原理。\n\n3. **底部六阶段交互时间轴（Footer Scrubber, 74px）**\n   - 上排：`[▶ 播放/暂停]`、`[0.25x 慢动作]`、`[3D 频闪重影开关]`、`[3D 受力矢量箭头开关]` + 连续时间拖拽滑块（`0.00s – 3.40s`）。\n   - 下排：**6 个阶段速学书签按钮**，点击任意阶段直接跳转并定格相机。\n\n---\n\n## 三、 核心运动轨迹与六阶段 3D 实体汽车姿态规范（100% 物理还原）\n\n全程运动在同一条连续时间轴 $t \\in [0.00\\text{s}, 3.40\\text{s}]$ 内完成，严格遵循以下空间坐标与刚体欧拉角：\n\n| 阶段编号与名称 | 时间区间 | 车头切向朝向 (Heading) | 车身俯仰 (Pitch $\\theta$) | 车身横滚 (Roll $\\phi$) | 3D 实体姿态与物理特效表现 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 地面加速切入** | `0.00s – 0.55s` | **严格朝左 (`◀`, $-X$)** | $0^\\circ$ (水平) | $0^\\circ$ (四轮朝下) | 跑车从右侧助跑道向左高速冲入 `⊂` 型坡底；车尾喷射 3D 荧光红锥形冷气羽流。 |\n| **02 2G 吸附爬坡** | `0.55s – 1.35s` | **沿弧切线顺时针调头**<br>(`◀` → `▲ 朝上` → `↗`) | 随圆弧切线旋转<br>($0^\\circ \\rightarrow 180^\\circ$) | 车轮锁死弧面 | 底盘开启孔雀青色 3D 负压吸附光环（$\\vec{F}_{\\text{suction}} = 2.0G$ 垂直压向坡面），克服重力沿内壁爬上坡顶。 |\n| **03 坡顶倒挂射出** | `1.35s – 1.75s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (平行地面)** | **$180^\\circ$ (四轮朝天)** | 爬至坡顶悬挑段时车头已调头朝右（`▶`），**四轮朝上贴顶、深色车顶朝下**，平行于地面水平射出坡顶边缘！ |\n| **04 高空水平横滚** | `1.75s – 2.50s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (全程水平不低头)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | 离坡后风扇关闭；在下落抛物线上半段**车身保持水平（Pitch $\\equiv 0^\\circ$）**，两侧冷气喷嘴一上一下喷射产生力偶，使 3D 实体车身绕水平纵轴完成 $180^\\circ$ 桶滚回正。 |\n| **05 离地 1m 水平悬停** | `2.50s – 2.95s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮水平朝下)** | **高空早已回正**；在离地约 $1\\text{m}$ 处，以四轮水平朝下的正向姿态触发底盘垂直向下猛喷高压冷气（$\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$），在半空呈现**短暂水平悬停**，地面扩散 3D 气浪环。 |\n| **06 四轮水平触地** | `2.95s – 3.40s` | **严格朝右 (`▶`, $+X$)** | **$0^\\circ$ (严格水平)** | **$0^\\circ$ (四轮同时落轮)** | 底部反推气流平缓衰减，四个实体车轮保持水平同时轻柔触地，向右平稳滑行收尾。 |\n\n---\n\n## 四、 3D 空间受力矢量可视化（直接绑定在主车质心）\n\n无需额外的侧边图表，直接在 3D 跑车质心上实时渲染三根高对比度 **3D 实体圆锥箭头（`THREE.ArrowHelper` / 自定义立体箭头）**：\n1. **重力 $\\vec{F}_g$（铅黑色，恒定垂直向下 $-Y$）**：全阶段常驻，作为受力参考基准。\n2. **真空风扇吸附力 $\\vec{F}_{\\text{suction}}$（孔雀青色，垂直指向 C 型坡面法向）**：仅在 `STAGE 01–03` 激活，直观解释为什么车子能吸在倒置天花板上。\n3. **SpaceX 冷气推力 $\\vec{F}_{\\text{thruster}}$（荧光橙红色）**：\n   - `STAGE 01–03`：沿车头方向推动加速；\n   - `STAGE 04`：车身左右两侧一上一下反向喷射，形成环绕车体的旋转力偶箭头；\n   - `STAGE 05`：底盘向下猛喷，产生粗壮的**垂直向上反推升力箭头（$\\uparrow$）**，直观呈现空中水平刹停悬停。",
+      "en": "# Tesla Roadster (SpaceX Package) Trajectory 3D Simulation Webpage Production Specification\n\n## 1. Core Generation Prompt (Master Prompt Summary Edition)\n\n> **Role & Task**: Build a Three.js-based single-file interactive scientific telemetry web page (Single-File HTML) to fully simulate and break down the complete kinematics trajectory of the Tesla × SpaceX Roadster tested on 2026.10.15 at the McGregor facility: \"C-shaped inverted jump ramp launch → horizontal inverted ejection at top of slope → mid-air horizontal 180° barrel roll → horizontal jet hover 1m above ground → stable 4-wheel landing\", helping users understand the full kinematics process cleanly and intuitively.\n>\n> **Design Style (Archival Telemetry × Risograph)**:\n> - **Base Texture**: 1970s NASA archival grade specialty cream blueprint paper (`#F3EDE0`) layered with SVG paper fiber noise and orthogonal engineering coordinate grid.\n> - **Risograph Inks**: Federal Archival Blue (`#004E98`, main car body & ramp structure), Fluorescent Orange-Red (`#FF432E`, SpaceX cold gas thruster plume, active rear wing, force vectors), Peacock Cyan (`#00916E`, chassis 2G vacuum suction negative pressure field), Archival Ochre (`#D99414`, wedge nose headlights & center-of-mass trajectory line), Pencil Black (`#1B1D21`, thick borders, solid tires & cartoon outlines).\n>\n> **3D Solid Vehicle Modeling Requirements (Reject crude wireframes)**:\n> - Main car must use a Three.js procedural 3D solid supercar model (Solid 3D Coupe Mesh); hollow transparent wireframes are strictly prohibited.\n> - Use `THREE.Shape` + `THREE.ExtrudeGeometry` (with bevels) to construct the low-slung wedge front, aerodynamic tinted glass cockpit, widebody wheel arches, high kicktail active spoiler, and 4 independently spinning 3D solid wheels.\n> - **High-contrast front/back two-tone palette**: Upper body in Federal Blue + dark ink cockpit roof, chassis underside in Peacock Cyan fan zone + fluorescent red thruster plate, plus `BackSide` pencil black ink outline, ensuring car front/rear and top/bottom are immediately distinguishable during 3D rotation.\n\n---\n\n## 2. Minimalist Layout Architecture (Single-Stage Minimalist Layout)\n\nEliminate right-side multi-canvas sidebars and cumbersome parameter tables; adopt a single-screen three-stage layout with no scrolling (`100vh`):\n\n1. **Top Minimal Archival Header (46px)**\n   - Left: Archival title `TSLA × SPACEX ROADSTER // FLIGHT TELEMETRY` and confidential stamp label.\n   - Right: 3D viewpoint switcher buttons (`[Default slight tilt isometric]` / `[Free mouse Orbit]` / `[Rear-view chase camera]`) + `[Blueprint Darkroom Mode]`.\n\n2. **Central Full-Viewport 3D Trajectory Simulation Stage (Main 3D Viewport, 82% screen area)**\n   - **Single Main Visual**: On the left, a 3D C-shaped cantilever jump ramp (`⊂`-shaped) supported by steel trusses; on the right, the free-flight flip zone, 1m horizontal hover deceleration zone, and landing runway.\n   - **3D Solid Strobe Ghosts**: At 6 key nodes along the trajectory, place static semi-transparent (opacity 0.30) 3D solid supercar ghost meshes to view the complete pose change at a glance (toggleable).\n   - **Top-right lightweight floating explainer card (Floating Stage Card)**: Only 1 title + 2 concise plain-language sentences + 3 core status indicators (heading / pitch / roll) to explain the kinematic principle of the current stage in real time.\n\n3. **Bottom 6-Stage Interactive Timeline Scrubber (74px)**\n   - Top row: `[▶ Play/Pause]`, `[0.25x Slow-mo]`, `[3D Strobe Ghost Toggle]`, `[3D Force Vector Toggle]` + continuous scrubber slider (`0.00s – 3.40s`).\n   - Bottom row: 6 stage bookmark buttons to jump and freeze camera directly.\n\n---\n\n## 3. Core Trajectory & 6-Stage 3D Solid Vehicle Pose Specification (100% Physical Replication)\n\nThe complete motion runs along a continuous timeline $t \\in [0.00\\text{s}, 3.40\\text{s}]$, strictly following the spatial coordinates and rigid-body Euler angles below:\n\n| Stage & Name | Time Interval | Heading | Pitch $\\theta$ | Roll $\\phi$ | 3D Solid Pose & Physical VFX |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **01 Ground Acceleration Entry** | `0.00s – 0.55s` | **Strictly Left (`◀`, $-X$)** | $0^\\circ$ (horizontal) | $0^\\circ$ (wheels down) | Supercar charges from the right runway into the bottom of the `⊂` ramp at high speed; rear shoots 3D fluorescent red conical cold gas plume. |\n| **02 2G Suction Climb** | `0.55s – 1.35s` | **Clockwise turn along curve tangent**<br>(`◀` → `▲ upward` → `↗`) | Rotates with curve tangent<br>($0^\\circ \\rightarrow 180^\\circ$) | Wheels lock to curve | Underside activates Peacock Cyan 3D negative pressure halo ($\\vec{F}_{\\text{suction}} = 2.0G$ normal to ramp), overcoming gravity to climb inner wall to the top. |\n| **03 Inverted Ejection at Apex** | `1.35s – 1.75s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (parallel to ground)** | **$180^\\circ$ (wheels pointing up)** | Upon reaching top cantilever, nose has turned right (`▶`), wheels stick to roof facing up, dark roof faces down, ejecting horizontally parallel to ground! |\n| **04 High-Altitude Horizontal Roll** | `1.75s – 2.50s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level throughout)** | **$180^\\circ \\rightarrow 90^\\circ \\rightarrow 0^\\circ$** | Fans stop upon leaving ramp; during upper half of parabolic drop, body stays level (Pitch $\\equiv 0^\\circ$), side nozzles fire opposingly to generate a force couple, rotating the solid car 180° along the horizontal longitudinal axis to right itself. |\n| **05 1m Horizontal Hover** | `2.50s – 2.95s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (wheels level down)** | Already righted in midair; ~1m off ground, wheels-down pose fires high-pressure cold thrusters downward ($\\vec{F}_{\\text{thruster}} \\uparrow \\gg mg$), briefly hovering horizontally with expanding 3D shockwave rings on ground. |\n| **06 4-Wheel Level Touchdown** | `2.95s – 3.40s` | **Strictly Right (`▶`, $+X$)** | **$0^\\circ$ (strictly level)** | **$0^\\circ$ (all 4 wheels touch down simultaneously)** | Bottom reverse thrust tapers off gently, 4 wheels touch down softly at the same time, rolling out smoothly to the right. |\n\n---\n\n## 4. 3D Force Vector Visualization (Directly bound to car center of mass)\n\nRender three high-contrast 3D solid cone arrows (`THREE.ArrowHelper` / custom meshes) directly on the vehicle's center of mass:\n1. **Gravity $\\vec{F}_g$ (Pencil black, constantly pointing $-Y$)**: Always present across all stages as reference.\n2. **Vacuum Suction Force $\\vec{F}_{\\text{suction}}$ (Peacock cyan, normal to C-ramp surface)**: Active only during STAGES 01–03.\n3. **SpaceX Cold Gas Thrust $\\vec{F}_{\\text{thruster}}$ (Fluorescent orange-red)**:\n   - `STAGE 01–03`: Pushes along nose heading to accelerate;\n   - `STAGE 04`: Fires oppositely on left and right sides to form rotational torque arrows;\n   - `STAGE 05`: Blasts straight down from chassis, producing a thick vertical reverse thrust vector ($\\uparrow$) to visualize mid-air braking and hover."
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tesla Roadster Kinematics Telemetry 3D Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Mid-session conversational adjustment prompt: author confirmed adjusting prompts during the run to make the track, car, and lighting resemble the reference video"
+      ],
+      "evidence": "The attached video displays a side-by-side screen recording of the generated Three.js telemetry application. The bottom panel explicitly presents the output generated by Gemini 4 Argon, depicting the C-curve jump ramp, car trajectory stages, scrubber, and 3D simulation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

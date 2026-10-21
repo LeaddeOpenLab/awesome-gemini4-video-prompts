@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-21T04:12:20.915Z",
+  "model": "gemini4",
+  "prompt": "時計を 3D を Three.js で 作って",
+  "promptTranslations": {
+    "en": "Make a 3D watch in Three.js"
+  },
+  "summary": "Author requested a 3D watch in Three.js from Gemini 4 Argon (High), producing an interactive 3D Tourbillon watch simulation with an exploded view.",
+  "summaryEn": "Interactive 3D Grand Complication Tourbillon in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111329085565911169",
+    "canonicalUrl": "https://x.com/eiichi292929/status/2111329085565911169",
+    "author": {
+      "username": "eiichi292929",
+      "displayName": "H | Arikawa",
+      "profileUrl": "https://x.com/eiichi292929"
+    },
+    "publishedAt": "2026-10-17T05:30:55.000Z",
+    "collectedAt": "2026-10-18T04:19:00.734Z",
+    "language": "ja",
+    "originalText": "Gemini 4 Argon (High)  \n時計を 3D を Three.js で 作って と 頼んだけでコレ https://t.co/N0oMYYN0ri",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/eiichi292929/status/2111329085565911169",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111328820980842497/img/mRgX9nuJNsKzaW0F.jpg",
+        "analysisUrl": "https://x.com/eiichi292929/status/2111329085565911169"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 68
+    },
+    "matchedRuleIds": [
+      "group:gemini:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/eiichi292929/status/2111329085565911169",
+        "text": "H | Arikawa on X: \"Gemini 4 Argon (High)  \n時計を 3D を Three.js で 作って と 頼んだけでコレ\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nH | Arikawa on X: \"Gemini 4 Argon (High)  \n時計を 3D を Three.js で 作って と 頼んだけでコレ\"\n\n\n\nH | Arikawa\n\n@eiichi292929\n\n\n\n\nShow translation\nGemini 4 Argon (High)  \n時計を 3D を Three.js で 作って と 頼んだけでコレ\n\n\n00:00\n\n\n\n\n\n\n\n\n5:30 AM · Oct 17, 2026·68\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nH | Arikawa@eiichi292929Follow\nフルスタックエンジニア25年目|FE: Angular / Next.js|BE: Spring / Python|DB: PostgreSQL / MySQL|IaC: CDK / Terraform|AI:Claude/OpenAI\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nH | Arikawa\n\n@eiichi292929\n\n\n\n\nShow translation\nGemini 4 Argon (High)  \n時計を 3D を Three.js で 作って と 頼んだけでコレ\n\n\n00:00\n\n\n\n\n\n\n\n\n5:30 AM · Oct 17, 2026·68\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "eiichi292929"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/eiichi292929/status/2111329085565911169",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111328820980842497/img/mRgX9nuJNsKzaW0F.jpg",
+  "coverPath": "covers/2111329085565911169.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111328820980842497",
+    "x-post:2111329085565911169"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "gemini",
+      "title": "Interactive 3D Grand Complication Tourbillon in Three.js",
+      "summary": "Author requested a 3D watch in Three.js from Gemini 4 Argon (High), producing an interactive 3D Tourbillon watch simulation with an exploded view.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Gemini 4",
+        "version": "4",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon (High) 時計を 3D を Three.js で 作って と 頼んだけでコレ"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "時計を 3D を Three.js で 作って",
+        "englishText": "Make a 3D watch in Three.js",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full initial system prompt or complete instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays an interactive 3D Grand Complication Tourbillon watch rendered with Three.js, featuring controls for camera, exploded layers, and lighting.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D scene renderer and interactive browser canvas engine",
+          "evidence": "時計を 3D を Three.js で 作って と 頼んだけでコレ",
+          "sourceUrl": "https://x.com/eiichi292929/status/2111329085565911169",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Tourbillon Watch Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "3d-scenes",
+          "interactive",
+          "watch",
+          "gemini-4"
+        ]
+      },
+      "targetModelRole": "Gemini 4 generated the Three.js script and interactive watch mechanics code.",
+      "outputSource": "Three.js web canvas execution in browser",
+      "divisionEvidence": "Author asked Gemini 4 to create the watch in Three.js, and recorded the resulting interactive Three.js web application.",
+      "video": {
+        "shots": "1 shot",
+        "duration": "16s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Valid Gemini 4 interactive 3D canvas production case accompanied by verified screen recording demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/eiichi292929/status/2111329085565911169",
+        "start": 24,
+        "end": 47
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/eiichi292929/status/2111329085565911169",
+        "author": "eiichi292929",
+        "postId": "2111329085565911169",
+        "publishedAt": "2026-10-17T05:30:55.000Z"
+      },
+      "checkedAt": "2026-10-18T04:38:12.891Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Author requested a 3D watch in Three.js from Gemini 4 Argon (High), producing an interactive 3D Tourbillon watch simulation with an exploded view.",
+    "summaryEn": "Interactive 3D Grand Complication Tourbillon in Three.js",
+    "originalPrompt": "時計を 3D を Three.js で 作って",
+    "sourceRange": {
+      "start": 24,
+      "end": 47
+    },
+    "translations": {
+      "zh": "時計を 3D を Three.js で 作って",
+      "en": "Make a 3D watch in Three.js"
+    },
+    "targetModels": [
+      "gemini4"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Tourbillon Watch Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full initial system prompt or complete instructions"
+      ],
+      "evidence": "The video displays an interactive 3D Grand Complication Tourbillon watch rendered with Three.js, featuring controls for camera, exploded layers, and lighting."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
